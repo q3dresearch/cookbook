@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="752" viewBox="0 0 980 752" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'>
+<rect width="980" height="752" fill="#fcfcfb"/>
+<text x="36" y="42" font-size="20" font-weight="600" fill="#0b0b0b">Ninety-nine articles. Three of them are the game.</text>
+<text x="36" y="68" font-size="13.5" fill="#52514e">Share of 3,361 published GDPR decisions citing each article (GDPRhub, the whole corpus, not a sample). The decision this</text>
+<text x="36" y="87" font-size="13.5" fill="#52514e">supports: what to get right first, if you are building something and have not read the regulation.</text>
+<text x="36" y="150" font-size="11.5" fill="#8a8880">share of all decisions citing the article</text>
+<text x="286" y="185" font-size="13.5" font-weight="600" fill="#0b0b0b" text-anchor="end">Article 5</text>
+<text x="286" y="201" font-size="11" fill="#8a8880" text-anchor="end">principles of processing</text>
+<rect x="300" y="172" width="530.0" height="26" rx="3.5" fill="#2361b0"/>
+<text x="841.0" y="190" font-size="13" font-weight="600" fill="#0b0b0b">46%</text>
+<text x="286" y="228" font-size="13.5" font-weight="600" fill="#0b0b0b" text-anchor="end">Article 6</text>
+<text x="286" y="244" font-size="11" fill="#8a8880" text-anchor="end">lawfulness of processing</text>
+<rect x="300" y="215" width="396.5" height="26" rx="3.5" fill="#2361b0"/>
+<text x="707.5" y="233" font-size="13" font-weight="600" fill="#0b0b0b">34%</text>
+<text x="286" y="271" font-size="13.5" font-weight="600" fill="#0b0b0b" text-anchor="end">Article 32</text>
+<text x="286" y="287" font-size="11" fill="#8a8880" text-anchor="end">security of processing</text>
+<rect x="300" y="258" width="235.1" height="26" rx="3.5" fill="#2361b0"/>
+<text x="546.1" y="276" font-size="13" font-weight="600" fill="#0b0b0b">20%</text>
+<text x="286" y="314" font-size="13.5" font-weight="400" fill="#52514e" text-anchor="end">Article 12</text>
+<text x="286" y="330" font-size="11" fill="#8a8880" text-anchor="end">transparent information</text>
+<rect x="300" y="301" width="220.9" height="26" rx="3.5" fill="#c9c8c0"/>
+<text x="531.9" y="319" font-size="13" font-weight="400" fill="#0b0b0b">19%</text>
+<text x="286" y="357" font-size="13.5" font-weight="400" fill="#52514e" text-anchor="end">Article 13</text>
+<text x="286" y="373" font-size="11" fill="#8a8880" text-anchor="end">information to be provided</text>
+<rect x="300" y="344" width="176.7" height="26" rx="3.5" fill="#c9c8c0"/>
+<text x="487.7" y="362" font-size="13" font-weight="400" fill="#0b0b0b">15%</text>
+<text x="286" y="400" font-size="13.5" font-weight="400" fill="#52514e" text-anchor="end">Article 15</text>
+<text x="286" y="416" font-size="11" fill="#8a8880" text-anchor="end">right of access</text>
+<rect x="300" y="387" width="145.9" height="26" rx="3.5" fill="#c9c8c0"/>
+<text x="456.9" y="405" font-size="13" font-weight="400" fill="#0b0b0b">13%</text>
+<text x="286" y="443" font-size="13.5" font-weight="400" fill="#52514e" text-anchor="end">Article 9</text>
+<text x="286" y="459" font-size="11" fill="#8a8880" text-anchor="end">special categories of data</text>
+<rect x="300" y="430" width="108.9" height="26" rx="3.5" fill="#c9c8c0"/>
+<text x="419.9" y="448" font-size="13" font-weight="400" fill="#0b0b0b">9%</text>
+<text x="286" y="486" font-size="13.5" font-weight="400" fill="#52514e" text-anchor="end">Article 17</text>
+<text x="286" y="502" font-size="11" fill="#8a8880" text-anchor="end">right to erasure</text>
+<rect x="300" y="473" width="101.3" height="26" rx="3.5" fill="#c9c8c0"/>
+<text x="412.3" y="491" font-size="13" font-weight="400" fill="#0b0b0b">9%</text>
+<text x="286" y="529" font-size="13.5" font-weight="400" fill="#52514e" text-anchor="end">Article 25</text>
+<text x="286" y="545" font-size="11" fill="#8a8880" text-anchor="end">data protection by design</text>
+<rect x="300" y="516" width="88.2" height="26" rx="3.5" fill="#c9c8c0"/>
+<text x="399.2" y="534" font-size="13" font-weight="400" fill="#0b0b0b">8%</text>
+<text x="286" y="572" font-size="13.5" font-weight="400" fill="#52514e" text-anchor="end">Article 24</text>
+<text x="286" y="588" font-size="11" fill="#8a8880" text-anchor="end">controller duty</text>
+<rect x="300" y="559" width="81.6" height="26" rx="3.5" fill="#c9c8c0"/>
+<text x="392.6" y="577" font-size="13" font-weight="400" fill="#0b0b0b">7%</text>
+<line x1="36" y1="606" x2="944" y2="606" stroke="#e3e2db"/>
+<text x="36" y="628" font-size="13" fill="#52514e">Articles 5, 6 and 32 &#8212; <tspan font-weight="600" fill="#0b0b0b">have a lawful basis, collect only what you need, and secure it</tspan> &#8212; are 44% of all enforced citations.</text>
+<text x="36" y="649" font-size="13" fill="#52514e">The remaining 55 cited articles share the rest. The regulation&#8217;s surface area is far larger than its enforced surface area.</text>
+<text x="36" y="680" font-size="11.5" fill="#8a8880">Excluded as scaffolding &#8212; cited, but a controller cannot breach them: Art 1, Art 2, Art 3, Art 4, Art 51, Art 52, Art 53, Art 54, Art 55, Art 56, Art 57, Art 58, Art 59, Art 60, Art 61, Art 62, Art 63, Art 64, Art 65, Art 66, Art 67, Art 68, Art 69, Art 70, Art 71, Art 72, Art 73, Art 74, Art 75, Art 76, Art 77, Art 78, Art 79, Art 80, Art 83. You are fined under Art 83, not for it.</text>
+<text x="36" y="698" font-size="11.5" fill="#8a8880">Jurisdiction mix reflects which authorities publish, not where breaches happen, and there is no denominator to normalise it. Citation is not a finding of breach.</text>
+<text x="36" y="716" font-size="11.5" fill="#8a8880">Source and method: github.com/q3dresearch/cookbook &#183; recipes/gdpr-enforced-articles</text>
+</svg>

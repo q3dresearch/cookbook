@@ -1,0 +1,147 @@
+{
+  "method_version": "2.1.0",
+  "_method_version": "2.0.0 is a MAJOR bump and revises the 1.x headline twice over. 1.x ran on a systematic 1-in-3 sample of 1,459 decisions and reported that two articles were 41% of enforced citations. On the full population of 3,361 the same measure is 35%, the tail is 53 articles rather than 22, and Article 32 doubles from 10% to 20% of decisions \u2014 the sample materially overstated concentration. 1.x also asserted that GDPRhub carries no fine amount and that Party_Name is empty; both are wrong, 71% of decisions carry a fine and 63% name a party. Rows written under 1.x are not comparable and are kept, not deleted. 2.1.0 adds two controls that were open questions: the Article 6 premium survives holding authority and case type fixed, and the slowdown survives a fixed authority panel (+72%, against +41% unadjusted).",
+  "retrieved": "2026-09-10",
+  "source": {
+    "name": "GDPRhub",
+    "publisher": "noyb",
+    "api": "https://gdprhub.eu/api.php",
+    "robots": "Allow: / (checked 2026-09-09)",
+    "pages_enumerated": 6871,
+    "_pages_enumerated": "Page list enumerated 2026-09-07; content fetched 2026-09-09/10. 3,510 of these pages are not decisions (categories, templates, help) and parse to nothing.",
+    "decisions_parsed": 3361
+  },
+  "corpus": {
+    "file": "gdprhub-2026-09-10.jsonl",
+    "bytes": 7115489,
+    "sha256": "419bc50b4ad425f960154219c7ae1f76c3654aa5bb738fadba02cd7b0b606f15",
+    "_note": "Not committed. Reproduce with fetch-gdprhub.py; the wiki is edited continuously, so a later fetch will differ."
+  },
+  "headline": {
+    "decisions": 3361,
+    "jurisdictions": 33,
+    "decision_years": "2013-2026",
+    "distinct_articles_cited": 80,
+    "decisions_citing_no_article": 162,
+    "share_citing_art5": 0.456,
+    "share_citing_art6": 0.341,
+    "share_citing_art32": 0.202,
+    "top2_share_of_enforced_citations": 0.35,
+    "top5_share_of_enforced_citations": 0.59,
+    "tail_articles": 53,
+    "tail_share": 0.41,
+    "scaffolding_citations_excluded": 1420,
+    "share_citing_more_than_one_article": 0.69,
+    "compound": {
+      "_what": "median euro fine when an article is cited alone, versus with two or more others",
+      "art13": [
+        3000,
+        70000
+      ],
+      "art21": [
+        6000,
+        70000
+      ],
+      "art32": [
+        11000,
+        82500
+      ],
+      "art15": [
+        5000,
+        35000
+      ],
+      "art5": [
+        10000,
+        42000
+      ],
+      "art28": [
+        68000,
+        177500
+      ],
+      "art6": [
+        45000,
+        40000
+      ]
+    },
+    "outcomes": {
+      "reached_a_finding": 3037,
+      "share_finding_a_violation": 0.9
+    },
+    "lead_time_days": {
+      "decisions_with_both_dates": 849,
+      "coverage": 0.25,
+      "median": 487,
+      "q1": 245,
+      "q3": 840,
+      "share_over_two_years": 0.31,
+      "by_year_decided": {
+        "2022": 384,
+        "2023": 465,
+        "2024": 551,
+        "2025": 542,
+        "2026_partial": 606
+      },
+      "with_a_fine": 577,
+      "without_a_fine": 408,
+      "fastest_authority": [
+        "Hungary",
+        326
+      ],
+      "slowest_authority": [
+        "France",
+        843
+      ],
+      "fixed_panel": {
+        "_what": "authorities with dated decisions in every year of the window",
+        "authorities": [
+          "Belgium",
+          "Italy",
+          "Spain"
+        ],
+        "by_year": {
+          "2022": 330,
+          "2023": 405,
+          "2024": 493,
+          "2025": 567,
+          "2026_partial": 666
+        },
+        "change_2022_2025": 0.72,
+        "all_authorities_change_2022_2025": 0.41
+      }
+    },
+    "parties": {
+      "decisions_naming_one": 2133,
+      "pseudonymised_individuals": 186,
+      "distinct_organisations_after_folding": 1678,
+      "repeat_organisations": 122,
+      "share_of_named_decisions_against_a_repeat": 0.2
+    },
+    "fines_eur": {
+      "parsed": 1408,
+      "median": 20000,
+      "p75": 120000,
+      "p90": 1000000,
+      "max": 1225060100,
+      "share_at_least_1m": 0.105
+    },
+    "art6_premium_controlled": {
+      "_what": "single-article decisions, Spain, complaint type only \u2014 controls authority and case type",
+      "art6_median_eur": 50000,
+      "art6_n": 103,
+      "art5_median_eur": 5000,
+      "art5_n": 65
+    },
+    "art60_share_by_year": {
+      "2022": 0.038,
+      "2023": 0.053,
+      "2024": 0.009,
+      "2025": 0.004,
+      "2026": 0.007
+    }
+  },
+  "not_answerable": {
+    "company_killing": "GDPRhub records no revenue, employee count or company identifier, so severity relative to the company cannot be measured and the 4%-of-turnover cap cannot be checked.",
+    "appeal_rate": "Only 12% of decisions record a real Appeal_To_Status; the rest are blank or Unknown.",
+    "what_is_not_prosecuted": "The corpus is decisions authorities chose to publish. Cases that closed quietly are invisible, so non-enforcement cannot be read off it."
+  }
+}

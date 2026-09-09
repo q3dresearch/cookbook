@@ -1,0 +1,174 @@
+{
+  "method_version": "1.4.0",
+  "_method_version": "1.4.0 exhausts the build sequence. The fifth trap was corrected: the citywide window extension is almost entirely the police department (55 to 139 days), while the fire department holds 31% of the backlog and never moved its deadline - two failure modes needing different remedies, and an instance of this recipe's own third trap applied to its own finding. Adds the backlog concentration (two agencies, 92%), its age (median 393 days past due), a New Orleans negative control, and a channel effect that survives holding the agency fixed. 1.3.0 adds a fifth trap, found by working the build sequence rather than the data: step 8 asks whether any open question would change the decision, and 'do agencies extend the clock rather than answer faster' would. It does. New York's median allowed window went from 53 days in 2018 to 136 in 2025 while median days taken went 29 to 28, so the on-time rate rose on the deadline alone. This undercuts every compliance measure here including the corrected one, and points the same way: compliance fell from 81% to 56% while the window was being extended. 1.2.0 retains the publisher's case number, which the harvester had been discarding. Running the build sequence against this recipe surfaced it: step 5 asks what the business key is, and there was none, so the only longitudinal question the recipe asks - what becomes of requests never closed - could not be answered while a history.csv sat beside it claiming to support exactly that. The key is the pair (jurisdiction, request_id): ids are unique within a publisher and 107 collide across publishers. No headline number changed. 1.1.0 makes the recipe self-contained and re-derivable. The numbers are unchanged \u2014 they reproduce exactly on a fresh harvest \u2014 but three of the four scripts could not run: they imported a shared svgkit from a directory an earlier restructure deleted, and wrote charts to a path that no longer existed. svgkit is now vendored beside the scripts, input and output paths are arguments, and a pre-publication check fails any recipe whose scripts cannot import.",
+  "retrieved": "2026-09-10",
+  "sources": [
+    {
+      "jurisdiction": "new-york-city",
+      "domain": "data.cityofnewyork.us",
+      "dataset": "kegn-anvq",
+      "rows": 641517,
+      "has_due_date": true,
+      "names_requester": false
+    },
+    {
+      "jurisdiction": "vermont",
+      "domain": "data.vermont.gov",
+      "dataset": "476u-uxxa",
+      "rows": 31651,
+      "has_due_date": false,
+      "names_requester": true
+    },
+    {
+      "jurisdiction": "vermont-pre2020",
+      "domain": "data.vermont.gov",
+      "dataset": "fwxs-ckd2",
+      "rows": 27651,
+      "has_due_date": false,
+      "names_requester": true
+    },
+    {
+      "jurisdiction": "oregon-deq",
+      "domain": "data.oregon.gov",
+      "dataset": "r59j-htxm",
+      "rows": 19124,
+      "has_due_date": false,
+      "names_requester": true
+    },
+    {
+      "jurisdiction": "new-orleans",
+      "domain": "data.nola.gov",
+      "dataset": "jsrk-e98x",
+      "rows": 10369,
+      "has_due_date": true,
+      "names_requester": true
+    }
+  ],
+  "corpus": {
+    "file": "requests.csv",
+    "rows": 730312,
+    "bytes": 96061342,
+    "sha256": "b8a66bf0abd713ab406784e7d77febd8dd1073973ff5ddd992737fe80fd04327",
+    "columns": [
+      "jurisdiction",
+      "request_id",
+      "received",
+      "closed",
+      "due",
+      "status",
+      "outcome",
+      "agency",
+      "channel",
+      "requester_type",
+      "source_type_native"
+    ],
+    "_note": "Not committed. Regenerate with harvest.py; the publishers keep their own history back to 2011, so this is a recipe rather than a capture.",
+    "_personal_data": "No name, email, address or postcode is ever written. Requester names are read once inside norm() to classify person vs organisation and are discarded. harvest.py runs and prints a check for email, postcode and street address on every run; the 2026-09-10 run reported 0 matches for all three. The case-number column is excluded from that check rather than the patterns being loosened: a numeric case number matches the postcode pattern, and widening the pattern to tolerate it would stop it catching a real one.",
+    "key": "(jurisdiction, request_id)",
+    "_key": "710,415 of 730,312 rows carry the publisher's case number (97%); Oregon DEQ publishes none and its rows cannot be followed across harvests. Unique within each jurisdiction; 107 ids collide across jurisdictions, so joining on the id alone merges unrelated requests."
+  },
+  "headline": {
+    "nyc_compliance_closed_only": {
+      "2019": 0.82,
+      "2021": 0.74,
+      "2023": 0.69,
+      "2024": 0.76,
+      "2025": 0.79
+    },
+    "nyc_compliance_counting_open_past_due": {
+      "2019": 0.81,
+      "2021": 0.71,
+      "2023": 0.61,
+      "2024": 0.63,
+      "2025": 0.56
+    },
+    "_nyc": "The two measures agree until 2022 and separate as the backlog builds. The requests dropped from the closed-only denominator are the late ones.",
+    "new_orleans_publishing_departments": {
+      "before_2024_08": 81,
+      "from_2024_08": 21
+    },
+    "new_orleans_fire_dept_on_time": {
+      "2017_2019": 0.189,
+      "2022_2026": 0.519,
+      "n_early": 222,
+      "n_late": 1702
+    },
+    "_new_orleans": "The city-wide rate fell while its largest department nearly tripled. A composition effect, with a visible mechanism: Fire took the process in-house and cut median days to close from 47 to 7 while its allowed window halved from 15 days to 7.",
+    "oregon_requester_mix": {
+      "environmental consultant": 0.62,
+      "real estate": 0.11,
+      "general public": 0.08,
+      "law firm": 0.04,
+      "property owner": 0.04,
+      "non-profit advocacy": 0.03,
+      "media": 0.02
+    },
+    "nyc_allowed_window_days": {
+      "2018": 53,
+      "2025": 136
+    },
+    "nyc_days_taken": {
+      "2018": 29,
+      "2025": 28
+    },
+    "nyc_on_time_against_moving_deadline": {
+      "2018": 0.73,
+      "2025": 0.79
+    },
+    "_allowed_window": "Baseline is 2018, the first year OpenRecords was fully adopted (40,190 requests against 1,783 in 2016). From 2016 the on-time rate falls 86% to 79% instead of rising. What does not depend on the baseline is that the window grew several-fold while days taken did not.",
+    "nyc_backlog_concentration": {
+      "police_share": 0.61,
+      "fire_share": 0.31,
+      "top5_share": 0.99,
+      "agencies_with_any": 28,
+      "agencies_total": 60,
+      "median_days_past_due": 393,
+      "share_over_1y_past_due": 0.52,
+      "oldest_years": 8.8
+    },
+    "nyc_window_by_agency": {
+      "police": [
+        55,
+        139
+      ],
+      "fire": [
+        35,
+        38
+      ],
+      "education": [
+        35,
+        7
+      ],
+      "_education": "shortened its window to 7 days and leaves 87% of its own requests open past it"
+    },
+    "nyc_police_by_channel": {
+      "in_person": {
+        "n": 3066,
+        "on_time": 0.98,
+        "median_days": 5,
+        "still_open": 0.06
+      },
+      "portal": {
+        "n": 162682,
+        "on_time": 0.78,
+        "median_days": 27,
+        "still_open": 0.3
+      },
+      "_confound": "no subject field, so in-person requesters may ask for simpler things"
+    },
+    "new_orleans_control": {
+      "open_past_due": 79,
+      "of_requests": 10369,
+      "window_days_range": [
+        5,
+        7
+      ],
+      "_note": "neither failure mode present; shows the New York pattern is not intrinsic"
+    }
+  },
+  "not_answerable": {
+    "vermont_latency": "58% of current-table requests close the same day they are received (38% pre-2020), against 10.4% for New Orleans and 9.2% for Oregon. That is a logging convention, not processing speed. Vermont is usable for volume and agency mix only.",
+    "derived_requester_type": "Classifying requester from name format reports 94% person for New Orleans against Oregon's native typing where general public is 8%. It measures name format, not requester nature. Use Oregon's own requester_type; the derived column is unreliable and is labelled as such.",
+    "cross_jurisdiction_comparison": "Statutory deadlines, tolling rules and what counts as closed differ by jurisdiction. Compare a jurisdiction with itself over time, never one against another."
+  }
+}

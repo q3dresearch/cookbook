@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="636" viewBox="0 0 980 636" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'>
+<rect width="980" height="636" fill="#fcfcfb"/>
+<text x="36" y="42" font-size="20" font-weight="600" fill="#0b0b0b">The articles you are most likely to be cited for sit in the cheaper cases.</text>
+<text x="36" y="68" font-size="13.5" fill="#52514e">Each article that appears in at least 10 fined decisions, placed by how often it is cited and the median fine when it is.</text>
+<text x="36" y="87" font-size="13.5" fill="#52514e">The fine belongs to the decision, not the article: most decisions cite several, so every article inherits the whole fine of each case</text>
+<text x="36" y="106" font-size="13.5" fill="#52514e">it appears in. Read the vertical axis as &#8220;the company this article keeps&#8221;, never as a price.</text>
+<rect x="232" y="196" width="512" height="141" fill="#eaf0f8"/>
+<text x="736" y="214" font-size="11.5" fill="#8a8880" text-anchor="end">cited in &#8805;10% of decisions AND median fine &#8805;&#8364;100,000</text>
+<line x1="108" y1="488.9" x2="744" y2="488.9" stroke="#e3e2db"/>
+<text x="98" y="492.9" font-size="11.5" fill="#8a8880" text-anchor="end">&#8364;10,000</text>
+<line x1="108" y1="336.5" x2="744" y2="336.5" stroke="#e3e2db"/>
+<text x="98" y="340.5" font-size="11.5" fill="#8a8880" text-anchor="end">&#8364;100,000</text>
+<line x1="232.5" y1="196" x2="232.5" y2="524" stroke="#e3e2db"/>
+<text x="232.5" y="544" font-size="11.5" fill="#8a8880" text-anchor="middle">10%</text>
+<line x1="357.0" y1="196" x2="357.0" y2="524" stroke="#e3e2db"/>
+<text x="357.0" y="544" font-size="11.5" fill="#8a8880" text-anchor="middle">20%</text>
+<line x1="481.5" y1="196" x2="481.5" y2="524" stroke="#e3e2db"/>
+<text x="481.5" y="544" font-size="11.5" fill="#8a8880" text-anchor="middle">30%</text>
+<line x1="606.0" y1="196" x2="606.0" y2="524" stroke="#e3e2db"/>
+<text x="606.0" y="544" font-size="11.5" fill="#8a8880" text-anchor="middle">40%</text>
+<line x1="730.5" y1="196" x2="730.5" y2="524" stroke="#e3e2db"/>
+<text x="730.5" y="544" font-size="11.5" fill="#8a8880" text-anchor="middle">50%</text>
+<line x1="108" y1="524" x2="744" y2="524" stroke="#8a8880"/>
+<text x="426" y="566" font-size="11.5" fill="#8a8880" text-anchor="middle">share of all decisions citing the article</text>
+<text x="36" y="184" font-size="11.5" fill="#8a8880">median fine of decisions citing the article &#8212; not the article&#8217;s own cost (log scale)</text>
+<circle cx="120.6" cy="231.1" r="5.2" fill="#b9c2ce" stroke="#b9c2ce" stroke-width="2"/>
+<text x="131.6" y="235.1" font-size="12" font-weight="400" fill="#52514e">Art 22 <tspan font-size="11" font-weight="400" fill="#8a8880">automated decisions and profil</tspan></text>
+<circle cx="117.6" cy="278.9" r="5.2" fill="none" stroke="#b9c2ce" stroke-width="2" stroke-dasharray="2.6 2.2"/>
+<line x1="123.8" y1="278.9" x2="126.6" y2="258.5" stroke="#8a8880" stroke-width="0.7"/>
+<text x="128.6" y="262.5" font-size="12" font-weight="400" fill="#52514e">Art 29 <tspan font-size="11" font-weight="400" fill="#8a8880"></tspan></text>
+<circle cx="140.6" cy="321.8" r="5.2" fill="#b9c2ce" stroke="#b9c2ce" stroke-width="2"/>
+<line x1="146.8" y1="321.8" x2="149.6" y2="273.8" stroke="#8a8880" stroke-width="0.7"/>
+<text x="151.6" y="277.8" font-size="12" font-weight="400" fill="#52514e">Art 34 <tspan font-size="11" font-weight="400" fill="#8a8880">communicating a breach</tspan></text>
+<circle cx="150.2" cy="324.5" r="5.2" fill="#b9c2ce" stroke="#b9c2ce" stroke-width="2"/>
+<line x1="156.4" y1="324.5" x2="159.2" y2="289.1" stroke="#8a8880" stroke-width="0.7"/>
+<text x="161.2" y="293.1" font-size="12" font-weight="400" fill="#52514e">Art 35 <tspan font-size="11" font-weight="400" fill="#8a8880">data protection impact assessm</tspan></text>
+<circle cx="168.0" cy="327.3" r="5.2" fill="#b9c2ce" stroke="#b9c2ce" stroke-width="2"/>
+<line x1="174.2" y1="327.3" x2="177.0" y2="304.5" stroke="#8a8880" stroke-width="0.7"/>
+<text x="179.0" y="308.5" font-size="12" font-weight="400" fill="#52514e">Art 28 <tspan font-size="11" font-weight="400" fill="#8a8880">processors</tspan></text>
+<circle cx="195.4" cy="336.5" r="5.2" fill="none" stroke="#b9c2ce" stroke-width="2" stroke-dasharray="2.6 2.2"/>
+<line x1="201.6" y1="336.5" x2="204.4" y2="319.7" stroke="#8a8880" stroke-width="0.7"/>
+<text x="206.4" y="323.7" font-size="12" font-weight="400" fill="#52514e">Art 24 <tspan font-size="11" font-weight="400" fill="#8a8880">controller duty</tspan></text>
+<circle cx="202.5" cy="345.4" r="5.2" fill="#b9c2ce" stroke="#b9c2ce" stroke-width="2"/>
+<line x1="208.7" y1="345.4" x2="211.5" y2="335.2" stroke="#8a8880" stroke-width="0.7"/>
+<text x="213.5" y="339.2" font-size="12" font-weight="400" fill="#52514e">Art 25 <tspan font-size="11" font-weight="400" fill="#8a8880">data protection by design</tspan></text>
+<circle cx="169.1" cy="360.1" r="5.2" fill="#b9c2ce" stroke="#b9c2ce" stroke-width="2"/>
+<line x1="175.3" y1="360.1" x2="178.1" y2="349.9" stroke="#8a8880" stroke-width="0.7"/>
+<text x="180.1" y="353.9" font-size="12" font-weight="400" fill="#52514e">Art 33 <tspan font-size="11" font-weight="400" fill="#8a8880">breach notification</tspan></text>
+<circle cx="166.9" cy="360.1" r="5.2" fill="#b9c2ce" stroke="#b9c2ce" stroke-width="2"/>
+<line x1="173.1" y1="360.1" x2="175.9" y2="357.1" stroke="#8a8880" stroke-width="0.7"/>
+<text x="177.9" y="361.1" font-size="12" font-weight="400" fill="#52514e">Art 7 <tspan font-size="11" font-weight="400" fill="#8a8880">conditions for consent</tspan></text>
+<circle cx="126.9" cy="360.1" r="5.2" fill="#b9c2ce" stroke="#b9c2ce" stroke-width="2"/>
+<line x1="133.1" y1="360.1" x2="135.9" y2="367.3" stroke="#8a8880" stroke-width="0.7"/>
+<text x="137.9" y="371.3" font-size="12" font-weight="400" fill="#52514e">Art 30 <tspan font-size="11" font-weight="400" fill="#8a8880">records of processing</tspan></text>
+<circle cx="176.9" cy="362.5" r="5.2" fill="#b9c2ce" stroke="#b9c2ce" stroke-width="2"/>
+<line x1="183.1" y1="362.5" x2="185.9" y2="372.1" stroke="#8a8880" stroke-width="0.7"/>
+<text x="187.9" y="376.1" font-size="12" font-weight="400" fill="#52514e">Art 14 <tspan font-size="11" font-weight="400" fill="#8a8880">information (indirect collecti</tspan></text>
+<circle cx="359.9" cy="380.3" r="5.2" fill="#b9c2ce" stroke="#b9c2ce" stroke-width="2"/>
+<line x1="366.1" y1="380.3" x2="368.9" y2="388.1" stroke="#8a8880" stroke-width="0.7"/>
+<text x="370.9" y="392.1" font-size="12" font-weight="400" fill="#52514e">Art 32 <tspan font-size="11" font-weight="400" fill="#8a8880">security of processing</tspan></text>
+<circle cx="115.8" cy="382.4" r="5.2" fill="none" stroke="#b9c2ce" stroke-width="2" stroke-dasharray="2.6 2.2"/>
+<text x="126.8" y="388.8" font-size="12" font-weight="400" fill="#52514e">Art 88 <tspan font-size="11" font-weight="400" fill="#8a8880">processing at work</tspan></text>
+<circle cx="160.6" cy="397.2" r="5.2" fill="#b9c2ce" stroke="#b9c2ce" stroke-width="2"/>
+<line x1="166.8" y1="397.2" x2="169.6" y2="400.2" stroke="#8a8880" stroke-width="0.7"/>
+<text x="171.6" y="404.2" font-size="12" font-weight="400" fill="#52514e">Art 21 <tspan font-size="11" font-weight="400" fill="#8a8880">right to object</tspan></text>
+<circle cx="675.9" cy="416.2" r="5.2" fill="#b9c2ce" stroke="#b9c2ce" stroke-width="2"/>
+<line x1="682.1" y1="416.2" x2="684.9" y2="408.4" stroke="#8a8880" stroke-width="0.7"/>
+<text x="686.9" y="412.4" font-size="12" font-weight="400" fill="#52514e">Art 5 <tspan font-size="11" font-weight="400" fill="#8a8880">principles of processing</tspan></text>
+<circle cx="532.9" cy="416.2" r="5.2" fill="#b9c2ce" stroke="#b9c2ce" stroke-width="2"/>
+<line x1="539.1" y1="416.2" x2="541.9" y2="424.0" stroke="#8a8880" stroke-width="0.7"/>
+<text x="543.9" y="428.0" font-size="12" font-weight="400" fill="#52514e">Art 6 <tspan font-size="11" font-weight="400" fill="#8a8880">lawfulness of processing</tspan></text>
+<circle cx="297.3" cy="421.4" r="5.2" fill="#b9c2ce" stroke="#b9c2ce" stroke-width="2"/>
+<line x1="303.5" y1="421.4" x2="306.3" y2="415.4" stroke="#8a8880" stroke-width="0.7"/>
+<text x="308.3" y="419.4" font-size="12" font-weight="400" fill="#52514e">Art 13 <tspan font-size="11" font-weight="400" fill="#8a8880">information to be provided</tspan></text>
+<circle cx="127.6" cy="428.3" r="5.2" fill="#b9c2ce" stroke="#b9c2ce" stroke-width="2"/>
+<line x1="133.8" y1="428.3" x2="136.6" y2="416.3" stroke="#8a8880" stroke-width="0.7"/>
+<text x="138.6" y="420.3" font-size="12" font-weight="400" fill="#52514e">Art 37 <tspan font-size="11" font-weight="400" fill="#8a8880">designating a DPO</tspan></text>
+<circle cx="224.7" cy="433.1" r="5.2" fill="#b9c2ce" stroke="#b9c2ce" stroke-width="2"/>
+<text x="235.7" y="434.7" font-size="12" font-weight="400" fill="#52514e">Art 9 <tspan font-size="11" font-weight="400" fill="#8a8880">special categories of data</tspan></text>
+<circle cx="344.7" cy="434.0" r="5.2" fill="#b9c2ce" stroke="#b9c2ce" stroke-width="2"/>
+<line x1="350.9" y1="434.0" x2="353.7" y2="446.0" stroke="#8a8880" stroke-width="0.7"/>
+<text x="355.7" y="450.0" font-size="12" font-weight="400" fill="#52514e">Art 12 <tspan font-size="11" font-weight="400" fill="#8a8880">transparent information</tspan></text>
+<circle cx="264.3" cy="443.0" r="5.2" fill="#b9c2ce" stroke="#b9c2ce" stroke-width="2"/>
+<line x1="270.5" y1="443.0" x2="273.3" y2="461.0" stroke="#8a8880" stroke-width="0.7"/>
+<text x="275.3" y="465.0" font-size="12" font-weight="400" fill="#52514e">Art 15 <tspan font-size="11" font-weight="400" fill="#8a8880">right of access</tspan></text>
+<circle cx="118.7" cy="443.0" r="5.2" fill="none" stroke="#b9c2ce" stroke-width="2" stroke-dasharray="2.6 2.2"/>
+<line x1="124.9" y1="443.0" x2="127.7" y2="476.0" stroke="#8a8880" stroke-width="0.7"/>
+<text x="129.7" y="480.0" font-size="12" font-weight="400" fill="#52514e">Art 16 <tspan font-size="11" font-weight="400" fill="#8a8880">right to rectification</tspan></text>
+<circle cx="125.4" cy="447.5" r="5.2" fill="#b9c2ce" stroke="#b9c2ce" stroke-width="2"/>
+<line x1="131.6" y1="447.5" x2="134.4" y2="491.3" stroke="#8a8880" stroke-width="0.7"/>
+<text x="136.4" y="495.3" font-size="12" font-weight="400" fill="#52514e">Art 38 <tspan font-size="11" font-weight="400" fill="#8a8880">position of the DPO</tspan></text>
+<circle cx="216.5" cy="488.9" r="5.2" fill="#b9c2ce" stroke="#b9c2ce" stroke-width="2"/>
+<line x1="222.7" y1="488.9" x2="225.5" y2="506.3" stroke="#8a8880" stroke-width="0.7"/>
+<text x="227.5" y="510.3" font-size="12" font-weight="400" fill="#52514e">Art 17 <tspan font-size="11" font-weight="400" fill="#8a8880">right to erasure</tspan></text>
+<circle cx="126.5" cy="488.9" r="5.2" fill="#b9c2ce" stroke="#b9c2ce" stroke-width="2"/>
+<line x1="132.7" y1="488.9" x2="135.5" y2="521.9" stroke="#8a8880" stroke-width="0.7"/>
+<text x="137.5" y="525.9" font-size="12" font-weight="400" fill="#52514e">Art 31 <tspan font-size="11" font-weight="400" fill="#8a8880">cooperation with the authority</tspan></text>
+<text x="36" y="596" font-size="11.5" fill="#8a8880">3,361 decisions. Never cited alone in a fined case, so their medians are borrowed entirely from co-cited articles: Art 29, Art 24, Art 88, Art 16.</text>
+<text x="36" y="614" font-size="11.5" fill="#8a8880">Euro-denominated fines only. Citation is not a finding of breach. Method: github.com/q3dresearch/cookbook &#183; recipes/gdpr-enforced-articles</text>
+</svg>

@@ -1,0 +1,4 @@
+run_date,method_version,decisions,basis,top2_share,art32_share,tail_articles,lead_time_median_days
+2026-09-07,1.0.0,1459,1-in-3 sample,0.41,0.10,52,
+2026-09-10,2.0.0,3361,full population,0.35,0.202,53,487
+2026-09-10,2.1.0,3361,full population + controls,0.35,0.202,53,487

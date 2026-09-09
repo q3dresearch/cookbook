@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="892" viewBox="0 0 980 892" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'>
+<rect width="980" height="892" fill="#fcfcfb"/>
+<text x="36" y="42" font-size="20" font-weight="600" fill="#0b0b0b">A GDPR fine tracks how many things went wrong, not which thing.</text>
+<text x="36" y="68" font-size="13.5" fill="#52514e">Each row holds one article fixed and varies only how many others the same decision cited. Priced per article, the three</text>
+<text x="36" y="87" font-size="13.5" fill="#52514e">points on a row would coincide. On one row the fine does not rise with company, and that is the one worth acting on.</text>
+<circle cx="257" cy="115" r="4.0" fill="#8a8880"/>
+<text x="270" y="119" font-size="12" fill="#52514e">cited alone</text>
+<circle cx="363.6" cy="115" r="5.4" fill="#8a8880"/>
+<text x="376.6" y="119" font-size="12" fill="#52514e">with one other</text>
+<circle cx="490.0" cy="115" r="6.8" fill="#8a8880"/>
+<text x="503.0" y="119" font-size="12" fill="#52514e">with two or more</text>
+<text x="36" y="174" font-size="11.5" fill="#8a8880">median fine of the decision, euro (log scale)</text>
+<line x1="424.1" y1="188" x2="424.1" y2="690" stroke="#e3e2db"/>
+<text x="424.1" y="708" font-size="11.5" fill="#8a8880" text-anchor="middle">&#8364;10,000</text>
+<line x1="663.5" y1="188" x2="663.5" y2="690" stroke="#e3e2db"/>
+<text x="663.5" y="708" font-size="11.5" fill="#8a8880" text-anchor="middle">&#8364;100,000</text>
+<text x="232" y="200" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="end">Article 13</text>
+<text x="232" y="217" font-size="11.5" fill="#8a8880" text-anchor="end">information to be provided</text>
+<line x1="298.9" y1="196" x2="626.4" y2="196" stroke="#2361b0" stroke-width="2.4"/>
+<circle cx="298.9" cy="196" r="4.6" fill="#2361b0" stroke="#fcfcfb" stroke-width="1.8"/>
+<circle cx="370.9" cy="196" r="6.2" fill="#2361b0" stroke="#fcfcfb" stroke-width="1.8"/>
+<circle cx="626.4" cy="196" r="7.8" fill="#2361b0" stroke="#fcfcfb" stroke-width="1.8"/>
+<text x="287.9" y="200" font-size="11.5" fill="#52514e" text-anchor="end">&#8364;3,000</text>
+<text x="639.4" y="200" font-size="12" font-weight="600" fill="#2361b0">&#8364;70,000</text>
+<text x="232" y="234" font-size="11" fill="#8a8880" text-anchor="end">n=19/60/203</text>
+<text x="639.4" y="217" font-size="11.5" fill="#8a8880">23&#215; more when others are cited</text>
+<text x="232" y="274" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="end">Article 21</text>
+<text x="232" y="291" font-size="11.5" fill="#8a8880" text-anchor="end">right to object</text>
+<line x1="370.9" y1="270" x2="626.4" y2="270" stroke="#2361b0" stroke-width="2.4"/>
+<circle cx="370.9" cy="270" r="4.6" fill="#2361b0" stroke="#fcfcfb" stroke-width="1.8"/>
+<circle cx="479.2" cy="270" r="6.2" fill="#2361b0" stroke="#fcfcfb" stroke-width="1.8"/>
+<circle cx="626.4" cy="270" r="7.8" fill="#2361b0" stroke="#fcfcfb" stroke-width="1.8"/>
+<text x="359.9" y="274" font-size="11.5" fill="#52514e" text-anchor="end">&#8364;6,000</text>
+<text x="639.4" y="274" font-size="12" font-weight="600" fill="#2361b0">&#8364;70,000</text>
+<text x="232" y="308" font-size="11" fill="#8a8880" text-anchor="end">n=9/8/53</text>
+<text x="639.4" y="291" font-size="11.5" fill="#8a8880">12&#215; more when others are cited</text>
+<text x="232" y="348" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="end">Article 32</text>
+<text x="232" y="365" font-size="11.5" fill="#8a8880" text-anchor="end">security of processing</text>
+<line x1="434.0" y1="344" x2="643.5" y2="344" stroke="#2361b0" stroke-width="2.4"/>
+<circle cx="434.0" cy="344" r="4.6" fill="#2361b0" stroke="#fcfcfb" stroke-width="1.8"/>
+<circle cx="599.6" cy="344" r="6.2" fill="#2361b0" stroke="#fcfcfb" stroke-width="1.8"/>
+<circle cx="643.5" cy="344" r="7.8" fill="#2361b0" stroke="#fcfcfb" stroke-width="1.8"/>
+<text x="423.0" y="348" font-size="11.5" fill="#52514e" text-anchor="end">&#8364;11,000</text>
+<text x="656.5" y="348" font-size="12" font-weight="600" fill="#2361b0">&#8364;82,500</text>
+<text x="232" y="382" font-size="11" fill="#8a8880" text-anchor="end">n=58/98/158</text>
+<text x="656.5" y="365" font-size="11.5" fill="#8a8880">8&#215; more when others are cited</text>
+<text x="232" y="422" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="end">Article 15</text>
+<text x="232" y="439" font-size="11.5" fill="#8a8880" text-anchor="end">right of access</text>
+<line x1="352.0" y1="418" x2="554.3" y2="418" stroke="#2361b0" stroke-width="2.4"/>
+<circle cx="352.0" cy="418" r="4.6" fill="#2361b0" stroke="#fcfcfb" stroke-width="1.8"/>
+<circle cx="424.1" cy="418" r="6.2" fill="#2361b0" stroke="#fcfcfb" stroke-width="1.8"/>
+<circle cx="554.3" cy="418" r="7.8" fill="#2361b0" stroke="#fcfcfb" stroke-width="1.8"/>
+<text x="341.0" y="422" font-size="11.5" fill="#52514e" text-anchor="end">&#8364;5,000</text>
+<text x="567.3" y="422" font-size="12" font-weight="600" fill="#2361b0">&#8364;35,000</text>
+<text x="232" y="456" font-size="11" fill="#8a8880" text-anchor="end">n=14/38/103</text>
+<text x="567.3" y="439" font-size="11.5" fill="#8a8880">7&#215; more when others are cited</text>
+<text x="232" y="496" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="end">Article 5</text>
+<text x="232" y="513" font-size="11.5" fill="#8a8880" text-anchor="end">principles of processing</text>
+<line x1="424.1" y1="492" x2="573.3" y2="492" stroke="#2361b0" stroke-width="2.4"/>
+<circle cx="424.1" cy="492" r="4.6" fill="#2361b0" stroke="#fcfcfb" stroke-width="1.8"/>
+<circle cx="496.1" cy="492" r="6.2" fill="#2361b0" stroke="#fcfcfb" stroke-width="1.8"/>
+<circle cx="573.3" cy="492" r="7.8" fill="#2361b0" stroke="#fcfcfb" stroke-width="1.8"/>
+<text x="413.1" y="496" font-size="11.5" fill="#52514e" text-anchor="end">&#8364;10,000</text>
+<text x="586.3" y="496" font-size="12" font-weight="600" fill="#2361b0">&#8364;42,000</text>
+<text x="232" y="530" font-size="11" fill="#8a8880" text-anchor="end">n=105/248/427</text>
+<text x="586.3" y="513" font-size="11.5" fill="#8a8880">4&#215; more when others are cited</text>
+<text x="232" y="570" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="end">Article 28</text>
+<text x="232" y="587" font-size="11.5" fill="#8a8880" text-anchor="end">processors</text>
+<line x1="623.4" y1="566" x2="723.1" y2="566" stroke="#2361b0" stroke-width="2.4"/>
+<circle cx="623.4" cy="566" r="4.6" fill="#2361b0" stroke="#fcfcfb" stroke-width="1.8"/>
+<circle cx="675.7" cy="566" r="6.2" fill="#2361b0" stroke="#fcfcfb" stroke-width="1.8"/>
+<circle cx="723.1" cy="566" r="7.8" fill="#2361b0" stroke="#fcfcfb" stroke-width="1.8"/>
+<text x="612.4" y="570" font-size="11.5" fill="#52514e" text-anchor="end">&#8364;68,000</text>
+<text x="736.1" y="570" font-size="12" font-weight="600" fill="#2361b0">&#8364;177,500</text>
+<text x="232" y="604" font-size="11" fill="#8a8880" text-anchor="end">n=10/18/76</text>
+<text x="736.1" y="587" font-size="11.5" fill="#8a8880">3&#215; more when others are cited</text>
+<text x="232" y="644" font-size="14" font-weight="600" fill="#0b0b0b" text-anchor="end">Article 6</text>
+<text x="232" y="661" font-size="11.5" fill="#8a8880" text-anchor="end">lawfulness of processing</text>
+<line x1="472.9" y1="640" x2="580.4" y2="640" stroke="#b5651d" stroke-width="2.4"/>
+<circle cx="580.4" cy="640" r="4.6" fill="#b5651d" stroke="#fcfcfb" stroke-width="1.8"/>
+<circle cx="472.9" cy="640" r="6.2" fill="#b5651d" stroke="#fcfcfb" stroke-width="1.8"/>
+<circle cx="568.2" cy="640" r="7.8" fill="#b5651d" stroke="#fcfcfb" stroke-width="1.8"/>
+<text x="461.9" y="644" font-size="11.5" fill="#52514e" text-anchor="end">&#8364;16,000</text>
+<text x="593.4" y="644" font-size="12" font-weight="600" fill="#b5651d">&#8364;45,000</text>
+<text x="232" y="678" font-size="11" fill="#8a8880" text-anchor="end">n=127/141/269</text>
+<text x="581.2" y="661" font-size="11.5" fill="#8a8880">no higher in company than alone</text>
+<line x1="36" y1="724" x2="944" y2="724" stroke="#e3e2db"/>
+<text x="36" y="746" font-size="13.5" fill="#52514e"><tspan font-weight="600" fill="#0b0b0b">Article 6 is the exception</tspan> &#8212; processing without a lawful basis is the one failure that is expensive on its own.</text>
+<text x="36" y="767" font-size="13.5" fill="#52514e">Everything else is cheap alone and severe in combination, so the exposure is compound &#8212; and a per-article</text>
+<text x="36" y="786" font-size="13.5" fill="#52514e">&#8220;cost of non-compliance&#8221; ranking is an artefact of which articles travel together.</text>
+<text x="36" y="818" font-size="11.5" fill="#8a8880">1,331 euro-denominated fined decisions. Fines as imposed, not as paid. Association, not effect: article count may also proxy for case severity and company size,</text>
+<text x="36" y="836" font-size="11.5" fill="#8a8880">neither of which GDPRhub records. The pattern holds within a single authority, which removes authority scale but not the other two.</text>
+<text x="36" y="854" font-size="11.5" fill="#8a8880">Method and code: github.com/q3dresearch/cookbook &#183; recipes/gdpr-enforced-articles</text>
+</svg>
