@@ -19,6 +19,12 @@ built on those and on sources that keep their own history.
   the 412,935-dataset graveyard is not made by spammers — it is made by 161,320
   people who published once and were ignored.
 
+- **[A register that both forgets and flickers, and the two look identical](recipes/publishers-destroy-history/)** —
+  380 notifications vanished from Sweden's harvest register in two days. 318
+  returned the next day and every one was a 2025 case; 62 did not and 61 were
+  2021, aging out of a five-year window. The split is exact, and a single query
+  to the register cannot tell you which is which.
+
 ## How to read one
 
 Every recipe folder is self-contained: the write-up, the script, the figure,
