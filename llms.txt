@@ -1,0 +1,24 @@
+# q3dresearch/cookbook
+
+> Reproducible recipes that turn public records into findings. Each recipe is
+> one question, one method, one figure, and a written account of what the answer
+> cannot support. Python standard library only — no dependencies.
+
+Companion to the wss-* archives at github.com/q3dresearch, which capture public
+records their publishers overwrite.
+
+## Start here
+- [AGENTS.md](AGENTS.md): how to reproduce, verify and extend; inherited failure modes
+- [STRUCTURE.md](STRUCTURE.md): repository layout and why
+- [VERSIONING.md](VERSIONING.md): method versus data versioning, append-only series
+
+## Recipes
+- [dataset-demand-shape](recipes/dataset-demand-shape/README.md): what happens to
+  a dataset published on Kaggle. 737,729 datasets; median 8 downloads; 69.5%
+  never opened in a notebook; 412,935 with ten downloads or fewer. Size predicts
+  use; a sample of already-successful datasets says the opposite.
+
+## Conventions
+- provenance.json records corpus hashes and the figures as computed
+- history.csv is append-only; method changes are visible breaks, never edits
+- if prose and script disagree, the script is authoritative
