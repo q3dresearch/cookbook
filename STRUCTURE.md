@@ -39,9 +39,9 @@ fetcher prints the comparison. Drift becomes visible rather than silent.
 
 ## Promotion is an explicit act
 
-`larder/` is the private draft workspace and holds every candidate, proven and
-unproven. Nothing is published by sitting there. Moving a recipe here means
-choosing it, rewriting it for someone who has never seen the project, and
-checking what its data contains before it becomes public.
+Candidates live in a private drafting workspace and nothing is published by
+sitting there. Moving a recipe here means choosing it, rewriting it for someone
+who has never seen the project, and checking what its data contains before it
+becomes public.
 
 Never promote a directory. Promote named files.
