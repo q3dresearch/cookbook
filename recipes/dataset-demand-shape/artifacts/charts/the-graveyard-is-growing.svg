@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="600" viewBox="0 0 940 600" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'>
+<rect width="940" height="600" fill="#fcfcfb"/>
+<text x="92" y="40" font-size="19" font-weight="600" fill="#0b0b0b">The graveyard grows faster than the catalogue</text>
+<text x="92" y="64" font-size="13.5" fill="#52514e">412,935 datasets &#8212; 56% of everything ever published on Kaggle &#8212; have ten lifetime downloads or fewer.</text>
+<text x="92" y="82" font-size="13.5" fill="#52514e">Publication grew seventeenfold since 2018; the share that goes nowhere grew alongside it.</text>
+<line x1="92" y1="283.7" x2="898" y2="283.7" stroke="#e1e0d9"/>
+<text x="82" y="287.7" font-size="11" fill="#898781" text-anchor="end">50k</text>
+<line x1="92" y1="221.5" x2="898" y2="221.5" stroke="#e1e0d9"/>
+<text x="82" y="225.5" font-size="11" fill="#898781" text-anchor="end">100k</text>
+<line x1="92" y1="159.2" x2="898" y2="159.2" stroke="#e1e0d9"/>
+<text x="82" y="163.2" font-size="11" fill="#898781" text-anchor="end">150k</text>
+<text x="82" y="122" font-size="11.5" fill="#898781">datasets published that year</text>
+<line x1="92" y1="346" x2="898" y2="346" stroke="#c3c2b7" stroke-width="1.5"/>
+<rect x="109.0" y="334.3" width="55.5" height="11.7" rx="3" fill="#c9d6ea"/>
+<rect x="109.0" y="345.7" width="55.5" height="0.3" rx="3" fill="#2361b0"/>
+<text x="136.8" y="326.3" font-size="11" fill="#52514e" text-anchor="middle">2%</text>
+<text x="136.8" y="366" font-size="11" fill="#898781" text-anchor="middle">2018</text>
+<rect x="198.6" y="330.5" width="55.5" height="15.5" rx="3" fill="#c9d6ea"/>
+<rect x="198.6" y="344.3" width="55.5" height="1.7" rx="3" fill="#2361b0"/>
+<text x="226.3" y="322.5" font-size="11" fill="#52514e" text-anchor="middle">11%</text>
+<text x="226.3" y="366" font-size="11" fill="#898781" text-anchor="middle">2019</text>
+<rect x="288.1" y="297.5" width="55.5" height="48.5" rx="3" fill="#c9d6ea"/>
+<rect x="288.1" y="337.3" width="55.5" height="8.7" rx="3" fill="#2361b0"/>
+<text x="315.9" y="289.5" font-size="11" fill="#52514e" text-anchor="middle">18%</text>
+<text x="315.9" y="366" font-size="11" fill="#898781" text-anchor="middle">2020</text>
+<rect x="377.7" y="275.1" width="55.5" height="70.9" rx="3" fill="#c9d6ea"/>
+<rect x="377.7" y="324.5" width="55.5" height="21.5" rx="3" fill="#2361b0"/>
+<text x="405.4" y="267.1" font-size="11" fill="#52514e" text-anchor="middle">30%</text>
+<text x="405.4" y="366" font-size="11" fill="#898781" text-anchor="middle">2021</text>
+<rect x="467.2" y="268.5" width="55.5" height="77.5" rx="3" fill="#c9d6ea"/>
+<rect x="467.2" y="319.1" width="55.5" height="26.9" rx="3" fill="#2361b0"/>
+<text x="495.0" y="260.5" font-size="11" fill="#52514e" text-anchor="middle">35%</text>
+<text x="495.0" y="366" font-size="11" fill="#898781" text-anchor="middle">2022</text>
+<rect x="556.8" y="231.9" width="55.5" height="114.1" rx="3" fill="#c9d6ea"/>
+<rect x="556.8" y="297.0" width="55.5" height="49.0" rx="3" fill="#2361b0"/>
+<text x="584.6" y="223.9" font-size="11" fill="#52514e" text-anchor="middle">43%</text>
+<text x="584.6" y="366" font-size="11" fill="#898781" text-anchor="middle">2023</text>
+<rect x="646.3" y="177.0" width="55.5" height="169.0" rx="3" fill="#c9d6ea"/>
+<rect x="646.3" y="255.7" width="55.5" height="90.3" rx="3" fill="#2361b0"/>
+<text x="674.1" y="169.0" font-size="11" fill="#52514e" text-anchor="middle">53%</text>
+<text x="674.1" y="366" font-size="11" fill="#898781" text-anchor="middle">2024</text>
+<rect x="735.9" y="136.0" width="55.5" height="210.0" rx="3" fill="#c9d6ea"/>
+<rect x="735.9" y="195.0" width="55.5" height="151.0" rx="3" fill="#2361b0"/>
+<text x="763.7" y="128.0" font-size="11" fill="#52514e" text-anchor="middle">72%</text>
+<text x="763.7" y="366" font-size="11" fill="#898781" text-anchor="middle">2025</text>
+<rect x="825.5" y="149.1" width="55.5" height="196.9" rx="3" fill="#c9d6ea"/>
+<rect x="825.5" y="181.2" width="55.5" height="164.8" rx="3" fill="#2361b0"/>
+<text x="853.2" y="141.1" font-size="11" fill="#52514e" text-anchor="middle">84%</text>
+<text x="853.2" y="366" font-size="11" fill="#898781" text-anchor="middle">2026</text>
+<rect x="92" y="380" width="11" height="11" rx="2" fill="#2361b0"/>
+<text x="110" y="390" font-size="11.5" fill="#52514e">ten downloads or fewer</text>
+<rect x="262" y="380" width="11" height="11" rx="2" fill="#c9d6ea"/>
+<text x="280" y="390" font-size="11.5" fill="#52514e">everything else</text>
+<text x="898" y="390" font-size="11.5" fill="#898781" text-anchor="end">recent years are inflated by recency &#8212; 2021, five years old, is the honest floor at 30%</text>
+<text x="92" y="432" font-size="13" font-weight="600" fill="#0b0b0b">It is not spam. It is people trying once.</text>
+<text x="92" y="454" font-size="12.5" fill="#52514e">96.8% of datasets earn no medal, and prolific publishers do barely worse than one-timers. 161,320 people</text>
+<text x="92" y="474" font-size="12.5" fill="#52514e">published exactly one dataset &#8212; presumably their best effort &#8212; and the median got <tspan font-weight="600">12 downloads</tspan>.</text>
+<text x="92" y="570" font-size="11.5" fill="#898781">Source: Kaggle Meta Kaggle, Datasets.csv, retrieved 2026-09-09. Every dataset ever published.</text>
+<text x="92" y="586" font-size="11.5" fill="#898781">Method and code: github.com/q3dresearch/cookbook &#183; recipes/dataset-demand-shape</text>
+</svg>

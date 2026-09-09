@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="668" viewBox="0 0 940 668" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'>
+<rect width="940" height="668" fill="#fcfcfb"/>
+<text x="150" y="40" font-size="19" font-weight="600" fill="#0b0b0b">The median dataset published on Kaggle is downloaded eight times</text>
+<text x="150" y="64" font-size="13.5" fill="#52514e">Publishing a specialist corpus here is publishing into a population where 56% never pass ten downloads and 69.5%</text>
+<text x="150" y="82" font-size="13.5" fill="#52514e">are never opened in a notebook. Every dataset ever published, n = 737,729.</text>
+<text x="150" y="106" font-size="11.5" fill="#898781">lifetime downloads</text>
+<text x="138" y="136" font-size="12" fill="#52514e" text-anchor="end">0</text>
+<rect x="150" y="118" width="45.6" height="26" rx="4" fill="#2361b0" opacity="0.45"/>
+<text x="205.6" y="136" font-size="12" fill="#0b0b0b">3.8%  <tspan fill="#898781">(28,263)</tspan></text>
+<text x="138" y="174" font-size="12" fill="#52514e" text-anchor="end">1–10</text>
+<rect x="150" y="156" width="620.0" height="26" rx="4" fill="#2361b0"/>
+<text x="780.0" y="174" font-size="12" fill="#0b0b0b">52.1%  <tspan fill="#898781">(384,672)</tspan></text>
+<text x="138" y="212" font-size="12" fill="#52514e" text-anchor="end">11–100</text>
+<rect x="150" y="194" width="378.9" height="26" rx="4" fill="#2361b0"/>
+<text x="538.9" y="212" font-size="12" fill="#0b0b0b">31.9%  <tspan fill="#898781">(235,091)</tspan></text>
+<text x="138" y="250" font-size="12" fill="#52514e" text-anchor="end">101–1,000</text>
+<rect x="150" y="232" width="109.1" height="26" rx="4" fill="#2361b0"/>
+<text x="269.1" y="250" font-size="12" fill="#0b0b0b">9.2%  <tspan fill="#898781">(67,701)</tspan></text>
+<text x="138" y="288" font-size="12" fill="#52514e" text-anchor="end">1,000–10,000</text>
+<rect x="150" y="270" width="30.9" height="26" rx="4" fill="#2361b0" opacity="0.45"/>
+<text x="190.9" y="288" font-size="12" fill="#0b0b0b">2.6%  <tspan fill="#898781">(19,196)</tspan></text>
+<text x="138" y="326" font-size="12" fill="#52514e" text-anchor="end">over 10,000</text>
+<rect x="150" y="308" width="4.5" height="26" rx="4" fill="#2361b0" opacity="0.45"/>
+<text x="164.5" y="326" font-size="12" fill="#0b0b0b">0.4%  <tspan fill="#898781">(2,806)</tspan></text>
+<text x="150" y="386" font-size="11.5" fill="#898781">share of each year&#8217;s datasets never opened in a notebook &#183; 2021 onward only</text>
+<line x1="150" y1="532.0" x2="900" y2="532.0" stroke="#e1e0d9"/>
+<text x="140" y="536.0" font-size="11" fill="#898781" text-anchor="end">0%</text>
+<line x1="150" y1="466.0" x2="900" y2="466.0" stroke="#e1e0d9"/>
+<text x="140" y="470.0" font-size="11" fill="#898781" text-anchor="end">50%</text>
+<line x1="150" y1="400.0" x2="900" y2="400.0" stroke="#e1e0d9"/>
+<text x="140" y="404.0" font-size="11" fill="#898781" text-anchor="end">100%</text>
+<polyline points="150.0,445.3 300.0,441.8 450.0,440.4 600.0,437.0 750.0,432.9 900.0,425.5" fill="none" stroke="#2361b0" stroke-width="2"/>
+<circle cx="150.0" cy="445.3" r="3.5" fill="#2361b0"/>
+<text x="150.0" y="550" font-size="11" fill="#898781" text-anchor="middle">2021</text>
+<circle cx="300.0" cy="441.8" r="3.5" fill="#2361b0"/>
+<circle cx="450.0" cy="440.4" r="3.5" fill="#2361b0"/>
+<text x="450.0" y="550" font-size="11" fill="#898781" text-anchor="middle">2023</text>
+<circle cx="600.0" cy="437.0" r="3.5" fill="#2361b0"/>
+<circle cx="750.0" cy="432.9" r="3.5" fill="#2361b0"/>
+<text x="750.0" y="550" font-size="11" fill="#898781" text-anchor="middle">2025</text>
+<circle cx="900.0" cy="425.5" r="3.5" fill="#2361b0"/>
+<text x="900.0" y="550" font-size="11" fill="#898781" text-anchor="middle">2026</text>
+<text x="150" y="572" font-size="11.5" fill="#898781">Earlier years are excluded because Kaggle auto-created a notebook per dataset until 2020: among datasets with one download or</text>
+<text x="150" y="588" font-size="11.5" fill="#898781">fewer, 100% of 2017 and 89% of 2019 still carry one, against 8% of 2021. Part of what remains is recency.</text>
+<text x="150" y="638" font-size="11.5" fill="#898781">Source: Kaggle Meta Kaggle, Datasets.csv, retrieved 2026-09-09. Every dataset ever published.</text>
+<text x="150" y="654" font-size="11.5" fill="#898781">Method and code: github.com/q3dresearch/cookbook &#183; recipes/dataset-demand-shape</text>
+</svg>

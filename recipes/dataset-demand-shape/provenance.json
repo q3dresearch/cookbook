@@ -1,0 +1,31 @@
+{
+  "method_version": "2.1.0",
+  "_method_version": "2.0.0 is a MAJOR bump: the size finding was recomputed on the population and reversed the 1.x conclusion, which had been drawn from a sample of already-successful datasets. Rows written under 1.x are not comparable and are kept, not deleted.",
+  "retrieved": "2026-09-09",
+  "tables": {
+    "Datasets.csv": {
+      "bytes": 100376587,
+      "sha256": "11a94a27604f883cb4270eaab894f9a8ca81d7c9ddd62347fbac6b3e33c96098"
+    },
+    "DatasetVersions.csv": {
+      "bytes": 1373539562,
+      "sha256": "08f700012a15aaacf79d3bfeb1036047de74f7f5ac3b55e6401e178b292f14f2"
+    },
+    "Tags.csv": {
+      "bytes": 100611,
+      "sha256": "d05b40b0690d5535afe0e56c1163bac6aec25a24c247c8fd98cb0a6646379224"
+    },
+    "DatasetTags.csv": {
+      "bytes": 15655817,
+      "sha256": "a038ec71de563c977461f2cd57a4ed90a8914e9a60ac8456b6c8560f6c1397a0"
+    }
+  },
+  "headline": {
+    "population": 737729,
+    "median_downloads": 8,
+    "share_never_in_notebook": 0.6949,
+    "share_never_revised": 0.864,
+    "median_dl_organisation": 158,
+    "median_dl_individual": 8
+  }
+}

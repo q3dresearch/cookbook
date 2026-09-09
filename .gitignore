@@ -1,0 +1,12 @@
+# Credentials, never committed.
+.env.local
+.env
+
+__pycache__/
+*.pyc
+.venv/
+
+# Large corpora do not belong here. If a tool can re-fetch it, ship the
+# harvester instead — GitHub warns above 50 MB and clones stay slow forever.
+# Commit data only when it is a snapshot that cannot be reconstructed.
+*.csv.gz

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="520" viewBox="0 0 940 520" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'>
+<rect width="940" height="520" fill="#fcfcfb"/>
+<text x="92" y="40" font-size="19" font-weight="600" fill="#0b0b0b">Kaggle wrote the notebooks itself, until it stopped</text>
+<text x="92" y="64" font-size="13.5" fill="#52514e">A dataset nobody downloaded cannot have a notebook somebody wrote. Yet nearly all of them carried one until 2020 &#8212;</text>
+<text x="92" y="82" font-size="13.5" fill="#52514e">so &#8220;never opened in a notebook&#8221; measures a platform feature before 2021, not interest. Any trend crossing that line is broken.</text>
+<line x1="92" y1="332.0" x2="898" y2="332.0" stroke="#e1e0d9"/>
+<text x="82" y="336.0" font-size="11" fill="#898781" text-anchor="end">0%</text>
+<line x1="92" y1="232.0" x2="898" y2="232.0" stroke="#e1e0d9"/>
+<text x="82" y="236.0" font-size="11" fill="#898781" text-anchor="end">50%</text>
+<line x1="92" y1="132.0" x2="898" y2="132.0" stroke="#e1e0d9"/>
+<text x="82" y="136.0" font-size="11" fill="#898781" text-anchor="end">100%</text>
+<polyline points="92.0,196.4 181.6,184.4 271.1,151.4 360.7,196.0 450.2,263.3 539.8,268.7 629.3,270.8 718.9,276.0 808.4,282.1 898.0,293.4" fill="none" stroke="#b9c9e2" stroke-width="2"/>
+<circle cx="92.0" cy="196.4" r="3.5" fill="#b9c9e2"/>
+<circle cx="181.6" cy="184.4" r="3.5" fill="#b9c9e2"/>
+<circle cx="271.1" cy="151.4" r="3.5" fill="#b9c9e2"/>
+<circle cx="360.7" cy="196.0" r="3.5" fill="#b9c9e2"/>
+<circle cx="450.2" cy="263.3" r="3.5" fill="#b9c9e2"/>
+<circle cx="539.8" cy="268.7" r="3.5" fill="#b9c9e2"/>
+<circle cx="629.3" cy="270.8" r="3.5" fill="#b9c9e2"/>
+<circle cx="718.9" cy="276.0" r="3.5" fill="#b9c9e2"/>
+<circle cx="808.4" cy="282.1" r="3.5" fill="#b9c9e2"/>
+<circle cx="898.0" cy="293.4" r="3.5" fill="#b9c9e2"/>
+<polyline points="92.0,132.0 181.6,158.1 271.1,154.0 360.7,198.7 450.2,315.8 539.8,318.5 629.3,315.7 718.9,308.3 808.4,305.3 898.0,303.3" fill="none" stroke="#2361b0" stroke-width="2.5"/>
+<circle cx="92.0" cy="132.0" r="3.5" fill="#2361b0"/>
+<circle cx="181.6" cy="158.1" r="3.5" fill="#2361b0"/>
+<circle cx="271.1" cy="154.0" r="3.5" fill="#2361b0"/>
+<circle cx="360.7" cy="198.7" r="3.5" fill="#2361b0"/>
+<circle cx="450.2" cy="315.8" r="3.5" fill="#2361b0"/>
+<circle cx="539.8" cy="318.5" r="3.5" fill="#2361b0"/>
+<circle cx="629.3" cy="315.7" r="3.5" fill="#2361b0"/>
+<circle cx="718.9" cy="308.3" r="3.5" fill="#2361b0"/>
+<circle cx="808.4" cy="305.3" r="3.5" fill="#2361b0"/>
+<circle cx="898.0" cy="303.3" r="3.5" fill="#2361b0"/>
+<text x="100" y="120" font-size="12" fill="#0b0b0b">datasets with one download or fewer</text>
+<text x="100" y="218" font-size="12" fill="#52514e">all datasets</text>
+<text x="92.0" y="352" font-size="11" fill="#898781" text-anchor="middle">2017</text>
+<text x="181.6" y="352" font-size="11" fill="#898781" text-anchor="middle">2018</text>
+<text x="271.1" y="352" font-size="11" fill="#898781" text-anchor="middle">2019</text>
+<text x="360.7" y="352" font-size="11" fill="#898781" text-anchor="middle">2020</text>
+<text x="450.2" y="352" font-size="11" fill="#898781" text-anchor="middle">2021</text>
+<text x="539.8" y="352" font-size="11" fill="#898781" text-anchor="middle">2022</text>
+<text x="629.3" y="352" font-size="11" fill="#898781" text-anchor="middle">2023</text>
+<text x="718.9" y="352" font-size="11" fill="#898781" text-anchor="middle">2024</text>
+<text x="808.4" y="352" font-size="11" fill="#898781" text-anchor="middle">2025</text>
+<text x="898.0" y="352" font-size="11" fill="#898781" text-anchor="middle">2026</text>
+<line x1="450.2" y1="124" x2="450.2" y2="332" stroke="#c3c2b7" stroke-dasharray="3 3"/>
+<text x="458" y="120" font-size="11.5" fill="#52514e">comparable from here</text>
+<text x="92" y="388" font-size="12.5" fill="#52514e">The 2019 &#8220;dip&#8221; an earlier version of this recipe could not explain was this feature at its peak: 48.8% of 2019</text>
+<text x="92" y="408" font-size="12.5" fill="#52514e">datasets sit at <tspan font-weight="600">exactly one</tspan> notebook, against ~36% either side. The cohort figure in this recipe now starts at 2021.</text>
+<text x="92" y="490" font-size="11.5" fill="#898781">Source: Kaggle Meta Kaggle, Datasets.csv, retrieved 2026-09-09. Every dataset ever published.</text>
+<text x="92" y="506" font-size="11.5" fill="#898781">Method and code: github.com/q3dresearch/cookbook &#183; recipes/dataset-demand-shape</text>
+</svg>

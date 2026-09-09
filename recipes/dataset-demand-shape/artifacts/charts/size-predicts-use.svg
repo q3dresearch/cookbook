@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="510" viewBox="0 0 960 510" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'>
+<rect width="960" height="510" fill="#fcfcfb"/>
+<text x="40" y="40" font-size="19" font-weight="600" fill="#0b0b0b">Bigger datasets are used less &#8212; and sampling the winners hides it</text>
+<text x="40" y="64" font-size="13.5" fill="#52514e">Across all 735,653 datasets with a recorded size, both measures of not-being-used climb with file size. A sample</text>
+<text x="40" y="82" font-size="13.5" fill="#52514e">drawn from Kaggle&#8217;s own popularity orderings reaches only datasets that already succeeded, and reports no such effect.</text>
+<text x="40" y="112" font-size="11.5" fill="#898781">whole population, two measures of not-being-used</text>
+<text x="148" y="139" font-size="12.5" fill="#52514e" text-anchor="end">under 1 MB</text>
+<rect x="160" y="126" width="224.0" height="13" rx="3" fill="#2361b0"/>
+<rect x="160" y="141" width="343.6" height="13" rx="3" fill="#b9c9e2"/>
+<text x="393.0" y="137" font-size="12" fill="#0b0b0b">44% <tspan fill="#898781">under 10 downloads</tspan></text>
+<text x="512.6" y="152" font-size="12" fill="#52514e">67% <tspan fill="#898781">never in a notebook &#183; n=233,141</tspan></text>
+<text x="148" y="185" font-size="12.5" fill="#52514e" text-anchor="end">1–100 MB</text>
+<rect x="160" y="172" width="248.0" height="13" rx="3" fill="#2361b0"/>
+<rect x="160" y="187" width="341.5" height="13" rx="3" fill="#b9c9e2"/>
+<text x="417.0" y="183" font-size="12" fill="#0b0b0b">49% <tspan fill="#898781">under 10 downloads</tspan></text>
+<text x="510.5" y="198" font-size="12" fill="#52514e">67% <tspan fill="#898781">never in a notebook &#183; n=209,431</tspan></text>
+<text x="148" y="231" font-size="12.5" fill="#52514e" text-anchor="end">100 MB–1 GB</text>
+<rect x="160" y="218" width="316.6" height="13" rx="3" fill="#2361b0"/>
+<rect x="160" y="233" width="361.3" height="13" rx="3" fill="#b9c9e2"/>
+<text x="485.6" y="229" font-size="12" fill="#0b0b0b">62% <tspan fill="#898781">under 10 downloads</tspan></text>
+<text x="530.3" y="244" font-size="12" fill="#52514e">71% <tspan fill="#898781">never in a notebook &#183; n=135,529</tspan></text>
+<text x="148" y="277" font-size="12.5" fill="#52514e" text-anchor="end">over 1 GB</text>
+<rect x="160" y="264" width="337.4" height="13" rx="3" fill="#2361b0"/>
+<rect x="160" y="279" width="380.8" height="13" rx="3" fill="#b9c9e2"/>
+<text x="506.4" y="275" font-size="12" fill="#0b0b0b">66% <tspan fill="#898781">under 10 downloads</tspan></text>
+<text x="549.8" y="290" font-size="12" fill="#52514e">75% <tspan fill="#898781">never in a notebook &#183; n=157,552</tspan></text>
+<text x="40" y="344" font-size="12.5" fill="#52514e">Not an age effect: within the 2023 cohort alone, under-10-downloads runs 26% for the smallest band against 60% for the largest.</text>
+<text x="40" y="388" font-size="13" font-weight="600" fill="#0b0b0b">The same question, answered by a sample of 4,233 that had already been noticed</text>
+<text x="40" y="412" font-size="12.5" fill="#52514e">share under 100 downloads: 28% &#183; 23% &#183; 21% &#183; 15% &#183; 18% &#183; 22% from smallest to largest &#8212; flat, and the</text>
+<text x="40" y="430" font-size="12.5" fill="#52514e">smallest band the deadest. The sample did not lose precision. It inverted the conclusion.</text>
+<text x="40" y="480" font-size="11.5" fill="#898781">Source: Kaggle Meta Kaggle (Datasets, DatasetVersions), retrieved 2026-09-09. Median creation year is 2024 in every band.</text>
+<text x="40" y="496" font-size="11.5" fill="#898781">Method and code: github.com/q3dresearch/cookbook &#183; recipes/dataset-demand-shape</text>
+</svg>

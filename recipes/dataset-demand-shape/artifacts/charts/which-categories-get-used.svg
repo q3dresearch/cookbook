@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="730" viewBox="0 0 1000 730" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'>
+<rect width="1000" height="730" fill="#fcfcfb"/>
+<text x="70" y="40" font-size="19" font-weight="600" fill="#0b0b0b">Datasets tagged &#8220;research&#8221; are among the least used on Kaggle</text>
+<text x="70" y="64" font-size="13.5" fill="#52514e">Median lifetime downloads by category, for the 65 tags with at least 2,000 datasets. The spread is 60-fold, and</text>
+<text x="70" y="82" font-size="13.5" fill="#52514e">a specialist corpus sits at the wrong end of it. All 737,729 datasets ever published.</text>
+<text x="198" y="134" font-size="12.5" fill="#52514e" text-anchor="end">classification</text>
+<rect x="210" y="118" width="450.0" height="22" rx="3.5" fill="#2361b0" opacity="0.55"/>
+<text x="670.0" y="134" font-size="12" fill="#0b0b0b">244 <tspan fill="#898781">dl &#183; 7,421 sets &#183; 31% never used</tspan></text>
+<text x="198" y="167" font-size="12.5" fill="#52514e" text-anchor="end">regression</text>
+<rect x="210" y="151" width="401.1" height="22" rx="3.5" fill="#2361b0" opacity="0.55"/>
+<text x="621.1" y="167" font-size="12" fill="#0b0b0b">218 <tspan fill="#898781">dl &#183; 2,748 sets &#183; 31% never used</tspan></text>
+<text x="198" y="200" font-size="12.5" fill="#52514e" text-anchor="end">exploratory data analysis</text>
+<rect x="210" y="184" width="384.5" height="22" rx="3.5" fill="#2361b0" opacity="0.55"/>
+<text x="604.5" y="200" font-size="12" fill="#0b0b0b">208 <tspan fill="#898781">dl &#183; 7,022 sets &#183; 34% never used</tspan></text>
+<text x="198" y="233" font-size="12.5" fill="#52514e" text-anchor="end">healthcare</text>
+<rect x="210" y="217" width="343.0" height="22" rx="3.5" fill="#2361b0" opacity="0.55"/>
+<text x="563.0" y="233" font-size="12" fill="#0b0b0b">186 <tspan fill="#898781">dl &#183; 2,807 sets &#183; 40% never used</tspan></text>
+<text x="198" y="266" font-size="12.5" fill="#52514e" text-anchor="end">computer vision</text>
+<rect x="210" y="250" width="306.1" height="22" rx="3.5" fill="#2361b0" opacity="0.55"/>
+<text x="526.1" y="266" font-size="12" fill="#0b0b0b">166 <tspan fill="#898781">dl &#183; 6,395 sets &#183; 38% never used</tspan></text>
+<text x="198" y="299" font-size="12.5" fill="#52514e" text-anchor="end">data visualization</text>
+<rect x="210" y="283" width="284.0" height="22" rx="3.5" fill="#2361b0" opacity="0.55"/>
+<text x="504.0" y="299" font-size="12" fill="#0b0b0b">154 <tspan fill="#898781">dl &#183; 9,795 sets &#183; 38% never used</tspan></text>
+<text x="198" y="350" font-size="12.5" fill="#52514e" text-anchor="end">law</text>
+<rect x="210" y="334" width="44.3" height="22" rx="3.5" fill="#2361b0" opacity="0.55"/>
+<text x="264.3" y="350" font-size="12" fill="#0b0b0b">24 <tspan fill="#898781">dl &#183; 2,634 sets &#183; 55% never used</tspan></text>
+<text x="198" y="383" font-size="12.5" fill="#52514e" text-anchor="end">music</text>
+<rect x="210" y="367" width="44.3" height="22" rx="3.5" fill="#2361b0" opacity="0.55"/>
+<text x="264.3" y="383" font-size="12" fill="#0b0b0b">24 <tspan fill="#898781">dl &#183; 4,482 sets &#183; 59% never used</tspan></text>
+<text x="198" y="416" font-size="12.5" fill="#52514e" text-anchor="end">exercise</text>
+<rect x="210" y="400" width="31.4" height="22" rx="3.5" fill="#2361b0" opacity="0.55"/>
+<text x="251.4" y="416" font-size="12" fill="#0b0b0b">17 <tspan fill="#898781">dl &#183; 2,168 sets &#183; 53% never used</tspan></text>
+<text x="198" y="449" font-size="12.5" fill="#52514e" text-anchor="end">clothing and accessories</text>
+<rect x="210" y="433" width="16.6" height="22" rx="3.5" fill="#2361b0" opacity="0.55"/>
+<text x="236.6" y="449" font-size="12" fill="#0b0b0b">9 <tspan fill="#898781">dl &#183; 2,460 sets &#183; 63% never used</tspan></text>
+<text x="198" y="482" font-size="12.5" fill="#0b0b0b" text-anchor="end">research</text>
+<rect x="210" y="466" width="16.6" height="22" rx="3.5" fill="#2361b0" opacity="1.0"/>
+<text x="236.6" y="482" font-size="12" fill="#0b0b0b">9 <tspan fill="#898781">dl &#183; 2,597 sets &#183; 73% never used</tspan></text>
+<text x="198" y="515" font-size="12.5" fill="#0b0b0b" text-anchor="end">pre-trained model</text>
+<rect x="210" y="499" width="7.4" height="22" rx="3.5" fill="#2361b0" opacity="1.0"/>
+<text x="227.4" y="515" font-size="12" fill="#0b0b0b">4 <tspan fill="#898781">dl &#183; 43,589 sets &#183; 73% never used</tspan></text>
+<line x1="10" y1="320" x2="960" y2="320" stroke="#c3c2b7" stroke-dasharray="3 3"/>
+<text x="10" y="314" font-size="11" fill="#898781">most used</text>
+<text x="10" y="338" font-size="11" fill="#898781">least used</text>
+<text x="70" y="592" font-size="13" font-weight="600" fill="#0b0b0b">The organisation &#8220;advantage&#8221; is mostly a head start</text>
+<text x="70" y="616" font-size="12.5" fill="#52514e">organisations median 158 downloads, individuals 8 &#8212; a twentyfold gap.</text>
+<text x="70" y="636" font-size="12.5" fill="#52514e">But median publication year is 2018 for organisations and 2024 for individuals. Matched on year and size band,</text>
+<text x="70" y="656" font-size="12.5" fill="#0b0b0b">the advantage falls to <tspan font-weight="600">2.8x</tspan>. Most of the headline gap is six extra years of accumulation, not the badge.</text>
+<text x="70" y="700" font-size="11.5" fill="#898781">Source: Kaggle Meta Kaggle (Datasets, Tags, DatasetTags), retrieved 2026-09-09.</text>
+<text x="70" y="716" font-size="11.5" fill="#898781">Method and code: github.com/q3dresearch/cookbook &#183; recipes/dataset-demand-shape</text>
+</svg>

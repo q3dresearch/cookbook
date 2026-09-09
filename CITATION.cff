@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use a finding from this cookbook, please cite it."
+# type is software, not dataset: the citable object here is the METHOD — a
+# recipe you can re-run — not a captured corpus. The corpora live in the
+# wss-* archives, which are cited separately as datasets.
+type: software
+title: "Data Analysis Cookbook (q3dresearch/cookbook)"
+abstract: >-
+  Reproducible recipes that turn public records into findings. Each recipe is
+  one question, one method, one figure, and a written account of what the
+  answer cannot support. Companion to the wss-* archives, which capture public
+  records their publishers overwrite; this holds the reasoning built on them
+  and on sources that keep their own history.
+authors:
+  - name: "neldivad"
+    website: "https://github.com/neldivad"
+  - name: "q3dresearch"
+    website: "https://github.com/q3dresearch"
+license: MIT
+repository-code: "https://github.com/q3dresearch/cookbook"
