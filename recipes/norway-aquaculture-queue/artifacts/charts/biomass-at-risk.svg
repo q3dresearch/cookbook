@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1030" height="572" viewBox="0 0 1030 572" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'>
+<rect width="1030" height="572" fill="#fcfcfb"/>
+<text x="36" y="42" font-size="20" font-weight="600" fill="#0b0b0b">More new capacity is waiting than has ever been approved</text>
+<text x="36" y="68" font-size="13.5" fill="#52514e">Maximum allowed biomass applied for, by what happened to the application. Standing capacity, not annual production.</text>
+<rect x="36" y="88" width="12" height="12" rx="2.5" fill="#b5651d"/>
+<text x="54" y="98" font-size="12" fill="#52514e">still waiting</text>
+<rect x="204" y="88" width="12" height="12" rx="2.5" fill="#3f7d3a"/>
+<text x="222" y="98" font-size="12" fill="#52514e">granted</text>
+<rect x="372" y="88" width="12" height="12" rx="2.5" fill="#a8324a"/>
+<text x="390" y="98" font-size="12" fill="#52514e">refused</text>
+<text x="234" y="212" font-size="13" fill="#0b0b0b" text-anchor="end">New licence</text>
+<text x="234" y="228" font-size="11" fill="#8a8880" text-anchor="end">new capacity &#183; 40 of 71 state a figure</text>
+<rect x="250.0" y="197" width="89.0" height="24" fill="#b5651d"/>
+<text x="295.3" y="213" font-size="11.5" fill="#ffffff" text-anchor="middle">103k</text>
+<rect x="340.5" y="197" width="10.3" height="24" fill="#3f7d3a"/>
+<rect x="352.4" y="197" width="3.0" height="24" fill="#a8324a"/>
+<text x="818" y="212" font-size="12" fill="#b5651d" font-weight="600">85% undecided</text>
+<text x="818" y="228" font-size="11" fill="#8a8880">7.7&#215; what was granted</text>
+<text x="234" y="274" font-size="13" fill="#0b0b0b" text-anchor="end">New sea site</text>
+<text x="234" y="290" font-size="11" fill="#8a8880" text-anchor="end">new capacity &#183; 85 of 86 state a figure</text>
+<rect x="250.0" y="259" width="132.8" height="24" fill="#b5651d"/>
+<text x="317.2" y="275" font-size="11.5" fill="#ffffff" text-anchor="middle">153k</text>
+<rect x="384.3" y="259" width="35.3" height="24" fill="#3f7d3a"/>
+<rect x="421.1" y="259" width="65.4" height="24" fill="#a8324a"/>
+<text x="454.6" y="275" font-size="11.5" fill="#ffffff" text-anchor="middle">76k</text>
+<text x="818" y="274" font-size="12" fill="#b5651d" font-weight="600">56% undecided</text>
+<text x="818" y="290" font-size="11" fill="#8a8880">3.6&#215; what was granted</text>
+<text x="234" y="336" font-size="13" fill="#0b0b0b" text-anchor="end">Change existing site</text>
+<text x="234" y="352" font-size="11" fill="#8a8880" text-anchor="end">modification &#183; 138 of 324 state a figure</text>
+<rect x="250.0" y="321" width="152.0" height="24" fill="#b5651d"/>
+<text x="326.7" y="337" font-size="11.5" fill="#ffffff" text-anchor="middle">175k</text>
+<rect x="403.5" y="321" width="259.7" height="24" fill="#3f7d3a"/>
+<text x="534.1" y="337" font-size="11.5" fill="#ffffff" text-anchor="middle">298k</text>
+<rect x="664.7" y="321" width="137.8" height="24" fill="#a8324a"/>
+<text x="734.4" y="337" font-size="11.5" fill="#ffffff" text-anchor="middle">159k</text>
+<text x="818" y="336" font-size="12" fill="#b5651d" font-weight="600">28% undecided</text>
+<text x="818" y="352" font-size="11" fill="#8a8880">0.6&#215; what was granted</text>
+<line x1="36" y1="402" x2="994" y2="402" stroke="#e3e2db"/>
+<text x="36" y="424" font-size="13" fill="#0b0b0b"><tspan font-weight="600">256,072 of the 430,838 tonnes awaiting a decision would be new capacity &#8212; 59% of the pile.</tspan></text>
+<text x="36" y="446" font-size="12.5" fill="#52514e">Norway caps salmon output by licensed biomass, so a queue holding more new capacity than it has released is the binding constraint on growth.</text>
+<text x="36" y="474" font-size="11.5" fill="#8a8880">Every figure is a floor: biomass is stated on a minority of applications and the totals count only those. Whether applicants who omit it differ systematically is untested.</text>
+<text x="36" y="492" font-size="11.5" fill="#8a8880">Source: Fiskeridirektoratet Akvakultursøknader, layers 0 and 4. Families under 20,000 tonnes omitted.</text>
+</svg>

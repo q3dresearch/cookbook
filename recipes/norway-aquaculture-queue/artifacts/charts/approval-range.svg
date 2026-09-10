@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="704" viewBox="0 0 1000 704" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'>
+<rect width="1000" height="704" fill="#fcfcfb"/>
+<text x="36" y="42" font-size="20" font-weight="600" fill="#0b0b0b">The approval rate is a range, and the published number is its ceiling</text>
+<text x="36" y="68" font-size="13.5" fill="#52514e">Each bar runs from the floor &#8212; every pending application refused &#8212; to the figure a decided-only reading gives.</text>
+<text x="36" y="87" font-size="13.5" fill="#52514e">Refusals take a median of 359 days against 129 for grants, so the pending pile skews toward refusal and the truth sits low in each bar.</text>
+<circle cx="42" cy="118" r="6" fill="#a8324a"/>
+<text x="54" y="122" font-size="12" fill="#52514e">floor: pending all refused</text>
+<circle cx="266" cy="118" r="6" fill="#2361b0"/>
+<text x="278" y="122" font-size="12" fill="#52514e">counting withdrawals as not granted</text>
+<circle cx="596" cy="118" r="6" fill="#b9c9e2" stroke="#8a8880" stroke-width="1.2"/>
+<text x="608" y="122" font-size="12" fill="#52514e">as previously published</text>
+<line x1="226.0" y1="182" x2="226.0" y2="504" stroke="#e3e2db"/>
+<text x="226.0" y="524" font-size="11.5" fill="#8a8880" text-anchor="middle">0%</text>
+<line x1="364.5" y1="182" x2="364.5" y2="504" stroke="#e3e2db"/>
+<text x="364.5" y="524" font-size="11.5" fill="#8a8880" text-anchor="middle">25%</text>
+<line x1="503.0" y1="182" x2="503.0" y2="504" stroke="#e3e2db"/>
+<text x="503.0" y="524" font-size="11.5" fill="#8a8880" text-anchor="middle">50%</text>
+<line x1="641.5" y1="182" x2="641.5" y2="504" stroke="#e3e2db"/>
+<text x="641.5" y="524" font-size="11.5" fill="#8a8880" text-anchor="middle">75%</text>
+<line x1="780.0" y1="182" x2="780.0" y2="504" stroke="#e3e2db"/>
+<text x="780.0" y="524" font-size="11.5" fill="#8a8880" text-anchor="middle">100%</text>
+<text x="210" y="210" font-size="13" fill="#0b0b0b" text-anchor="end">New sea site</text>
+<text x="210" y="226" font-size="11" fill="#8a8880" text-anchor="end">86 asked &#183; 44 still pending</text>
+<line x1="303.3" y1="208" x2="440.5" y2="208" stroke="#8a8880" stroke-width="2" stroke-opacity="0.5"/>
+<circle cx="440.5" cy="208" r="6.5" fill="#b9c9e2" stroke="#8a8880" stroke-width="1.4"/>
+<circle cx="384.3" cy="208" r="6.5" fill="#2361b0"/>
+<circle cx="303.3" cy="208" r="6.5" fill="#a8324a"/>
+<text x="794" y="210" font-size="12" fill="#0b0b0b">14% &#8211; 39%</text>
+<text x="794" y="226" font-size="11" fill="#8a8880">12 granted, 19 denied, 11 withdrawn</text>
+<text x="210" y="264" font-size="13" fill="#0b0b0b" text-anchor="end">Special purpose</text>
+<text x="210" y="280" font-size="11" fill="#8a8880" text-anchor="end">64 asked &#183; 32 still pending</text>
+<line x1="321.2" y1="262" x2="491.0" y2="262" stroke="#8a8880" stroke-width="2" stroke-opacity="0.5"/>
+<circle cx="491.0" cy="262" r="6.5" fill="#b9c9e2" stroke="#8a8880" stroke-width="1.4"/>
+<circle cx="416.4" cy="262" r="6.5" fill="#2361b0"/>
+<circle cx="321.2" cy="262" r="6.5" fill="#a8324a"/>
+<text x="794" y="264" font-size="12" fill="#0b0b0b">17% &#8211; 48%</text>
+<text x="794" y="280" font-size="11" fill="#8a8880">11 granted, 12 denied, 9 withdrawn</text>
+<text x="210" y="318" font-size="13" fill="#0b0b0b" text-anchor="end">Change existing site</text>
+<text x="210" y="334" font-size="11" fill="#8a8880" text-anchor="end">324 asked &#183; 92 still pending</text>
+<line x1="533.8" y1="316" x2="694.2" y2="316" stroke="#8a8880" stroke-width="2" stroke-opacity="0.5"/>
+<circle cx="694.2" cy="316" r="6.5" fill="#b9c9e2" stroke="#8a8880" stroke-width="1.4"/>
+<circle cx="655.8" cy="316" r="6.5" fill="#2361b0"/>
+<circle cx="533.8" cy="316" r="6.5" fill="#a8324a"/>
+<text x="794" y="318" font-size="12" fill="#0b0b0b">56% &#8211; 85%</text>
+<text x="794" y="334" font-size="11" fill="#8a8880">180 granted, 33 denied, 19 withdrawn</text>
+<text x="210" y="372" font-size="13" fill="#0b0b0b" text-anchor="end">New licence</text>
+<text x="210" y="388" font-size="11" fill="#8a8880" text-anchor="end">71 asked &#183; 42 still pending</text>
+<line x1="374.3" y1="370" x2="727.2" y2="370" stroke="#8a8880" stroke-width="2" stroke-opacity="0.5"/>
+<circle cx="727.2" cy="370" r="6.5" fill="#b9c9e2" stroke="#8a8880" stroke-width="1.4"/>
+<circle cx="589.0" cy="370" r="6.5" fill="#2361b0"/>
+<circle cx="374.3" cy="370" r="6.5" fill="#a8324a"/>
+<text x="794" y="372" font-size="12" fill="#0b0b0b">27% &#8211; 90%</text>
+<text x="794" y="388" font-size="11" fill="#8a8880">19 granted, 2 denied, 8 withdrawn</text>
+<text x="210" y="426" font-size="13" fill="#0b0b0b" text-anchor="end">Land-based</text>
+<text x="210" y="442" font-size="11" fill="#8a8880" text-anchor="end">60 asked &#183; 37 still pending</text>
+<line x1="373.7" y1="424" x2="747.4" y2="424" stroke="#8a8880" stroke-width="2" stroke-opacity="0.5"/>
+<circle cx="747.4" cy="424" r="6.5" fill="#b9c9e2" stroke="#8a8880" stroke-width="1.4"/>
+<circle cx="611.4" cy="424" r="6.5" fill="#2361b0"/>
+<circle cx="373.7" cy="424" r="6.5" fill="#a8324a"/>
+<text x="794" y="426" font-size="12" fill="#0b0b0b">27% &#8211; 94%</text>
+<text x="794" y="442" font-size="11" fill="#8a8880">16 granted, 1 denied, 6 withdrawn</text>
+<text x="210" y="480" font-size="13" fill="#0b0b0b" text-anchor="end">Co-location</text>
+<text x="210" y="496" font-size="11" fill="#8a8880" text-anchor="end">257 asked &#183; 38 still pending</text>
+<line x1="642.0" y1="478" x2="774.3" y2="478" stroke="#8a8880" stroke-width="2" stroke-opacity="0.5"/>
+<circle cx="774.3" cy="478" r="6.5" fill="#b9c9e2" stroke="#8a8880" stroke-width="1.4"/>
+<circle cx="714.2" cy="478" r="6.5" fill="#2361b0"/>
+<circle cx="642.0" cy="478" r="6.5" fill="#a8324a"/>
+<text x="794" y="480" font-size="12" fill="#0b0b0b">75% &#8211; 99%</text>
+<text x="794" y="496" font-size="11" fill="#8a8880">193 granted, 2 denied, 24 withdrawn</text>
+<line x1="36" y1="538" x2="964" y2="538" stroke="#e3e2db"/>
+<text x="36" y="560" font-size="13" fill="#0b0b0b"><tspan font-weight="600">New sea space is 14%&#8211;39%; going onto land is 27%&#8211;94%.</tspan> The gap holds at every reading, but neither is the single number it was reported as.</text>
+<text x="36" y="582" font-size="12.5" fill="#52514e">Land-based was previously called &#8220;close to automatic&#8221; at 94%. Counting the applicants who withdrew, it is 70%.</text>
+<text x="36" y="610" font-size="11.5" fill="#8a8880">Families with fewer than 25 applications are omitted. Source: Fiskeridirektoratet Akvakultursøknader, layers 0 and 4, fetched 2026-09-10.</text>
+</svg>

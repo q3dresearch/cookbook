@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="744" viewBox="0 0 940 744" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'>
+<rect width="940" height="744" fill="#fcfcfb"/>
+<text x="36" y="42" font-size="20" font-weight="600" fill="#0b0b0b">Stricter and slower at the same time</text>
+<text x="36" y="68" font-size="13.5" fill="#52514e">Every other rate in this recipe is pooled across all years. These are the years separately, and they are not the same:</text>
+<text x="36" y="87" font-size="13.5" fill="#52514e">an applicant today faces 83%, not the pooled 87%.</text>
+<text x="36" y="174" font-size="12.5" font-weight="600" fill="#2361b0">share of decisions granted</text>
+<line x1="92" y1="300.8" x2="828" y2="300.8" stroke="#e3e2db"/>
+<text x="82" y="304.8" font-size="11.5" fill="#8a8880" text-anchor="end">80%</text>
+<line x1="92" y1="266.8" x2="828" y2="266.8" stroke="#e3e2db"/>
+<text x="82" y="270.8" font-size="11.5" fill="#8a8880" text-anchor="end">85%</text>
+<line x1="92" y1="232.9" x2="828" y2="232.9" stroke="#e3e2db"/>
+<text x="82" y="236.9" font-size="11.5" fill="#8a8880" text-anchor="end">90%</text>
+<line x1="92" y1="199.0" x2="828" y2="199.0" stroke="#e3e2db"/>
+<text x="82" y="203.0" font-size="11.5" fill="#8a8880" text-anchor="end">95%</text>
+<polyline points="214.7,209.0 460.0,263.6 705.3,278.1" fill="none" stroke="#2361b0" stroke-width="3"/>
+<circle cx="214.7" cy="209.0" r="5.5" fill="#2361b0" stroke="#fcfcfb" stroke-width="2"/>
+<text x="214.7" y="196.0" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="middle">94%</text>
+<circle cx="460.0" cy="263.6" r="5.5" fill="#2361b0" stroke="#fcfcfb" stroke-width="2"/>
+<text x="460.0" y="250.6" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="middle">85%</text>
+<circle cx="705.3" cy="278.1" r="5.5" fill="#2361b0" stroke="#fcfcfb" stroke-width="2"/>
+<text x="705.3" y="265.1" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="middle">83%</text>
+<text x="36" y="422" font-size="12.5" font-weight="600" fill="#b5651d">median days to a decision</text>
+<line x1="92" y1="560.3" x2="828" y2="560.3" stroke="#e3e2db"/>
+<text x="82" y="564.3" font-size="11.5" fill="#8a8880" text-anchor="end">50d</text>
+<line x1="92" y1="526.6" x2="828" y2="526.6" stroke="#e3e2db"/>
+<text x="82" y="530.6" font-size="11.5" fill="#8a8880" text-anchor="end">100d</text>
+<line x1="92" y1="492.9" x2="828" y2="492.9" stroke="#e3e2db"/>
+<text x="82" y="496.9" font-size="11.5" fill="#8a8880" text-anchor="end">150d</text>
+<line x1="92" y1="459.2" x2="828" y2="459.2" stroke="#e3e2db"/>
+<text x="82" y="463.2" font-size="11.5" fill="#8a8880" text-anchor="end">200d</text>
+<polyline points="214.7,546.1 460.0,481.4 705.3,459.5" fill="none" stroke="#b5651d" stroke-width="3"/>
+<circle cx="214.7" cy="546.1" r="5.5" fill="#b5651d" stroke="#fcfcfb" stroke-width="2"/>
+<text x="214.7" y="533.1" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="middle">71d</text>
+<circle cx="460.0" cy="481.4" r="5.5" fill="#b5651d" stroke="#fcfcfb" stroke-width="2"/>
+<text x="460.0" y="468.4" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="middle">167d</text>
+<circle cx="705.3" cy="459.5" r="5.5" fill="#b5651d" stroke="#fcfcfb" stroke-width="2"/>
+<text x="705.3" y="446.5" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="middle">200d</text>
+<text x="214.7" y="618.0" font-size="12" fill="#52514e" text-anchor="middle">2024</text>
+<text x="214.7" y="634.0" font-size="10.5" fill="#8a8880" text-anchor="middle">n=108</text>
+<text x="460.0" y="618.0" font-size="12" fill="#52514e" text-anchor="middle">2025</text>
+<text x="460.0" y="634.0" font-size="10.5" fill="#8a8880" text-anchor="middle">n=234</text>
+<text x="705.3" y="618.0" font-size="12" fill="#8a8880" text-anchor="middle">2026 (partial)</text>
+<text x="705.3" y="634.0" font-size="10.5" fill="#8a8880" text-anchor="middle">n=162</text>
+<line x1="36" y1="654" x2="904" y2="654" stroke="#e3e2db"/>
+<text x="36" y="674" font-size="13" fill="#0b0b0b"><tspan font-weight="600">Approval falls 94% to 83% while the median decision stretches 71 to 200 days.</tspan> Both worsen together.</text>
+<text x="36" y="696" font-size="12.5" fill="#52514e">That is the signature of a queue under load rather than a decision to refuse more: the regulator is not saying no faster, it is saying anything slower.</text>
+<text x="36" y="730" font-size="11.5" fill="#8a8880">Years with fewer than 20 decisions omitted; the current year is partial and holds only what has been decided so far. Withdrawn applications carry no date and are excluded here.</text>
+</svg>
