@@ -234,3 +234,5 @@ almost no fined decisions where it stands alone. That figure is kept — it is
 useful as the thing the compound figure corrects — but relabelled so its vertical
 axis reads "median fine of decisions citing this article", never "what this
 article costs".
+
+*Every question this recipe asked — answered, partial and open, with what would close each one — is in [`artifacts/research-questions/questions.md`](artifacts/research-questions/questions.md).*

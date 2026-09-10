@@ -269,3 +269,6 @@ Stdlib only; `curl` is used for the fetch. No data is committed.
   also carries STK, a count of individual fish, and DA, an area in dekar. Summing
   those as mass gives 87 million tonnes against a national output near 1.5
   million; 26 sites are excluded for that reason.
+
+*Every question this recipe asked — answered, partial and open, with what would close each one — is in [`artifacts/research-questions/questions.md`](artifacts/research-questions/questions.md).*
+

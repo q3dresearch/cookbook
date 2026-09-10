@@ -309,3 +309,5 @@ is a bug and not your environment — every script here must run from a clean cl
 with nothing but Python. This is checked before publication, because three of
 these four scripts were broken for a fortnight by a directory rename and the
 recipe still read as finished with four figures sitting beside them.*
+
+*Every question this recipe asked — answered, partial and open, with what would close each one — is in [`artifacts/research-questions/questions.md`](artifacts/research-questions/questions.md).*

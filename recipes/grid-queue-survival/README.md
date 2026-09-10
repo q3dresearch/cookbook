@@ -236,3 +236,6 @@ because both hosts stall indefinitely against Python's urllib with no error.
 * **173 active projects have no usable technology**, almost all MISO rows with the
   field blank. If they are disproportionately one family, `queue-exposure`
   understates it.
+
+*Every question this recipe asked — answered, partial and open, with what would close each one — is in [`artifacts/research-questions/questions.md`](artifacts/research-questions/questions.md).*
+

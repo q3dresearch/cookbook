@@ -405,6 +405,8 @@ noisily.
   amended parts, so every old-section count is a floor. A floor moving up makes
   the case for the quadrant stronger, not weaker.
 
+*Every question this recipe asked — answered, partial and open, with what would close each one — is in [`artifacts/research-questions/questions.md`](artifacts/research-questions/questions.md).*
+
 ## Nothing here is perishable
 
 Worth stating, because it changes how you should treat this recipe: **you do not
