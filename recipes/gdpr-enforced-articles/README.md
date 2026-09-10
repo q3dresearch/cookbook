@@ -53,6 +53,18 @@ setting a fine (Art 83), definitions and scope. 1,420 citations. A controller
 cannot breach any of them, and leaving them in puts "cooperation between
 supervisory authorities" near the top of a list a builder reads as a to-do.
 
+### The chart this corrects
+
+Ranking articles by the median fine of decisions citing them produces this, and it
+is kept because it is the mistake worth seeing rather than a finding:
+
+![Median fine of decisions citing each article](artifacts/charts/gdpr-exposure.svg)
+
+Its vertical axis is not what an article costs. A fine belongs to a decision, most
+decisions cite several articles, and so every article inherits the whole fine of
+every case it appears in. Article 32 looks expensive because it appears in pile-on
+cases; alone it is cheap. The compound chart above is the corrected version.
+
 ## How long it takes, and it is getting worse
 
 ![Time from opening to decision](artifacts/charts/gdpr-leadtime.svg)

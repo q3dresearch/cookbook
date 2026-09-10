@@ -92,6 +92,14 @@ requests in a single department.
 So the compliance series compares different populations year to year. Only
 **2017–2019** has broad coverage (225–295 departments, largest at 14–17%).
 
+![Coverage break: departments publishing per year](artifacts/charts/coverage-trap.svg)
+
+And the break is not a decline in requests, it is a decline in publication. New
+Orleans publishes roughly 1% of the requests it receives, and which departments
+appear changes without any marker in the data:
+
+![New Orleans publication rate](artifacts/charts/publication-rate.svg)
+
 ## 3. An aggregate can move opposite to every part of it
 
 ![Read by department, the biggest records desk moved the opposite way](artifacts/charts/reversal.svg)

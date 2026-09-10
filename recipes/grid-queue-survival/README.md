@@ -36,11 +36,13 @@ unresolved and deaths resolve before builds, so read 5.2% as a floor.
 
 ## The chain: which chart cannot be read alone
 
-**0. [`entry-era`](artifacts/charts/entry-era.svg) — read this one first.** It is
+**0. `entry-era` — read this one first.** It is
 the evidence for the premise everything else rests on: that these families
 occupied the queue at different times. California's gas sits in 2006–2012 and its
 storage in 2018–2021, and the bars do not touch. Without it, a reader has no
 reason to accept that comparing them directly is meaningless.
+
+![Entry era by technology and grid](artifacts/charts/entry-era.svg)
 
 It also shows something no other chart here does: **gas runs opposite ways in the
 two grids.** It is California's oldest family, median entry 2008, and the
@@ -49,37 +51,41 @@ Midwest's newest, median 2024. One queue stopped taking gas as the other started
 These four are not independent findings. Three of them exist because the first one
 makes the naive reading wrong.
 
-**1. [`survival-curves`](artifacts/charts/survival-curves.svg) — the root caveat.**
-Projects die at a median of **1.0 year** and get built at a median of **6.1**.
-Nothing else here is safe to read without that. It is the reason a raw survival
-rate is not a property of a technology.
+**1. `survival-curves` — the root caveat.** Projects die at a median of
+**1.0 year** and get built at a median of **6.1**. Nothing else here is safe to
+read without that. It is the reason a raw survival rate is not a property of a
+technology.
 
-**2. [`cohort-survival`](artifacts/charts/cohort-survival.svg) — requires (1).**
-Because deaths land five years before builds, a young technology accumulates its
+![Survival curves by technology](artifacts/charts/survival-curves.svg)
+
+**2. `cohort-survival` — requires (1).** Because deaths land five years before builds, a young technology accumulates its
 failures before its successes. Storage looks like the worst performer at 8.1%
 all-time and is **19.6%** age-matched, level with combined-cycle gas and above
 solar. Comparing technologies is only legitimate within a fixed entry cohort at a
 fixed horizon.
 
-**3. [`jurisdiction`](artifacts/charts/jurisdiction.svg) — requires (2).**
-Once age and technology are controlled, what is left is the operator, and it is
-the largest effect in the data.
+![Survival within fixed entry cohorts](artifacts/charts/cohort-survival.svg)
 
-**4. [`death-stage`](artifacts/charts/death-stage.svg) — CAISO only, and stands
-apart.** Where projects stop, not whether. MISO publishes no study milestones, so
+**3. `jurisdiction` — requires (2).** Once age and technology are controlled,
+what is left is the operator, and it is the largest effect in the data. The chart
+is at the top of this page.
+
+**4. `death-stage` — CAISO only, and stands apart.** Where projects stop, not whether. MISO publishes no study milestones, so
 this cannot be compared across grids and must not be read as a general fact about
 queues.
 
-**5. [`stage-leadtime`](artifacts/charts/stage-leadtime.svg) — requires (4), and
-corrects it.** How many stop somewhere says nothing about whether stopping there
+![Where withdrawn projects stopped](artifacts/charts/death-stage.svg)
+
+**5. `stage-leadtime` — requires (4), and corrects it.** How many stop somewhere says nothing about whether stopping there
 was quick or slow, and those imply opposite remedies. Everything up to and
 including the system impact study resolves in **about a year**. The facilities
 stage takes **3.8**, a 3.7× jump, and a signed agreement **5.8**. Reading
 `death-stage` without this one produces the wrong policy, which is what happened
 in the first draft of this rewrite.
 
-**6. [`queue-exposure`](artifacts/charts/queue-exposure.svg) — the only chart
-here about the present.** Everything above concerns projects that already
+![Time to outcome by stage reached](artifacts/charts/stage-leadtime.svg)
+
+**6. `queue-exposure` — the only chart here about the present.** Everything above concerns projects that already
 resolved. This is what is still waiting: how long each family has sat, how much
 capacity is behind it, and how long the slowest tenth have waited.
 
@@ -94,6 +100,8 @@ one uses only those.
 California family — **4.0 years at worst against 5.4 at best**, no overlap — and
 the tails are proportionally similar, so this is not a few stragglers. California
 solar has a median wait of **8.4 years** and a ninetieth percentile of **15.9**.
+
+![What is waiting in the queue now](artifacts/charts/queue-exposure.svg)
 
 ## The policy each one supports, and does not
 
