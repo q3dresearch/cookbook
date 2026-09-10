@@ -1,12 +1,13 @@
-# The oldest text in US banking regulation is not regulation
+# When US regulation was last touched, and which of it already expired
 
-**Published 2026-09-10** · six figures, twelve scripts, all re-derivable from a
+**Published 2026-09-10** · nine figures, fifteen scripts, all re-derivable from a
 local capture with no network access · source: the free
 [eCFR API](https://www.ecfr.gov/developers), no key, no account.
 
 *Two titles of the US Code of Federal Regulations — 12 (Banks and Banking) and 29
-(Labor) — asking a question nobody publishes the answer to: when was each rule
-last actually changed?*
+(Labor) — asking three questions nobody publishes the answer to: when was each
+rule last actually changed, which rules have already passed their own expiry
+date, and what does the code add versus abandon?*
 
 ## What it says
 
@@ -42,6 +43,13 @@ which rules get re-read this year; a researcher choosing where to dig.
 **And do not carry the genre correction across titles.** It is a Title 12
 convention — see *The control* — and applied elsewhere it returns near-zero
 without erroring, which reads as "no genre here" rather than "no label here".
+
+**Start with the eight rules that already said they expired.** Every other
+candidate for removal needs someone to argue a rule is unnecessary. These need
+someone to read the rule's own sentence. There is no constituency for text that
+has already expired and no notice-and-comment case the drafters did not already
+make. It is the only part of a deregulation list with no policy argument
+attached — and finding it is one regular expression.
 
 The screen the data supports is the quadrant, not the calendar. **Settled** is
 where a live agency made an active choice that is now decades old — the highest
@@ -224,6 +232,80 @@ recordkeeping. **In banking the oldest text is not regulation. In labour law it
 is.** That contrast is what makes Title 12 worth the title of this recipe, and it
 is also the reason the recipe cannot be sold as a CFR-wide method yet.
 
+## Eight rules say they expired. All eight are still in the code.
+
+Some regulations set their own end date — *this section expires on X*, *ceases to
+be effective after X*. That is a promise the code makes to itself, and it is
+checkable: parse the date, compare it to today, see whether the text is still
+printed.
+
+![Rules that say they are dead, and the edits made afterwards](artifacts/charts/cfr-dead-letter.svg)
+
+Both axes are dates on one scale, so the diagonal is "last edited on the day it
+expired". **Three sections sit above it — amended *after* their own death date.**
+
+| section | says it expires | last amended | |
+| --- | --- | --- | --- |
+| **12 CFR 208.23** Agricultural loan loss amortization | 1 Jan 1999 | **11 Oct 2013** | edited 14 years after it died |
+| **12 CFR 238.86** Exemptions | 31 Dec 2012 | **2 Mar 2020** | edited 7 years after |
+| **12 CFR 205.3** Coverage | 31 Dec 2009 | 1 Apr 2010 | edited 3 months after |
+| **12 CFR 217.303 / 3.304 / 324.304** Temporary leverage exclusions | 31 Mar 2021 | 6 Jan 2021 | one rule, three agencies |
+| **12 CFR 1005.32** Estimates | 21 Jul 2020 | 5 Jun 2020 | |
+| **12 CFR 217.306** Building Block Approach | 31 Mar 2026 | 27 Nov 2023 | expired this year |
+
+§ 208.23's own paragraph (f) reads *"The terms of this section will no longer be
+in effect as of January 1, 1999"*, and the Federal Reserve amended it in 2013.
+The 2021 entry is one rule issued in parallel by three agencies — Fed, OCC and
+FDIC — all expired, none removed, which makes the omission structural rather than
+one office being slow. **Title 29 has none at all.**
+
+**A sunset clause in the CFR is not a mechanism; it is a sentence.** Across 14,451
+sections, **53 set their own expiry** — under half a percent — and **44 of those
+give no date**, so nothing can be computed about them.
+
+## Why nobody catches them
+
+![Parts are not pruned, they are opened once and closed](artifacts/charts/cfr-removal-shape.svg)
+
+The obvious guess is that expired text survives in parts nobody visits. It is
+wrong, and the truth is worse. **§ 208.23 expired in 1999 — and in 2019 the
+Federal Reserve deleted eight OTHER sections from part 208 and left it standing.**
+§ 238.86 expired in 2012; part 238 lost seven sections in 2024; it survived.
+
+Removal is a part-level event. 752 routine removals fall in just 96 of 449 parts,
+the top ten parts account for 51% of them, and **of the 55 parts that lost three
+or more sections, 43 lost every one on a single day.** A rulemaking opens a part,
+deletes what it came for, and closes it. Nothing decays on its own.
+
+So expired text does not survive through neglect of the part. It survives because
+*"does any section here say it expired"* is not on the checklist when the part is
+open — and that check is one regular expression.
+
+## What the code adds, and what it abandons
+
+![What the code keeps writing, and what it stops touching](artifacts/charts/cfr-lifecycle.svg)
+
+Across: the share of a category written since 2010. Up: the share older than its
+title's median. Area is section count.
+
+* **Capital & risk is the outlier on both axes** — 84% written since 2010, only
+  24% stale. That is Dodd-Frank and Basel III arriving as text. Nothing else in
+  banking looks like it.
+* **Consumer disclosure is the mirror**: 53% new *and* 62% stale. New products get
+  new rules while the old disclosure regime is never reopened — the category grows
+  at one end and rots at the other, which is where accumulated text is least
+  coherent.
+* **Interpretation is the abandoned corner** — 2% new, 95% stale. Expected: the
+  genre is superseded, not edited. It is the shape a category makes when nobody
+  maintains it, and it calibrates reading the others.
+* **Labour law barely rewrites itself.** Its most-renewed category is *Procedure &
+  appeals* at 40%, against banking's 84%. What changes in Title 29 is how you
+  file, not what the rule says.
+
+**The prediction that follows:** new regulation appears where a statute just
+landed, not where the problem is worst. To know what the CFR adds next, read the
+last major act of Congress in that domain.
+
 ## The chain: which figure cannot be read alone
 
 * **`cfr-staleness-title12` requires `cfr-control-title29`.** The genre split is
@@ -245,6 +327,17 @@ is also the reason the recipe cannot be sold as a CFR-wide method yet.
   conclusion and the other two do not.
 * **`cfr-growth-vs-removal` may not be read as a net.** Different populations,
   different windows, and no recoverable additions series.
+* **`cfr-dead-letter` requires the false-positive note below.** Eight hits out of
+  fourteen thousand sections: at that scale a detector with a 3% error rate
+  produces more noise than signal. The count is only trustworthy because the list
+  is short enough to read by hand, and it was read.
+* **`cfr-removal-shape` is what makes `cfr-dead-letter` actionable rather than
+  merely embarrassing.** Because removal is a one-shot part-level act, expired
+  text will not disappear on its own; it disappears only if it is on the list
+  when someone opens the part.
+* **`cfr-lifecycle` shares `cfr-age-by-category`'s caveat** — the categories are
+  our keyword rules, not the publisher's, and `Other` (688 and 1,078 sections) is
+  excluded from the plot rather than ranked.
 
 **What follows, and what does not.** *Follows:* age is the wrong screen for
 picking rules to review, and the quadrant is a better one. *Does not follow:*
@@ -288,6 +381,22 @@ noisily.
 
 **NOT BLOCKING — recorded.**
 
+* *The expiry detector was wrong three times before it was right, and every bug
+  inflated it.* A first pass reported 33 past-expiry sections: it was reading
+  dates out of the bracketed source note (`[53 FR 19433, May 27, 1988]` is a
+  publication date) and treating *"shall be effective on…"* as a sunset. A second
+  reported 211 undated sunsets, 99% of them the phrase *"shall not apply"*, which
+  is scope. A third still had one — 29 CFR 2582.8478-4 says *"shall become
+  effective January 1, 1990, and remain in effect until it is amended or
+  withdrawn"*, and a clause-wide date search read the effective date as an expiry.
+  The real numbers are **8 and 26**. Believe the list, not the count.
+* *Eight in banking and zero in labour law is a sample of two titles.* It may be
+  a real difference in drafting habit; extrapolating a rate from it would repeat
+  the error this recipe already made once with the interpretation genre.
+* *A rule can be dead without saying so.* This finds only rules that announce
+  their own expiry. A rule whose enabling statute was repealed is just as dead
+  and silent about it — that is a join to the US Code, which this does not do.
+
 * *Is the interpretation tail general, or a Federal Reserve habit?* Labor already
   showed the correction does not travel. A third title showing that it does
   somewhere would not restore it here, so the decision — verify the label per
@@ -330,6 +439,12 @@ python artifacts/scripts/chart_box.py category
 python artifacts/scripts/chart_quadrant.py
 python artifacts/scripts/chart_growth.py
 python artifacts/scripts/chart_control.py
+python artifacts/scripts/chart_removal_shape.py
+python artifacts/scripts/chart_lifecycle.py
+
+python artifacts/scripts/sunset.py $CFR_WORK/raw/ecfr/title-12/2026-09-01 > $CFR_WORK/sunset12.csv
+python artifacts/scripts/sunset.py $CFR_WORK/raw/ecfr/title-29/2026-09-01 > $CFR_WORK/sunset29.csv
+python artifacts/scripts/chart_deadletter.py $CFR_WORK/sunset12.csv $CFR_WORK/sunset29.csv
 ```
 
 `sectext.py 220.101 333.1` prints a section's text and its enclosing subpart

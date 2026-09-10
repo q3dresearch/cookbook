@@ -1,2 +1,3 @@
 run_date,method_version,note
 2026-09-10,1.1.0,"First publication. Title 12 plus Title 29 as a control; part_activity corrected to genuine leave-one-out, which moved Settled 178 to 226."
+2026-09-10,1.2.0,"Merged cfr-dead-letter in: expiry scan, removal shape and category lifecycle. Eight banking rules past their own stated expiry, three amended after it."
