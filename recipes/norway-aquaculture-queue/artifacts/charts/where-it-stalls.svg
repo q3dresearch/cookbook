@@ -1,77 +1,75 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="844" viewBox="0 0 1040 844" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'>
-<rect width="1040" height="844" fill="#fcfcfb"/>
-<text x="36" y="42" font-size="20" font-weight="600" fill="#0b0b0b">Two different ways to wait, and the county average describes neither</text>
-<text x="36" y="68" font-size="13.5" fill="#52514e">Sea-site applications by production area. Across is the typical wait, up is the unlucky one. Far right means slow for everyone;</text>
-<text x="36" y="87" font-size="13.5" fill="#52514e">high but left means a lottery &#8212; most applicants fine, one in ten stranded. Grey lines join areas in the same county.</text>
-<text x="36" y="112" font-size="12" fill="#8a8880">Nordland holds both extremes: 754 days in Vestfjorden og Vester&#229;len, 212 in Helgeland til Bod&#248;. One application type throughout.</text>
-<line x1="84" y1="583.6" x2="790" y2="583.6" stroke="#efeee8"/>
-<text x="72" y="587.6" font-size="11" fill="#8a8880" text-anchor="end">400d</text>
-<line x1="84" y1="478.7" x2="790" y2="478.7" stroke="#efeee8"/>
-<text x="72" y="482.7" font-size="11" fill="#8a8880" text-anchor="end">600d</text>
-<line x1="84" y1="373.8" x2="790" y2="373.8" stroke="#efeee8"/>
-<text x="72" y="377.8" font-size="11" fill="#8a8880" text-anchor="end">800d</text>
-<line x1="84" y1="268.9" x2="790" y2="268.9" stroke="#efeee8"/>
-<text x="72" y="272.9" font-size="11" fill="#8a8880" text-anchor="end">1,000d</text>
-<text x="182.1" y="660" font-size="11" fill="#8a8880" text-anchor="middle">200d</text>
-<text x="378.2" y="660" font-size="11" fill="#8a8880" text-anchor="middle">400d</text>
-<text x="574.3" y="660" font-size="11" fill="#8a8880" text-anchor="middle">600d</text>
-<text x="770.4" y="660" font-size="11" fill="#8a8880" text-anchor="middle">800d</text>
-<text x="72" y="192" font-size="11.5" font-weight="600" fill="#52514e" text-anchor="end">unlucky</text>
-<text x="72" y="208" font-size="11.5" fill="#8a8880" text-anchor="end">90th pct</text>
-<text x="431" y="684" font-size="11.5" font-weight="600" fill="#52514e" text-anchor="end">typical</text>
-<text x="437" y="684" font-size="11.5" fill="#8a8880" text-anchor="start">&#183; median days to a decision</text>
-<line x1="280.1" y1="636.0" x2="790.0" y2="363.3" stroke="#c9c6bc" stroke-width="1" stroke-dasharray="4 4"/>
-<text x="760.6" y="397.0" font-size="10.5" fill="#8a8880" text-anchor="end">p90 = median &#183; no tail at all</text>
-<polyline points="274.7,443.0 375.2,474.5" fill="none" stroke="#c9c6bc" stroke-width="1.6"/>
-<polyline points="194.3,354.9 725.3,243.2" fill="none" stroke="#c9c6bc" stroke-width="1.6"/>
-<polyline points="252.2,553.7 307.6,374.9" fill="none" stroke="#c9c6bc" stroke-width="1.6"/>
-<polyline points="142.8,312.5 148.2,595.6" fill="none" stroke="#c9c6bc" stroke-width="1.6"/>
-<circle cx="725.3" cy="243.2" r="20.0" fill="#d99244" stroke="#52514e" stroke-width="1" stroke-opacity="0.45"/>
-<circle cx="252.2" cy="553.7" r="18.2" fill="#eab97e" stroke="#52514e" stroke-width="1" stroke-opacity="0.45"/>
-<circle cx="194.3" cy="354.9" r="17.6" fill="#b5651d" stroke="#52514e" stroke-width="1" stroke-opacity="0.45"/>
-<circle cx="148.2" cy="595.6" r="17.6" fill="#d99244" stroke="#52514e" stroke-width="1" stroke-opacity="0.45"/>
-<circle cx="142.8" cy="312.5" r="17.3" fill="#d99244" stroke="#52514e" stroke-width="1" stroke-opacity="0.45"/>
-<circle cx="375.2" cy="474.5" r="16.7" fill="#eab97e" stroke="#52514e" stroke-width="1" stroke-opacity="0.45"/>
-<circle cx="274.7" cy="443.0" r="16.4" fill="#eab97e" stroke="#52514e" stroke-width="1" stroke-opacity="0.45"/>
-<circle cx="205.6" cy="478.2" r="15.0" fill="#d99244" stroke="#52514e" stroke-width="1" stroke-opacity="0.45"/>
-<circle cx="307.6" cy="374.9" r="14.6" fill="#d99244" stroke="#52514e" stroke-width="1" stroke-opacity="0.45"/>
-<circle cx="383.1" cy="434.6" r="14.2" fill="#b5651d" stroke="#52514e" stroke-width="1" stroke-opacity="0.45"/>
-<circle cx="433.1" cy="461.4" r="14.2" fill="#d99244" stroke="#52514e" stroke-width="1" stroke-opacity="0.45"/>
-<text x="325.0" y="448.8" font-size="10.5" fill="#8a8880" text-anchor="middle" font-style="italic">Troms</text>
-<text x="459.8" y="289.1" font-size="10.5" fill="#8a8880" text-anchor="middle" font-style="italic">Nordland</text>
-<text x="279.9" y="454.3" font-size="10.5" fill="#8a8880" text-anchor="middle" font-style="italic">Trøndelag</text>
-<text x="145.5" y="444.0" font-size="10.5" fill="#8a8880" text-anchor="middle" font-style="italic">Vestland</text>
-<text x="698.3" y="247.2" font-size="11" fill="#52514e" text-anchor="end">Vestfjorden og Vesterålen</text>
-<text x="277.4" y="557.7" font-size="11" fill="#52514e" text-anchor="start">Nordmøre og Sør-Trøndelag</text>
-<text x="169.7" y="358.9" font-size="11" fill="#52514e" text-anchor="end">Helgeland til Bodø</text>
-<text x="172.9" y="599.6" font-size="11" fill="#52514e" text-anchor="start">Karmøy til Sotra</text>
-<text x="167.2" y="316.5" font-size="11" fill="#52514e" text-anchor="start">Nordhordland til Stadt</text>
-<text x="351.5" y="478.5" font-size="11" fill="#52514e" text-anchor="end">Kvaløya til Loppa</text>
-<text x="251.3" y="431.0" font-size="11" fill="#52514e" text-anchor="end">Andøya til Senja</text>
-<text x="183.6" y="482.2" font-size="11" fill="#52514e" text-anchor="end">Ryfylket</text>
-<text x="329.2" y="378.9" font-size="11" fill="#52514e" text-anchor="start">Nord-Trøndelag med Bindal</text>
-<text x="404.3" y="438.6" font-size="11" fill="#52514e" text-anchor="start">Stadt til Hustadvika</text>
-<text x="454.3" y="465.4" font-size="11" fill="#52514e" text-anchor="start">Vest-Finnmark</text>
-<text x="816" y="212" font-size="11.5" font-weight="600" fill="#52514e">Still pending</text>
-<text x="816" y="228" font-size="10.5" fill="#8a8880">share of the area&#8217;s</text>
-<text x="816" y="242" font-size="10.5" fill="#8a8880">applications undecided</text>
-<rect x="816" y="256" width="22" height="14" fill="#f6dfc6"/>
-<rect x="840" y="256" width="22" height="14" fill="#eab97e"/>
-<rect x="864" y="256" width="22" height="14" fill="#d99244"/>
-<rect x="888" y="256" width="22" height="14" fill="#b5651d"/>
-<rect x="912" y="256" width="22" height="14" fill="#7d4413"/>
-<text x="816" y="286" font-size="10.5" fill="#8a8880">10%</text>
-<text x="934" y="286" font-size="10.5" fill="#8a8880" text-anchor="end">60%</text>
-<text x="816" y="324" font-size="11.5" font-weight="600" fill="#52514e">Area = decisions</text>
-<circle cx="838" cy="358" r="14.2" fill="none" stroke="#8a8880" stroke-width="1.2"/>
-<text x="868" y="362" font-size="10.5" fill="#8a8880">10</text>
-<circle cx="838" cy="404" r="20.2" fill="none" stroke="#8a8880" stroke-width="1.2"/>
-<text x="868" y="408" font-size="10.5" fill="#8a8880">30</text>
-<line x1="36" y1="690" x2="1004" y2="690" stroke="#e3e2db"/>
-<text x="36" y="712" font-size="13" fill="#0b0b0b"><tspan font-weight="600">Where you apply changes the wait more than what you apply for</tspan> &#8212; and the county is the wrong unit to ask it in.</text>
-<text x="36" y="734" font-size="13" fill="#0b0b0b">Nordland&#8217;s two production areas sit at opposite ends of this chart, 3.6x apart, inside one county and one application type.</text>
-<text x="36" y="760" font-size="11.5" fill="#8a8880">Read with drift.svg, which shows the same thing in time: the national median barely moved while the 90th percentile went 202 to 1,000 days. This chart says where that tail lives.</text>
-<text x="36" y="782" font-size="11.5" fill="#8a8880">The register does not say why. Vestfjorden og Vester&#229;len is production area 8, repeatedly red under the traffic-light system, but that is an outside fact this recipe has not tested.</text>
-<text x="36" y="804" font-size="11.5" fill="#8a8880">46 pending and 49 decided sea-site applications carry no production area and cannot appear here &#8212; the largest single pending group in the register.</text>
-<text x="36" y="826" font-size="11.5" fill="#8a8880">Areas under 10 decisions are omitted. Source: Fiskeridirektoratet Akvakults&#248;knader, layers 0 and 4.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="952" viewBox="0 0 1040 952" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'>
+<rect width="1040" height="952" fill="#fcfcfb"/>
+<text x="36" y="42" font-size="20" font-weight="600" fill="#0b0b0b">Two different ways to wait for the same permit</text>
+<text x="36" y="68" font-size="13.5" fill="#52514e">Sea-site applications by production area. Nordland holds both extremes, which is why a county average describes neither place.</text>
+<line x1="92" y1="709.5" x2="688" y2="709.5" stroke="#eceae3"/>
+<text x="81" y="713.5" font-size="11" fill="#8a8880" text-anchor="end">400d</text>
+<line x1="92" y1="560.5" x2="688" y2="560.5" stroke="#eceae3"/>
+<text x="81" y="564.5" font-size="11" fill="#8a8880" text-anchor="end">600d</text>
+<line x1="92" y1="411.5" x2="688" y2="411.5" stroke="#eceae3"/>
+<text x="81" y="415.5" font-size="11" fill="#8a8880" text-anchor="end">800d</text>
+<line x1="92" y1="262.5" x2="688" y2="262.5" stroke="#eceae3"/>
+<text x="81" y="266.5" font-size="11" fill="#8a8880" text-anchor="end">1,000d</text>
+<line x1="166.5" y1="188" x2="166.5" y2="784" stroke="#eceae3"/>
+<text x="166.5" y="806" font-size="11" fill="#8a8880" text-anchor="middle">200d</text>
+<line x1="315.5" y1="188" x2="315.5" y2="784" stroke="#eceae3"/>
+<text x="315.5" y="806" font-size="11" fill="#8a8880" text-anchor="middle">400d</text>
+<line x1="464.5" y1="188" x2="464.5" y2="784" stroke="#eceae3"/>
+<text x="464.5" y="806" font-size="11" fill="#8a8880" text-anchor="middle">600d</text>
+<line x1="613.5" y1="188" x2="613.5" y2="784" stroke="#eceae3"/>
+<text x="613.5" y="806" font-size="11" fill="#8a8880" text-anchor="middle">800d</text>
+<text x="81" y="178" font-size="12" font-weight="600" fill="#52514e" text-anchor="end">unlucky wait</text>
+<text x="81" y="194" font-size="10.5" fill="#8a8880" text-anchor="end">90th percentile</text>
+<text x="688" y="828" font-size="12" font-weight="600" fill="#52514e" text-anchor="end">typical wait &#183; median days</text>
+<line x1="236.9" y1="188" x2="236.9" y2="784" stroke="#e3e2db" stroke-width="1.2"/>
+<line x1="92" y1="509.8" x2="688" y2="509.8" stroke="#e3e2db" stroke-width="1.2"/>
+<line x1="241.0" y1="784.0" x2="688.0" y2="337.0" stroke="#e3e2db" stroke-width="1" stroke-dasharray="5 5"/>
+<text x="680.0" y="328.0" font-size="10.5" fill="#8a8880" text-anchor="end">p90 = median &#183; no tail</text>
+<text x="100" y="206" font-size="11.5" fill="#8a8880" text-anchor="start" font-style="italic">fast, but a lottery</text>
+<text x="680" y="206" font-size="11.5" fill="#8a8880" text-anchor="end" font-style="italic">slow for everyone</text>
+<text x="100" y="774" font-size="11.5" fill="#8a8880" text-anchor="start" font-style="italic">fast and predictable</text>
+<text x="680" y="774" font-size="11.5" fill="#8a8880" text-anchor="end" font-style="italic">slow but predictable</text>
+<circle cx="579.2" cy="226.0" r="18.0" fill="#b5651d" fill-opacity="0.85" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="219.8" cy="667.0" r="16.3" fill="#f0b44a" fill-opacity="0.85" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="175.8" cy="384.7" r="15.8" fill="#b5651d" fill-opacity="0.85" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="140.8" cy="726.6" r="15.8" fill="#0d3b66" fill-opacity="0.85" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="136.7" cy="324.3" r="15.5" fill="#0d3b66" fill-opacity="0.85" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="313.3" cy="554.5" r="15.0" fill="#1d7f88" fill-opacity="0.85" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="236.9" cy="509.8" r="14.7" fill="#1d7f88" fill-opacity="0.85" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="184.4" cy="559.8" r="13.4" fill="#9aa0a6" fill-opacity="0.85" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="261.9" cy="413.0" r="13.0" fill="#f0b44a" fill-opacity="0.85" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="319.2" cy="497.9" r="12.6" fill="#9aa0a6" fill-opacity="0.85" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="357.2" cy="535.9" r="12.6" fill="#9aa0a6" fill-opacity="0.85" stroke="#fcfcfb" stroke-width="2"/>
+<text x="604.2" y="230.0" font-size="11.5" fill="#52514e" text-anchor="start">Vestfjorden og Vesterålen</text>
+<text x="243.1" y="671.0" font-size="11.5" fill="#52514e" text-anchor="start">Nordmøre og Sør-Trøndelag</text>
+<text x="198.6" y="388.7" font-size="11.5" fill="#52514e" text-anchor="start">Helgeland til Bodø</text>
+<text x="163.6" y="730.6" font-size="11.5" fill="#52514e" text-anchor="start">Karmøy til Sotra</text>
+<text x="159.2" y="328.3" font-size="11.5" fill="#52514e" text-anchor="start">Nordhordland til Stadt</text>
+<text x="291.3" y="543.5" font-size="11.5" fill="#52514e" text-anchor="end">Kvaløya til Loppa</text>
+<text x="215.2" y="513.8" font-size="11.5" fill="#52514e" text-anchor="end">Andøya til Senja</text>
+<text x="204.7" y="563.8" font-size="11.5" fill="#52514e" text-anchor="start">Ryfylket</text>
+<text x="281.9" y="417.0" font-size="11.5" fill="#52514e" text-anchor="start">Nord-Trøndelag med Bindal</text>
+<text x="338.9" y="501.9" font-size="11.5" fill="#52514e" text-anchor="start">Stadt til Hustadvika</text>
+<text x="376.9" y="539.9" font-size="11.5" fill="#52514e" text-anchor="start">Vest-Finnmark</text>
+<text x="766" y="200" font-size="11.5" font-weight="600" fill="#52514e">County</text>
+<circle cx="774" cy="214" r="7" fill="#b5651d" fill-opacity="0.85"/>
+<text x="790" y="218" font-size="12" fill="#52514e">Nordland</text>
+<circle cx="774" cy="238" r="7" fill="#1d7f88" fill-opacity="0.85"/>
+<text x="790" y="242" font-size="12" fill="#52514e">Troms</text>
+<circle cx="774" cy="262" r="7" fill="#f0b44a" fill-opacity="0.85"/>
+<text x="790" y="266" font-size="12" fill="#52514e">Trøndelag</text>
+<circle cx="774" cy="286" r="7" fill="#0d3b66" fill-opacity="0.85"/>
+<text x="790" y="290" font-size="12" fill="#52514e">Vestland</text>
+<circle cx="774" cy="310" r="7" fill="#9aa0a6" fill-opacity="0.85"/>
+<text x="790" y="314" font-size="12" fill="#52514e">one area only</text>
+<text x="766" y="364" font-size="11.5" font-weight="600" fill="#52514e">Decisions</text>
+<circle cx="782" cy="394" r="12.6" fill="none" stroke="#8a8880" stroke-width="1.2"/>
+<text x="810" y="398" font-size="11" fill="#8a8880">10</text>
+<circle cx="782" cy="434" r="18.2" fill="none" stroke="#8a8880" stroke-width="1.2"/>
+<text x="810" y="438" font-size="11" fill="#8a8880">30</text>
+<line x1="36" y1="844" x2="1004" y2="844" stroke="#e3e2db"/>
+<text x="36" y="868" font-size="13" fill="#0b0b0b"><tspan font-weight="600">Where you apply moves the wait more than what you apply for.</tspan> Vestfjorden og Vester&#229;len is slow for everyone; Nordhordland til Stadt</text>
+<text x="36" y="889" font-size="13" fill="#0b0b0b">is fast for most and catastrophic for a tenth. Those need opposite responses, and one national median hides both.</text>
+<text x="36" y="914" font-size="11.5" fill="#8a8880">Dividers are the median across areas, not a chosen threshold. 10&#8211;29 decisions per area, so read the two extremes, not the middle. 46 pending applications carry no production area.</text>
+<text x="36" y="934" font-size="11.5" fill="#8a8880">Source: Fiskeridirektoratet Akvakults&#248;knader, layers 0 and 4. Why area 8 runs at 754 days is not in this register &#8212; see the recipe.</text>
 </svg>

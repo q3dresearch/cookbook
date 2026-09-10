@@ -90,7 +90,7 @@ def main() -> int:
     nmax = max(p[2] for p in pts)
 
     W, L, R, T, PH = 1040, 76, 210, 200, 372
-    H = T + PH + 214
+    H = T + PH + 168
     span = Y1 - Y0
 
     # PAD keeps the final year clear of the legend rail, so a centred endpoint
@@ -179,20 +179,13 @@ def main() -> int:
     o.append(f'<text x="36" y="{yb+26}" font-size="13" fill="{INK}">'
              f'not from opening ground. That lever is spent: the deletion flow has fallen '
              f'from 372 sites a year to 19.</text>')
-    o.append(f'<text x="36" y="{yb+54}" font-size="11.5" fill="{MUTED}">'
-             f'Read with constraint.svg. Consolidation explains how output grew without new '
-             f'sites; the idle 37% explains why the queue is not what binds growth now.</text>')
-    o.append(f'<text x="36" y="{yb+76}" font-size="11.5" fill="{MUTED}">'
-             f'No lifespan is plotted, deliberately. The register starts 1991-06-24, so age '
-             f'at deletion is left-truncated: it rises 5.0 to 21.0 years at almost exactly '
-             f'one year per calendar year and the</text>')
-    o.append(f'<text x="36" y="{yb+94}" font-size="11.5" fill="{MUTED}">'
-             f'observed maximum tracks the truncation ceiling. Sites are not living longer; '
-             f'the register is filling up. Capacity of active sites is as recorded today, '
-             f'not at clearance.</text>')
-    o.append(f'<text x="36" y="{yb+118}" font-size="11.5" fill="{MUTED}">'
-             f'Years before {Y0} are register digitisation, not clearances (604 dated 2001 '
-             f'alone) and are excluded. Source: Fiskeridirektoratet Akvakulturregisteret, '
+    o.append(f'<text x="36" y="{yb+52}" font-size="11.5" fill="{MUTED}">'
+             f'Read with constraint.svg. No site lifespan is plotted: the register starts '
+             f'1991, so age at deletion is left-truncated and rises one year per calendar '
+             f'year as an artefact.</text>')
+    o.append(f'<text x="36" y="{yb+72}" font-size="11.5" fill="{MUTED}">'
+             f'Pre-{Y0} clearances are digitisation, not building. Capacity of active sites '
+             f'is as recorded today. Source: Fiskeridirektoratet Akvakulturregisteret, '
              f'layers 0 and 1, paged.</text>')
     o.append("</svg>")
     OUT.write_text("\n".join(o))

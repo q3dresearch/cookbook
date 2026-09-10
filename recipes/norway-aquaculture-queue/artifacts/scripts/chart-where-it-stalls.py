@@ -3,31 +3,25 @@
 
     python chart-where-it-stalls.py <applications.csv>
 
-The national median hides two different failures. Plotting the typical wait
-against the unlucky one, by production area, separates them:
+One application type throughout (change of, or new, sea site for salmon and
+trout), so this is not a mix of easy and hard paperwork. Across: the typical
+wait. Up: the unlucky one. Both axes carry the same scale, so the dashed 45
+degree line is where a queue with no tail would sit and the crosshair at the
+all-area median cuts four quadrants:
 
-  * UNIFORMLY SLOW — Vestfjorden og Vesterålen decides in a median 754 days and
-    a 90th-percentile 1,049. Nearly every application is slow. Tail ratio 1.4.
-  * A LOTTERY — Nordhordland til Stadt decides in a median 160 days but its 90th
-    percentile is 917. Most applicants are fine; one in ten waits two and a half
-    years. Tail ratio 5.7.
+    fast, a lottery   |  slow for everyone     <- Vestfjorden og Vesteralen
+    ------------------+-------------------        754d median, 1049d p90
+    fast, predictable |  slow, predictable
+        ^ Nordhordland til Stadt, 160d median but 917d p90
 
-Same application type throughout (change of, or new, sea site for salmon and
-trout), so this is not a mix of easy and hard paperwork.
+Colour is the county. Nordland appears at BOTH ends of the chart — Vestfjorden
+og Vesteralen at 754 days and Helgeland til Bodo at 212 — which is the point:
+"Nordland is slow" survives controls for application type, outcome, applicant
+and submission year, and is still a merge of two places 3.6x apart.
 
-WHY THIS CHART USES PRODUCTION AREAS, NOT COUNTIES. The obvious version of this
-finding is "Nordland is slow" — it holds up against every control: within a
-single application type Nordland's median is 368 days against Vestland's 161, and
-it survives splitting by outcome (granted 316 vs 229, denied 789 vs 353), by
-applicant (24 slow decisions across 14 companies) and by submission year. It is
-still a merge. Nordland contains BOTH extremes: Vestfjorden og Vesterålen at 754
-days and Helgeland til Bodø at 212, a 3.6x spread inside one county and one
-application type. The county average is a number describing nowhere.
-
-What the register cannot say is WHY. Vestfjorden og Vesterålen is production area
-8, which the traffic-light system has repeatedly coloured red, and a red area
-restricts growth — but that is an outside fact, not something in this data, and
-this recipe has not tested it.
+Marks are NOT joined. An earlier version drew a line between areas in the same
+county; a connector asserts a sequence between two independent measurements and
+there is none. Shared colour carries the same information without the claim.
 """
 from __future__ import annotations
 
@@ -41,16 +35,25 @@ RECIPE = Path(__file__).resolve().parents[2]
 OUT = RECIPE / "artifacts" / "charts" / "where-it-stalls.svg"
 
 SURFACE, INK, INK2, MUTED = "#fcfcfb", "#0b0b0b", "#52514e", "#8a8880"
-RULE, GRID, LINK = "#e3e2db", "#efeee8", "#c9c6bc"
-# Sequential, one hue light to dark: share of the area's applications still pending.
-RAMP = ["#f6dfc6", "#eab97e", "#d99244", "#b5651d", "#7d4413"]
+RULE, GRID = "#e3e2db", "#eceae3"
+# Worst pair separates at OKLab dE 12.7 under deuteranope/protanope simulation,
+# 17.4 at normal vision. Seven counties could not be made to pass; the three with
+# a single production area share a neutral, since a spread needs two points.
+OTHER = "one area only"
+COUNTY = {"Nordland": "#b5651d", "Troms": "#1d7f88", "Trøndelag": "#f0b44a",
+          "Vestland": "#0d3b66", OTHER: "#9aa0a6"}
 FONT = 'system-ui, -apple-system, "Segoe UI", sans-serif'
 
 SEA = {"Endring av lokalitet for laks, ørret og regnbueørret i sjø.",
        "Ny lokalitet for laks, ørret og regnbueørret i sjø."}
 MIN_N = 10
-X0, X1 = 100.0, 820.0
-Y0, Y1 = 300.0, 1120.0
+# Equal SPANS, not equal ranges. Both axes cover 800 days, so the diagonal is a
+# true 45 degrees, but the window is cropped to where the data actually is —
+# no median exceeds 760d and no 90th percentile falls below 370d.
+X0, X1 = 100.0, 900.0
+Y0, Y1 = 300.0, 1100.0
+XT = (200, 400, 600, 800)
+YT = (400, 600, 800, 1000)
 
 
 def main() -> int:
@@ -60,7 +63,6 @@ def main() -> int:
     rows = list(csv.DictReader(open(sys.argv[1], encoding="utf-8")))
 
     days = collections.defaultdict(list)
-    pend = collections.Counter()
     county = collections.defaultdict(collections.Counter)
     blank_p = blank_d = 0
     for r in rows:
@@ -74,197 +76,158 @@ def main() -> int:
         county[pa][r["county"] or "?"] += 1
         if r["layer"] == "decided" and r["days_to_decide"]:
             days[pa].append(int(r["days_to_decide"]))
-        elif r["layer"] == "pending":
-            pend[pa] += 1
 
     pts = []
     for pa, v in days.items():
         if len(v) < MIN_N:
             continue
         v = sorted(v)
-        med, p90 = statistics.median(v), v[int(0.9 * len(v))]
-        share = pend[pa] / (len(v) + pend[pa])
-        pts.append({"pa": pa, "n": len(v), "med": med, "p90": p90, "share": share,
+        pts.append({"pa": pa, "n": len(v), "med": statistics.median(v),
+                    "p90": v[int(0.9 * len(v))],
                     "county": county[pa].most_common(1)[0][0]})
     if len(pts) < 6:
         print("  too few production areas above the minimum")
         return 1
-    nmax = max(p["n"] for p in pts)
 
-    W, L, R, T, PH = 1040, 84, 250, 206, 430
-    H = T + PH + 208
+    seen = collections.Counter(p["county"] for p in pts)
+    for p in pts:
+        p["key"] = p["county"] if seen[p["county"]] > 1 else OTHER
+    nmax = max(p["n"] for p in pts)
+    xm = statistics.median([p["med"] for p in pts])
+    ym = statistics.median([p["p90"] for p in pts])
+
+    W, L, T, S = 1040, 92, 188, 596
+    H = T + S + 168
 
     def sx(v):
-        return L + (v - X0) / (X1 - X0) * (W - L - R)
+        return L + (v - X0) / (X1 - X0) * S
 
     def sy(v):
-        return T + PH - (v - Y0) / (Y1 - Y0) * PH
+        return T + S - (v - Y0) / (Y1 - Y0) * S
 
     def sr(n):
-        return 6.0 + (n / nmax) ** 0.5 * 14.0
-
-    def col(share):
-        return RAMP[min(int(share / 0.12), len(RAMP) - 1)]
+        return 5.0 + (n / nmax) ** 0.5 * 13.0
 
     o = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" '
          f'viewBox="0 0 {W} {H}" font-family=\'{FONT}\'>',
          f'<rect width="{W}" height="{H}" fill="{SURFACE}"/>']
     o.append(f'<text x="36" y="42" font-size="20" font-weight="600" fill="{INK}">'
-             f'Two different ways to wait, and the county average describes neither'
-             f'</text>')
+             f'Two different ways to wait for the same permit</text>')
     o.append(f'<text x="36" y="68" font-size="13.5" fill="{INK2}">'
-             f'Sea-site applications by production area. Across is the typical wait, up is '
-             f'the unlucky one. Far right means slow for everyone;</text>')
-    o.append(f'<text x="36" y="87" font-size="13.5" fill="{INK2}">'
-             f'high but left means a lottery &#8212; most applicants fine, one in ten '
-             f'stranded. Grey lines join areas in the same county.</text>')
-    o.append(f'<text x="36" y="112" font-size="12" fill="{MUTED}">'
-             f'Nordland holds both extremes: 754 days in Vestfjorden og Vester&#229;len, 212 '
-             f'in Helgeland til Bod&#248;. One application type throughout.</text>')
+             f'Sea-site applications by production area. Nordland holds both extremes, '
+             f'which is why a county average describes neither place.</text>')
 
-    for v in range(400, int(Y1) + 1, 200):
-        y = sy(v)
-        o.append(f'<line x1="{L}" y1="{y:.1f}" x2="{W-R}" y2="{y:.1f}" stroke="{GRID}"/>')
-        o.append(f'<text x="{L-12}" y="{y+4:.1f}" font-size="11" fill="{MUTED}" '
+    for v in YT:
+        o.append(f'<line x1="{L}" y1="{sy(v):.1f}" x2="{L+S}" y2="{sy(v):.1f}" '
+                 f'stroke="{GRID}"/>')
+        o.append(f'<text x="{L-11}" y="{sy(v)+4:.1f}" font-size="11" fill="{MUTED}" '
                  f'text-anchor="end">{v:,}d</text>')
-    for v in range(200, int(X1) + 1, 200):
-        o.append(f'<text x="{sx(v):.1f}" y="{T+PH+24:.0f}" font-size="11" fill="{MUTED}" '
+    for v in XT:
+        o.append(f'<line x1="{sx(v):.1f}" y1="{T}" x2="{sx(v):.1f}" y2="{T+S}" '
+                 f'stroke="{GRID}"/>')
+        o.append(f'<text x="{sx(v):.1f}" y="{T+S+22:.0f}" font-size="11" fill="{MUTED}" '
                  f'text-anchor="middle">{v:,}d</text>')
-    o.append(f'<text x="{L-12}" y="{T-14}" font-size="11.5" font-weight="600" '
-             f'fill="{INK2}" text-anchor="end">unlucky</text>')
-    o.append(f'<text x="{L-12}" y="{T+2}" font-size="11.5" fill="{MUTED}" '
-             f'text-anchor="end">90th pct</text>')
-    axc = (L + W - R) / 2
-    o.append(f'<text x="{axc-6:.0f}" y="{T+PH+48:.0f}" font-size="11.5" '
-             f'font-weight="600" fill="{INK2}" text-anchor="end">typical</text>')
-    o.append(f'<text x="{axc:.0f}" y="{T+PH+48:.0f}" font-size="11.5" fill="{MUTED}" '
-             f'text-anchor="start">&#183; median days to a decision</text>')
+    o.append(f'<text x="{L-11}" y="{T-10}" font-size="12" font-weight="600" '
+             f'fill="{INK2}" text-anchor="end">unlucky wait</text>')
+    o.append(f'<text x="{L-11}" y="{T+6}" font-size="10.5" fill="{MUTED}" '
+             f'text-anchor="end">90th percentile</text>')
+    o.append(f'<text x="{L+S}" y="{T+S+44:.0f}" font-size="12" font-weight="600" '
+             f'fill="{INK2}" text-anchor="end">typical wait &#183; median days</text>')
 
-    # p90 can never fall below the median; the diagonal is the floor, and distance
-    # above it is exactly how uneven the queue is.
-    o.append(f'<line x1="{sx(max(X0, Y0)):.1f}" y1="{sy(max(X0, Y0)):.1f}" '
-             f'x2="{sx(min(X1, Y1)):.1f}" y2="{sy(min(X1, Y1)):.1f}" '
-             f'stroke="{LINK}" stroke-width="1" stroke-dasharray="4 4"/>')
-    o.append(f'<text x="{sx(790):.1f}" y="{sy(790)+18:.1f}" font-size="10.5" '
-             f'fill="{MUTED}" text-anchor="end">p90 = median &#183; no tail at all</text>')
-
-    county_labels: list[tuple[float, float, str]] = []
-    by_c = collections.defaultdict(list)
-    for p in pts:
-        by_c[p["county"]].append(p)
-    for c, g in by_c.items():
-        if len(g) < 2:
-            continue
-        g = sorted(g, key=lambda p: p["med"])
-        o.append('<polyline points="' +
-                 " ".join(f'{sx(p["med"]):.1f},{sy(p["p90"]):.1f}' for p in g) +
-                 f'" fill="none" stroke="{LINK}" stroke-width="1.6"/>')
-        a, b = g[0], g[-1]
-        mx = (sx(a["med"]) + sx(b["med"])) / 2
-        my = (sy(a["p90"]) + sy(b["p90"])) / 2 - 10
-        county_labels.append((mx, my, c))
+    # The quadrant. Dividers are the median across areas, not a chosen threshold.
+    o.append(f'<line x1="{sx(xm):.1f}" y1="{T}" x2="{sx(xm):.1f}" y2="{T+S}" '
+             f'stroke="{RULE}" stroke-width="1.2"/>')
+    o.append(f'<line x1="{L}" y1="{sy(ym):.1f}" x2="{L+S}" y2="{sy(ym):.1f}" '
+             f'stroke="{RULE}" stroke-width="1.2"/>')
+    # p90 can never fall below the median, so nothing can sit below this line.
+    d0, d1 = max(X0, Y0), min(X1, Y1)
+    o.append(f'<line x1="{sx(d0):.1f}" y1="{sy(d0):.1f}" x2="{sx(d1):.1f}" '
+             f'y2="{sy(d1):.1f}" stroke="{RULE}" stroke-width="1" '
+             f'stroke-dasharray="5 5"/>')
+    o.append(f'<text x="{sx(d1)-8:.1f}" y="{sy(d1)-9:.1f}" font-size="10.5" '
+             f'fill="{MUTED}" text-anchor="end">p90 = median &#183; no tail</text>')
+    for tx, ty, anc, txt in ((L + 8, T + 18, "start", "fast, but a lottery"),
+                             (L + S - 8, T + 18, "end", "slow for everyone"),
+                             (L + 8, T + S - 10, "start", "fast and predictable"),
+                             (L + S - 8, T + S - 10, "end", "slow but predictable")):
+        o.append(f'<text x="{tx:.0f}" y="{ty:.0f}" font-size="11.5" fill="{MUTED}" '
+                 f'text-anchor="{anc}" font-style="italic">{txt}</text>')
 
     for p in sorted(pts, key=lambda p: -p["n"]):
-        c = col(p["share"])
         o.append(f'<circle cx="{sx(p["med"]):.1f}" cy="{sy(p["p90"]):.1f}" '
-                 f'r="{sr(p["n"]):.1f}" fill="{c}" stroke="{INK2}" stroke-width="1" '
-                 f'stroke-opacity="0.45"/>')
+                 f'r="{sr(p["n"]):.1f}" fill="{COUNTY[p["key"]]}" fill-opacity="0.85" '
+                 f'stroke="{SURFACE}" stroke-width="2"/>')
 
-    for mx, my, c in county_labels:
-        o.append(f'<text x="{mx:.1f}" y="{my:.1f}" font-size="10.5" fill="{MUTED}" '
-                 f'text-anchor="middle" font-style="italic">{c}</text>')
-
-    # Label placement. The middle of this chart is crowded, so try each side and
-    # then a vertical nudge, keeping a list of boxes already taken. Eyeballing the
-    # render was how the previous version's overlaps were found.
-    taken = [(mx - len(c) * 3.6 - 6, my - 10, mx + len(c) * 3.6 + 6, my + 5)
-             for mx, my, c in county_labels]
-
+    # Labels: try each side, then nudge, avoiding marks and labels already placed.
     marks = [(sx(q["med"]), sy(q["p90"]), sr(q["n"])) for q in pts]
+    taken: list[tuple[float, float, float, float]] = []
 
-    def hits_mark(box):
-        x0, y0, x1, y1 = box
-        return any(x0 < cx + rr and cx - rr < x1 and y0 < cy + rr and cy - rr < y1
-                   for cx, cy, rr in marks)
-
-    def free(box):
-        ax0, ay0, ax1, ay1 = box
-        return not any(ax0 < bx1 and bx0 < ax1 and ay0 < by1 and by0 < ay1
-                       for bx0, by0, bx1, by1 in taken)
+    def blocked(b):
+        return (any(b[0] < t[2] and t[0] < b[2] and b[1] < t[3] and t[1] < b[3]
+                    for t in taken)
+                or any(b[0] < cx + r and cx - r < b[2] and b[1] < cy + r and cy - r < b[3]
+                       for cx, cy, r in marks))
 
     for p in sorted(pts, key=lambda p: -p["n"]):
         x, y, r = sx(p["med"]), sy(p["p90"]), sr(p["n"])
         w = len(p["pa"]) * 6.4 + 10
-        placed = False
-        for dy in (0, -16, 16, -32, 32, -48, 48):
+        for dy in (0, -15, 15, -30, 30, -45, 45):
             for anc in ("start", "end"):
-                lx0 = x + r + 7 if anc == "start" else x - r - 7 - w
-                box = (lx0, y + dy - 8, lx0 + w, y + dy + 6)
-                if (box[0] < L - 40 or box[2] > W - R - 4
-                        or not free(box) or hits_mark(box)):
+                x0 = x + r + 7 if anc == "start" else x - r - 7 - w
+                b = (x0, y + dy - 8, x0 + w, y + dy + 6)
+                if b[0] < 36 or b[2] > W - 30 or blocked(b):
                     continue
-                taken.append(box)
+                taken.append(b)
                 o.append(f'<text x="{x + (r+7 if anc == "start" else -r-7):.1f}" '
-                         f'y="{y+dy+4:.1f}" font-size="11" fill="{INK2}" '
+                         f'y="{y+dy+4:.1f}" font-size="11.5" fill="{INK2}" '
                          f'text-anchor="{anc}">{p["pa"]}</text>')
-                placed = True
                 break
-            if placed:
-                break
-        if not placed:
-            o.append(f'<text x="{x:.1f}" y="{y-r-8:.1f}" font-size="11" fill="{INK2}" '
-                     f'text-anchor="middle">{p["pa"]}</text>')
+            else:
+                continue
+            break
 
-    lx, ly = W - R + 26, T + 6
-    o.append(f'<text x="{lx}" y="{ly}" font-size="11.5" font-weight="600" fill="{INK2}">'
-             f'Still pending</text>')
-    o.append(f'<text x="{lx}" y="{ly+16}" font-size="10.5" fill="{MUTED}">'
-             f'share of the area&#8217;s</text>')
-    o.append(f'<text x="{lx}" y="{ly+30}" font-size="10.5" fill="{MUTED}">'
-             f'applications undecided</text>')
-    for i, c in enumerate(RAMP):
-        o.append(f'<rect x="{lx+i*24}" y="{ly+44}" width="22" height="14" fill="{c}"/>')
-    o.append(f'<text x="{lx}" y="{ly+74}" font-size="10.5" fill="{MUTED}">10%</text>')
-    o.append(f'<text x="{lx+5*24-2}" y="{ly+74}" font-size="10.5" fill="{MUTED}" '
-             f'text-anchor="end">60%</text>')
-    o.append(f'<text x="{lx}" y="{ly+112}" font-size="11.5" font-weight="600" '
-             f'fill="{INK2}">Area = decisions</text>')
+    lx, ly = L + S + 78, T + 30
+    o.append(f'<text x="{lx}" y="{ly-18}" font-size="11.5" font-weight="600" '
+             f'fill="{INK2}">County</text>')
+    for i, (name, c) in enumerate(COUNTY.items()):
+        if name != OTHER and not seen.get(name):
+            continue
+        o.append(f'<circle cx="{lx+8}" cy="{ly+i*24-4}" r="7" fill="{c}" '
+                 f'fill-opacity="0.85"/>')
+        o.append(f'<text x="{lx+24}" y="{ly+i*24}" font-size="12" fill="{INK2}">'
+                 f'{name}</text>')
+    sy0 = ly + len(COUNTY) * 24 + 26
+    o.append(f'<text x="{lx}" y="{sy0}" font-size="11.5" font-weight="600" '
+             f'fill="{INK2}">Decisions</text>')
     for i, n in enumerate((10, 30)):
-        cy = ly + 146 + i * 46
-        o.append(f'<circle cx="{lx+22}" cy="{cy}" r="{sr(n):.1f}" fill="none" '
+        cy = sy0 + 30 + i * 40
+        o.append(f'<circle cx="{lx+16}" cy="{cy}" r="{sr(n):.1f}" fill="none" '
                  f'stroke="{MUTED}" stroke-width="1.2"/>')
-        o.append(f'<text x="{lx+52}" y="{cy+4}" font-size="10.5" fill="{MUTED}">{n}</text>')
+        o.append(f'<text x="{lx+44}" y="{cy+4}" font-size="11" fill="{MUTED}">{n}</text>')
 
-    yb = T + PH + 76
-    o.append(f'<line x1="36" y1="{yb-22}" x2="{W-36}" y2="{yb-22}" stroke="{RULE}"/>')
+    yb = T + S + 84
+    o.append(f'<line x1="36" y1="{yb-24}" x2="{W-36}" y2="{yb-24}" stroke="{RULE}"/>')
     o.append(f'<text x="36" y="{yb}" font-size="13" fill="{INK}">'
-             f'<tspan font-weight="600">Where you apply changes the wait more than what you '
-             f'apply for</tspan> &#8212; and the county is the wrong unit to ask it in.</text>')
-    o.append(f'<text x="36" y="{yb+22}" font-size="13" fill="{INK}">'
-             f'Nordland&#8217;s two production areas sit at opposite ends of this chart, 3.6x '
-             f'apart, inside one county and one application type.</text>')
-    o.append(f'<text x="36" y="{yb+48}" font-size="11.5" fill="{MUTED}">'
-             f'Read with drift.svg, which shows the same thing in time: the national median '
-             f'barely moved while the 90th percentile went 202 to 1,000 days. This chart says '
-             f'where that tail lives.</text>')
-    o.append(f'<text x="36" y="{yb+70}" font-size="11.5" fill="{MUTED}">'
-             f'The register does not say why. Vestfjorden og Vester&#229;len is production '
-             f'area 8, repeatedly red under the traffic-light system, but that is an outside '
-             f'fact this recipe has not tested.</text>')
-    o.append(f'<text x="36" y="{yb+92}" font-size="11.5" fill="{MUTED}">'
-             f'{blank_p} pending and {blank_d} decided sea-site applications carry no '
-             f'production area and cannot appear here &#8212; the largest single pending '
-             f'group in the register.</text>')
-    o.append(f'<text x="36" y="{yb+114}" font-size="11.5" fill="{MUTED}">'
-             f'Areas under {MIN_N} decisions are omitted. Source: Fiskeridirektoratet '
-             f'Akvakults&#248;knader, layers 0 and 4.</text>')
+             f'<tspan font-weight="600">Where you apply moves the wait more than what you '
+             f'apply for.</tspan> Vestfjorden og Vester&#229;len is slow for everyone; '
+             f'Nordhordland til Stadt</text>')
+    o.append(f'<text x="36" y="{yb+21}" font-size="13" fill="{INK}">'
+             f'is fast for most and catastrophic for a tenth. Those need opposite '
+             f'responses, and one national median hides both.</text>')
+    o.append(f'<text x="36" y="{yb+46}" font-size="11.5" fill="{MUTED}">'
+             f'Dividers are the median across areas, not a chosen threshold. '
+             f'{MIN_N}&#8211;29 decisions per area, so read the two extremes, not the '
+             f'middle. {blank_p} pending applications carry no production area.</text>')
+    o.append(f'<text x="36" y="{yb+66}" font-size="11.5" fill="{MUTED}">'
+             f'Source: Fiskeridirektoratet Akvakults&#248;knader, layers 0 and 4. '
+             f'Why area 8 runs at 754 days is not in this register &#8212; see the '
+             f'recipe.</text>')
     o.append("</svg>")
     OUT.write_text("\n".join(o))
-    print(f"  {OUT.name} — {len(pts)} production areas")
+    print(f"  {OUT.name} — {len(pts)} areas, quadrant at {xm:.0f}d / {ym:.0f}d")
     for p in sorted(pts, key=lambda p: -p["med"]):
         print(f"    {p['pa'][:30]:30s} n={p['n']:3d} med {p['med']:4.0f}d "
-              f"p90 {p['p90']:4.0f}d  tail x{p['p90']/p['med']:.1f}  "
-              f"pending {p['share']:.0%}")
+              f"p90 {p['p90']:4.0f}d  {p['key']}")
     return 0
 
 

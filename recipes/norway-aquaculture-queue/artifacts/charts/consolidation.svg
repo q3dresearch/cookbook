@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="786" viewBox="0 0 1040 786" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'>
-<rect width="1040" height="786" fill="#fcfcfb"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="740" viewBox="0 0 1040 740" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'>
+<rect width="1040" height="740" fill="#fcfcfb"/>
 <text x="36" y="42" font-size="20" font-weight="600" fill="#0b0b0b">Norway grew salmon by deleting sites, not adding them</text>
 <text x="36" y="68" font-size="13.5" fill="#52514e">Every licensed site entering or leaving the register, 2006&#8211;2025. Height is the median capacity of the sites moving that year;</text>
 <text x="36" y="87" font-size="13.5" fill="#52514e">area is how many. 2,462 sites were struck off against 1,104 cleared &#8212; a net loss of 1,358 sites.</text>
@@ -84,8 +84,6 @@
 <line x1="36" y1="608" x2="1004" y2="608" stroke="#e3e2db"/>
 <text x="36" y="630" font-size="13" fill="#0b0b0b"><tspan font-weight="600">The register shed 1,358 net sites while national output rose.</tspan> Capacity came from replacing 780-tonne sites with 3,000-tonne ones,</text>
 <text x="36" y="650" font-size="13" fill="#0b0b0b">not from opening ground. That lever is spent: the deletion flow has fallen from 372 sites a year to 19.</text>
-<text x="36" y="678" font-size="11.5" fill="#8a8880">Read with constraint.svg. Consolidation explains how output grew without new sites; the idle 37% explains why the queue is not what binds growth now.</text>
-<text x="36" y="700" font-size="11.5" fill="#8a8880">No lifespan is plotted, deliberately. The register starts 1991-06-24, so age at deletion is left-truncated: it rises 5.0 to 21.0 years at almost exactly one year per calendar year and the</text>
-<text x="36" y="718" font-size="11.5" fill="#8a8880">observed maximum tracks the truncation ceiling. Sites are not living longer; the register is filling up. Capacity of active sites is as recorded today, not at clearance.</text>
-<text x="36" y="742" font-size="11.5" fill="#8a8880">Years before 2006 are register digitisation, not clearances (604 dated 2001 alone) and are excluded. Source: Fiskeridirektoratet Akvakulturregisteret, layers 0 and 1, paged.</text>
+<text x="36" y="676" font-size="11.5" fill="#8a8880">Read with constraint.svg. No site lifespan is plotted: the register starts 1991, so age at deletion is left-truncated and rises one year per calendar year as an artefact.</text>
+<text x="36" y="696" font-size="11.5" fill="#8a8880">Pre-2006 clearances are digitisation, not building. Capacity of active sites is as recorded today. Source: Fiskeridirektoratet Akvakulturregisteret, layers 0 and 1, paged.</text>
 </svg>

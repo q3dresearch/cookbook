@@ -85,35 +85,29 @@ boxes means nothing and the caption says so.
 
 ![Two different ways to wait](artifacts/charts/where-it-stalls.svg)
 
-If the delay is all in the tail, *whose* tail? Holding the application type fixed
-— change of, or new, sea site — and plotting the typical wait against the unlucky
-one by production area separates two failures a national median blends together:
+If the delay is all in the tail, *whose* tail? Application type held fixed —
+change of, or new, sea site — so this is not easy paperwork against hard.
 
-* **Uniformly slow.** Vestfjorden og Vesterålen: median **754 days**, 90th
-  percentile **1,049**. Almost nobody gets through quickly.
-* **A lottery.** Nordhordland til Stadt: median **160 days**, 90th percentile
-  **917**. Most applicants are fine; one in ten waits two and a half years.
+| | typical | unlucky (p90) | |
+| --- | --- | --- | --- |
+| **Vestfjorden og Vesterålen** | 754d | 1,049d | slow for everyone |
+| **Nordhordland til Stadt** | 160d | 917d | fine for most, a lottery for a tenth |
 
-These need opposite responses. The first is a place to avoid; the second is a
-risk to price.
+Those need opposite responses. One is a place to avoid; the other is a risk to
+price.
 
-**The obvious version of this finding is wrong, and it survives most controls
-before it fails.** "Nordland is slow" holds up against every check this recipe
-could run: within one application type Nordland's median is 368 days against
-Vestland's 161, and it survives splitting by outcome (granted 316 vs 229 days,
-denied 789 vs 353), by applicant (24 slow decisions spread across 14 companies)
-and by submission year. It is still a merge. Nordland contains **both extremes**
-— Vestfjorden og Vesterålen at 754 days and Helgeland til Bodø at 212, a **3.6×
-spread inside one county and one application type.** The county average describes
-neither place.
+**"Nordland is slow" is wrong, and it survives most controls before it fails.** It
+holds against application type (368d vs Vestland's 161d), against outcome
+(granted 316d vs 229d, denied 789d vs 353d), against applicant (24 slow decisions
+across 14 companies) and against submission year. It is still a merge: Nordland
+contains **both** extremes — 754 days and 212 days, **3.6× apart inside one
+county.** The county average describes neither place.
 
-Delay is not refusal. Trøndelag denies 27% of these applications and decides in
-290 days; Vestland denies 11% and takes 161. The regulator is not slow because it
-is saying no.
+Delay is not refusal. Trøndelag denies 27% and decides in 290 days; Vestland
+denies 11% and takes 161.
 
-*What the register cannot say is why.* Vestfjorden og Vesterålen is production
-area 8, which the traffic-light system has repeatedly coloured red — but that is
-an outside fact, and this recipe has not tested it.
+*Why* production area 8 runs at 754 days is not in this register — the
+traffic-light system is the obvious candidate and this recipe has not tested it.
 
 **4. `queue-clock` — the stock behind the rates.**
 
