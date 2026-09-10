@@ -32,6 +32,11 @@ UA = "q3dresearch-cookbook/1.0 (+https://github.com/q3dresearch/cookbook)"
 BASE = ("https://gis.fiskeridir.no/server/rest/services/Yggdrasil/"
         "Akvakultursøknader/MapServer")
 LAYERS = {0: "pending", 4: "decided"}
+# The same service also publishes what has already been licensed and whether
+# anything is currently in it. Without those, a queue length cannot be read as a
+# constraint: capacity already granted and sitting empty is the obvious
+# alternative explanation, and it turns out to be the larger number.
+BIOMASS = ("Biomasse", 0)
 
 COLS = ["layer", "application_no", "applicant", "org_number", "application_type",
         "status", "result", "submitted", "decided", "days_to_decide",
@@ -74,6 +79,64 @@ def num(v):
     except (TypeError, ValueError):
         return ""
     return "" if f <= 0 else f
+
+
+def capacity_tonnes(raw) -> float | None:
+    """Licensed capacity, tonnes only.
+
+    The field mixes units: TN for tonnes, STK for a count of individual fish, DA
+    for an area in dekar, and one row in KG. Summing them produced 87 million
+    tonnes against a national output near 1.5 million, because a hatchery
+    licensed for 3,000,000 fish was read as 3,000,000 tonnes. Anything not
+    explicitly TN is returned as None and counted separately.
+    """
+    import re
+    m = re.match(r"([\d.]+)\s*TN$", str(raw or "").strip())
+    if not m:
+        return None
+    try:
+        v = float(m.group(1))
+    except ValueError:
+        return None
+    return v if v > 0 else None
+
+
+def fetch_biomass(out: Path) -> None:
+    svc, layer = BIOMASS
+    q = urllib.parse.urlencode({"where": "1=1", "outFields": "*",
+                                "returnGeometry": "false", "f": "json"})
+    url = f"{BASE.replace('Akvakultursøknader', svc)}/{layer}/query?{q}"
+    p = subprocess.run(["curl", "-sS", "-A", UA, "--max-time", "120", url],
+                       capture_output=True)
+    if p.returncode != 0 or not p.stdout:
+        raise RuntimeError(f"biomass: curl rc={p.returncode}")
+    recs = [f.get("attributes", {}) for f in json.loads(p.stdout).get("features", [])]
+    other = 0
+    rows = []
+    for r in recs:
+        t = capacity_tonnes(r.get("kapasitet_lok"))
+        if t is None:
+            other += 1
+            continue
+        rows.append({"site_no": r.get("loknr") or "", "site_name": r.get("navn") or "",
+                     "status": r.get("status_lokalitet") or "",
+                     "has_fish": r.get("har_fisk") or "",
+                     "species": r.get("art") or "",
+                     "capacity_tonnes": t,
+                     "placement": r.get("plassering") or "",
+                     "county": r.get("fylke") or "",
+                     "last_report": as_date(r.get("siste_rapport"))})
+    f = out / "sites.csv"
+    with f.open("w", newline="", encoding="utf-8") as fh:
+        w = csv.DictWriter(fh, fieldnames=list(rows[0]))
+        w.writeheader()
+        w.writerows(rows)
+    tot = sum(r["capacity_tonnes"] for r in rows)
+    idle = sum(r["capacity_tonnes"] for r in rows if r["has_fish"] == "Nei")
+    print(f"  biomass layer: {len(rows):,} sites in tonnes ({other} in fish-counts, "
+          f"area or kg, excluded)", file=sys.stderr)
+    print(f"    licensed {tot:,.0f} t, of which {idle:,.0f} t ({idle/tot:.0%}) has no fish",
+          file=sys.stderr)
 
 
 def main() -> int:
@@ -124,6 +187,7 @@ def main() -> int:
         print(f"    {layer:<9}{res:<12}{n:>6,}", file=sys.stderr)
     dated = sum(1 for r in rows if r["submitted"])
     print(f"  {dated:,} carry a submission date ({dated/len(rows):.0%})", file=sys.stderr)
+    fetch_biomass(out)
     return 0
 
 

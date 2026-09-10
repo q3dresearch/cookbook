@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="644" viewBox="0 0 1000 644" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'>
+<rect width="1000" height="644" fill="#fcfcfb"/>
+<text x="36" y="42" font-size="20" font-weight="600" fill="#0b0b0b">The queue is not what limits Norwegian salmon</text>
+<text x="36" y="68" font-size="13.5" fill="#52514e">Maximum allowed biomass in tonnes. More licensed capacity is sitting with no fish in it than the entire pending queue</text>
+<text x="36" y="87" font-size="13.5" fill="#52514e">is asking for &#8212; by a factor of 3.4.</text>
+<text x="36" y="112" font-size="12" fill="#8a8880">This recipe previously said licensed biomass caps output, so the queue binds growth. The first half is true and the second does not follow.</text>
+<text x="282" y="218" font-size="13.5" fill="#0b0b0b" text-anchor="end">Licensed, fish in the water</text>
+<text x="282" y="235" font-size="11" fill="#8a8880" text-anchor="end">637 sites</text>
+<rect x="300" y="199" width="490.4" height="32" rx="3" fill="#3f7d3a" fill-opacity="0.85"/>
+<text x="802.4" y="220" font-size="13.5" font-weight="600" fill="#0b0b0b">2.42m t</text>
+<text x="282" y="296" font-size="13.5" fill="#0b0b0b" text-anchor="end">Licensed, no fish in it</text>
+<text x="282" y="313" font-size="11" fill="#8a8880" text-anchor="end">464 sites</text>
+<rect x="300" y="277" width="292.8" height="32" rx="3" fill="#b5651d" fill-opacity="0.85"/>
+<text x="604.8" y="298" font-size="13.5" font-weight="600" fill="#0b0b0b">1.44m t</text>
+<text x="282" y="374" font-size="13.5" fill="#0b0b0b" text-anchor="end">Applied for, awaiting a decision</text>
+<text x="282" y="391" font-size="11" fill="#8a8880" text-anchor="end">309 applications</text>
+<rect x="300" y="355" width="87.3" height="32" rx="3" fill="#2361b0" fill-opacity="0.85"/>
+<text x="399.3" y="376" font-size="13.5" font-weight="600" fill="#0b0b0b">0.43m t</text>
+<line x1="36" y1="454" x2="964" y2="454" stroke="#e3e2db"/>
+<text x="36" y="476" font-size="13" fill="#0b0b0b"><tspan font-weight="600">1.44 million tonnes of licensed capacity has no fish in it, against 431 thousand tonnes waiting to be licensed.</tspan></text>
+<text x="36" y="500" font-size="12.5" fill="#52514e">The queue is real, slow and getting slower &#8212; but licence availability is not what caps production, because most of what is already licensed is not in use.</text>
+<text x="36" y="530" font-size="11.5" fill="#8a8880">Idle does not mean available. Salmon sites are deliberately fallowed between production cycles, so an unknown share of these 464 sites is a working farm between crops rather than dormant</text>
+<text x="36" y="548" font-size="11.5" fill="#8a8880">capacity. This chart rules out one explanation; it does not establish the replacement.</text>
+<text x="36" y="574" font-size="11.5" fill="#8a8880">Counted only where the licence states tonnes. The field also carries STK, a count of individual fish, and DA, an area &#8212; summing those as mass gave 87 million tonnes against a national output near 1.5 million.</text>
+<text x="36" y="598" font-size="11.5" fill="#8a8880">Sources: Fiskeridirektoratet Akvakultursøknader and Biomasse layers.</text>
+</svg>

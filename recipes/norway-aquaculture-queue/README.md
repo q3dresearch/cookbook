@@ -79,8 +79,23 @@ what arrives**, so the pile grows by roughly one in four. The register opens in
 Applications state a desired maximum allowed biomass. **256,072 of the 430,838
 tonnes awaiting a decision would be new capacity — 59% of the pile.** New sea
 sites have 152,957 tonnes waiting against 41,939 ever granted, 3.6× more held than
-released; new licences 7.7×. Norway caps salmon output by licensed biomass, which
-makes this queue the binding constraint on the industry's growth.
+released; new licences 7.7×.
+
+**5. `constraint` — and it stops the obvious conclusion.**
+
+![Idle licensed capacity dwarfs the queue](artifacts/charts/constraint.svg)
+
+The tempting reading of everything above is that licence availability caps
+Norwegian salmon growth. It does not. The same publisher's biomass layer shows
+**3.86 million tonnes of licensed capacity, of which 1.44 million — 37%, across
+464 sites — has no fish in it.** Idle licensed capacity is **3.4× the entire
+pending queue.**
+
+*Idle is not available.* Salmon sites are deliberately fallowed between production
+cycles, so an unknown share of those 464 is a working farm between crops. This
+rules out one explanation without establishing its replacement. What survives is
+narrower and firmer: the queue is real, slow and getting slower, **and it is not
+what binds production**, because most of what is already licensed is not in use.
 
 ## What was wrong before
 
@@ -144,3 +159,11 @@ Stdlib only; `curl` is used for the fetch. No data is committed.
   applicants who omit it differ systematically is untested.
 * **Three and a half years is a short series**, and the register's first year is a
   system starting up rather than a queue forming.
+* **How much of the idle 37% is fallowing is unknown.** The biomass layer says
+  whether a site has fish, never how much or for how long, so a farm between crops
+  and a dormant licence look identical. Separating them needs a repeated capture
+  of the layer over time — a `wss` job, not a recipe.
+* **Licensed capacity is counted only where the licence states tonnes.** The field
+  also carries STK, a count of individual fish, and DA, an area in dekar. Summing
+  those as mass gives 87 million tonnes against a national output near 1.5
+  million; 26 sites are excluded for that reason.

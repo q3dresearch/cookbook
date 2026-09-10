@@ -1,13 +1,14 @@
 {
-  "method_version": "2.0.0",
-  "_method_version": "2.0.0 replaces a 1.x that had three charts, no scripts, and three wrong claims. 1.x dropped 80 withdrawn applications from every rate, reported land-based aquaculture at 94% approval and 'close to automatic' on 17 decisions when 37 of its 60 applications have never been decided, and quoted every rate as a point when it is both a range and a falling trend. No 1.x figure should be quoted.",
+  "method_version": "2.1.0",
+  "_method_version": "2.1.0 withdraws a claim 2.0.0 made. It said Norway caps salmon output by licensed biomass, so the queue binds growth. The same service's Biomasse layer shows 3.86m tonnes licensed with 1.44m - 37%, 464 sites - holding no fish, which is 3.4x the entire pending queue. Licence availability is not the constraint. Idle is not the same as available, because salmon sites are fallowed between cycles, so this rules out an explanation without establishing its replacement. 2.0.0 replaces a 1.x that had three charts, no scripts, and three wrong claims. 1.x dropped 80 withdrawn applications from every rate, reported land-based aquaculture at 94% approval and 'close to automatic' on 17 decisions when 37 of its 60 applications have never been decided, and quoted every rate as a point when it is both a range and a falling trend. No 1.x figure should be quoted.",
   "retrieved": "2026-09-11",
   "source": {
     "publisher": "Fiskeridirektoratet (Norwegian Directorate of Fisheries)",
     "service": "https://gis.fiskeridir.no/server/rest/services/Yggdrasil/Akvakulturs\u00f8knader/MapServer",
     "layers": {
       "0": "pending, 309 records",
-      "4": "concluded, 599 records"
+      "4": "concluded, 599 records",
+      "Biomasse/0": "1,127 sites, whether each currently holds fish"
     },
     "auth": "none",
     "pagination": "none needed - both layers are under the 2,000-feature cap",
@@ -51,13 +52,18 @@
     "pending_biomass_tonnes": 430838,
     "pending_biomass_new_capacity_share": 0.59,
     "new_sea_site_pending_vs_granted": 3.6,
-    "new_licence_pending_vs_granted": 7.7
+    "new_licence_pending_vs_granted": 7.7,
+    "licensed_tonnes": 3863837,
+    "licensed_tonnes_no_fish": 1444429,
+    "idle_vs_queue_ratio": 3.4,
+    "_constraint": "Counted only where the licence states TN. The field also carries STK (individual fish) and DA (dekar); summing them as mass gave 87 million tonnes against a national output near 1.5 million, because one hatchery licensed for 3,000,000 fish read as 3,000,000 tonnes. 26 sites excluded."
   },
   "not_answerable": {
     "when_withdrawals_happened": "The register records that an application was withdrawn, never when. Fixing it needs the publisher to add the field or a repeated capture watching rows disappear - which is a wss job, not a recipe.",
     "whether_a_withdrawal_is_a_soft_refusal": "Counted as not granted, which is arithmetically right. Whether applicants pull applications because refusal is signalled, or for unrelated commercial reasons, changes what the number means and this data cannot say.",
     "biomass_completeness": "Stated on 85 of 86 new sea sites but only 138 of 324 site changes. Every tonnage is a floor from a self-selected subset, and the selection rate differs sharply by family.",
     "load_versus_policy": "Approval falling while decisions slow reads as load, but a 2024 rule change would look similar. Separating them is a reading problem, not a data one.",
-    "is_norway_unusual": "One register is one country. Scotland, Chile and the Faroes all licence marine aquaculture; one comparable register would turn a national finding into a structural one."
+    "is_norway_unusual": "One register is one country. Scotland, Chile and the Faroes all licence marine aquaculture; one comparable register would turn a national finding into a structural one.",
+    "how_much_idle_capacity_is_fallowing": "The biomass layer says whether a site has fish, never how much or for how long. A farm between production cycles and a dormant licence are indistinguishable here."
   }
 }
