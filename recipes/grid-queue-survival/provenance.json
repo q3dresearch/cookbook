@@ -1,0 +1,90 @@
+{
+  "method_version": "2.0.0",
+  "_method_version": "2.0.0 replaces a 1.x that had five charts, no scripts, and a headline that was backwards. 1.x reported that the technologies the grid most needs are least likely to survive - batteries 8% against gas 20%. Age-matched, storage is 19.6% and simple-cycle gas 10.0%. The gap was measuring which decade a technology entered the queue: CAISO's gas has a median entry year of 2007 and its storage 2020, and they never overlapped. No 1.x number should be quoted.",
+  "retrieved": "2026-09-11",
+  "sources": [
+    {
+      "operator": "CAISO",
+      "url": "https://www.caiso.com/PublishedDocuments/PublicQueueReport.xlsx",
+      "bytes": 384833,
+      "projects": 2278,
+      "auth": "none",
+      "robots": "Allow: / for this path",
+      "publishes": [
+        "queue date",
+        "withdrawal date",
+        "actual on-line date",
+        "study milestones",
+        "county",
+        "fuel",
+        "turbine type",
+        "MW"
+      ]
+    },
+    {
+      "operator": "MISO",
+      "url": "https://www.misoenergy.org/api/giqueue/getprojects",
+      "bytes": 2254549,
+      "projects": 3833,
+      "auth": "none",
+      "publishes": [
+        "queue date",
+        "application status",
+        "fuel type",
+        "county",
+        "state",
+        "MW"
+      ],
+      "_missing": "No withdrawal date and no study milestones for ANY project. This caps what can be compared: three of the seven charts are CAISO-only by force, not choice."
+    }
+  ],
+  "corpus": {
+    "file": "queue.csv",
+    "rows": 6111,
+    "key": "(iso, project_id)",
+    "_key": "CAISO queue positions are unique 2,278/2,278; MISO J-numbers unique but for one duplicate. Ids collide across operators, so the key is the pair.",
+    "_note": "Not committed. Regenerate with harvest.py; both queues update continuously.",
+    "bytes": 493083,
+    "sha256": "17e2df5e0bfc74bb",
+    "_sha_note": "First 16 hex of the SHA-256 of the harvested queue.csv on 2026-09-11."
+  },
+  "headline": {
+    "jurisdiction_gap_pooled": 1.9,
+    "jurisdiction_gap_per_technology": [
+      2.8,
+      3.4
+    ],
+    "technology_spread_age_matched": 2.0,
+    "_headline": "The operator matters more than the technology. Both magnitudes are stated because they differ: pooled across technologies MISO is 1.9x CAISO, per technology holding entry years fixed it is 2.8-3.4x, against a roughly 2x spread between technologies.",
+    "miso_rate_by_cohort": {
+      "2013_2017": 0.312,
+      "2018_2021": 0.319
+    },
+    "_miso_rate_by_cohort": "The open worry was that MISO's advantage rested on 253 early projects. Its next cohort resolves at 31.9% on 1,187 - the advantage held as the sample grew twentyfold.",
+    "caiso_rate_by_cohort": {
+      "2013_2017": 0.166,
+      "2018_2021": 0.052
+    },
+    "_caiso_2018_2021": "A floor, not a rate. A quarter of that cohort is unresolved and withdrawals resolve years before builds.",
+    "median_years_to_withdrawal": 1.0,
+    "median_years_to_energisation": 6.1,
+    "share_dying_before_any_study": 0.52,
+    "years_to_death_never_studied": 0.8,
+    "years_to_death_through_facilities": 3.8,
+    "years_to_death_after_agreement": 5.8,
+    "_two_bottlenecks": "Intake is high-volume and fast; the facilities stage is low-volume and slow. Entry deposits address the first and not the second; study capacity the reverse.",
+    "age_matched_build_rate_caiso": {
+      "geothermal": 0.032,
+      "gas": 0.1,
+      "wind": 0.111,
+      "solar": 0.163,
+      "storage": 0.196
+    }
+  },
+  "not_answerable": {
+    "is_caiso_unusual_or_miso": "Two operators is one comparison. NYISO publishes in the same shape and would settle it.",
+    "process_versus_grid": "MISO has more transmission headroom and less congestion. The gap is real; attributing it to queue process rather than to the grid itself is not supported by this data.",
+    "miso_anything_time_based": "MISO dates no withdrawals, so survival curves, death stage and stage lead time cannot be computed for it at all. Included in a cohort survival chart it scored exactly 100%, which is a missing column rendering as a perfect result.",
+    "geothermal_precision": "3.2% is the lowest rate here and rests on 31 projects. Do not quote without the n."
+  }
+}

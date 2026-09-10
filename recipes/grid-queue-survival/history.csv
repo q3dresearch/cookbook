@@ -1,0 +1,2 @@
+run_date,method_version,caiso_projects,miso_projects,caiso_survival,miso_survival,note
+2026-09-11,2.0.0,2278,3833,0.125,0.205,rebuilt from scratch; 1.x headline reversed by age-matching

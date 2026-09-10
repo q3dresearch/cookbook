@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="548" viewBox="0 0 1000 548" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'>
+<rect width="1000" height="548" fill="#fcfcfb"/>
+<text x="36" y="42" font-size="20" font-weight="600" fill="#0b0b0b">Compared fairly, storage is not the worst bet in the queue</text>
+<text x="36" y="68" font-size="13.5" fill="#52514e">Share of projects still alive after exactly 5 years, grouped by when they entered the queue. Same technology, same</text>
+<text x="36" y="87" font-size="13.5" fill="#52514e">exposure, same era &#8212; so a gap between lines is the technology, not fourteen years of changing rules.</text>
+<text x="36" y="150" font-size="12" fill="#8a8880">MISO cannot appear: it publishes no withdrawal date, so a death can be counted but never placed in time. Included, every one of its families scored exactly 100%.</text>
+<text x="36" y="110" font-size="12.5" fill="#8a8880">Gas appears only in the two older cohorts and storage only in the two newer ones: they barely overlapped in time, so read down a cohort, not across.</text>
+<line x1="92" y1="416.0" x2="910" y2="416.0" stroke="#e3e2db"/>
+<text x="82" y="420.0" font-size="11.5" fill="#8a8880" text-anchor="end">0%</text>
+<line x1="92" y1="365.5" x2="910" y2="365.5" stroke="#e3e2db"/>
+<text x="82" y="369.5" font-size="11.5" fill="#8a8880" text-anchor="end">10%</text>
+<line x1="92" y1="315.0" x2="910" y2="315.0" stroke="#e3e2db"/>
+<text x="82" y="319.0" font-size="11.5" fill="#8a8880" text-anchor="end">20%</text>
+<line x1="92" y1="264.5" x2="910" y2="264.5" stroke="#e3e2db"/>
+<text x="82" y="268.5" font-size="11.5" fill="#8a8880" text-anchor="end">30%</text>
+<line x1="92" y1="214.0" x2="910" y2="214.0" stroke="#e3e2db"/>
+<text x="82" y="218.0" font-size="11.5" fill="#8a8880" text-anchor="end">40%</text>
+<text x="36" y="202" font-size="11.5" fill="#8a8880">share of projects still alive at exactly 5 years</text>
+<text x="228.3" y="440" font-size="12" fill="#52514e" text-anchor="middle">2006&#8211;2010</text>
+<text x="501.0" y="440" font-size="12" fill="#52514e" text-anchor="middle">2011&#8211;2015</text>
+<text x="773.7" y="440" font-size="12" fill="#52514e" text-anchor="middle">2016&#8211;2020</text>
+<text x="501" y="462" font-size="11.5" fill="#8a8880" text-anchor="middle">years the project entered the queue</text>
+<path d="M228.3,284.3 L501.0,293.9 L773.7,281.0" fill="none" stroke="#b5651d" stroke-width="2.8"/>
+<circle cx="228.3" cy="284.3" r="5" fill="#b5651d" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="501.0" cy="293.9" r="5" fill="#b5651d" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="773.7" cy="281.0" r="5" fill="#b5651d" stroke="#fcfcfb" stroke-width="2"/>
+<path d="M501.0,292.6 L773.7,241.1" fill="none" stroke="#2361b0" stroke-width="2.8"/>
+<circle cx="501.0" cy="292.6" r="5" fill="#2361b0" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="773.7" cy="241.1" r="5" fill="#2361b0" stroke="#fcfcfb" stroke-width="2"/>
+<path d="M228.3,319.8 L501.0,341.7" fill="none" stroke="#7a4fa3" stroke-width="2.8"/>
+<circle cx="228.3" cy="319.8" r="5" fill="#7a4fa3" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="501.0" cy="341.7" r="5" fill="#7a4fa3" stroke="#fcfcfb" stroke-width="2"/>
+<path d="M228.3,242.2 L501.0,339.5 L773.7,244.5" fill="none" stroke="#3f7d3a" stroke-width="2.8"/>
+<circle cx="228.3" cy="242.2" r="5" fill="#3f7d3a" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="501.0" cy="339.5" r="5" fill="#3f7d3a" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="773.7" cy="244.5" r="5" fill="#3f7d3a" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="42" cy="172" r="5.5" fill="#b5651d"/>
+<text x="54" y="176" font-size="12.5" fill="#52514e">Solar, CAISO</text>
+<circle cx="160.0" cy="172" r="5.5" fill="#2361b0"/>
+<text x="172.0" y="176" font-size="12.5" fill="#52514e">Storage, CAISO</text>
+<circle cx="292.0" cy="172" r="5.5" fill="#7a4fa3"/>
+<text x="304.0" y="176" font-size="12.5" fill="#52514e">Gas, CAISO</text>
+<circle cx="396.0" cy="172" r="5.5" fill="#3f7d3a"/>
+<text x="408.0" y="176" font-size="12.5" fill="#52514e">Wind, CAISO</text>
+<text x="36" y="484" font-size="11" fill="#8a8880">Projects per point: Solar CAISO n=232-414, Storage CAISO n=90-309, Gas CAISO n=68-126, Wind CAISO n=33-93.</text>
+<text x="36" y="502" font-size="12.5" fill="#0b0b0b"><tspan font-weight="600">All-time survival said storage was worst at 8.1%.</tspan> Age-matched it is 19.6%, level with combined-cycle gas and above solar.</text>
+<text x="36" y="522" font-size="11.5" fill="#8a8880">Storage projects have had time to be withdrawn (median 1 year) but not to be built (median 6.1 years), so counting all of them understates it.</text>
+<text x="36" y="538" font-size="11.5" fill="#8a8880">CAISO only. A technology is shown in a cohort only with at least 30 projects there. Source: PublicQueueReport.xlsx, fetched 2026-09-10.</text>
+</svg>

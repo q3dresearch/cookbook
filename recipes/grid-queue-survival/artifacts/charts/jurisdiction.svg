@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="606" viewBox="0 0 980 606" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'>
+<rect width="980" height="606" fill="#fcfcfb"/>
+<text x="36" y="42" font-size="20" font-weight="600" fill="#0b0b0b">Which grid you queue in matters more than what you are building</text>
+<text x="36" y="68" font-size="13.5" fill="#52514e">Share of projects built, for the same technology entering the queue in the same years (2011&#8211;2017), in two systems</text>
+<text x="36" y="87" font-size="13.5" fill="#52514e">running the same FERC-mandated process. Age and technology are held fixed, so the gap is the operator.</text>
+<circle cx="42" cy="118" r="6" fill="#2361b0"/>
+<text x="54" y="122" font-size="12.5" font-weight="600" fill="#2361b0">CAISO &#8212; California</text>
+<circle cx="222" cy="118" r="6" fill="#b5651d"/>
+<text x="234" y="122" font-size="12.5" font-weight="600" fill="#b5651d">MISO &#8212; Midwest</text>
+<line x1="210.0" y1="176" x2="210.0" y2="426" stroke="#e3e2db"/>
+<text x="210.0" y="446" font-size="11.5" fill="#8a8880" text-anchor="middle">0%</text>
+<line x1="297.0" y1="176" x2="297.0" y2="426" stroke="#e3e2db"/>
+<text x="297.0" y="446" font-size="11.5" fill="#8a8880" text-anchor="middle">10%</text>
+<line x1="384.1" y1="176" x2="384.1" y2="426" stroke="#e3e2db"/>
+<text x="384.1" y="446" font-size="11.5" fill="#8a8880" text-anchor="middle">20%</text>
+<line x1="471.1" y1="176" x2="471.1" y2="426" stroke="#e3e2db"/>
+<text x="471.1" y="446" font-size="11.5" fill="#8a8880" text-anchor="middle">30%</text>
+<line x1="558.1" y1="176" x2="558.1" y2="426" stroke="#e3e2db"/>
+<text x="558.1" y="446" font-size="11.5" fill="#8a8880" text-anchor="middle">40%</text>
+<text x="192" y="205" font-size="13.5" font-weight="600" fill="#0b0b0b" text-anchor="end">Solar</text>
+<line x1="318.5" y1="200" x2="580.9" y2="200" stroke="#8a8880" stroke-width="2"/>
+<circle cx="318.5" cy="200" r="7" fill="#2361b0" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="580.9" cy="200" r="7" fill="#b5651d" stroke="#fcfcfb" stroke-width="2"/>
+<text x="305.5" y="205" font-size="12.5" font-weight="600" fill="#2361b0" text-anchor="end">12%</text>
+<text x="593.9" y="205" font-size="12.5" font-weight="600" fill="#b5651d">43%</text>
+<text x="694" y="201" font-size="12" fill="#0b0b0b">3.4&#215; better in MISO</text>
+<text x="694" y="217" font-size="11" fill="#8a8880">n=425 CAISO, 115 MISO</text>
+<text x="192" y="269" font-size="13.5" font-weight="600" fill="#0b0b0b" text-anchor="end">Wind</text>
+<line x1="266.8" y1="264" x2="366.8" y2="264" stroke="#8a8880" stroke-width="2"/>
+<circle cx="266.8" cy="264" r="7" fill="#2361b0" stroke="#fcfcfb" stroke-width="2"/>
+<circle cx="366.8" cy="264" r="7" fill="#b5651d" stroke="#fcfcfb" stroke-width="2"/>
+<text x="253.8" y="269" font-size="12.5" font-weight="600" fill="#2361b0" text-anchor="end">7%</text>
+<text x="379.8" y="269" font-size="12.5" font-weight="600" fill="#b5651d">18%</text>
+<text x="694" y="265" font-size="12" fill="#0b0b0b">2.8&#215; better in MISO</text>
+<text x="694" y="281" font-size="11" fill="#8a8880">n=46 CAISO, 111 MISO</text>
+<text x="192" y="333" font-size="13.5" font-weight="600" fill="#52514e" text-anchor="end">Storage</text>
+<circle cx="375.2" cy="328" r="7" fill="#2361b0" stroke="#fcfcfb" stroke-width="2"/>
+<text x="388.2" y="333" font-size="12.5" font-weight="600" fill="#2361b0">19%</text>
+<text x="694" y="329" font-size="12" fill="#8a8880">CAISO only &#183; n=137</text>
+<text x="694" y="345" font-size="11" fill="#8a8880">MISO had 4 in this era</text>
+<text x="192" y="397" font-size="13.5" font-weight="600" fill="#52514e" text-anchor="end">Gas, combined cycle</text>
+<text x="218" y="397" font-size="12" fill="#8a8880">too few in both to report (CAISO n=23, MISO n=10)</text>
+<line x1="36" y1="464" x2="944" y2="464" stroke="#e3e2db"/>
+<text x="36" y="486" font-size="13" fill="#0b0b0b"><tspan font-weight="600">Age-matched, the spread between technologies is about two-fold. Between these two grids, for one technology, it is three.</tspan></text>
+<text x="36" y="508" font-size="12.5" fill="#52514e">Both operate under the same federal interconnection rule, which makes the gap a question about process rather than about resources or geography.</text>
+<text x="36" y="536" font-size="11.5" fill="#8a8880">Read the sample sizes before the ratio. MISO&#8217;s queue is overwhelmingly recent: 253 of its 2,700 resolved projects entered by 2017, against CAISO&#8217;s 1,446, so its rate rests on a small</text>
+<text x="36" y="554" font-size="11.5" fill="#8a8880">early cohort. The direction is not in doubt; the magnitude is. Rows with only one operator show that operator&#8217;s rate and are not a comparison.</text>
+<text x="36" y="578" font-size="11.5" fill="#8a8880">Sources: CAISO PublicQueueReport.xlsx, MISO api/giqueue/getprojects. Built and withdrawn only; still-active projects excluded.</text>
+</svg>

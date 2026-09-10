@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="618" viewBox="0 0 1000 618" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'>
+<rect width="1000" height="618" fill="#fcfcfb"/>
+<text x="36" y="42" font-size="20" font-weight="600" fill="#0b0b0b">The queue kills fast and builds slow</text>
+<text x="36" y="68" font-size="13.5" fill="#52514e">Share of California projects not yet withdrawn, by years since they joined the queue. Projects that were built are censored at</text>
+<text x="36" y="87" font-size="13.5" fill="#52514e">the date they came online, and active ones at today &#8212; they left alive or have not finished, and neither is a death.</text>
+<line x1="84.0" y1="178" x2="84.0" y2="496" stroke="#e3e2db"/>
+<text x="84.0" y="517" font-size="11.5" fill="#8a8880" text-anchor="middle">0y</text>
+<line x1="192.0" y1="178" x2="192.0" y2="496" stroke="#e3e2db"/>
+<text x="192.0" y="517" font-size="11.5" fill="#8a8880" text-anchor="middle">2y</text>
+<line x1="300.0" y1="178" x2="300.0" y2="496" stroke="#e3e2db"/>
+<text x="300.0" y="517" font-size="11.5" fill="#8a8880" text-anchor="middle">4y</text>
+<line x1="408.0" y1="178" x2="408.0" y2="496" stroke="#e3e2db"/>
+<text x="408.0" y="517" font-size="11.5" fill="#8a8880" text-anchor="middle">6y</text>
+<line x1="516.0" y1="178" x2="516.0" y2="496" stroke="#e3e2db"/>
+<text x="516.0" y="517" font-size="11.5" fill="#8a8880" text-anchor="middle">8y</text>
+<line x1="624.0" y1="178" x2="624.0" y2="496" stroke="#e3e2db"/>
+<text x="624.0" y="517" font-size="11.5" fill="#8a8880" text-anchor="middle">10y</text>
+<line x1="732.0" y1="178" x2="732.0" y2="496" stroke="#e3e2db"/>
+<text x="732.0" y="517" font-size="11.5" fill="#8a8880" text-anchor="middle">12y</text>
+<line x1="84" y1="496.0" x2="732" y2="496.0" stroke="#e3e2db"/>
+<text x="74" y="500.0" font-size="11.5" fill="#8a8880" text-anchor="end">0%</text>
+<line x1="84" y1="416.5" x2="732" y2="416.5" stroke="#e3e2db"/>
+<text x="74" y="420.5" font-size="11.5" fill="#8a8880" text-anchor="end">25%</text>
+<line x1="84" y1="337.0" x2="732" y2="337.0" stroke="#e3e2db"/>
+<text x="74" y="341.0" font-size="11.5" fill="#8a8880" text-anchor="end">50%</text>
+<line x1="84" y1="257.5" x2="732" y2="257.5" stroke="#e3e2db"/>
+<text x="74" y="261.5" font-size="11.5" fill="#8a8880" text-anchor="end">75%</text>
+<line x1="84" y1="178.0" x2="732" y2="178.0" stroke="#e3e2db"/>
+<text x="74" y="182.0" font-size="11.5" fill="#8a8880" text-anchor="end">100%</text>
+<text x="36" y="164" font-size="11.5" fill="#8a8880">share still in the queue, not withdrawn</text>
+<text x="408" y="540" font-size="11.5" fill="#8a8880" text-anchor="middle">years since joining the queue</text>
+<path d="M84.0,178.0 L138.0,310.6 L192.0,369.8 L246.0,394.9 L300.0,407.6 L354.0,413.3 L408.0,423.7 L462.0,429.8 L516.0,430.9 L570.0,432.2 L624.0,433.9 L678.0,435.0 L732.0,439.3" fill="none" stroke="#b5651d" stroke-width="2.6" stroke-linejoin="round"/>
+<path d="M84.0,178.0 L138.0,279.5 L192.0,344.5 L246.0,352.4 L300.0,370.3 L354.0,391.1 L408.0,406.0 L462.0,411.2 L516.0,413.6 L570.0,415.9" fill="none" stroke="#2361b0" stroke-width="2.6" stroke-linejoin="round"/>
+<path d="M84.0,178.0 L138.0,332.0 L192.0,375.2 L246.0,392.2 L300.0,413.7 L354.0,424.4 L408.0,428.4 L462.0,435.4" fill="none" stroke="#7a4fa3" stroke-width="2.6" stroke-linejoin="round"/>
+<path d="M84.0,178.0 L138.0,276.6 L192.0,334.7 L246.0,366.9 L300.0,382.0 L354.0,394.1 L408.0,417.3 L462.0,425.2 L516.0,432.1 L570.0,439.7" fill="none" stroke="#3f7d3a" stroke-width="2.6" stroke-linejoin="round"/>
+<line x1="570.0" y1="415.9" x2="742" y2="184.0" stroke="#2361b0" stroke-width="0.8" stroke-dasharray="2 2"/>
+<text x="748" y="188" font-size="12.5" font-weight="600" fill="#2361b0">Storage</text>
+<text x="748" y="204" font-size="11" fill="#8a8880">25% alive at 9y &#183; n=680 &#183; built in 7.1y</text>
+<line x1="462.0" y1="435.4" x2="742" y2="224.0" stroke="#7a4fa3" stroke-width="0.8" stroke-dasharray="2 2"/>
+<text x="748" y="228" font-size="12.5" font-weight="600" fill="#7a4fa3">Gas</text>
+<text x="748" y="244" font-size="11" fill="#8a8880">19% alive at 7y &#183; n=221 &#183; built in 4.8y</text>
+<line x1="732.0" y1="439.3" x2="742" y2="264.0" stroke="#b5651d" stroke-width="0.8" stroke-dasharray="2 2"/>
+<text x="748" y="268" font-size="12.5" font-weight="600" fill="#b5651d">Solar</text>
+<text x="748" y="284" font-size="11" fill="#8a8880">18% alive at 12y &#183; n=1,043 &#183; built in 6.5y</text>
+<line x1="570.0" y1="439.7" x2="742" y2="304.0" stroke="#3f7d3a" stroke-width="0.8" stroke-dasharray="2 2"/>
+<text x="748" y="308" font-size="12.5" font-weight="600" fill="#3f7d3a">Wind</text>
+<text x="748" y="324" font-size="11" fill="#8a8880">18% alive at 9y &#183; n=200 &#183; built in 5.5y</text>
+<text x="36" y="572" font-size="13" fill="#0b0b0b"><tspan font-weight="600">Median 1.0 year to a withdrawal, 6.1 years to an energisation.</tspan> Survive the first two years and the odds change entirely.</text>
+<text x="36" y="592" font-size="11.5" fill="#8a8880">CAISO only: MISO publishes an application status but no withdrawal date, so it can say how many died and not when. Technologies with fewer than 60 dated projects are omitted.</text>
+<text x="36" y="608" font-size="11.5" fill="#8a8880">Source: CAISO PublicQueueReport.xlsx, fetched 2026-09-10. Curve stops where fewer than 25 projects of that technology remain at risk, so a line ending early means its cohort is young, not that it stopped dying.</text>
+</svg>
