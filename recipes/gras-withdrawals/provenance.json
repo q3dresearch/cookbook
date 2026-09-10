@@ -1,0 +1,58 @@
+{
+  "method_version": "1.0.0",
+  "retrieved": "2026-09-11",
+  "sources": {
+    "gras_notice_inventory": {
+      "url": "https://www.cfsanappsexternal.fda.gov/scripts/fdcc/cfc/XMLService.cfm?method=downloadxls&set=GRASNotices",
+      "note": "content type claims Excel and lies; the file is cp1252 CSV with the real header on row 3 and the GRN column wrapped in an Excel formula",
+      "rows": 1336
+    },
+    "substances_added_to_food": {
+      "url": "https://www.hfpappexternal.fda.gov/scripts/fdcc/cfc/XMLService.cfm?method=downloadxls&set=FoodSubstances",
+      "note": "formerly EAFUS; each row carries the 21 CFR sections that permit the substance",
+      "rows": 3971,
+      "used_for": "testing whether a withdrawn substance took another regulatory route"
+    },
+    "animal_gras_inventory": {
+      "url": "https://www.fda.gov/animal-veterinary/generally-recognized-safe-gras-notification-program/current-animal-food-gras-notices-inventory",
+      "note": "no bulk export exists, so the rendered table is captured"
+    }
+  },
+  "headline": {
+    "notices_closed": 1336,
+    "fda_had_no_questions": 1056,
+    "pulled_by_the_notifier": 225,
+    "refused_outright": 20,
+    "withdrawal_rate_mean": 0.172,
+    "withdrawal_rate_trend": "none across 28 years",
+    "came_back_before_2010": 0.51,
+    "came_back_2010_to_2022": 0.29,
+    "two_proportion_z": 2.78,
+    "collapsed_to_substances": 1261,
+    "abandoned_share_of_substances": 0.123,
+    "abandoned_share_of_notices": 0.168,
+    "worst_category": "Synthetic or defined chemical, 38% against an 11.6% base",
+    "filings_to_dropout_correlation": -0.65,
+    "firms_with_10_plus_filings": 8,
+    "their_clearance_rate": 0.92,
+    "experienced_vs_first_timer_clearance": "86% vs 76%, z = +3.94",
+    "withdrawal_stickiness": "after a pull, 29% of a firm's next filings are also pulled, against 9% after a clearance",
+    "vanished_still_permitted": 16,
+    "vanished_via_food_additive_petition": 3
+  },
+  "computed_by": {
+    "gras-flow.svg": "chart_flow.py",
+    "gras-withdrawal-rate.svg": "chart_years.py",
+    "gras-meaning.svg": "chart_meaning.py",
+    "gras-withdrawn-kinds.svg": "chart_kinds.py",
+    "the other-door table": "other_door.py"
+  },
+  "caveats": [
+    "A comeback is counted only where FDA records a resubmission link, so every comeback rate is a floor.",
+    "Counting notices double-counts substances: one substance in eight is abandoned, not one in six.",
+    "The other-door join is 59% precise before hand-checking. Both sides are free-text chemical names; every candidate was read and the rejections are recorded in other_door.py with reasons.",
+    "Substance categories are inferred from the notice's own name and are ours, not FDA's. 14% of notices match more than one rule and the first wins, which moves category sizes but not the -0.65 slope (stable from -0.68 to -0.53 across 200 random rule orders).",
+    "The pre-2008 cohorts are thin: 5, 11 and 15 withdrawals. The pooled pre-2010 figure (n=47) is the evidence.",
+    "The third fate of a withdrawn substance - sold on an undisclosed self-determination - is not observable from any FDA file by construction."
+  ]
+}
