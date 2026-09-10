@@ -5,7 +5,10 @@
     "ecfr_full_text": {
       "url": "https://www.ecfr.gov/api/versioner/v1/full/{date}/title-{n}.xml?part={p}",
       "note": "--compressed is mandatory or the endpoint returns HTTP 406",
-      "titles": {"12": "449 parts, 7180 sections", "29": "328 parts, 7271 sections"}
+      "titles": {
+        "12": "449 parts, 7180 sections",
+        "29": "328 parts, 7271 sections"
+      }
     },
     "ecfr_versions": {
       "url": "https://www.ecfr.gov/api/versioner/v1/versions/title-{n}.json",
@@ -23,19 +26,27 @@
     "title12_median_age_years": 9.8,
     "title12_sections_30y_plus": 194,
     "title12_share_of_30y_tail_labelled_interpretations": 0.39,
-    "title12_oldest": {"section": "220.101", "published": "1946-12-07", "age_years": 79.7},
+    "title12_oldest": {
+      "section": "220.101",
+      "published": "1946-12-07",
+      "age_years": 79.7
+    },
     "title29_dated_sections": 2386,
     "title29_median_age_years": 14.4,
     "title29_sections_30y_plus": 626,
     "title29_share_of_30y_tail_labelled_interpretations": 0.06,
     "quadrant_of_covered_set": {
-      "settled": 226, "problem_child": 236, "fossil": 994, "live": 984,
+      "settled": 226,
+      "problem_child": 236,
+      "fossil": 994,
+      "live": 984,
       "excluded_sole_dated_section_in_part": 53,
       "on_diagonal_by_co_amendment": 774
     },
     "removals_since_2017": 1588,
     "removals_on_2018_10_11": 836,
-    "routine_removals_per_year": 78
+    "routine_removals_per_year": 78,
+    "title29_share_of_30y_tail_genre_prose_detector": 0.12
   },
   "computed_by": {
     "cfr-staleness-title12.svg": "chart_decades.py",
@@ -48,6 +59,7 @@
   "caveats": [
     "Every share is of the covered set (35% of Title 12, 33% of Title 29), not of the title. Sections without their own source note inherit one from their part, and inherited notes sit under actively amended parts, so all old-section counts are floors.",
     "The Interpretations subject-group label is a Title 12 convention: 12 groups there, 1 in Title 29. A detector keyed on it returns near-zero elsewhere without erroring.",
-    "Settled is a candidate list, not a verified one. What a section's undated siblings did is unknowable by construction."
+    "Settled is a candidate list, not a verified one. What a section's undated siblings did is unknowable by construction.",
+    "Labor marks the interpretation genre in prose, not metadata: six parts carry a section headed \"Interpretations made, continued, and superseded by this part\". Using that raises Labor's share of the 30-year tail from 6% to 12%, still far below Title 12's 39%."
   ]
 }

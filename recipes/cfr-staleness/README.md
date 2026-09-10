@@ -207,6 +207,17 @@ simply `PART 775—GENERAL`. But widening the detector to read section headings
 still only reaches 8% of Labor's tail. Both things are true and they are separate
 problems: the label is absent, *and* the genre is smaller.
 
+**A later pass found the better detector, and it does not rescue the claim.**
+Labor marks the genre in prose instead of metadata: six parts — 778, 779, 780,
+783, 784 and 794 — each carry a section headed *"Interpretations made, continued,
+and superseded by this part"*, which is the FLSA interpretive-bulletin series
+declaring itself. Treating membership of those parts as the genre marker takes
+Labor's share of the 30-year tail from **6% to 12%**. Still nowhere near banking's
+39%, so the direction holds and only the magnitude tightens. The lesson is
+narrower and sharper than "the correction does not travel": **the genre exists in
+both titles and each publisher marks it somewhere different**, so any cross-title
+measure needs a per-title detector and a check that it fired.
+
 So Labor's 626 old sections are, in the main, real un-updated regulation — OSHA
 construction and maritime standards, Wage and Hour overtime rules, EEOC
 recordkeeping. **In banking the oldest text is not regulation. In labour law it
