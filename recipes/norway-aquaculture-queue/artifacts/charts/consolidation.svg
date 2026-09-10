@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="786" viewBox="0 0 1040 786" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'>
+<rect width="1040" height="786" fill="#fcfcfb"/>
+<text x="36" y="42" font-size="20" font-weight="600" fill="#0b0b0b">Norway grew salmon by deleting sites, not adding them</text>
+<text x="36" y="68" font-size="13.5" fill="#52514e">Every licensed site entering or leaving the register, 2006&#8211;2025. Height is the median capacity of the sites moving that year;</text>
+<text x="36" y="87" font-size="13.5" fill="#52514e">area is how many. 2,462 sites were struck off against 1,104 cleared &#8212; a net loss of 1,358 sites.</text>
+<text x="36" y="112" font-size="12" fill="#8a8880">The ones leaving were small and the ones arriving were not, so capacity rose while the site count fell. After 2016 both flows go quiet.</text>
+<line x1="76" y1="572.0" x2="830" y2="572.0" stroke="#efeee8"/>
+<text x="64" y="576.0" font-size="11" fill="#8a8880" text-anchor="end">0</text>
+<line x1="76" y1="479.0" x2="830" y2="479.0" stroke="#efeee8"/>
+<text x="64" y="483.0" font-size="11" fill="#8a8880" text-anchor="end">1,000</text>
+<line x1="76" y1="386.0" x2="830" y2="386.0" stroke="#efeee8"/>
+<text x="64" y="390.0" font-size="11" fill="#8a8880" text-anchor="end">2,000</text>
+<line x1="76" y1="293.0" x2="830" y2="293.0" stroke="#efeee8"/>
+<text x="64" y="297.0" font-size="11" fill="#8a8880" text-anchor="end">3,000</text>
+<line x1="76" y1="200.0" x2="830" y2="200.0" stroke="#efeee8"/>
+<text x="64" y="204.0" font-size="11" fill="#8a8880" text-anchor="end">4,000</text>
+<text x="64" y="184" font-size="11" fill="#8a8880" text-anchor="end">tonnes</text>
+<text x="76.0" y="596" font-size="11" fill="#8a8880" text-anchor="middle">2006</text>
+<text x="147.2" y="596" font-size="11" fill="#8a8880" text-anchor="middle">2008</text>
+<text x="218.3" y="596" font-size="11" fill="#8a8880" text-anchor="middle">2010</text>
+<text x="289.5" y="596" font-size="11" fill="#8a8880" text-anchor="middle">2012</text>
+<text x="360.6" y="596" font-size="11" fill="#8a8880" text-anchor="middle">2014</text>
+<text x="431.8" y="596" font-size="11" fill="#8a8880" text-anchor="middle">2016</text>
+<text x="502.9" y="596" font-size="11" fill="#8a8880" text-anchor="middle">2018</text>
+<text x="574.1" y="596" font-size="11" fill="#8a8880" text-anchor="middle">2020</text>
+<text x="645.3" y="596" font-size="11" fill="#8a8880" text-anchor="middle">2022</text>
+<text x="716.4" y="596" font-size="11" fill="#8a8880" text-anchor="middle">2024</text>
+<polyline points="76.0,426.9 111.6,426.9 147.2,314.4 182.7,281.8 218.3,281.8 253.9,281.8 289.5,281.8 325.1,281.8 360.6,354.4 396.2,281.8 431.8,237.2 467.4,356.2 502.9,281.8 538.5,282.8 574.1,281.8 609.7,259.6 645.3,259.6 680.8,246.5 716.4,237.2 752.0,237.2" fill="none" stroke="#2361b0" stroke-width="1.5" stroke-opacity="0.35"/>
+<polyline points="76.0,499.5 111.6,499.5 147.2,499.5 182.7,499.5 218.3,499.5 253.9,499.5 289.5,499.5 325.1,426.9 360.6,415.8 396.2,454.1 431.8,457.6 467.4,426.9 502.9,426.9 538.5,354.4 574.1,426.9 609.7,426.9 645.3,499.5 680.8,354.4 716.4,354.4 752.0,354.4" fill="none" stroke="#b5651d" stroke-width="1.5" stroke-opacity="0.35"/>
+<circle cx="147.2" cy="499.5" r="19.0" fill="#b5651d" fill-opacity="0.5" stroke="#b5651d" stroke-width="1.5"/>
+<circle cx="182.7" cy="499.5" r="16.6" fill="#b5651d" fill-opacity="0.5" stroke="#b5651d" stroke-width="1.5"/>
+<circle cx="76.0" cy="499.5" r="16.5" fill="#b5651d" fill-opacity="0.5" stroke="#b5651d" stroke-width="1.5"/>
+<circle cx="111.6" cy="499.5" r="16.0" fill="#b5651d" fill-opacity="0.5" stroke="#b5651d" stroke-width="1.5"/>
+<circle cx="218.3" cy="499.5" r="15.2" fill="#b5651d" fill-opacity="0.5" stroke="#b5651d" stroke-width="1.5"/>
+<circle cx="289.5" cy="499.5" r="14.7" fill="#b5651d" fill-opacity="0.5" stroke="#b5651d" stroke-width="1.5"/>
+<circle cx="253.9" cy="499.5" r="14.0" fill="#b5651d" fill-opacity="0.5" stroke="#b5651d" stroke-width="1.5"/>
+<circle cx="325.1" cy="426.9" r="13.2" fill="#b5651d" fill-opacity="0.5" stroke="#b5651d" stroke-width="1.5"/>
+<circle cx="396.2" cy="454.1" r="12.2" fill="#b5651d" fill-opacity="0.5" stroke="#b5651d" stroke-width="1.5"/>
+<circle cx="76.0" cy="426.9" r="11.3" fill="#2361b0" fill-opacity="0.5" stroke="#2361b0" stroke-width="1.5"/>
+<circle cx="502.9" cy="426.9" r="10.8" fill="#b5651d" fill-opacity="0.5" stroke="#b5651d" stroke-width="1.5"/>
+<circle cx="360.6" cy="415.8" r="10.7" fill="#b5651d" fill-opacity="0.5" stroke="#b5651d" stroke-width="1.5"/>
+<circle cx="574.1" cy="426.9" r="10.7" fill="#b5651d" fill-opacity="0.5" stroke="#b5651d" stroke-width="1.5"/>
+<circle cx="253.9" cy="281.8" r="10.6" fill="#2361b0" fill-opacity="0.5" stroke="#2361b0" stroke-width="1.5"/>
+<circle cx="431.8" cy="457.6" r="10.5" fill="#b5651d" fill-opacity="0.5" stroke="#b5651d" stroke-width="1.5"/>
+<circle cx="467.4" cy="356.2" r="10.4" fill="#2361b0" fill-opacity="0.5" stroke="#2361b0" stroke-width="1.5"/>
+<circle cx="147.2" cy="314.4" r="10.3" fill="#2361b0" fill-opacity="0.5" stroke="#2361b0" stroke-width="1.5"/>
+<circle cx="431.8" cy="237.2" r="10.3" fill="#2361b0" fill-opacity="0.5" stroke="#2361b0" stroke-width="1.5"/>
+<circle cx="360.6" cy="354.4" r="10.2" fill="#2361b0" fill-opacity="0.5" stroke="#2361b0" stroke-width="1.5"/>
+<circle cx="467.4" cy="426.9" r="10.2" fill="#b5651d" fill-opacity="0.5" stroke="#b5651d" stroke-width="1.5"/>
+<circle cx="218.3" cy="281.8" r="10.0" fill="#2361b0" fill-opacity="0.5" stroke="#2361b0" stroke-width="1.5"/>
+<circle cx="289.5" cy="281.8" r="10.0" fill="#2361b0" fill-opacity="0.5" stroke="#2361b0" stroke-width="1.5"/>
+<circle cx="574.1" cy="281.8" r="10.0" fill="#2361b0" fill-opacity="0.5" stroke="#2361b0" stroke-width="1.5"/>
+<circle cx="502.9" cy="281.8" r="9.8" fill="#2361b0" fill-opacity="0.5" stroke="#2361b0" stroke-width="1.5"/>
+<circle cx="538.5" cy="282.8" r="9.8" fill="#2361b0" fill-opacity="0.5" stroke="#2361b0" stroke-width="1.5"/>
+<circle cx="111.6" cy="426.9" r="9.7" fill="#2361b0" fill-opacity="0.5" stroke="#2361b0" stroke-width="1.5"/>
+<circle cx="182.7" cy="281.8" r="9.7" fill="#2361b0" fill-opacity="0.5" stroke="#2361b0" stroke-width="1.5"/>
+<circle cx="396.2" cy="281.8" r="9.3" fill="#2361b0" fill-opacity="0.5" stroke="#2361b0" stroke-width="1.5"/>
+<circle cx="609.7" cy="259.6" r="9.2" fill="#2361b0" fill-opacity="0.5" stroke="#2361b0" stroke-width="1.5"/>
+<circle cx="680.8" cy="246.5" r="9.2" fill="#2361b0" fill-opacity="0.5" stroke="#2361b0" stroke-width="1.5"/>
+<circle cx="645.3" cy="259.6" r="9.2" fill="#2361b0" fill-opacity="0.5" stroke="#2361b0" stroke-width="1.5"/>
+<circle cx="609.7" cy="426.9" r="9.0" fill="#b5651d" fill-opacity="0.5" stroke="#b5651d" stroke-width="1.5"/>
+<circle cx="325.1" cy="281.8" r="8.9" fill="#2361b0" fill-opacity="0.5" stroke="#2361b0" stroke-width="1.5"/>
+<circle cx="752.0" cy="237.2" r="8.9" fill="#2361b0" fill-opacity="0.5" stroke="#2361b0" stroke-width="1.5"/>
+<circle cx="538.5" cy="354.4" r="8.7" fill="#b5651d" fill-opacity="0.5" stroke="#b5651d" stroke-width="1.5"/>
+<circle cx="645.3" cy="499.5" r="8.4" fill="#b5651d" fill-opacity="0.5" stroke="#b5651d" stroke-width="1.5"/>
+<circle cx="716.4" cy="237.2" r="8.1" fill="#2361b0" fill-opacity="0.5" stroke="#2361b0" stroke-width="1.5"/>
+<circle cx="680.8" cy="354.4" r="7.4" fill="#b5651d" fill-opacity="0.5" stroke="#b5651d" stroke-width="1.5"/>
+<circle cx="752.0" cy="354.4" r="7.4" fill="#b5651d" fill-opacity="0.5" stroke="#b5651d" stroke-width="1.5"/>
+<circle cx="716.4" cy="354.4" r="6.8" fill="#b5651d" fill-opacity="0.5" stroke="#b5651d" stroke-width="1.5"/>
+<text x="147.2" y="536.5" font-size="11.5" fill="#52514e" text-anchor="middle">372 deleted in 2008</text>
+<text x="752.0" y="218.3" font-size="11.5" fill="#52514e" text-anchor="middle">40 cleared</text>
+<text x="752.0" y="379.8" font-size="11.5" fill="#52514e" text-anchor="middle">19 deleted</text>
+<circle cx="855" cy="372" r="7" fill="#2361b0" fill-opacity="0.5" stroke="#2361b0" stroke-width="1.5"/>
+<text x="872" y="376" font-size="12.5" fill="#0b0b0b">Cleared in</text>
+<circle cx="855" cy="398" r="7" fill="#b5651d" fill-opacity="0.5" stroke="#b5651d" stroke-width="1.5"/>
+<text x="872" y="402" font-size="12.5" fill="#0b0b0b">Deleted out</text>
+<text x="846" y="448" font-size="11" fill="#8a8880">Area = sites</text>
+<circle cx="876" cy="476" r="7.9" fill="none" stroke="#8a8880" stroke-width="1.2"/>
+<text x="914" y="480" font-size="11" fill="#8a8880">25</text>
+<circle cx="876" cy="510" r="11.8" fill="none" stroke="#8a8880" stroke-width="1.2"/>
+<text x="914" y="514" font-size="11" fill="#8a8880">100</text>
+<circle cx="876" cy="544" r="19.0" fill="none" stroke="#8a8880" stroke-width="1.2"/>
+<text x="914" y="548" font-size="11" fill="#8a8880">372</text>
+<line x1="36" y1="608" x2="1004" y2="608" stroke="#e3e2db"/>
+<text x="36" y="630" font-size="13" fill="#0b0b0b"><tspan font-weight="600">The register shed 1,358 net sites while national output rose.</tspan> Capacity came from replacing 780-tonne sites with 3,000-tonne ones,</text>
+<text x="36" y="650" font-size="13" fill="#0b0b0b">not from opening ground. That lever is spent: the deletion flow has fallen from 372 sites a year to 19.</text>
+<text x="36" y="678" font-size="11.5" fill="#8a8880">Read with constraint.svg. Consolidation explains how output grew without new sites; the idle 37% explains why the queue is not what binds growth now.</text>
+<text x="36" y="700" font-size="11.5" fill="#8a8880">No lifespan is plotted, deliberately. The register starts 1991-06-24, so age at deletion is left-truncated: it rises 5.0 to 21.0 years at almost exactly one year per calendar year and the</text>
+<text x="36" y="718" font-size="11.5" fill="#8a8880">observed maximum tracks the truncation ceiling. Sites are not living longer; the register is filling up. Capacity of active sites is as recorded today, not at clearance.</text>
+<text x="36" y="742" font-size="11.5" fill="#8a8880">Years before 2006 are register digitisation, not clearances (604 dated 2001 alone) and are excluded. Source: Fiskeridirektoratet Akvakulturregisteret, layers 0 and 1, paged.</text>
+</svg>

@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="844" viewBox="0 0 1040 844" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'>
+<rect width="1040" height="844" fill="#fcfcfb"/>
+<text x="36" y="42" font-size="20" font-weight="600" fill="#0b0b0b">Two different ways to wait, and the county average describes neither</text>
+<text x="36" y="68" font-size="13.5" fill="#52514e">Sea-site applications by production area. Across is the typical wait, up is the unlucky one. Far right means slow for everyone;</text>
+<text x="36" y="87" font-size="13.5" fill="#52514e">high but left means a lottery &#8212; most applicants fine, one in ten stranded. Grey lines join areas in the same county.</text>
+<text x="36" y="112" font-size="12" fill="#8a8880">Nordland holds both extremes: 754 days in Vestfjorden og Vester&#229;len, 212 in Helgeland til Bod&#248;. One application type throughout.</text>
+<line x1="84" y1="583.6" x2="790" y2="583.6" stroke="#efeee8"/>
+<text x="72" y="587.6" font-size="11" fill="#8a8880" text-anchor="end">400d</text>
+<line x1="84" y1="478.7" x2="790" y2="478.7" stroke="#efeee8"/>
+<text x="72" y="482.7" font-size="11" fill="#8a8880" text-anchor="end">600d</text>
+<line x1="84" y1="373.8" x2="790" y2="373.8" stroke="#efeee8"/>
+<text x="72" y="377.8" font-size="11" fill="#8a8880" text-anchor="end">800d</text>
+<line x1="84" y1="268.9" x2="790" y2="268.9" stroke="#efeee8"/>
+<text x="72" y="272.9" font-size="11" fill="#8a8880" text-anchor="end">1,000d</text>
+<text x="182.1" y="660" font-size="11" fill="#8a8880" text-anchor="middle">200d</text>
+<text x="378.2" y="660" font-size="11" fill="#8a8880" text-anchor="middle">400d</text>
+<text x="574.3" y="660" font-size="11" fill="#8a8880" text-anchor="middle">600d</text>
+<text x="770.4" y="660" font-size="11" fill="#8a8880" text-anchor="middle">800d</text>
+<text x="72" y="192" font-size="11.5" font-weight="600" fill="#52514e" text-anchor="end">unlucky</text>
+<text x="72" y="208" font-size="11.5" fill="#8a8880" text-anchor="end">90th pct</text>
+<text x="431" y="684" font-size="11.5" font-weight="600" fill="#52514e" text-anchor="end">typical</text>
+<text x="437" y="684" font-size="11.5" fill="#8a8880" text-anchor="start">&#183; median days to a decision</text>
+<line x1="280.1" y1="636.0" x2="790.0" y2="363.3" stroke="#c9c6bc" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="760.6" y="397.0" font-size="10.5" fill="#8a8880" text-anchor="end">p90 = median &#183; no tail at all</text>
+<polyline points="274.7,443.0 375.2,474.5" fill="none" stroke="#c9c6bc" stroke-width="1.6"/>
+<polyline points="194.3,354.9 725.3,243.2" fill="none" stroke="#c9c6bc" stroke-width="1.6"/>
+<polyline points="252.2,553.7 307.6,374.9" fill="none" stroke="#c9c6bc" stroke-width="1.6"/>
+<polyline points="142.8,312.5 148.2,595.6" fill="none" stroke="#c9c6bc" stroke-width="1.6"/>
+<circle cx="725.3" cy="243.2" r="20.0" fill="#d99244" stroke="#52514e" stroke-width="1" stroke-opacity="0.45"/>
+<circle cx="252.2" cy="553.7" r="18.2" fill="#eab97e" stroke="#52514e" stroke-width="1" stroke-opacity="0.45"/>
+<circle cx="194.3" cy="354.9" r="17.6" fill="#b5651d" stroke="#52514e" stroke-width="1" stroke-opacity="0.45"/>
+<circle cx="148.2" cy="595.6" r="17.6" fill="#d99244" stroke="#52514e" stroke-width="1" stroke-opacity="0.45"/>
+<circle cx="142.8" cy="312.5" r="17.3" fill="#d99244" stroke="#52514e" stroke-width="1" stroke-opacity="0.45"/>
+<circle cx="375.2" cy="474.5" r="16.7" fill="#eab97e" stroke="#52514e" stroke-width="1" stroke-opacity="0.45"/>
+<circle cx="274.7" cy="443.0" r="16.4" fill="#eab97e" stroke="#52514e" stroke-width="1" stroke-opacity="0.45"/>
+<circle cx="205.6" cy="478.2" r="15.0" fill="#d99244" stroke="#52514e" stroke-width="1" stroke-opacity="0.45"/>
+<circle cx="307.6" cy="374.9" r="14.6" fill="#d99244" stroke="#52514e" stroke-width="1" stroke-opacity="0.45"/>
+<circle cx="383.1" cy="434.6" r="14.2" fill="#b5651d" stroke="#52514e" stroke-width="1" stroke-opacity="0.45"/>
+<circle cx="433.1" cy="461.4" r="14.2" fill="#d99244" stroke="#52514e" stroke-width="1" stroke-opacity="0.45"/>
+<text x="325.0" y="448.8" font-size="10.5" fill="#8a8880" text-anchor="middle" font-style="italic">Troms</text>
+<text x="459.8" y="289.1" font-size="10.5" fill="#8a8880" text-anchor="middle" font-style="italic">Nordland</text>
+<text x="279.9" y="454.3" font-size="10.5" fill="#8a8880" text-anchor="middle" font-style="italic">Trøndelag</text>
+<text x="145.5" y="444.0" font-size="10.5" fill="#8a8880" text-anchor="middle" font-style="italic">Vestland</text>
+<text x="698.3" y="247.2" font-size="11" fill="#52514e" text-anchor="end">Vestfjorden og Vesterålen</text>
+<text x="277.4" y="557.7" font-size="11" fill="#52514e" text-anchor="start">Nordmøre og Sør-Trøndelag</text>
+<text x="169.7" y="358.9" font-size="11" fill="#52514e" text-anchor="end">Helgeland til Bodø</text>
+<text x="172.9" y="599.6" font-size="11" fill="#52514e" text-anchor="start">Karmøy til Sotra</text>
+<text x="167.2" y="316.5" font-size="11" fill="#52514e" text-anchor="start">Nordhordland til Stadt</text>
+<text x="351.5" y="478.5" font-size="11" fill="#52514e" text-anchor="end">Kvaløya til Loppa</text>
+<text x="251.3" y="431.0" font-size="11" fill="#52514e" text-anchor="end">Andøya til Senja</text>
+<text x="183.6" y="482.2" font-size="11" fill="#52514e" text-anchor="end">Ryfylket</text>
+<text x="329.2" y="378.9" font-size="11" fill="#52514e" text-anchor="start">Nord-Trøndelag med Bindal</text>
+<text x="404.3" y="438.6" font-size="11" fill="#52514e" text-anchor="start">Stadt til Hustadvika</text>
+<text x="454.3" y="465.4" font-size="11" fill="#52514e" text-anchor="start">Vest-Finnmark</text>
+<text x="816" y="212" font-size="11.5" font-weight="600" fill="#52514e">Still pending</text>
+<text x="816" y="228" font-size="10.5" fill="#8a8880">share of the area&#8217;s</text>
+<text x="816" y="242" font-size="10.5" fill="#8a8880">applications undecided</text>
+<rect x="816" y="256" width="22" height="14" fill="#f6dfc6"/>
+<rect x="840" y="256" width="22" height="14" fill="#eab97e"/>
+<rect x="864" y="256" width="22" height="14" fill="#d99244"/>
+<rect x="888" y="256" width="22" height="14" fill="#b5651d"/>
+<rect x="912" y="256" width="22" height="14" fill="#7d4413"/>
+<text x="816" y="286" font-size="10.5" fill="#8a8880">10%</text>
+<text x="934" y="286" font-size="10.5" fill="#8a8880" text-anchor="end">60%</text>
+<text x="816" y="324" font-size="11.5" font-weight="600" fill="#52514e">Area = decisions</text>
+<circle cx="838" cy="358" r="14.2" fill="none" stroke="#8a8880" stroke-width="1.2"/>
+<text x="868" y="362" font-size="10.5" fill="#8a8880">10</text>
+<circle cx="838" cy="404" r="20.2" fill="none" stroke="#8a8880" stroke-width="1.2"/>
+<text x="868" y="408" font-size="10.5" fill="#8a8880">30</text>
+<line x1="36" y1="690" x2="1004" y2="690" stroke="#e3e2db"/>
+<text x="36" y="712" font-size="13" fill="#0b0b0b"><tspan font-weight="600">Where you apply changes the wait more than what you apply for</tspan> &#8212; and the county is the wrong unit to ask it in.</text>
+<text x="36" y="734" font-size="13" fill="#0b0b0b">Nordland&#8217;s two production areas sit at opposite ends of this chart, 3.6x apart, inside one county and one application type.</text>
+<text x="36" y="760" font-size="11.5" fill="#8a8880">Read with drift.svg, which shows the same thing in time: the national median barely moved while the 90th percentile went 202 to 1,000 days. This chart says where that tail lives.</text>
+<text x="36" y="782" font-size="11.5" fill="#8a8880">The register does not say why. Vestfjorden og Vester&#229;len is production area 8, repeatedly red under the traffic-light system, but that is an outside fact this recipe has not tested.</text>
+<text x="36" y="804" font-size="11.5" fill="#8a8880">46 pending and 49 decided sea-site applications carry no production area and cannot appear here &#8212; the largest single pending group in the register.</text>
+<text x="36" y="826" font-size="11.5" fill="#8a8880">Areas under 10 decisions are omitted. Source: Fiskeridirektoratet Akvakults&#248;knader, layers 0 and 4.</text>
+</svg>

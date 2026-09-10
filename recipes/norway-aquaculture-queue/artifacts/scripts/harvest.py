@@ -37,6 +37,11 @@ LAYERS = {0: "pending", 4: "decided"}
 # constraint: capacity already granted and sitting empty is the obvious
 # alternative explanation, and it turns out to be the larger number.
 BIOMASS = ("Biomasse", 0)
+# The licence register, active sites and deleted ones. Unlike the application
+# layers this one EXCEEDS the service's 2,000-record cap: layer 1 reports 2,487
+# deleted sites and returns 2,000 with no error and no warning. It is paged.
+REGISTER = ("Akvakulturregisteret", {0: "active", 1: "deleted"})
+PAGE = 1000
 
 COLS = ["layer", "application_no", "applicant", "org_number", "application_type",
         "status", "result", "submitted", "decided", "days_to_decide",
@@ -139,6 +144,67 @@ def fetch_biomass(out: Path) -> None:
           file=sys.stderr)
 
 
+def layer_count(base: str, layer: int) -> int:
+    """What the service says the layer holds, asked before fetching it."""
+    q = urllib.parse.urlencode({"where": "1=1", "returnCountOnly": "true", "f": "json"})
+    p = subprocess.run(["curl", "-sS", "-A", UA, "--max-time", "60",
+                        f"{base}/{layer}/query?{q}"], capture_output=True)
+    if p.returncode != 0 or not p.stdout:
+        raise RuntimeError(f"count for layer {layer}: curl rc={p.returncode}")
+    return int(json.loads(p.stdout)["count"])
+
+
+def fetch_register(out: Path) -> None:
+    """Active and deleted licences, paged. See REGISTER for why paging matters."""
+    svc, layers = REGISTER
+    base = BASE.replace("Akvakultursøknader", svc)
+    rows = []
+    for layer, label in layers.items():
+        expect = layer_count(base, layer)
+        off, got = 0, 0
+        while True:
+            q = urllib.parse.urlencode({"where": "1=1", "outFields": "*",
+                                        "returnGeometry": "false", "f": "json",
+                                        "resultOffset": off, "resultRecordCount": PAGE})
+            p = subprocess.run(["curl", "-sS", "-A", UA, "--max-time", "120",
+                                f"{base}/{layer}/query?{q}"], capture_output=True)
+            if p.returncode != 0 or not p.stdout:
+                raise RuntimeError(f"register layer {layer}: curl rc={p.returncode}")
+            d = json.loads(p.stdout)
+            feats = d.get("features", [])
+            for f in feats:
+                a = f.get("attributes", {})
+                rows.append({
+                    "state": label,
+                    "site_no": a.get("loknr") or "",
+                    "name": a.get("loknavn") or a.get("navn") or "",
+                    "cleared": as_date(a.get("klareringsdato")),
+                    "withdrawn": as_date(a.get("trukket_dato")),
+                    "capacity": a.get("kapasitet_lok") or "",
+                    "capacity_unit": a.get("kapasitet_unittype") or "",
+                    "placement": a.get("plassering") or "",
+                    "holder": a.get("innehaver") or a.get("til_innehavere") or "",
+                })
+            got += len(feats)
+            if not d.get("exceededTransferLimit") and len(feats) < PAGE:
+                break
+            off += PAGE
+        # The paging loop is only correct if it ends up with what the service
+        # said it had. Exactly 2,000 here is the truncation signature, not a
+        # measurement — fail rather than write a short series that looks whole.
+        if got != expect:
+            raise RuntimeError(
+                f"register layer {layer} ({label}): fetched {got:,} but the service "
+                f"counts {expect:,}. Refusing to write a truncated series.")
+        print(f"  register {label}: {got:,} sites (count agrees)",
+              file=sys.stderr, flush=True)
+    f = out / "licences.csv"
+    with f.open("w", newline="", encoding="utf-8") as fh:
+        w = csv.DictWriter(fh, fieldnames=list(rows[0]))
+        w.writeheader()
+        w.writerows(rows)
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("outdir")
@@ -188,6 +254,7 @@ def main() -> int:
     dated = sum(1 for r in rows if r["submitted"])
     print(f"  {dated:,} carry a submission date ({dated/len(rows):.0%})", file=sys.stderr)
     fetch_biomass(out)
+    fetch_register(out)
     return 0
 
 

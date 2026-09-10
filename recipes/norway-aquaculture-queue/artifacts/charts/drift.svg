@@ -1,48 +1,113 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="940" height="744" viewBox="0 0 940 744" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'>
-<rect width="940" height="744" fill="#fcfcfb"/>
-<text x="36" y="42" font-size="20" font-weight="600" fill="#0b0b0b">Stricter and slower at the same time</text>
-<text x="36" y="68" font-size="13.5" fill="#52514e">Every other rate in this recipe is pooled across all years. These are the years separately, and they are not the same:</text>
-<text x="36" y="87" font-size="13.5" fill="#52514e">an applicant today faces 83%, not the pooled 87%.</text>
-<text x="36" y="174" font-size="12.5" font-weight="600" fill="#2361b0">share of decisions granted</text>
-<line x1="92" y1="300.8" x2="828" y2="300.8" stroke="#e3e2db"/>
-<text x="82" y="304.8" font-size="11.5" fill="#8a8880" text-anchor="end">80%</text>
-<line x1="92" y1="266.8" x2="828" y2="266.8" stroke="#e3e2db"/>
-<text x="82" y="270.8" font-size="11.5" fill="#8a8880" text-anchor="end">85%</text>
-<line x1="92" y1="232.9" x2="828" y2="232.9" stroke="#e3e2db"/>
-<text x="82" y="236.9" font-size="11.5" fill="#8a8880" text-anchor="end">90%</text>
-<line x1="92" y1="199.0" x2="828" y2="199.0" stroke="#e3e2db"/>
-<text x="82" y="203.0" font-size="11.5" fill="#8a8880" text-anchor="end">95%</text>
-<polyline points="214.7,209.0 460.0,263.6 705.3,278.1" fill="none" stroke="#2361b0" stroke-width="3"/>
-<circle cx="214.7" cy="209.0" r="5.5" fill="#2361b0" stroke="#fcfcfb" stroke-width="2"/>
-<text x="214.7" y="196.0" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="middle">94%</text>
-<circle cx="460.0" cy="263.6" r="5.5" fill="#2361b0" stroke="#fcfcfb" stroke-width="2"/>
-<text x="460.0" y="250.6" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="middle">85%</text>
-<circle cx="705.3" cy="278.1" r="5.5" fill="#2361b0" stroke="#fcfcfb" stroke-width="2"/>
-<text x="705.3" y="265.1" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="middle">83%</text>
-<text x="36" y="422" font-size="12.5" font-weight="600" fill="#b5651d">median days to a decision</text>
-<line x1="92" y1="560.3" x2="828" y2="560.3" stroke="#e3e2db"/>
-<text x="82" y="564.3" font-size="11.5" fill="#8a8880" text-anchor="end">50d</text>
-<line x1="92" y1="526.6" x2="828" y2="526.6" stroke="#e3e2db"/>
-<text x="82" y="530.6" font-size="11.5" fill="#8a8880" text-anchor="end">100d</text>
-<line x1="92" y1="492.9" x2="828" y2="492.9" stroke="#e3e2db"/>
-<text x="82" y="496.9" font-size="11.5" fill="#8a8880" text-anchor="end">150d</text>
-<line x1="92" y1="459.2" x2="828" y2="459.2" stroke="#e3e2db"/>
-<text x="82" y="463.2" font-size="11.5" fill="#8a8880" text-anchor="end">200d</text>
-<polyline points="214.7,546.1 460.0,481.4 705.3,459.5" fill="none" stroke="#b5651d" stroke-width="3"/>
-<circle cx="214.7" cy="546.1" r="5.5" fill="#b5651d" stroke="#fcfcfb" stroke-width="2"/>
-<text x="214.7" y="533.1" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="middle">71d</text>
-<circle cx="460.0" cy="481.4" r="5.5" fill="#b5651d" stroke="#fcfcfb" stroke-width="2"/>
-<text x="460.0" y="468.4" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="middle">167d</text>
-<circle cx="705.3" cy="459.5" r="5.5" fill="#b5651d" stroke="#fcfcfb" stroke-width="2"/>
-<text x="705.3" y="446.5" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="middle">200d</text>
-<text x="214.7" y="618.0" font-size="12" fill="#52514e" text-anchor="middle">2024</text>
-<text x="214.7" y="634.0" font-size="10.5" fill="#8a8880" text-anchor="middle">n=108</text>
-<text x="460.0" y="618.0" font-size="12" fill="#52514e" text-anchor="middle">2025</text>
-<text x="460.0" y="634.0" font-size="10.5" fill="#8a8880" text-anchor="middle">n=234</text>
-<text x="705.3" y="618.0" font-size="12" fill="#8a8880" text-anchor="middle">2026 (partial)</text>
-<text x="705.3" y="634.0" font-size="10.5" fill="#8a8880" text-anchor="middle">n=162</text>
-<line x1="36" y1="654" x2="904" y2="654" stroke="#e3e2db"/>
-<text x="36" y="674" font-size="13" fill="#0b0b0b"><tspan font-weight="600">Approval falls 94% to 83% while the median decision stretches 71 to 200 days.</tspan> Both worsen together.</text>
-<text x="36" y="696" font-size="12.5" fill="#52514e">That is the signature of a queue under load rather than a decision to refuse more: the regulator is not saying no faster, it is saying anything slower.</text>
-<text x="36" y="730" font-size="11.5" fill="#8a8880">Years with fewer than 20 decisions omitted; the current year is partial and holds only what has been decided so far. Withdrawn applications carry no date and are excluded here.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="712" viewBox="0 0 1040 712" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'>
+<rect width="1040" height="712" fill="#fcfcfb"/>
+<text x="36" y="42" font-size="20" font-weight="600" fill="#0b0b0b">The typical wait barely moved. The unlucky one quadrupled.</text>
+<text x="36" y="68" font-size="13.5" fill="#52514e">Days from application to decision, by quarter decided. Box is the middle half, whiskers reach the 10th and 90th</text>
+<text x="36" y="87" font-size="13.5" fill="#52514e">percentiles, the line inside is the median. Boxes widening around a stable centre is a queue growing a tail, not slowing evenly.</text>
+<text x="36" y="112" font-size="12.5" fill="#8a8880">Median 161d to 265d. Ninetieth percentile 202d to 1000d.</text>
+<text x="36" y="208" font-size="12.5" font-weight="600" fill="#b5651d">days to a decision</text>
+<text x="220" y="208" font-size="11.5" fill="#8a8880">left axis &#183; boxes</text>
+<text x="854" y="208" font-size="11.5" fill="#8a8880" text-anchor="end">right axis &#183; line</text>
+<line x1="84" y1="469.4" x2="944" y2="469.4" stroke="#e3e2db"/>
+<text x="74" y="473.4" font-size="11.5" fill="#8a8880" text-anchor="end">200d</text>
+<line x1="84" y1="412.8" x2="944" y2="412.8" stroke="#e3e2db"/>
+<text x="74" y="416.8" font-size="11.5" fill="#8a8880" text-anchor="end">400d</text>
+<line x1="84" y1="356.2" x2="944" y2="356.2" stroke="#e3e2db"/>
+<text x="74" y="360.2" font-size="11.5" fill="#8a8880" text-anchor="end">600d</text>
+<line x1="84" y1="299.6" x2="944" y2="299.6" stroke="#e3e2db"/>
+<text x="74" y="303.6" font-size="11.5" fill="#8a8880" text-anchor="end">800d</text>
+<line x1="84" y1="243.0" x2="944" y2="243.0" stroke="#e3e2db"/>
+<text x="74" y="247.0" font-size="11.5" fill="#8a8880" text-anchor="end">1000d</text>
+<line x1="119.8" y1="502.2" x2="119.8" y2="468.8" stroke="#b5651d" stroke-width="1.3" stroke-opacity="0.7"/>
+<line x1="111.3" y1="502.2" x2="128.3" y2="502.2" stroke="#b5651d" stroke-width="1.3"/>
+<line x1="111.3" y1="468.8" x2="128.3" y2="468.8" stroke="#b5651d" stroke-width="1.3"/>
+<rect x="102.8" y="472.8" width="34.0" height="20.1" rx="2" fill="#b5651d" fill-opacity="0.30" stroke="#b5651d" stroke-width="1.4"/>
+<line x1="102.8" y1="480.4" x2="136.8" y2="480.4" stroke="#b5651d" stroke-width="2.6"/>
+<line x1="191.5" y1="524.6" x2="191.5" y2="459.2" stroke="#b5651d" stroke-width="1.3" stroke-opacity="0.7"/>
+<line x1="183.0" y1="524.6" x2="200.0" y2="524.6" stroke="#b5651d" stroke-width="1.3"/>
+<line x1="183.0" y1="459.2" x2="200.0" y2="459.2" stroke="#b5651d" stroke-width="1.3"/>
+<rect x="174.5" y="469.1" width="34.0" height="53.2" rx="2" fill="#b5651d" fill-opacity="0.30" stroke="#b5651d" stroke-width="1.4"/>
+<line x1="174.5" y1="494.6" x2="208.5" y2="494.6" stroke="#b5651d" stroke-width="2.6"/>
+<line x1="263.2" y1="524.6" x2="263.2" y2="451.3" stroke="#b5651d" stroke-width="1.3" stroke-opacity="0.7"/>
+<line x1="254.7" y1="524.6" x2="271.7" y2="524.6" stroke="#b5651d" stroke-width="1.3"/>
+<line x1="254.7" y1="451.3" x2="271.7" y2="451.3" stroke="#b5651d" stroke-width="1.3"/>
+<rect x="246.2" y="508.2" width="34.0" height="15.8" rx="2" fill="#b5651d" fill-opacity="0.30" stroke="#b5651d" stroke-width="1.4"/>
+<line x1="246.2" y1="520.6" x2="280.2" y2="520.6" stroke="#b5651d" stroke-width="2.6"/>
+<line x1="334.8" y1="519.5" x2="334.8" y2="396.7" stroke="#b5651d" stroke-width="1.3" stroke-opacity="0.7"/>
+<line x1="326.3" y1="519.5" x2="343.3" y2="519.5" stroke="#b5651d" stroke-width="1.3"/>
+<line x1="326.3" y1="396.7" x2="343.3" y2="396.7" stroke="#b5651d" stroke-width="1.3"/>
+<rect x="317.8" y="463.2" width="34.0" height="43.9" rx="2" fill="#b5651d" fill-opacity="0.30" stroke="#b5651d" stroke-width="1.4"/>
+<line x1="317.8" y1="479.6" x2="351.8" y2="479.6" stroke="#b5651d" stroke-width="2.6"/>
+<line x1="406.5" y1="524.0" x2="406.5" y2="445.9" stroke="#b5651d" stroke-width="1.3" stroke-opacity="0.7"/>
+<line x1="398.0" y1="524.0" x2="415.0" y2="524.0" stroke="#b5651d" stroke-width="1.3"/>
+<line x1="398.0" y1="445.9" x2="415.0" y2="445.9" stroke="#b5651d" stroke-width="1.3"/>
+<rect x="389.5" y="483.0" width="34.0" height="32.5" rx="2" fill="#b5651d" fill-opacity="0.30" stroke="#b5651d" stroke-width="1.4"/>
+<line x1="389.5" y1="493.0" x2="423.5" y2="493.0" stroke="#b5651d" stroke-width="2.6"/>
+<line x1="478.2" y1="522.3" x2="478.2" y2="384.5" stroke="#b5651d" stroke-width="1.3" stroke-opacity="0.7"/>
+<line x1="469.7" y1="522.3" x2="486.7" y2="522.3" stroke="#b5651d" stroke-width="1.3"/>
+<line x1="469.7" y1="384.5" x2="486.7" y2="384.5" stroke="#b5651d" stroke-width="1.3"/>
+<rect x="461.2" y="435.2" width="34.0" height="74.2" rx="2" fill="#b5651d" fill-opacity="0.30" stroke="#b5651d" stroke-width="1.4"/>
+<line x1="461.2" y1="472.4" x2="495.2" y2="472.4" stroke="#b5651d" stroke-width="2.6"/>
+<line x1="549.8" y1="523.2" x2="549.8" y2="348.8" stroke="#b5651d" stroke-width="1.3" stroke-opacity="0.7"/>
+<line x1="541.3" y1="523.2" x2="558.3" y2="523.2" stroke="#b5651d" stroke-width="1.3"/>
+<line x1="541.3" y1="348.8" x2="558.3" y2="348.8" stroke="#b5651d" stroke-width="1.3"/>
+<rect x="532.8" y="428.6" width="34.0" height="77.3" rx="2" fill="#b5651d" fill-opacity="0.30" stroke="#b5651d" stroke-width="1.4"/>
+<line x1="532.8" y1="473.9" x2="566.8" y2="473.9" stroke="#b5651d" stroke-width="2.6"/>
+<line x1="621.5" y1="522.3" x2="621.5" y2="307.2" stroke="#b5651d" stroke-width="1.3" stroke-opacity="0.7"/>
+<line x1="613.0" y1="522.3" x2="630.0" y2="522.3" stroke="#b5651d" stroke-width="1.3"/>
+<line x1="613.0" y1="307.2" x2="630.0" y2="307.2" stroke="#b5651d" stroke-width="1.3"/>
+<rect x="604.5" y="426.1" width="34.0" height="88.3" rx="2" fill="#b5651d" fill-opacity="0.30" stroke="#b5651d" stroke-width="1.4"/>
+<line x1="604.5" y1="487.5" x2="638.5" y2="487.5" stroke="#b5651d" stroke-width="2.6"/>
+<line x1="693.2" y1="524.0" x2="693.2" y2="381.4" stroke="#b5651d" stroke-width="1.3" stroke-opacity="0.7"/>
+<line x1="684.7" y1="524.0" x2="701.7" y2="524.0" stroke="#b5651d" stroke-width="1.3"/>
+<line x1="684.7" y1="381.4" x2="701.7" y2="381.4" stroke="#b5651d" stroke-width="1.3"/>
+<rect x="676.2" y="443.4" width="34.0" height="74.4" rx="2" fill="#b5651d" fill-opacity="0.30" stroke="#b5651d" stroke-width="1.4"/>
+<line x1="676.2" y1="480.4" x2="710.2" y2="480.4" stroke="#b5651d" stroke-width="2.6"/>
+<line x1="764.8" y1="519.8" x2="764.8" y2="393.3" stroke="#b5651d" stroke-width="1.3" stroke-opacity="0.7"/>
+<line x1="756.3" y1="519.8" x2="773.3" y2="519.8" stroke="#b5651d" stroke-width="1.3"/>
+<line x1="756.3" y1="393.3" x2="773.3" y2="393.3" stroke="#b5651d" stroke-width="1.3"/>
+<rect x="747.8" y="419.3" width="34.0" height="82.6" rx="2" fill="#b5651d" fill-opacity="0.30" stroke="#b5651d" stroke-width="1.4"/>
+<line x1="747.8" y1="479.6" x2="781.8" y2="479.6" stroke="#b5651d" stroke-width="2.6"/>
+<line x1="836.5" y1="513.5" x2="836.5" y2="302.7" stroke="#b5651d" stroke-width="1.3" stroke-opacity="0.7"/>
+<line x1="828.0" y1="513.5" x2="845.0" y2="513.5" stroke="#b5651d" stroke-width="1.3"/>
+<line x1="828.0" y1="302.7" x2="845.0" y2="302.7" stroke="#b5651d" stroke-width="1.3"/>
+<rect x="819.5" y="387.9" width="34.0" height="116.9" rx="2" fill="#b5651d" fill-opacity="0.30" stroke="#b5651d" stroke-width="1.4"/>
+<line x1="819.5" y1="463.9" x2="853.5" y2="463.9" stroke="#b5651d" stroke-width="2.6"/>
+<line x1="908.2" y1="523.5" x2="908.2" y2="243.0" stroke="#b5651d" stroke-width="1.3" stroke-opacity="0.7"/>
+<line x1="899.7" y1="523.5" x2="916.7" y2="523.5" stroke="#b5651d" stroke-width="1.3"/>
+<line x1="899.7" y1="243.0" x2="916.7" y2="243.0" stroke="#b5651d" stroke-width="1.3"/>
+<rect x="891.2" y="275.0" width="34.0" height="243.1" rx="2" fill="#b5651d" fill-opacity="0.30" stroke="#b5651d" stroke-width="1.4"/>
+<line x1="891.2" y1="451.0" x2="925.2" y2="451.0" stroke="#b5651d" stroke-width="2.6"/>
+<text x="908.2" y="233.0" font-size="11.5" font-weight="600" fill="#b5651d" text-anchor="end">1000d</text>
+<text x="956" y="208" font-size="12.5" font-weight="600" fill="#2361b0" text-anchor="end">granted</text>
+<text x="954" y="481.6" font-size="11.5" fill="#2361b0">50%</text>
+<line x1="944" y1="477.6" x2="950" y2="477.6" stroke="#2361b0" stroke-width="1.2"/>
+<text x="954" y="360.6" font-size="11.5" fill="#2361b0">75%</text>
+<line x1="944" y1="356.6" x2="950" y2="356.6" stroke="#2361b0" stroke-width="1.2"/>
+<text x="954" y="239.7" font-size="11.5" fill="#2361b0">100%</text>
+<line x1="944" y1="235.7" x2="950" y2="235.7" stroke="#2361b0" stroke-width="1.2"/>
+<polyline points="119.8,276.0 191.5,281.8 263.2,250.3 334.8,284.1 406.5,264.1 478.2,288.6 549.8,310.8 621.5,332.5 693.2,295.1 764.8,333.9 836.5,290.7 908.2,314.7" fill="none" stroke="#2361b0" stroke-width="2.4"/>
+<circle cx="119.8" cy="276.0" r="4" fill="#2361b0" stroke="#fcfcfb" stroke-width="1.6"/>
+<circle cx="191.5" cy="281.8" r="4" fill="#2361b0" stroke="#fcfcfb" stroke-width="1.6"/>
+<circle cx="263.2" cy="250.3" r="4" fill="#2361b0" stroke="#fcfcfb" stroke-width="1.6"/>
+<circle cx="334.8" cy="284.1" r="4" fill="#2361b0" stroke="#fcfcfb" stroke-width="1.6"/>
+<circle cx="406.5" cy="264.1" r="4" fill="#2361b0" stroke="#fcfcfb" stroke-width="1.6"/>
+<circle cx="478.2" cy="288.6" r="4" fill="#2361b0" stroke="#fcfcfb" stroke-width="1.6"/>
+<circle cx="549.8" cy="310.8" r="4" fill="#2361b0" stroke="#fcfcfb" stroke-width="1.6"/>
+<circle cx="621.5" cy="332.5" r="4" fill="#2361b0" stroke="#fcfcfb" stroke-width="1.6"/>
+<circle cx="693.2" cy="295.1" r="4" fill="#2361b0" stroke="#fcfcfb" stroke-width="1.6"/>
+<circle cx="764.8" cy="333.9" r="4" fill="#2361b0" stroke="#fcfcfb" stroke-width="1.6"/>
+<circle cx="836.5" cy="290.7" r="4" fill="#2361b0" stroke="#fcfcfb" stroke-width="1.6"/>
+<circle cx="908.2" cy="314.7" r="4" fill="#2361b0" stroke="#fcfcfb" stroke-width="1.6"/>
+<text x="191.5" y="548" font-size="11" fill="#8a8880" text-anchor="middle">2024Q1</text>
+<text x="334.8" y="548" font-size="11" fill="#8a8880" text-anchor="middle">2024Q3</text>
+<text x="478.2" y="548" font-size="11" fill="#8a8880" text-anchor="middle">2025Q1</text>
+<text x="621.5" y="548" font-size="11" fill="#8a8880" text-anchor="middle">2025Q3</text>
+<text x="764.8" y="548" font-size="11" fill="#8a8880" text-anchor="middle">2026Q1</text>
+<text x="908.2" y="548" font-size="11" fill="#8a8880" text-anchor="middle">2026Q3</text>
+<line x1="36" y1="566" x2="1004" y2="566" stroke="#e3e2db"/>
+<text x="36" y="588" font-size="13" fill="#0b0b0b"><tspan font-weight="600">A median would have reported this as &#8220;decisions slowed from 161 to 265 days&#8221;.</tspan> The middle half barely moved; the top tenth went from 202 days to 1000.</text>
+<text x="36" y="610" font-size="12.5" fill="#52514e">Refusals take a median 359 days against 129 for grants, so a lengthening tail is where the refusals accumulate &#8212; and the pending pile inherits them.</text>
+<text x="36" y="632" font-size="11.5" fill="#8a8880">Two scales on one plot: boxes read the left axis in days, the line reads the right in per cent. They are independent &#8212; the vertical distance between them means nothing.</text>
+<text x="36" y="656" font-size="11.5" fill="#8a8880">Quarters with fewer than 12 decisions omitted; the final quarter is partial. Withdrawn applications carry no date and cannot appear.</text>
+<text x="36" y="678" font-size="11.5" fill="#8a8880">Source: Fiskeridirektoratet Akvakultursøknader.</text>
 </svg>
