@@ -443,6 +443,11 @@ us".**
 
 ## Run it
 
+Figures are SVG in `artifacts/charts/`, with PNG renders alongside in
+`artifacts/charts/png/` for viewers that will not preview SVG. The SVGs are the
+source of truth; the PNGs are generated.
+
+
 No key, no account. Capture is slow and polite; everything after it is instant.
 
 ```sh
