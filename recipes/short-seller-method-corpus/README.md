@@ -55,8 +55,14 @@ tools who needs to know which half is automatable.
   emerging growth company is attacked at 0.2× and a non-accelerated filer at 0.4×,
   both surviving Bonferroni. Short sellers skip small and young companies; they do
   not hunt them.
+- **They find crimes; broken businesses, not quite.** A target discloses an
+  investigation within three years at 22% against 6% for matched controls — 4.0×,
+  p = 0.002. On unit economics the lift is 1.5× at p = 0.09, and it nearly vanishes
+  once you split by size: small companies fail to cover overhead four times in five
+  whether or not anybody shorts them.
 - **This is not an industry that hunts bad business models.** 78% of reports allege a
-  crime or accounting manipulation. 5% rest on broken unit economics alone.
+  crime or accounting manipulation. 5% rest on broken unit economics alone. And
+  targets have *better* gross margins than random filers, +41% against +28%.
 - **Spruce Point is an accounting shop; Hindenburg is a fraud shop.** 69% against 17%
   on accounting manipulation, from firms whose output looks superficially alike.
 - **The two things worth proving are found in different companies.** Targets that went
@@ -367,54 +373,70 @@ One caution on reading any of this. A declared reason is what a firm chose to le
 with, which is a marketing decision as much as an analytical one. It is evidence of
 what the firm thought would land, not necessarily of what it actually found.
 
-## Which jackpot do they actually hit
+## They find crimes. Broken businesses, not quite.
 
 ![Two jackpots](artifacts/charts/two-jackpots.svg)
 
-Both axes, run against the 139 controls with each control assigned a report date drawn
-from the target distribution so the exposure matches:
+Both things worth proving are checkable from SEC filings alone, which is what makes
+them reachable without sources: whether a crime is being investigated, from a Wells
+notice, grand jury, subpoena or formal order of investigation the company discloses in
+its own filings; and whether the unit economics work, from XBRL at the last annual
+**filed before** the report. Each is run against 139 control filers.
 
-| within 3 years of the report | targets | controls | lift | p |
+| | targets | controls | lift | p |
 | --- | --- | --- | --- | --- |
-| **disclosed an investigation** | **13/59 = 22%** | **6/108 = 6%** | **3.8×** | **0.0021** |
+| **a crime is being investigated** (within 3 years) | **13/59 = 22%** | **6/108 = 6%** | **4.0×** | **0.002** |
+| the business does not work (overhead or cash burn) | 30/61 = 49% | 19/58 = 33% | 1.5× | 0.093 |
 
-| at the last annual before the report | targets | controls | lift | p |
+**They are good at one of these and barely distinguishable at the other.** On the
+crime axis the 95% intervals do not come close to touching. On the economics axis
+they overlap across most of their range, and a reader who saw only the two point
+estimates would take a 1.5× lift for a result.
+
+**And the economics lean is mostly composition.** Split by filer size class it nearly
+disappears:
+
+| | targets | controls | lift | p |
 | --- | --- | --- | --- | --- |
-| negative gross margin | 1/49 = 2% | 2/31 = 6% | 0.3× | 0.56 |
-| negative operating margin | 25/51 = 49% | 14/41 = 34% | 1.4× | 0.20 |
-| operating cash flow negative | 21/57 = 37% | 14/58 = 24% | 1.5× | 0.16 |
-| burns more than 50c per $1 of revenue | 10/57 = 18% | 4/58 = 7% | 2.6× | 0.09 |
-| *median gross margin* | *+41%* | *+28%* | — | — |
-| *median operating margin* | *+2%* | *+6%* | — | — |
+| large accelerated filers | 12/39 = 31% | 8/41 = 20% | 1.6× | 0.31 |
+| everything smaller | 17/20 = 85% | 11/14 = 79% | 1.1× | 0.67 |
 
-**These firms find crime. They do not find broken business models.** A target is
-nearly four times as likely as a matched control to disclose a Wells notice, grand
-jury, subpoena or formal order of investigation within three years — the single
-strongest and best-powered result in this recipe. On the economics side nothing
-reaches significance, and **the targets have better gross margins than random
-filers**: +41% against +28%, with negative gross margins *rarer* among targets than
-controls.
+Small companies fail to cover their overhead about four times in five whether or not
+anybody shorts them. Targets skew large and controls skew small — that is the
+Bonferroni-surviving finding two sections up — so most of the pooled 49%-vs-33% gap is
+that size mix rather than any difference in how broken the companies are.
 
-That is the answer to "which jackpot". If the goal is proving unit economics do not
-work, this corpus is the wrong model to copy — the firms in it are not finding those
-companies, and the one clear economic signal they do pick up is overhead and cash
-burn rather than the cost of the product itself. If the goal is finding a company
-that is about to be investigated, they are demonstrably good at it, and this is the
-measurement that says so.
+The component measures say the same thing in more detail, and one of them says it
+loudly: **targets have better gross margins than random filers.** Median +41% against
++28%, with negative gross margins *rarer* among targets, 1/49 = 2% against 2/31 = 6%.
+Whatever these firms are selecting for, it is not a product that loses money on every
+sale. Negative operating margin runs 49% vs 34% (p = 0.20) and negative operating cash
+flow 37% vs 24% (p = 0.16) — the weakness is overhead and financing, not the unit.
 
-Read the 3.8× with one caution held firmly. **A short report can cause the
-investigation it appears to predict** — regulators read these, and a public
-allegation is itself a reason to open a file. Nothing in this data separates "found a
-company already under investigation" from "caused the investigation", and the two
-have completely different implications for anyone trying to do the same thing. That
+So if the goal is proving unit economics do not work, **this corpus is the wrong model
+to copy.** The firms in it are not finding those companies. If the goal is finding a
+company that is about to be investigated, they are demonstrably good at it, and this
+is the measurement that says so.
+
+**Exposure has to be matched on the crime axis or the clock decides the answer.** A
+target attacked in 2014 has twelve years in which to disclose an investigation; one
+attacked in 2025 has months. Every control is given a report date drawn from the
+target distribution, every company is scored on a fixed three-year window, and any
+company whose window has not closed is dropped rather than counted as a no.
+
+Read the 4.0× with one caution held firmly. **A short report can cause the
+investigation it appears to predict** — regulators read these, and a public allegation
+is itself a reason to open a file. Nothing in this data separates "found a company
+already under investigation" from "caused the investigation", and the two have
+completely different implications for anyone trying to do the same thing. That
 separation needs the date a file was *opened*, which is not public.
 
 ## The two jackpots are different companies
 
-So the firms find the crime. The obvious next question is whether you could find it
-the same way they do — by reading the numbers. The obvious assumption is that the two
-jackpots arrive together, that the company cooking its books is the company whose
-margins look wrong. They do not. Of 41 targets whose
+So the firms find the crime. The obvious next question is whether *you* could find it
+the same way — by reading the numbers. The obvious assumption is that the two jackpots
+arrive together, that the company cooking its books is the company whose margins look
+wrong. They do not. Of 41 targets whose
 pre-report margins can be read and whose three-year window has closed, the ones that
 went on to disclose an investigation had a **median operating margin of +17%**; the
 ones that did not, **−1%**. Visibly broken economics → investigated 2/21 = 10%;
@@ -450,6 +472,11 @@ lead you to the crime, and the sign runs the other way in every window.** That i
 still worth knowing if you were about to build a margin screen. And disclosing an
 investigation is not being guilty of anything — the causation caution above applies
 here too.
+
+**There is deliberately no figure for this.** A fifteen-point gap with a stable sign
+and p = 0.24 on seven companies is exactly the shape that draws well and means little
+— it is the `before-and-after` mistake, kept elsewhere in this recipe as a worked
+example of it. The numbers are here; the chart would oversell them.
 
 The allegation itself predicts nothing here. Reports alleging a crime were followed by
 a disclosed investigation 28% of the time; reports not alleging one, 27%. **What a

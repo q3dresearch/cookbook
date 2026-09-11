@@ -1,60 +1,60 @@
 #!/usr/bin/env python3
-"""They find crime at four times the base rate — and not by reading the margins.
+"""They find crimes. Broken businesses, not quite.
 
     python chart-two-jackpots.py
 
-Two things are worth proving about a company: that its unit economics do not work, or
-that a crime is happening. Both are checkable from SEC filings alone, which is what
-makes them reachable without sources.
+Two things are worth proving about a company: that a crime is happening, or that its
+unit economics do not work. Both are checkable from SEC filings alone, which is what
+makes them reachable without sources. Measured against 139 control filers, the firms
+in this corpus are good at one and barely distinguishable at the other.
 
-**The top band is the premise.** A short-seller target discloses a Wells notice, grand
-jury, subpoena or formal order of investigation within three years at 13/59 = 22%,
-against 6/108 = 6% for control filers given a report date drawn from the target
-distribution so the exposure matches. That is 4.0x at Fisher p = 0.002 — the strongest
-and best-powered result in this recipe. These firms find crime.
+    disclosed an investigation in 3 years   22% vs 6%    4.0x   p = 0.002
+    does not cover overhead or burns cash   49% vs 33%   1.5x   p = 0.09
 
-**The plot below is how they do not do it.** Targets that went on to disclose an
-investigation had a median pre-report operating margin of +17%; those that did not,
--1%. Visibly broken economics led to an investigation 2/21 = 10% of the time,
-economics that looked fine 5/20 = 25%. The sign is backwards from the intuition, and
-it is backwards at every window from two to five years.
+**The intervals carry the argument, which is why they are drawn.** On the crime axis
+they do not come close to touching. On the economics axis they overlap across most of
+their range, and a reader who only saw the two dots would take a 1.5x lift for a
+result.
 
-Three things this chart is careful about, each of which changed the answer.
+**And the economics lean is mostly composition.** Split by filer size class it nearly
+vanishes: 31% vs 20% among large accelerated filers, 85% vs 79% among everything
+smaller. Small companies fail to cover their overhead about four times in five whether
+or not anybody shorts them. Targets skew large, controls skew small, and most of the
+pooled gap is that mix rather than any difference in how broken the companies are.
 
-**Exposure is matched, because it decides the result.** A target attacked in 2014 has
-twelve years to disclose something; one attacked in 2025 has months. The
-broken-economics targets have a median report year of 2022 against 2020 for the rest —
-two years less at risk. Counting "ever disclosed after" gave 11% vs 33% at p = 0.09;
-the fixed three-year window gives 10% vs 25% at p = 0.24. The first number was
-flattered by the clock.
+**Exposure is matched on the crime axis, because it decides the result.** A target
+attacked in 2014 has twelve years in which to disclose an investigation; one attacked
+in 2025 has months. Each control is given a report date drawn from the target
+distribution, every company is scored on a fixed three-year window, and any company
+whose window has not closed is dropped rather than counted as a no. Counting "ever
+disclosed afterwards" instead inflates the target rate against controls that were all
+measured from a single cutoff.
 
-**The lower panel is not significant and is not presented as if it were.** Seven
-investigated companies is far too few. What it has is a stable sign, shown across four
-windows at the foot rather than asserted. The claim it supports is the negative one:
-nothing here suggests bad numbers lead you to the crime.
-
-**A short report can cause the investigation it appears to predict.** Regulators read
-these. Nothing in this data separates "found a company already under investigation"
-from "caused one", and that distinction matters enormously to anyone trying to do the
-same thing. It would need the date a file was opened, which is not public.
+**One caution belongs with the 4.0x and does not go away.** A short report can cause
+the investigation it appears to predict — regulators read these, and a public
+allegation is itself a reason to open a file. Nothing here separates "found a company
+already under investigation" from "caused one", and the two mean completely different
+things for anyone trying to do the same work. Separating them needs the date a file
+was opened, which is not public.
 """
-import json, statistics, sys
+import json, random, sys
 from pathlib import Path
 from xml.sax.saxutils import escape
 
 HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE))
 import palette
-from jackpot import broken, meaningful, enforced, enforced_at, WINDOW_YEARS
-from selection import fisher
+from jackpot import broken, enforced, enforced_at
+from selection import fisher, wilson
 
 RAW = HERE.parent / "raw"
 OUT = HERE.parent / "charts" / "two-jackpots.svg"
 SURFACE, INK, INK2, MUTED = "#fcfcfb", "#0b0b0b", "#52514e", "#898781"
-GRID, RULE = "#e1e0d9", "#ebeae3"
+RULE = "#ebeae3"
 HOT, COOL = "#b03a2e", "#1b4f8a"
 FONT = 'system-ui, -apple-system, "Segoe UI", sans-serif'
-W, H = 980, 830
+W, H = 940, 500
+AXIS_MAX = 0.85
 
 
 def txt(x, y, s, *, size, fill, anchor="start", weight="normal", tab=False):
@@ -79,183 +79,87 @@ def para(x, y, s, *, size, fill, chars, leading=17.0):
 
 def main():
     T = json.loads((RAW / "jackpot_targets.json").read_text())
-    pts = []
-    for sym, v in T.items():
-        e = v["economics"]
-        om = e.get("operating_margin")
-        # enforced() returns None when the three-year window has not closed, and such a
-        # company is dropped rather than counted as a no. Using "ever disclosed after"
-        # instead gives an older target twelve years of exposure against a recent one's
-        # months -- and the split is not random, so that alone moves the answer.
-        hit = enforced(v)
-        if not meaningful(e) or om is None or hit is None:
-            continue
-        pts.append({"sym": sym, "firm": v["firm"], "om": om, "enf": hit,
-                    "n_enf": len(v["enforcement"]["after"])})
-    if not pts:
-        raise SystemExit("no plottable targets")
+    C = json.loads((RAW / "jackpot_controls.json").read_text())
 
-    # Margins run from about -1 to +0.5 with a long negative tail; clip the tail to a
-    # gutter rather than letting one company set the scale for everyone else.
-    LO, HI = -1.0, 0.5
-    for p in pts:
-        p["clip"] = p["om"] < LO
-        p["x"] = max(LO, min(HI, p["om"]))
+    dates = sorted(v["as_of"] for v in T.values())
+    rnd = random.Random(20260912)
+    te = [x for x in (enforced(v) for v in T.values()) if x is not None]
+    ce = [x for x in (enforced_at(v, rnd.choice(dates)) for v in C.values()) if x is not None]
+    tb = [x for x in (broken(v["economics"]) for v in T.values()) if x is not None]
+    cb = [x for x in (broken(v["economics"]) for v in C.values()) if x is not None]
 
-    yes = [p for p in pts if p["enf"]]
-    no = [p for p in pts if not p["enf"]]
-    a, b, c, d = len(yes), len(no), 0, 0
-    # Fisher on the actual 2x2: broken/not x investigated/not.
-    bb = [p for p in pts if broken(T[p["sym"]]["economics"])]
-    gg = [p for p in pts if not broken(T[p["sym"]]["economics"])]
-    A = sum(p["enf"] for p in bb); B = len(bb) - A
-    C = sum(p["enf"] for p in gg); D = len(gg) - C
-    p_val = fisher(A, B, C, D)
+    axes = [
+        ("A crime is being investigated",
+         "disclosed a Wells notice, grand jury, subpoena or formal order within 3 years",
+         sum(te), len(te), sum(ce), len(ce)),
+        ("The business does not work",
+         "does not cover its overhead, or burns cash, at the last annual before the report",
+         sum(tb), len(tb), sum(cb), len(cb)),
+    ]
 
-    # Row labels sit ABOVE each row, not beside it: right-anchored labels in a left
-    # margin were clipped at every width that left room for the plot.
-    L, R, TOP = 56, 56, 280
-    pw = W - L - R
-    sx = lambda v: L + (v - LO) / (HI - LO) * pw
-    rows = [(f"Disclosed an investigation within {WINDOW_YEARS} years", yes, HOT, TOP + 74),
-            ("No investigation disclosed", no, COOL, TOP + 232)]
+    # The value label sits past the right end of the interval, so the axis needs headroom
+    # beyond the widest upper bound (61%) or the label runs off the page. The verdict
+    # goes in the left column for the same reason -- right-aligned at the edge it
+    # collided with that label.
+    L, R, TOP, COL = 46, 46, 168, 236
+    pw = W - L - R - COL - 96
+    sx = lambda v: L + COL + v / AXIS_MAX * pw
 
     s = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" '
          f'viewBox="0 0 {W} {H}"><rect width="{W}" height="{H}" fill="{SURFACE}"/>']
-    s.append(txt(L, 46, "You cannot find the crime by screening for bad numbers",
-                 size=21, fill=INK, weight="600"))
-    body, dy = para(L, 72, "Every short-seller target whose last annual figures before the report can be read "
-                    f"and whose {WINDOW_YEARS}-year window has closed, placed by operating margin. The "
-                    "companies that went on to disclose a Wells notice, grand jury, subpoena or formal "
-                    "order of investigation sit to the RIGHT — their margins looked better, not worse.",
-                    size=13, fill=INK2, chars=104)
+    s.append(txt(L, 46, "They find crimes. Broken businesses, not quite.",
+                 size=22, fill=INK, weight="600"))
+    body, _ = para(L, 74, "Short-seller targets against 139 filers nobody attacked. Bars are 95% "
+                   "intervals — where they overlap, the gap is not a finding.",
+                   size=13, fill=INK2, chars=100)
     s += body
 
-    # The premise band. Without it the chart reads as "short sellers find nothing",
-    # which is the opposite of what the control comparison says: they find crime at
-    # nearly four times the base rate. What they do not do is find it in the margins.
-    import random
-    CTRL = json.loads((RAW / "jackpot_controls.json").read_text())
-    dates = sorted(v["as_of"] for v in T.values())
-    rnd = random.Random(20260912)
-    tk = [x for x in (enforced(v) for v in T.values()) if x is not None]
-    ck = [x for x in (enforced_at(v, rnd.choice(dates)) for v in CTRL.values()) if x is not None]
-    bands = [("short-seller targets", sum(tk), len(tk), HOT),
-             ("matched control filers", sum(ck), len(ck), COOL)]
-    by = 78 + dy + 26
-    s.append(txt(L, by - 12, f"They do find crime. Share disclosing an investigation within "
-                 f"{WINDOW_YEARS} years:", size=12, fill=INK, weight="600"))
-    # Bars run a stated 0-30% scale, not a silent multiplier. A bar whose length is not
-    # proportional to its number is the one chart lie that is never worth telling.
-    BAR_MAX, bw, x0 = 0.30, 300, L + 170
-    for i, (lab, k, n, col) in enumerate(bands):
-        yy = by + i * 26
-        s.append(txt(L, yy + 11, lab, size=11.5, fill=INK2))
-        s.append(f'<rect x="{x0}" y="{yy}" width="{bw}" height="14" rx="3" fill="{RULE}"/>')
-        s.append(f'<rect x="{x0}" y="{yy}" width="{bw * (k / n) / BAR_MAX:.1f}" height="14" '
-                 f'rx="3" fill="{col}"/>')
-        s.append(txt(x0 + bw + 12, yy + 11, f"{k}/{n} = {k/n:.0%}", size=11.5, fill=col,
-                     weight="600", tab=True))
-    s.append(txt(x0, by + 2 * 26 + 12, "0%", size=10, fill=MUTED, anchor="middle"))
-    s.append(txt(x0 + bw, by + 2 * 26 + 12, f"{BAR_MAX:.0%}", size=10, fill=MUTED, anchor="middle"))
-    lift = (sum(tk) / len(tk)) / (sum(ck) / len(ck))
-    pv = fisher(sum(tk), len(tk) - sum(tk), sum(ck), len(ck) - sum(ck))
-    s.append(txt(x0 + bw + 110, by + 24, f"{lift:.1f}x,  Fisher p = {pv:.4f}",
-                 size=12, fill=INK, weight="600", tab=True))
-    s.append(f'<line x1="{L}" y1="{TOP - 22}" x2="{W - R}" y2="{TOP - 22}" stroke="{RULE}" stroke-width="1"/>')
-    s.append(txt(L, TOP - 2, "But not by reading the margins.", size=13, fill=INK, weight="600"))
+    # Legend: two series, so identity is never carried by colour alone.
+    for i, (lab, col) in enumerate((("targets", HOT), ("controls", COOL))):
+        lx = L + COL + i * 110
+        s.append(f'<circle cx="{lx + 5:.1f}" cy="{TOP - 34}" r="5.5" fill="{col}"/>')
+        s.append(txt(lx + 16, TOP - 30, lab, size=12, fill=INK2))
 
-    # Zero line: the whole claim is about which side of it the dots fall on.
-    z = sx(0)
-    BOT = TOP + 330
-    s.append(f'<line x1="{z:.1f}" y1="{TOP + 20}" x2="{z:.1f}" y2="{BOT}" '
-             f'stroke="{MUTED}" stroke-width="1.5" stroke-dasharray="4 3"/>')
-    s.append(txt(z, TOP + 12, "break-even", size=11, fill=MUTED, anchor="middle"))
-    # Typographic minus (U+2212) and <= (U+2264) render as tofu boxes under cairosvg's
-    # fallback font, so the axis uses ASCII. Checked by looking at the PNG, not assumed.
-    for v, lab in ((-1.0, "-100% or worse"), (-0.5, "-50%"), (0.0, "0%"), (0.5, "+50%")):
+    for v in (0, 0.2, 0.4, 0.6, 0.8):
         x = sx(v)
-        if v:
-            s.append(f'<line x1="{x:.1f}" y1="{TOP + 20}" x2="{x:.1f}" y2="{BOT}" '
-                     f'stroke="{RULE}" stroke-width="1"/>')
-        s.append(txt(x, BOT + 20, lab, size=11, fill=MUTED, anchor="middle", tab=True))
-    s.append(txt(L + pw / 2, BOT + 42, "operating margin at the last annual report filed before the short report",
-                 size=12, fill=INK2, anchor="middle"))
+        s.append(f'<line x1="{x:.1f}" y1="{TOP - 12}" x2="{x:.1f}" y2="{TOP + 176}" '
+                 f'stroke="{RULE}" stroke-width="1"/>')
+        s.append(txt(x, TOP + 196, f"{v:.0%}", size=11, fill=MUTED, anchor="middle", tab=True))
 
-    for label, group, col, y in rows:
-        s.append(txt(L, y - 40, label, size=13, fill=col, weight="600"))
-        s.append(txt(L, y - 24, f"{len(group)} companies", size=11, fill=MUTED, tab=True))
-        # Dodge overlapping dots vertically instead of letting them hide each other.
-        placed = []
-        for p in sorted(group, key=lambda q: q["x"]):
-            x, lane = sx(p["x"]), 0
-            while any(abs(x - px) < 11 and lane == pl for px, pl in placed):
-                lane += 1
-            placed.append((x, lane))
-            cy = y + lane * 13
-            s.append(f'<circle cx="{x:.1f}" cy="{cy:.1f}" r="5.5" fill="{col}" '
-                     f'fill-opacity="0.85" stroke="{SURFACE}" stroke-width="2"/>')
-            if p["clip"]:
-                s.append(f'<path d="M{x - 9:.1f} {cy - 5} l-5 5 l5 5" fill="none" '
-                         f'stroke="{col}" stroke-width="1.5"/>')
-        med = statistics.median([p["x"] for p in group])
-        mx = sx(med)
-        s.append(f'<line x1="{mx:.1f}" y1="{y - 18}" x2="{mx:.1f}" y2="{y + 30}" '
-                 f'stroke="{col}" stroke-width="2.5"/>')
-        s.append(txt(mx, y - 24, f"median {med:+.0%}", size=11, fill=col,
-                     anchor="middle", weight="600", tab=True))
+    for i, (title, sub, a, na, c, nc) in enumerate(axes):
+        y = TOP + 30 + i * 96
+        s.append(txt(L, y - 6, title, size=14, fill=INK, weight="600"))
+        sw, sh = para(L, y + 13, sub, size=11, fill=MUTED, chars=32, leading=14)
+        s += sw
+        for k, n, col, dy in ((a, na, HOT, 0), (c, nc, COOL, 30)):
+            lo, hi = wilson(k, n)
+            yy = y + dy
+            s.append(f'<line x1="{sx(lo):.1f}" y1="{yy:.1f}" x2="{sx(hi):.1f}" y2="{yy:.1f}" '
+                     f'stroke="{col}" stroke-width="3" stroke-opacity="0.35" stroke-linecap="round"/>')
+            s.append(f'<circle cx="{sx(k / n):.1f}" cy="{yy:.1f}" r="6.5" fill="{col}" '
+                     f'stroke="{SURFACE}" stroke-width="2"/>')
+            s.append(txt(sx(hi) + 14, yy + 4, f"{k/n:.0%}   {k}/{n}", size=12, fill=col,
+                         weight="600", tab=True))
+        p = fisher(a, na - a, c, nc - c)
+        strong = p < 0.01
+        verdict = "clear" if strong else ("not significant" if p > 0.05 else "borderline")
+        s.append(txt(L, y + sh + 22, f"{(a/na)/(c/nc):.1f}x   p = {p:.3f}   {verdict}",
+                     size=12, fill=INK if strong else MUTED,
+                     weight="600" if strong else "normal", tab=True))
 
-    # Name a few of the investigated companies -- the reader needs entities, not counts.
-    # Labels are placed left to right and any that would collide is dropped rather than
-    # drawn on top of its neighbour; four tickers previously overprinted into "EQDFH".
-    ny, last = rows[0][3] + 46, -1e9
-    for p in sorted(yes, key=lambda q: q["x"]):
-        x = sx(p["x"])
-        if x - last < 46:
-            continue
-        last = x
-        s.append(txt(x, ny, p["sym"], size=10.5, fill=HOT, anchor="middle", weight="600"))
-
-    fy = BOT + 76
-    s.append(f'<line x1="{L}" y1="{fy - 20}" x2="{W - R}" y2="{fy - 20}" stroke="{RULE}" stroke-width="1"/>')
-    foot, h = para(L, fy, f"Visibly broken economics: {A}/{A + B} investigated. Economics that looked "
-                   f"fine: {C}/{C + D}. Fisher p = {p_val:.2f} — NOT significant, and {A + C} "
-                   f"investigated companies in total is far too few to be. What the chart supports is "
-                   f"the negative: nothing here suggests bad numbers lead to the crime, and the sign "
-                   f"runs the other way in every window tested. A company losing money in public is not "
-                   f"hiding anything; fraud has to look healthy.",
+    fy = TOP + 236
+    s.append(f'<line x1="{L}" y1="{fy - 22}" x2="{W - R}" y2="{fy - 22}" stroke="{RULE}" stroke-width="1"/>')
+    foot, _ = para(L, fy, "And the economics lean is mostly composition: split by filer size class it "
+                   "nearly vanishes — 31% vs 20% among large accelerated filers, 85% vs 79% among "
+                   "everything smaller. Small companies fail to cover their overhead about four times "
+                   "in five whether or not anybody shorts them.",
                    size=12, fill=INK2, chars=112)
     s += foot
-
-    # Show the window sensitivity rather than asserting the choice was safe. The reader
-    # can see the direction is stable and that none of it reaches significance.
-    wy = fy + h + 14
-    s.append(txt(L, wy, "Same comparison at other windows — direction stable, none significant:",
-                 size=11, fill=MUTED))
-    # Same sample as the panel above -- requiring operating margin, not margin-or-burn --
-    # so the 3-year cell reproduces the footer exactly instead of quietly differing.
-    cells = []
-    for w in (2, 3, 4, 5):
-        rr = [v for v in T.values() if meaningful(v["economics"])
-              and v["economics"].get("operating_margin") is not None
-              and broken(v["economics"]) is not None and enforced(v, w) is not None]
-        a2 = sum(1 for v in rr if broken(v["economics"]) and enforced(v, w))
-        b2 = sum(1 for v in rr if broken(v["economics"]) and not enforced(v, w))
-        c2 = sum(1 for v in rr if not broken(v["economics"]) and enforced(v, w))
-        d2 = sum(1 for v in rr if not broken(v["economics"]) and not enforced(v, w))
-        if not (a2 + b2) or not (c2 + d2):
-            continue
-        cells.append(f"{w}y: broken {a2/(a2+b2):.0%} vs fine {c2/(c2+d2):.0%}  "
-                     f"p={fisher(a2, b2, c2, d2):.2f}")
-    for i, c in enumerate(cells):
-        s.append(txt(L + i * 215, wy + 20, c, size=11, fill=INK2, tab=True))
     s.append("</svg>")
     OUT.write_text("\n".join(s))
-    print(f"  {OUT.name}: {len(pts)} targets ({len(yes)} investigated, {len(no)} not)")
-    print(f"  broken {A}/{A + B} = {A/(A+B):.0%} investigated  |  fine {C}/{C + D} = {C/(C+D):.0%}"
-          f"  |  Fisher p = {p_val:.4f}")
-    print(f"  median operating margin: investigated {statistics.median([p['x'] for p in yes]):+.0%}"
-          f"  not {statistics.median([p['x'] for p in no]):+.0%}")
+    for title, _, a, na, c, nc in axes:
+        print(f"  {title:<32}{a}/{na}={a/na:.0%} vs {c}/{nc}={c/nc:.0%}  "
+              f"{(a/na)/(c/nc):.1f}x  p={fisher(a, na-a, c, nc-c):.4f}")
 
 
 if __name__ == "__main__":
