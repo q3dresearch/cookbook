@@ -127,7 +127,7 @@ def main():
                "does not cover its overhead, or burns cash, at the last annual before the report",
                *build("economics"))]
 
-    L, R, GAP, TOP = 56, 34, 54, 196
+    L, R, GAP, TOP = 78, 30, 50, 196
     pw = (W - L - R - GAP) / 2
     ph = 250
     RUG = 13
@@ -158,6 +158,14 @@ def main():
                      f'stroke="{RULE}" stroke-width="1"/>')
             if pi == 0:
                 s.append(txt(x0 - 10, y + 4, f"{g:.0%}", size=11, fill=MUTED, anchor="end", tab=True))
+        # The rug's two rows ARE the y-value: a company sits at the top if the thing
+        # happened to it and at the bottom if it did not. Clustered into one row they
+        # would show only which sizes exist, and the fitted curve would be the sole
+        # evidence on screen. Labelled at the edge because a caption alone let a reader
+        # take them for decoration.
+        if pi == 0:
+            s.append(txt(x0 - 12, TOP - 9, "happened", size=9.5, fill=MUTED, anchor="end"))
+            s.append(txt(x0 - 12, TOP + ph + 21, "did not", size=9.5, fill=MUTED, anchor="end"))
         for v, lab in TICKS:
             s.append(txt(sx(v), TOP + ph + RUG + 34, lab, size=11, fill=MUTED,
                          anchor="middle", tab=True))
@@ -169,9 +177,16 @@ def main():
             # one lane per series so the two groups never sit on the same pixel row.
             for xv, yv in obs:
                 yy = (TOP - 8 - lane * 6) if yv else (TOP + ph + 8 + lane * 6)
-                s.append(f'<line x1="{sx(xv):.1f}" y1="{yy:.1f}" x2="{sx(xv):.1f}" '
+                # Two control shells sit at $127k and $265k of float, below the axis
+                # floor. Drawn at their true x they landed on the row label outside the
+                # panel. They clamp to the edge at half opacity rather than extending
+                # the axis a whole decade for two points -- the FIT still uses their
+                # real values, only the tick moves.
+                off = xv < LO or xv > HI
+                px = sx(min(HI, max(LO, xv)))
+                s.append(f'<line x1="{px:.1f}" y1="{yy:.1f}" x2="{px:.1f}" '
                          f'y2="{yy + (-5 if yv else 5):.1f}" stroke="{col}" stroke-width="1.6" '
-                         f'stroke-opacity="0.75"/>')
+                         f'stroke-opacity="{0.35 if off else 0.75}"/>')
 
             fit = logistic([a for a, _ in obs], [b for _, b in obs])
             if fit is None:
