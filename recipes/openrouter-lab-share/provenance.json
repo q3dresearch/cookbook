@@ -1,0 +1,100 @@
+{
+  "method_version": "1.0.0",
+  "retrieved": "2026-09-11",
+  "citation_required": "Source: OpenRouter (openrouter.ai/rankings).",
+  "licence": "CC BY 4.0",
+  "sources": {
+    "rankings_daily": {
+      "url": "https://openrouter.ai/api/v1/datasets/rankings-daily",
+      "note": "top 50 models/day plus an aggregated `other` row, back to 2025-01-01; caps at 366-day windows so the capture walks it in two",
+      "rows": 31416,
+      "days": 616,
+      "auth": "required"
+    },
+    "app_rankings": {
+      "url": "https://openrouter.ai/api/v1/datasets/app-rankings",
+      "note": "top 50 apps with tokens AND requests; honours an arbitrary date window, which is how the denominator question gets an answer. Not in the wss-openrouter registry",
+      "windows": [
+        "2025-02",
+        "2025-08",
+        "2026-02",
+        "2026-08"
+      ]
+    },
+    "session_cost": {
+      "url": "https://openrouter.ai/api/v1/datasets/session-cost?app_slug=",
+      "note": "median USD per session by app, model and turn range. Only four app_slugs are valid: claude-code, codex, kilo-code, hermes-agent"
+    },
+    "benchmarks": {
+      "url": "https://openrouter.ai/api/v1/benchmarks?source=",
+      "note": "artificial-analysis, design-arena and openrouter's own. Keys on model_permaslug, exactly like the rankings, so the join is exact",
+      "join_coverage_tokens": 0.61
+    },
+    "classifications_task": {
+      "url": "https://openrouter.ai/api/v1/classifications/task?window=7d",
+      "note": "29 task classes with BOTH usage_share and token_share, plus a per-task model breakdown"
+    },
+    "models_catalog": {
+      "url": "https://openrouter.ai/api/v1/models",
+      "note": "CURRENT snapshot against 21 months of history, so retired models are unpriceable: 162 of 352 slugs match even after stripping the date suffix. Carries hugging_face_id on 183 of 437 rows"
+    },
+    "providers": {
+      "url": "https://openrouter.ai/api/v1/providers",
+      "note": "106 providers with headquarters and datacenters. Not in the wss-openrouter registry. 80 of 106 name no datacenter",
+      "rows": 106
+    },
+    "hugging_face": {
+      "via": "wss-hugging-face archive, hf.models.text-generation",
+      "note": "1,000 text-generation models with 30-day downloads; the bridge is models_catalog.hugging_face_id"
+    }
+  },
+  "endpoints_that_404": [
+    "apps",
+    "datasets/apps",
+    "datasets/rankings-weekly",
+    "datasets/model-usage",
+    "classifications/app",
+    "datasets/providers",
+    "analytics",
+    "datasets"
+  ],
+  "headline": {
+    "market_growth_20_months": 170,
+    "anthropic_share_2025_01": 0.493,
+    "anthropic_share_2026_08": 0.056,
+    "anthropic_absolute_growth": 19,
+    "deepseek_share_2025_01": 0.043,
+    "deepseek_share_2026_08": 0.224,
+    "corr_intelligence_vs_share": 0.02,
+    "corr_log_price_vs_share": -0.33,
+    "spearman_downloads_vs_tokens": 0.12,
+    "tokens_share_anthropic": 0.084,
+    "spend_share_anthropic": 0.413,
+    "tokens_share_deepseek": 0.331,
+    "spend_share_deepseek": 0.094,
+    "chinese_labs_tokens": 0.657,
+    "chinese_labs_spend": 0.314,
+    "days_to_peak_median": 18,
+    "days_peak_to_half_median": 10,
+    "models_ending_above_half_peak": 0,
+    "models_tracked": 194,
+    "session_cost_spread_kilo_code_50turn": "130x ($0.10 to $13.24)",
+    "tokens_per_request_2025_02": 13800,
+    "tokens_per_request_2026_08": 73900
+  },
+  "computed_by": {
+    "or-tokens-vs-spend.svg": "chart_tokens_vs_spend.py",
+    "or-capability-vs-usage.svg": "chart_capability.py",
+    "or-downloads-vs-use.svg": "chart_downloads.py",
+    "or-model-shelf-life.svg": "chart_shelflife.py",
+    "or-session-cost.svg": "chart_session_cost.py"
+  },
+  "caveats": [
+    "OpenRouter is a ROUTER. It sees everyone who routes through it and nobody who calls a lab's own API directly, which is most of the industry's revenue. No sentence of the form 'lab X is winning' is supportable.",
+    "Spend is input-token LIST price on the 57% of tokens that join to a price. Completion tokens cost several times more and are not counted, and nobody large pays list.",
+    "The downloads join sees OPEN-WEIGHT models only - a closed model has no Hugging Face presence - and is 15 models, 39% of tokens.",
+    "The models catalog is a current snapshot against 21 months of history; price questions route through the benchmarks feed instead.",
+    "80 of 106 providers name no datacenter, so data-residency questions are not observable here.",
+    "Model half-life was first measured at 2 days, which was daily noise read as a peak. The published figure uses a 7-day mean, and was re-checked on absolute tokens (also 10 days) because share is relative in a market that grew 170x."
+  ]
+}

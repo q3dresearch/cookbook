@@ -1,0 +1,2 @@
+run_date,method_version,note
+2026-09-11,1.0.0,"First publication. Three popularity measures that disagree: capability r=+0.02, downloads Spearman +0.12, price -0.33. The market grew 170x so almost nobody shrank, and tokens-versus-spend picks a different winner."
