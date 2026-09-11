@@ -1,0 +1,64 @@
+{
+  "method_version": "1.0.0",
+  "retrieved": "2026-09-11",
+  "sources": {
+    "animal_gras_inventory": {
+      "url": "https://www.fda.gov/animal-veterinary/generally-recognized-safe-gras-notification-program/current-animal-food-gras-notices-inventory",
+      "note": "no bulk export exists; the rendered HTML table is captured and parsed. The parse is structural and will break when FDA restyles the page",
+      "rows": 94,
+      "fields": "AGRN, notifier, substance, intended use, intended species, date of filing, FDA's letter",
+      "missing": "no date of closure, so lead time is not computable without fetching 94 letter PDFs"
+    },
+    "human_gras_inventory": {
+      "url": "https://www.cfsanappsexternal.fda.gov/scripts/fdcc/cfc/XMLService.cfm?method=downloadxls&set=GRASNotices",
+      "note": "cp1252 CSV, real header on row 3, GRN column wrapped in an Excel formula",
+      "rows": 1336,
+      "used_for": "the control: same agency, same mechanism, a different population"
+    }
+  },
+  "headline": {
+    "animal_notices": 94,
+    "animal_cleared": 0.511,
+    "animal_cleared_ci95": [0.411, 0.609],
+    "human_cleared": 0.790,
+    "human_cleared_ci95": [0.768, 0.811],
+    "animal_withdrawn": 0.340,
+    "human_withdrawn": 0.168,
+    "animal_refused": 0.064,
+    "human_refused": 0.015,
+    "firms_filing_both_sides": 8,
+    "their_human_clearance": 0.84,
+    "their_animal_clearance": 0.57,
+    "efficiency_share_by_era": [0.72, 0.53, 0.21, 0.10],
+    "pet_notices_2010_14": 1,
+    "pet_notices_2025_29": 11,
+    "pet_cleared": 0.60,
+    "food_producing_cleared": 0.53,
+    "refiling_chains": 18,
+    "comeback_rate": 0.31,
+    "human_comeback_rate": 0.31,
+    "one_species_cleared": 0.56,
+    "four_plus_species_cleared": 0.36,
+    "short_use_statement_cleared": 0.31,
+    "long_use_statement_cleared": 0.52,
+    "notices_per_block": [15, 10, 29, 34],
+    "top3_firm_share": [0.60, 0.40, 0.45, 0.24]
+  },
+  "computed_by": {
+    "animal-purpose-shift.svg": "chart_shift.py",
+    "animal-audience.svg": "chart_audience.py",
+    "animal-outcomes.svg": "chart_outcomes.py",
+    "animal-vs-human-wall.svg": "chart_wall.py",
+    "animal-refiling-chains.svg": "chart_chains.py",
+    "animal-claim-shape.svg": "chart_breadth.py",
+    "animal-filers.svg": "chart_filers.py"
+  },
+  "caveats": [
+    "94 notices and every split of it is smaller. The paired control is 21 animal notices; the breadth result's widest band is 14.",
+    "No closure date in the animal table, so lead time is not computable without parsing 94 letter PDFs. The human side runs 177-181 days.",
+    "Refiling chains are matched on normalised substance names, so a refiling under a renamed substance is missed and the 31% comeback rate is a floor.",
+    "Purpose and species categories are ours, read off each notice's stated use and intended species. A quarter of recent notices have no stated use because FDA declined to evaluate it.",
+    "The recipe's previous headline, 'animal feed innovation is mostly about wasting less', was a claim about 2010-14: efficiency runs 72, 53, 21 and 10 per cent by era.",
+    "Repeat filers clear more, but a firm that files four times is a firm that had four ingredients worth filing. Learning and selection cannot be separated here."
+  ]
+}
