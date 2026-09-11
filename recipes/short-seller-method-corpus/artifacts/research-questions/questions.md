@@ -135,6 +135,16 @@ findings mostly do not. This is what to expect.
 | **A reason the camps exist** | Fire-once and campaign firms are not distinguishable by method. P = 0.065 across six firms — suggestive, uncrossed. Cadence looks like a business decision, not a research one |
 | **Anything about abandoned work** | Every corpus is published reports. Investigations dropped when the thesis collapsed leave no trace anywhere |
 
+### Predict and prescribe
+
+| # | question | status | answer | figure |
+| --- | --- | --- | --- | --- |
+| 34 | **What does a company that ends badly look like at the time of the report?** | `answered` | **Small and already flagged.** The 20 of 76 targets that later filed a restatement, delisting notice or bankruptcy had a median market cap of **$0.56B against $1.98B**, and 2.4 prior red-flag 8-Ks per 100 filings against 0.0. They also file LESS overall (669 vs 851 indexed), so it is not a longer-history artefact. Vindication is slow: median **441 days**, only 5 of 20 inside 90 | `forensic-arbitrage` |
+| 35 | **What attracts a short seller's attention?** | `answered — a null, and a clean one` | **Not distress visible in SEC filings.** Against 140 randomly drawn non-targeted filers, measured before the report: prior restatement 13% vs 13%, delisting notice 22% vs 24%, auditor change 30% vs 32%, ever filed late 28% vs 29%, red-flag 8-Ks per 100 filings 2.6 vs 2.3. **Every ratio is 1.0×.** Targets are *less* likely to have filed for bankruptcy (1% vs 4%). The only real difference: they file 1.7× more, so they are bigger and more active, the opposite of a distress screen | — |
+| 36 | **Why are they short — do they declare a preference?** | `answered` | **They do, in the text, and it is not mostly accounting.** Across 273 reports: undisclosed related party **29%**, paid promotion **26%**, accounting fraud 21%, auditor concerns 17%, executive history 15%, China-based fraud 13%, product does not work 12%. The two largest are about *who is behind the company*, not what the numbers say. 26% match no category, so the taxonomy has gaps | — |
+| 37 | **Is there a rule an activist investor could act on?** | `answered — and it is the strongest result here` | **Two axes, both free and both knowable the morning a report drops.** A target under $2B that had ALREADY filed a restatement or delisting notice before the report went on to file another one **9 times out of 9**; a clean-history small cap, 3 of 16. Fisher exact **p = 0.0001**. And the market discounts exactly that cell — it falls **0.5% on the day against 2.7%** for the clean-history targets beside it. Six of the nine repeated the same filing type, but three escalated into a different one | `forensic-arbitrage` |
+| 38 | **Is that rule just persistence dressed up?** | `partly, and the part that is not is the interesting part` | Six of nine filed the same kind of document again, which is mechanical. Three did not: COCP and LOOP went restatement → delisting, RIOT delisting → restatement. Distress changing form is not the same claim as distress repeating, and only the second is trivially predictable | `forensic-arbitrage` |
+
 ## The decision this settles
 
 **One activist short report in five is reproducible from public sources. Two in

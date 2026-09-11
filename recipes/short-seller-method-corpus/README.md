@@ -1,6 +1,6 @@
 # One short report in five is reproducible from public data. The rest needed someone to talk.
 
-**Published 2026-09-11** · twelve figures, twenty scripts · source: six activist
+**Published 2026-09-11** · fourteen figures, twenty-three scripts · source: six activist
 short-selling firms, 273 first-look reports, 2.8M words, joined to daily prices for
 85 of them · no key, no account · **the sources are private companies and can delete
 any of this tomorrow**, so a capture manifest with a sha256 per resource — 728 rows
@@ -47,6 +47,10 @@ tools who needs to know which half is automatable.
 - **Pick your horizon, pick your number.** The median abnormal return runs −2.7% to
   −8.3% depending only on the window. The hit rate decays cleanly and is the honest
   statistic.
+- **Short sellers do not pick companies that already look bad on EDGAR.** Against a
+  random control sample, every prior-distress ratio is 1.0×.
+- **But among targets, prior distress predicts vindication almost perfectly** — and
+  the market moves least on exactly those reports.
 
 ## How hard is it to do alone
 
@@ -243,6 +247,8 @@ German-listed.
 
 ## What became of the targets
 
+![Target fate](artifacts/charts/target-fate.svg)
+
 Of 32 targets whose ticker two independent routes agree on, years after their
 report: **59% still trade under the same symbol, 25% are gone from it, 12% changed
 symbol, 3% are bankrupt.**
@@ -273,6 +279,54 @@ Nothing else here can answer what attracts a short seller, and that is a
 control-group problem rather than a missing-data one: it needs the same measurements
 on companies the firms passed over, and the free registries carry exchange and
 nothing else.
+
+## What the targets have in common — and it is not distress
+
+140 randomly drawn non-targeted filers, measured against the 76 targets **as they
+stood before their report**:
+
+| filed before the report | targets | controls | lift |
+| --- | --- | --- | --- |
+| a restatement | 13% | 13% | **1.0×** |
+| a delisting notice | 22% | 24% | 0.9× |
+| an auditor change | 30% | 32% | 0.9× |
+| ever filed late | 28% | 29% | **1.0×** |
+
+**Every ratio is 1.0×.** Targets are *less* likely to have filed for bankruptcy — 1%
+against 4%. The only real difference is that they file 1.7× more, which makes them
+bigger and more active, the opposite of a distress screen.
+
+So a filing-based screen will not find the next target. What the firms are seeing is
+in the text of their own reports: **undisclosed related party 29%, paid promotion
+26%**, accounting fraud 21%, auditor concerns 17%, executive history 15%. The two
+largest categories are about *who is behind the company*, not what the numbers say —
+and neither is in filing metadata, which is the same wall as the 67% that need a
+person.
+
+## The one rule worth acting on
+
+![Forensic arbitrage](artifacts/charts/forensic-arbitrage.svg)
+
+Two axes, both free, both knowable the morning a report drops.
+
+| | already filed a restatement or delisting notice | clean history |
+| --- | --- | --- |
+| **target under $2B** | **9 of 9 later filed again · −0.5% on the day** | 3 of 16 · −2.7% |
+| target over $2B | 2 of 6 · −6.3% | 2 of 26 · −2.4% |
+
+Fisher exact on the small-cap row: **p = 0.0001**.
+
+**And the market discounts exactly that cell.** The nine reports that were nine for
+nine moved the stock 0.5%; the clean-history small caps beside them moved 2.7%. The
+market reads an already-troubled company as old news, which is precisely where the
+filing record later concedes the point.
+
+Six of the nine filed the same kind of document again, which is mechanical. Three
+escalated into a different one — COCP and LOOP from a restatement to a delisting,
+RIOT from a delisting to a restatement — and that part is not.
+
+Nine reports. A delisting notice can follow a late filing rather than fraud. Treat it
+as a screen worth testing forward, not a backtest to trade.
 
 ## What to do with it
 
