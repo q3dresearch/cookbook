@@ -1,41 +1,46 @@
 #!/usr/bin/env python3
-"""They find crimes. Broken businesses, not quite.
+"""They find crimes at every size. Broken businesses are just what small looks like.
 
     python chart-two-jackpots.py
 
 Two things are worth proving about a company: that a crime is happening, or that its
-unit economics do not work. Both are checkable from SEC filings alone, which is what
-makes them reachable without sources. Measured against 139 control filers, the firms
-in this corpus are good at one and barely distinguishable at the other.
+unit economics do not work. Both are checkable from SEC filings alone. Measured
+against 139 filers nobody attacked, and plotted against size, the two behave in
+opposite ways -- which is the whole finding, and it is invisible until size is on an
+axis.
 
-    disclosed an investigation in 3 years   22% vs 6%    4.0x   p = 0.002
-    does not cover overhead or burns cash   49% vs 33%   1.5x   p = 0.09
+**Crime.** The control line is flat and low at every size: an untargeted company
+discloses a Wells notice, grand jury, subpoena or formal order of investigation about
+5-10% of the time whether it is worth $47m or $2.6bn. The target line sits above it.
+Being targeted raises the rate; being large does not.
 
-**The intervals carry the argument, which is why they are drawn.** On the crime axis
-they do not come close to touching. On the economics axis they overlap across most of
-their range, and a reader who only saw the two dots would take a 1.5x lift for a
-result.
+**Broken economics.** Both lines fall steeply with size and run close together. A
+small company fails to cover its overhead or burns cash essentially always -- 10/10
+targets and 5/6 controls -- and a large one about a quarter to a third of the time,
+whether or not anybody shorted it. **Size explains this axis; being targeted barely
+does.** Pooled across sizes it reads 49% against 33%, which looks like a finding and
+is mostly the fact that targets skew large and controls skew small.
 
-**And the economics lean is mostly composition.** Split by filer size class it nearly
-vanishes: 31% vs 20% among large accelerated filers, 85% vs 79% among everything
-smaller. Small companies fail to cover their overhead about four times in five whether
-or not anybody shorts them. Targets skew large, controls skew small, and most of the
-pooled gap is that mix rather than any difference in how broken the companies are.
+**Why filer class is the size axis.** `dei:EntityPublicFloat` is the obvious
+continuous version and it fails here: foreign private issuers do not file it, which
+removed 21 of 76 targets and left the control group with 25 usable companies and zero
+enforcement events -- nothing to compare against. Filer class is the same measurement
+banded by the regulator, with the coverage the raw field lacks, and it tracks float as
+it should: median $47m, $217m and $2,600m across the three bands.
 
-**Exposure is matched on the crime axis, because it decides the result.** A target
-attacked in 2014 has twelve years in which to disclose an investigation; one attacked
-in 2025 has months. Each control is given a report date drawn from the target
-distribution, every company is scored on a fixed three-year window, and any company
-whose window has not closed is dropped rather than counted as a no. Counting "ever
-disclosed afterwards" instead inflates the target rate against controls that were all
-measured from a single cutoff.
+**The middle band is thin and is drawn thin.** Eleven targets and ten controls, so its
+intervals swallow most of the panel. Do not read the dip; read the two ends.
 
-**One caution belongs with the 4.0x and does not go away.** A short report can cause
-the investigation it appears to predict — regulators read these, and a public
-allegation is itself a reason to open a file. Nothing here separates "found a company
-already under investigation" from "caused one", and the two mean completely different
-things for anyone trying to do the same work. Separating them needs the date a file
-was opened, which is not public.
+**One caution on the crime panel that does not go away.** A short report can cause the
+investigation it appears to predict -- regulators read these, and a public allegation
+is itself a reason to open a file. Nothing here separates "found a company already
+under investigation" from "caused one". That needs the date a file was opened, which
+is not public.
+
+**What is not faceted here, and why.** The natural third cut is the report's declared
+thesis -- crime, accounting, broken economics. It does not survive the arithmetic: 76
+targets split three ways and then across three size bands is about eight companies a
+cell, and the control group has no declared thesis at all to compare against.
 """
 import json, random, sys
 from pathlib import Path
@@ -45,7 +50,7 @@ HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE))
 import palette
 from jackpot import broken, enforced, enforced_at
-from selection import fisher, wilson
+from selection import wilson, fisher
 
 RAW = HERE.parent / "raw"
 OUT = HERE.parent / "charts" / "two-jackpots.svg"
@@ -53,8 +58,10 @@ SURFACE, INK, INK2, MUTED = "#fcfcfb", "#0b0b0b", "#52514e", "#898781"
 RULE = "#ebeae3"
 HOT, COOL = "#b03a2e", "#1b4f8a"
 FONT = 'system-ui, -apple-system, "Segoe UI", sans-serif'
-W, H = 940, 500
-AXIS_MAX = 0.85
+W, H = 960, 610
+BANDS = [("non-accelerated", "under $75m float", "~$47m"),
+         ("accelerated", "$75m - $700m", "~$217m"),
+         ("large accelerated", "over $700m", "~$2.6bn")]
 
 
 def txt(x, y, s, *, size, fill, anchor="start", weight="normal", tab=False):
@@ -77,89 +84,123 @@ def para(x, y, s, *, size, fill, chars, leading=17.0):
     return out, n * leading
 
 
+def band_of(prof):
+    f = [x.strip() for x in ((prof or {}).get("category") or "").split("<br>") if x.strip()]
+    if not f:
+        return None
+    if "Large accelerated filer" in f:
+        return "large accelerated"
+    if "Accelerated filer" in f:
+        return "accelerated"
+    return "non-accelerated"
+
+
 def main():
     T = json.loads((RAW / "jackpot_targets.json").read_text())
     C = json.loads((RAW / "jackpot_controls.json").read_text())
+    P = json.loads((RAW / "profiles.json").read_text())
+    tprof = P["targets"]
+    cprof = {str(v["cik"]): v for v in P["controls"].values() if v.get("cik")}
 
     dates = sorted(v["as_of"] for v in T.values())
     rnd = random.Random(20260912)
-    te = [x for x in (enforced(v) for v in T.values()) if x is not None]
-    ce = [x for x in (enforced_at(v, rnd.choice(dates)) for v in C.values()) if x is not None]
-    tb = [x for x in (broken(v["economics"]) for v in T.values()) if x is not None]
-    cb = [x for x in (broken(v["economics"]) for v in C.values()) if x is not None]
 
-    axes = [
-        ("A crime is being investigated",
-         "disclosed a Wells notice, grand jury, subpoena or formal order within 3 years",
-         sum(te), len(te), sum(ce), len(ce)),
-        ("The business does not work",
-         "does not cover its overhead, or burns cash, at the last annual before the report",
-         sum(tb), len(tb), sum(cb), len(cb)),
-    ]
+    def series(items, profs, measure, ctrl=False):
+        out = []
+        for b, _, _ in BANDS:
+            vals = [measure(v, rnd) for k, v in items.items() if band_of(profs.get(k)) == b]
+            vals = [x for x in vals if x is not None]
+            out.append((sum(vals), len(vals)))
+        return out
 
-    # The value label sits past the right end of the interval, so the axis needs headroom
-    # beyond the widest upper bound (61%) or the label runs off the page. The verdict
-    # goes in the left column for the same reason -- right-aligned at the edge it
-    # collided with that label.
-    L, R, TOP, COL = 46, 46, 168, 236
-    pw = W - L - R - COL - 96
-    sx = lambda v: L + COL + v / AXIS_MAX * pw
+    crime_t = series(T, tprof, lambda v, r: enforced(v))
+    crime_c = series(C, cprof, lambda v, r: enforced_at(v, r.choice(dates)))
+    econ_t = series(T, tprof, lambda v, r: broken(v["economics"]))
+    econ_c = series(C, cprof, lambda v, r: broken(v["economics"]))
 
+    panels = [("A crime is being investigated",
+               "disclosed a Wells notice, grand jury, subpoena or formal order within 3 years",
+               crime_t, crime_c),
+              ("The business does not work",
+               "does not cover its overhead, or burns cash, at the last annual before the report",
+               econ_t, econ_c)]
+
+    L, R, GAP, TOP = 52, 40, 58, 196
+    pw = (W - L - R - GAP) / 2
+    ph = 236
     s = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" '
          f'viewBox="0 0 {W} {H}"><rect width="{W}" height="{H}" fill="{SURFACE}"/>']
-    s.append(txt(L, 46, "They find crimes. Broken businesses, not quite.",
-                 size=22, fill=INK, weight="600"))
-    body, _ = para(L, 74, "Short-seller targets against 139 filers nobody attacked. Bars are 95% "
-                   "intervals — where they overlap, the gap is not a finding.",
-                   size=13, fill=INK2, chars=100)
+    s.append(txt(L, 44, "They find crimes at every size. Broken businesses are what small looks like.",
+                 size=20, fill=INK, weight="600"))
+    body, _ = para(L, 72, "Short-seller targets against 139 filers nobody attacked, by SEC filer class "
+                   "— the regulator's own public-float bands. Bars are 95% intervals.",
+                   size=13, fill=INK2, chars=112)
     s += body
-
-    # Legend: two series, so identity is never carried by colour alone.
+    # Legend on the title row. Below it, it landed on the left panel's subtitle.
     for i, (lab, col) in enumerate((("targets", HOT), ("controls", COOL))):
-        lx = L + COL + i * 110
-        s.append(f'<circle cx="{lx + 5:.1f}" cy="{TOP - 34}" r="5.5" fill="{col}"/>')
-        s.append(txt(lx + 16, TOP - 30, lab, size=12, fill=INK2))
+        lx = W - R - 200 + i * 104
+        s.append(f'<circle cx="{lx + 5:.1f}" cy="{68}" r="5.5" fill="{col}"/>')
+        s.append(txt(lx + 16, 72, lab, size=12, fill=INK2))
 
-    for v in (0, 0.2, 0.4, 0.6, 0.8):
-        x = sx(v)
-        s.append(f'<line x1="{x:.1f}" y1="{TOP - 12}" x2="{x:.1f}" y2="{TOP + 176}" '
-                 f'stroke="{RULE}" stroke-width="1"/>')
-        s.append(txt(x, TOP + 196, f"{v:.0%}", size=11, fill=MUTED, anchor="middle", tab=True))
-
-    for i, (title, sub, a, na, c, nc) in enumerate(axes):
-        y = TOP + 30 + i * 96
-        s.append(txt(L, y - 6, title, size=14, fill=INK, weight="600"))
-        sw, sh = para(L, y + 13, sub, size=11, fill=MUTED, chars=32, leading=14)
+    for pi, (title, sub, st, sc) in enumerate(panels):
+        x0 = L + pi * (pw + GAP)
+        sy = lambda v: TOP + ph - v * ph
+        s.append(txt(x0, TOP - 66, title, size=14, fill=INK, weight="600"))
+        sw, _ = para(x0, TOP - 48, sub, size=11, fill=MUTED, chars=int(pw / 5.6), leading=13)
         s += sw
-        for k, n, col, dy in ((a, na, HOT, 0), (c, nc, COOL, 30)):
-            lo, hi = wilson(k, n)
-            yy = y + dy
-            s.append(f'<line x1="{sx(lo):.1f}" y1="{yy:.1f}" x2="{sx(hi):.1f}" y2="{yy:.1f}" '
-                     f'stroke="{col}" stroke-width="3" stroke-opacity="0.35" stroke-linecap="round"/>')
-            s.append(f'<circle cx="{sx(k / n):.1f}" cy="{yy:.1f}" r="6.5" fill="{col}" '
-                     f'stroke="{SURFACE}" stroke-width="2"/>')
-            s.append(txt(sx(hi) + 14, yy + 4, f"{k/n:.0%}   {k}/{n}", size=12, fill=col,
-                         weight="600", tab=True))
-        p = fisher(a, na - a, c, nc - c)
-        strong = p < 0.01
-        verdict = "clear" if strong else ("not significant" if p > 0.05 else "borderline")
-        s.append(txt(L, y + sh + 22, f"{(a/na)/(c/nc):.1f}x   p = {p:.3f}   {verdict}",
-                     size=12, fill=INK if strong else MUTED,
-                     weight="600" if strong else "normal", tab=True))
+        for g in (0, 0.25, 0.5, 0.75, 1.0):
+            y = sy(g)
+            s.append(f'<line x1="{x0}" y1="{y:.1f}" x2="{x0 + pw:.1f}" y2="{y:.1f}" '
+                     f'stroke="{RULE}" stroke-width="1"/>')
+            if pi == 0:
+                s.append(txt(x0 - 10, y + 4, f"{g:.0%}", size=11, fill=MUTED,
+                             anchor="end", tab=True))
+        bx = [x0 + pw * (j + 0.5) / 3 for j in range(3)]
+        for j, (b, thresh, med) in enumerate(BANDS):
+            s.append(txt(bx[j], TOP + ph + 22, b.replace(" ", "\n").split("\n")[0],
+                         size=11, fill=INK2, anchor="middle"))
+            s.append(txt(bx[j], TOP + ph + 36, med, size=11, fill=MUTED,
+                         anchor="middle", tab=True))
+        # Lines connect because the x-axis is ordered by size: the connector asserts a
+        # trend across size, which is exactly the claim each panel makes.
+        for (ser, col, side) in ((sc, COOL, +1), (st, HOT, -1)):
+            pts = [(bx[j], sy(k / n)) for j, (k, n) in enumerate(ser) if n]
+            s.append(f'<polyline points="{" ".join(f"{a:.1f},{b:.1f}" for a, b in pts)}" '
+                     f'fill="none" stroke="{col}" stroke-width="2" stroke-opacity="0.5"/>')
+            for j, (k, n) in enumerate(ser):
+                if not n:
+                    continue
+                lo, hi = wilson(k, n)
+                s.append(f'<line x1="{bx[j]:.1f}" y1="{sy(lo):.1f}" x2="{bx[j]:.1f}" '
+                         f'y2="{sy(hi):.1f}" stroke="{col}" stroke-width="3" '
+                         f'stroke-opacity="0.3" stroke-linecap="round"/>')
+                s.append(f'<circle cx="{bx[j]:.1f}" cy="{sy(k / n):.1f}" r="6" fill="{col}" '
+                         f'stroke="{SURFACE}" stroke-width="2"/>')
+                # The two series can land within a few pixels -- 1/11 and 1/10 in the
+                # middle band overprinted. Push each label to its own side of the dot.
+                other = (st if col == COOL else sc)[j]
+                close = other[1] and abs(k / n - other[0] / other[1]) < 0.06
+                dy = (14 * side) if close else 4
+                s.append(txt(bx[j] + 11, sy(k / n) + dy, f"{k}/{n}", size=10.5, fill=col, tab=True))
+        s.append(txt(x0 + pw / 2, TOP + ph + 56, "public float band", size=11.5,
+                     fill=INK2, anchor="middle"))
 
-    fy = TOP + 236
+    fy = TOP + ph + 92
     s.append(f'<line x1="{L}" y1="{fy - 22}" x2="{W - R}" y2="{fy - 22}" stroke="{RULE}" stroke-width="1"/>')
-    foot, _ = para(L, fy, "And the economics lean is mostly composition: split by filer size class it "
-                   "nearly vanishes — 31% vs 20% among large accelerated filers, 85% vs 79% among "
-                   "everything smaller. Small companies fail to cover their overhead about four times "
-                   "in five whether or not anybody shorts them.",
-                   size=12, fill=INK2, chars=112)
+    foot, _ = para(L, fy, "Controls sit at 5-10% on crime at every size, and targets sit above them — "
+                   "being targeted raises the rate, being large does not. On economics both lines fall "
+                   "with size and run together: small companies burn cash whether or not anybody shorts "
+                   "them. The middle band is 11 and 10 companies; read the ends, not the dip.",
+                   size=12, fill=INK2, chars=116)
     s += foot
     s.append("</svg>")
     OUT.write_text("\n".join(s))
-    for title, _, a, na, c, nc in axes:
-        print(f"  {title:<32}{a}/{na}={a/na:.0%} vs {c}/{nc}={c/nc:.0%}  "
-              f"{(a/na)/(c/nc):.1f}x  p={fisher(a, na-a, c, nc-c):.4f}")
+    for title, _, st, sc in panels:
+        print(f"  {title}")
+        for j, (b, _, med) in enumerate(BANDS):
+            (a, na), (c, nc) = st[j], sc[j]
+            print(f"    {b:<18}{med:>8}  targets {a}/{na}={a/na if na else 0:>4.0%}   "
+                  f"controls {c}/{nc}={c/nc if nc else 0:>4.0%}")
 
 
 if __name__ == "__main__":

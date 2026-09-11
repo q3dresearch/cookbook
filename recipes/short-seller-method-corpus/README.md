@@ -1,6 +1,6 @@
 # One short report in five is reproducible from public data. The rest needed someone to talk.
 
-**Published 2026-09-11** · seventeen figures, thirty-nine scripts · source: six activist
+**Published 2026-09-11** · seventeen figures, forty scripts · source: six activist
 short-selling firms, 273 first-look reports, 2.8M words, joined to daily prices for
 85 of them · no key, no account · **the sources are private companies and can delete
 any of this tomorrow**, so a capture manifest with a sha256 per resource — 728 rows
@@ -55,11 +55,11 @@ tools who needs to know which half is automatable.
   emerging growth company is attacked at 0.2× and a non-accelerated filer at 0.4×,
   both surviving Bonferroni. Short sellers skip small and young companies; they do
   not hunt them.
-- **They find crimes; broken businesses, not quite.** A target discloses an
-  investigation within three years at 22% against 6% for matched controls — 4.0×,
-  p = 0.002. On unit economics the lift is 1.5× at p = 0.09, and it nearly vanishes
-  once you split by size: small companies fail to cover overhead four times in five
-  whether or not anybody shorts them.
+- **They find crimes at every size; broken businesses are what small looks like.** A
+  target discloses an investigation within three years at 22% against 6% for matched
+  controls — 4.0×, p = 0.002 — and the control rate is *flat* across a 55× size range.
+  On unit economics the control rate collapses with size, 83% → 20%, so the pooled
+  1.5× lift is the size mix, not the targeting.
 - **This is not an industry that hunts bad business models.** 78% of reports allege a
   crime or accounting manipulation. 5% rest on broken unit economics alone. And
   targets have *better* gross margins than random filers, +41% against +28%.
@@ -373,50 +373,57 @@ One caution on reading any of this. A declared reason is what a firm chose to le
 with, which is a marketing decision as much as an analytical one. It is evidence of
 what the firm thought would land, not necessarily of what it actually found.
 
-## They find crimes. Broken businesses, not quite.
+## They find crimes at every size. Broken businesses are what small looks like.
 
 ![Two jackpots](artifacts/charts/two-jackpots.svg)
 
-Both things worth proving are checkable from SEC filings alone, which is what makes
-them reachable without sources: whether a crime is being investigated, from a Wells
-notice, grand jury, subpoena or formal order of investigation the company discloses in
-its own filings; and whether the unit economics work, from XBRL at the last annual
-**filed before** the report. Each is run against 139 control filers.
+Both things worth proving are checkable from SEC filings alone: whether a crime is
+being investigated, from a Wells notice, grand jury, subpoena or formal order the
+company discloses in its own filings; and whether the unit economics work, from XBRL
+at the last annual **filed before** the report. Each is run against 139 control
+filers. Pooled across all sizes:
 
 | | targets | controls | lift | p |
 | --- | --- | --- | --- | --- |
 | **a crime is being investigated** (within 3 years) | **13/59 = 22%** | **6/108 = 6%** | **4.0×** | **0.002** |
 | the business does not work (overhead or cash burn) | 30/61 = 49% | 19/58 = 33% | 1.5× | 0.093 |
 
-**They are good at one of these and barely distinguishable at the other.** On the
-crime axis the 95% intervals do not come close to touching. On the economics axis
-they overlap across most of their range, and a reader who saw only the two point
-estimates would take a 1.5× lift for a result.
+**But the pooled economics number is an artefact, and you can only see that with size
+on an axis.** Split by SEC filer class — the regulator's own public-float bands, which
+track float as they should at a median $47m, $217m and $2.6bn:
 
-**And the economics lean is mostly composition.** Split by filer size class it nearly
-disappears:
-
-| | targets | controls | lift | p |
+| public float band | crime: targets | controls | economics: targets | controls |
 | --- | --- | --- | --- | --- |
-| large accelerated filers | 12/39 = 31% | 8/41 = 20% | 1.6× | 0.31 |
-| everything smaller | 17/20 = 85% | 11/14 = 79% | 1.1× | 0.67 |
+| non-accelerated, ~$47m | 3/14 = 21% | 3/49 = **6%** | 10/10 = 100% | 5/6 = **83%** |
+| accelerated, ~$217m | 1/11 = 9% | 1/10 = **10%** | 7/10 = 70% | 6/8 = **75%** |
+| large accelerated, ~$2.6bn | 9/32 = 28% | 2/37 = **5%** | 12/39 = 31% | 8/41 = **20%** |
 
-Small companies fail to cover their overhead about four times in five whether or not
-anybody shorts them. Targets skew large and controls skew small — that is the
-Bonferroni-surviving finding two sections up — so most of the pooled 49%-vs-33% gap is
-that size mix rather than any difference in how broken the companies are.
+Read the control column of each pair, because that is the world without short sellers
+in it. **On crime it is flat — 6%, 10%, 5% across a 55× range of company size.** Being
+large does not get you investigated. On economics it collapses — **83%, 75%, 20%.**
+Being small is most of what "the business does not work" measures.
 
-The component measures say the same thing in more detail, and one of them says it
-loudly: **targets have better gross margins than random filers.** Median +41% against
-+28%, with negative gross margins *rarer* among targets, 1/49 = 2% against 2/31 = 6%.
-Whatever these firms are selecting for, it is not a product that loses money on every
-sale. Negative operating margin runs 49% vs 34% (p = 0.20) and negative operating cash
-flow 37% vs 24% (p = 0.16) — the weakness is overhead and financing, not the unit.
+So the two axes behave in opposite ways. Targets sit above the control line on crime
+at both ends, 21% vs 6% and 28% vs 5%. On economics the lines run together in every
+band and no band is significant: 1.2× (p = 0.38), 0.9× (p = 1.00), 1.6× (p = 0.31).
+The pooled 1.5× exists because targets skew large and controls skew small — the
+Bonferroni-surviving finding two sections up — not because targeted companies are more
+broken than their size-matched peers.
+
+**The middle band is 11 companies against 10 and its intervals swallow the panel.**
+Read the ends, not the dip. Dropping it would give a cleaner-looking crime result and
+that number is deliberately not quoted here, because choosing which band to drop after
+seeing the answer is how a forking path becomes a finding.
+
+The component measures point the same way, and one says it loudly: **targets have
+better gross margins than random filers.** Median +41% against +28%, with negative
+gross margins *rarer* among targets, 1/49 = 2% against 2/31 = 6%. Whatever these firms
+select for, it is not a product that loses money on every sale. The weakness they pick
+up is overhead and financing, not the unit.
 
 So if the goal is proving unit economics do not work, **this corpus is the wrong model
-to copy.** The firms in it are not finding those companies. If the goal is finding a
-company that is about to be investigated, they are demonstrably good at it, and this
-is the measurement that says so.
+to copy.** The firms in it are not finding those companies; they are finding companies
+about to be investigated, and they do that at every size.
 
 **Exposure has to be matched on the crime axis or the clock decides the answer.** A
 target attacked in 2014 has twelve years in which to disclose an investigation; one
@@ -664,6 +671,7 @@ python artifacts/scripts/capture_control_firms.py       # 140 random non-targete
 python artifacts/scripts/capture_outcomes.py           # 8-K item codes either side of the report
 python artifacts/scripts/capture_profiles.py           # SIC, owner office, filer class, state
 python artifacts/scripts/capture_jackpot.py            # XBRL unit economics + enforcement language
+python artifacts/scripts/capture_float.py              # dei:EntityPublicFloat, point-in-time
 python artifacts/scripts/build_manifest.py             # url + sha256 per resource
 
 # analysis — instant
@@ -708,6 +716,13 @@ from; get a 404 and you know exactly what is gone.
 - **Filter XBRL on the FILED date, not the period end.** A figure for 2013 filed in
   2016 is the *restated* figure, which in a fraud study is the one number you must not
   quietly substitute for what was public at the time.
+- **Public float looks like a free market-cap axis and is not, for this corpus.**
+  `dei:EntityPublicFloat` is 2-4 KB per company against 2 MB for `companyfacts`, so it
+  is cheap to try — but foreign private issuers do not file it. 21 of 76 targets 404,
+  and requiring it left the control group with 25 usable companies and **zero**
+  enforcement events. The companies it removes are the Canadian and Chinese filers
+  this corpus is full of. SEC filer class is the same measurement banded by the
+  regulator, and it tracks float properly: median $47m, $217m, $2.6bn.
 - **A margin needs a denominator worth dividing by.** Riot's last annual before
   Hindenburg's report showed revenue of $9,416 — it was Bioptix, a biotech that had
   just renamed itself — giving an operating margin of −669×. Arithmetically correct,

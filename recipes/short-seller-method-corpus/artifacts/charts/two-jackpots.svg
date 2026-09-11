@@ -1,45 +1,88 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="940" height="500" viewBox="0 0 940 500"><rect width="940" height="500" fill="#fcfcfb"/>
-<text x="46.0" y="46.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="22" fill="#0b0b0b" text-anchor="start" font-weight="600" style="">They find crimes. Broken businesses, not quite.</text>
-<text x="46.0" y="74.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="13" fill="#52514e" text-anchor="start" font-weight="normal" style="">Short-seller targets against 139 filers nobody attacked. Bars are 95% intervals — where they</text>
-<text x="46.0" y="91.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="13" fill="#52514e" text-anchor="start" font-weight="normal" style="">overlap, the gap is not a finding.</text>
-<circle cx="287.0" cy="134" r="5.5" fill="#b03a2e"/>
-<text x="298.0" y="138.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#52514e" text-anchor="start" font-weight="normal" style="">targets</text>
-<circle cx="397.0" cy="134" r="5.5" fill="#1b4f8a"/>
-<text x="408.0" y="138.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#52514e" text-anchor="start" font-weight="normal" style="">controls</text>
-<line x1="282.0" y1="156" x2="282.0" y2="344" stroke="#ebeae3" stroke-width="1"/>
-<text x="282.0" y="364.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums;">0%</text>
-<line x1="403.4" y1="156" x2="403.4" y2="344" stroke="#ebeae3" stroke-width="1"/>
-<text x="403.4" y="364.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums;">20%</text>
-<line x1="524.8" y1="156" x2="524.8" y2="344" stroke="#ebeae3" stroke-width="1"/>
-<text x="524.8" y="364.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums;">40%</text>
-<line x1="646.2" y1="156" x2="646.2" y2="344" stroke="#ebeae3" stroke-width="1"/>
-<text x="646.2" y="364.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums;">60%</text>
-<line x1="767.6" y1="156" x2="767.6" y2="344" stroke="#ebeae3" stroke-width="1"/>
-<text x="767.6" y="364.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums;">80%</text>
-<text x="46.0" y="192.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="14" fill="#0b0b0b" text-anchor="start" font-weight="600" style="">A crime is being investigated</text>
-<text x="46.0" y="211.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">disclosed a Wells notice, grand</text>
-<text x="46.0" y="225.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">jury, subpoena or formal order</text>
-<text x="46.0" y="239.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">within 3 years</text>
-<line x1="363.1" y1="198.0" x2="489.2" y2="198.0" stroke="#b03a2e" stroke-width="3" stroke-opacity="0.35" stroke-linecap="round"/>
-<circle cx="415.8" cy="198.0" r="6.5" fill="#b03a2e" stroke="#fcfcfb" stroke-width="2"/>
-<text x="503.2" y="202.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#b03a2e" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums;">22%   13/59</text>
-<line x1="297.6" y1="228.0" x2="352.4" y2="228.0" stroke="#1b4f8a" stroke-width="3" stroke-opacity="0.35" stroke-linecap="round"/>
-<circle cx="315.7" cy="228.0" r="6.5" fill="#1b4f8a" stroke="#fcfcfb" stroke-width="2"/>
-<text x="366.4" y="232.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#1b4f8a" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums;">6%   6/108</text>
-<text x="46.0" y="262.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums;">4.0x   p = 0.002   clear</text>
-<text x="46.0" y="288.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="14" fill="#0b0b0b" text-anchor="start" font-weight="600" style="">The business does not work</text>
-<text x="46.0" y="307.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">does not cover its overhead, or</text>
-<text x="46.0" y="321.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">burns cash, at the last annual</text>
-<text x="46.0" y="335.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">before the report</text>
-<line x1="507.0" y1="294.0" x2="654.7" y2="294.0" stroke="#b03a2e" stroke-width="3" stroke-opacity="0.35" stroke-linecap="round"/>
-<circle cx="580.6" cy="294.0" r="6.5" fill="#b03a2e" stroke="#fcfcfb" stroke-width="2"/>
-<text x="668.7" y="298.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#b03a2e" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums;">49%   30/61</text>
-<line x1="416.1" y1="324.0" x2="558.7" y2="324.0" stroke="#1b4f8a" stroke-width="3" stroke-opacity="0.35" stroke-linecap="round"/>
-<circle cx="480.9" cy="324.0" r="6.5" fill="#1b4f8a" stroke="#fcfcfb" stroke-width="2"/>
-<text x="572.7" y="328.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#1b4f8a" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums;">33%   19/58</text>
-<text x="46.0" y="358.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">1.5x   p = 0.093   not significant</text>
-<line x1="46" y1="382" x2="894" y2="382" stroke="#ebeae3" stroke-width="1"/>
-<text x="46.0" y="404.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#52514e" text-anchor="start" font-weight="normal" style="">And the economics lean is mostly composition: split by filer size class it nearly vanishes — 31% vs 20% among</text>
-<text x="46.0" y="421.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#52514e" text-anchor="start" font-weight="normal" style="">large accelerated filers, 85% vs 79% among everything smaller. Small companies fail to cover their overhead</text>
-<text x="46.0" y="438.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#52514e" text-anchor="start" font-weight="normal" style="">about four times in five whether or not anybody shorts them.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="610" viewBox="0 0 960 610"><rect width="960" height="610" fill="#fcfcfb"/>
+<text x="52.0" y="44.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="20" fill="#0b0b0b" text-anchor="start" font-weight="600" style="">They find crimes at every size. Broken businesses are what small looks like.</text>
+<text x="52.0" y="72.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="13" fill="#52514e" text-anchor="start" font-weight="normal" style="">Short-seller targets against 139 filers nobody attacked, by SEC filer class — the regulator's own public-float</text>
+<text x="52.0" y="89.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="13" fill="#52514e" text-anchor="start" font-weight="normal" style="">bands. Bars are 95% intervals.</text>
+<circle cx="725.0" cy="68" r="5.5" fill="#b03a2e"/>
+<text x="736.0" y="72.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#52514e" text-anchor="start" font-weight="normal" style="">targets</text>
+<circle cx="829.0" cy="68" r="5.5" fill="#1b4f8a"/>
+<text x="840.0" y="72.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#52514e" text-anchor="start" font-weight="normal" style="">controls</text>
+<text x="52.0" y="130.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="14" fill="#0b0b0b" text-anchor="start" font-weight="600" style="">A crime is being investigated</text>
+<text x="52.0" y="148.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">disclosed a Wells notice, grand jury, subpoena or formal order within 3</text>
+<text x="52.0" y="161.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">years</text>
+<line x1="52.0" y1="432.0" x2="457.0" y2="432.0" stroke="#ebeae3" stroke-width="1"/>
+<text x="42.0" y="436.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums;">0%</text>
+<line x1="52.0" y1="373.0" x2="457.0" y2="373.0" stroke="#ebeae3" stroke-width="1"/>
+<text x="42.0" y="377.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums;">25%</text>
+<line x1="52.0" y1="314.0" x2="457.0" y2="314.0" stroke="#ebeae3" stroke-width="1"/>
+<text x="42.0" y="318.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums;">50%</text>
+<line x1="52.0" y1="255.0" x2="457.0" y2="255.0" stroke="#ebeae3" stroke-width="1"/>
+<text x="42.0" y="259.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums;">75%</text>
+<line x1="52.0" y1="196.0" x2="457.0" y2="196.0" stroke="#ebeae3" stroke-width="1"/>
+<text x="42.0" y="200.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums;">100%</text>
+<text x="119.5" y="454.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="middle" font-weight="normal" style="">non-accelerated</text>
+<text x="119.5" y="468.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums;">~$47m</text>
+<text x="254.5" y="454.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="middle" font-weight="normal" style="">accelerated</text>
+<text x="254.5" y="468.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums;">~$217m</text>
+<text x="389.5" y="454.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="middle" font-weight="normal" style="">large</text>
+<text x="389.5" y="468.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums;">~$2.6bn</text>
+<polyline points="119.5,417.6 254.5,408.4 389.5,419.2" fill="none" stroke="#1b4f8a" stroke-width="2" stroke-opacity="0.5"/>
+<line x1="119.5" y1="427.0" x2="119.5" y2="393.0" stroke="#1b4f8a" stroke-width="3" stroke-opacity="0.3" stroke-linecap="round"/>
+<circle cx="119.5" cy="417.6" r="6" fill="#1b4f8a" stroke="#fcfcfb" stroke-width="2"/>
+<text x="130.5" y="421.6" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#1b4f8a" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">3/49</text>
+<line x1="254.5" y1="427.8" x2="254.5" y2="336.6" stroke="#1b4f8a" stroke-width="3" stroke-opacity="0.3" stroke-linecap="round"/>
+<circle cx="254.5" cy="408.4" r="6" fill="#1b4f8a" stroke="#fcfcfb" stroke-width="2"/>
+<text x="265.5" y="422.4" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#1b4f8a" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">1/10</text>
+<line x1="389.5" y1="428.5" x2="389.5" y2="390.2" stroke="#1b4f8a" stroke-width="3" stroke-opacity="0.3" stroke-linecap="round"/>
+<circle cx="389.5" cy="419.2" r="6" fill="#1b4f8a" stroke="#fcfcfb" stroke-width="2"/>
+<text x="400.5" y="423.2" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#1b4f8a" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">2/37</text>
+<polyline points="119.5,381.4 254.5,410.5 389.5,365.6" fill="none" stroke="#b03a2e" stroke-width="2" stroke-opacity="0.5"/>
+<line x1="119.5" y1="414.1" x2="119.5" y2="319.7" stroke="#b03a2e" stroke-width="3" stroke-opacity="0.3" stroke-linecap="round"/>
+<circle cx="119.5" cy="381.4" r="6" fill="#b03a2e" stroke="#fcfcfb" stroke-width="2"/>
+<text x="130.5" y="385.4" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#b03a2e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">3/14</text>
+<line x1="254.5" y1="428.2" x2="254.5" y2="342.9" stroke="#b03a2e" stroke-width="3" stroke-opacity="0.3" stroke-linecap="round"/>
+<circle cx="254.5" cy="410.5" r="6" fill="#b03a2e" stroke="#fcfcfb" stroke-width="2"/>
+<text x="265.5" y="396.5" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#b03a2e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">1/11</text>
+<line x1="389.5" y1="395.3" x2="389.5" y2="324.9" stroke="#b03a2e" stroke-width="3" stroke-opacity="0.3" stroke-linecap="round"/>
+<circle cx="389.5" cy="365.6" r="6" fill="#b03a2e" stroke="#fcfcfb" stroke-width="2"/>
+<text x="400.5" y="369.6" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#b03a2e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">9/32</text>
+<text x="254.5" y="488.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#52514e" text-anchor="middle" font-weight="normal" style="">public float band</text>
+<text x="515.0" y="130.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="14" fill="#0b0b0b" text-anchor="start" font-weight="600" style="">The business does not work</text>
+<text x="515.0" y="148.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">does not cover its overhead, or burns cash, at the last annual before</text>
+<text x="515.0" y="161.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">the report</text>
+<line x1="515.0" y1="432.0" x2="920.0" y2="432.0" stroke="#ebeae3" stroke-width="1"/>
+<line x1="515.0" y1="373.0" x2="920.0" y2="373.0" stroke="#ebeae3" stroke-width="1"/>
+<line x1="515.0" y1="314.0" x2="920.0" y2="314.0" stroke="#ebeae3" stroke-width="1"/>
+<line x1="515.0" y1="255.0" x2="920.0" y2="255.0" stroke="#ebeae3" stroke-width="1"/>
+<line x1="515.0" y1="196.0" x2="920.0" y2="196.0" stroke="#ebeae3" stroke-width="1"/>
+<text x="582.5" y="454.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="middle" font-weight="normal" style="">non-accelerated</text>
+<text x="582.5" y="468.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums;">~$47m</text>
+<text x="717.5" y="454.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="middle" font-weight="normal" style="">accelerated</text>
+<text x="717.5" y="468.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums;">~$217m</text>
+<text x="852.5" y="454.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="middle" font-weight="normal" style="">large</text>
+<text x="852.5" y="468.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums;">~$2.6bn</text>
+<polyline points="582.5,235.3 717.5,255.0 852.5,386.0" fill="none" stroke="#1b4f8a" stroke-width="2" stroke-opacity="0.5"/>
+<line x1="582.5" y1="329.0" x2="582.5" y2="203.1" stroke="#1b4f8a" stroke-width="3" stroke-opacity="0.3" stroke-linecap="round"/>
+<circle cx="582.5" cy="235.3" r="6" fill="#1b4f8a" stroke="#fcfcfb" stroke-width="2"/>
+<text x="593.5" y="239.3" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#1b4f8a" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">5/6</text>
+<line x1="717.5" y1="335.4" x2="717.5" y2="212.9" stroke="#1b4f8a" stroke-width="3" stroke-opacity="0.3" stroke-linecap="round"/>
+<circle cx="717.5" cy="255.0" r="6" fill="#1b4f8a" stroke="#fcfcfb" stroke-width="2"/>
+<text x="728.5" y="269.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#1b4f8a" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">6/8</text>
+<line x1="852.5" y1="407.8" x2="852.5" y2="351.7" stroke="#1b4f8a" stroke-width="3" stroke-opacity="0.3" stroke-linecap="round"/>
+<circle cx="852.5" cy="386.0" r="6" fill="#1b4f8a" stroke="#fcfcfb" stroke-width="2"/>
+<text x="863.5" y="390.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#1b4f8a" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">8/41</text>
+<polyline points="582.5,196.0 717.5,266.8 852.5,359.4" fill="none" stroke="#b03a2e" stroke-width="2" stroke-opacity="0.5"/>
+<line x1="582.5" y1="261.5" x2="582.5" y2="196.0" stroke="#b03a2e" stroke-width="3" stroke-opacity="0.3" stroke-linecap="round"/>
+<circle cx="582.5" cy="196.0" r="6" fill="#b03a2e" stroke="#fcfcfb" stroke-width="2"/>
+<text x="593.5" y="200.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#b03a2e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">10/10</text>
+<line x1="717.5" y1="338.4" x2="717.5" y2="221.4" stroke="#b03a2e" stroke-width="3" stroke-opacity="0.3" stroke-linecap="round"/>
+<circle cx="717.5" cy="266.8" r="6" fill="#b03a2e" stroke="#fcfcfb" stroke-width="2"/>
+<text x="728.5" y="252.8" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#b03a2e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">7/10</text>
+<line x1="852.5" y1="388.2" x2="852.5" y2="322.4" stroke="#b03a2e" stroke-width="3" stroke-opacity="0.3" stroke-linecap="round"/>
+<circle cx="852.5" cy="359.4" r="6" fill="#b03a2e" stroke="#fcfcfb" stroke-width="2"/>
+<text x="863.5" y="363.4" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#b03a2e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">12/39</text>
+<text x="717.5" y="488.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#52514e" text-anchor="middle" font-weight="normal" style="">public float band</text>
+<line x1="52" y1="502" x2="920" y2="502" stroke="#ebeae3" stroke-width="1"/>
+<text x="52.0" y="524.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#52514e" text-anchor="start" font-weight="normal" style="">Controls sit at 5-10% on crime at every size, and targets sit above them — being targeted raises the rate, being</text>
+<text x="52.0" y="541.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#52514e" text-anchor="start" font-weight="normal" style="">large does not. On economics both lines fall with size and run together: small companies burn cash whether or not</text>
+<text x="52.0" y="558.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#52514e" text-anchor="start" font-weight="normal" style="">anybody shorts them. The middle band is 11 and 10 companies; read the ends, not the dip.</text>
 </svg>
