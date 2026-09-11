@@ -1,5 +1,22 @@
 #!/usr/bin/env python3
-"""The market takes a month to work out which short reports were right.
+"""KEPT AS A NEGATIVE EXAMPLE — the window is aimed at the wrong moment.
+
+This chart asks whether a fixed thirty trading days after a report separates the
+targets that were later vindicated from those that were not. It appears to: the
+medians differ by fifteen points. But the point cloud is visibly random, and the
+reason is that the median target takes 454 days to file its restatement or delisting
+notice. A month-long window is measuring a period in which, for most of these rows,
+nothing has happened yet.
+
+The fix was not a bigger window. It was abandoning fixed windows: see
+report-to-outcome.svg, which runs each target from its report to its own filing date
+and finds a median -45% over a median 454 days, with five of nineteen rising anyway.
+
+Kept because the mistake is instructive and because the left panel still carries one
+real finding — the companies heading for a restatement were HOLDING UP in the month
+before the report, while the eventual survivors were already sliding.
+
+The market takes a month to work out which short reports were right.
 
     python chart-before-after.py
 

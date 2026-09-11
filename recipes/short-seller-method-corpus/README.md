@@ -1,6 +1,6 @@
 # One short report in five is reproducible from public data. The rest needed someone to talk.
 
-**Published 2026-09-11** · fifteen figures, twenty-four scripts · source: six activist
+**Published 2026-09-11** · sixteen figures, twenty-five scripts · source: six activist
 short-selling firms, 273 first-look reports, 2.8M words, joined to daily prices for
 85 of them · no key, no account · **the sources are private companies and can delete
 any of this tomorrow**, so a capture manifest with a sha256 per resource — 728 rows
@@ -303,9 +303,33 @@ largest categories are about *who is behind the company*, not what the numbers s
 and neither is in filing metadata, which is the same wall as the 67% that need a
 person.
 
-## When the market works it out
+## Being right is not being paid
+
+![Report to outcome](artifacts/charts/report-to-outcome.svg)
+
+The 19 targets that later filed a restatement, delisting notice or bankruptcy, each
+run from its report to its own filing date:
+
+**Median −45% against the market over a median 454 days. 14 of 19 negative — and five
+rose anyway**, Bloom Energy by 194%, MX by 107%, CG by 70%. The wait runs from 20 days
+to six years.
+
+Being right about a company is a claim about the company. Being paid is a claim about
+timing, and on this corpus the two are close to unrelated.
+
+### The version that did not work, kept on purpose
 
 ![Before and after](artifacts/charts/before-and-after.svg)
+
+The first attempt used a fixed 30 trading days after the report. The medians differ
+by fifteen points and the point cloud is visibly random — **because the median target
+takes 454 days to file anything**, so a month-long window is watching a period in
+which nothing has happened yet. The window was not too small; it was aimed at the
+wrong moment.
+
+One finding does survive, in the left panel: **before the report the doomed companies
+were holding up (+0.9%) while the eventual survivors were already sliding (−6.9%)**.
+That does not depend on catching an outcome inside a month.
 
 | window | later filed a restatement or delisting | did not |
 | --- | --- | --- |
