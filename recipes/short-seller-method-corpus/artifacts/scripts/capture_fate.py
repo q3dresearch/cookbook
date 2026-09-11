@@ -75,6 +75,29 @@ def where_now(sym):
     return (code.group(1) if code else "000"), (parts[-1].upper() if parts else None)
 
 
+VENUES = ("quote/tsx", "quote/tsxv", "quote/asx", "quote/otc", "quote/lon")
+
+
+def elsewhere(sym):
+    """A symbol absent from the US listing may simply trade somewhere else.
+
+    Five of the eight targets this script first called "gone" are still quoted:
+    AKG on the ASX, IRSA in London, PMET and WSP on the TSX, RINO on OTC. Without
+    this second pass the figure reported a 41% non-survival rate where the real
+    count of companies that cannot be found anywhere is three of thirty-two.
+    """
+    found = []
+    for v in VENUES:
+        time.sleep(0.7)
+        r = subprocess.run(["curl", "-sS", "-o", "/dev/null", "-w", "%{http_code}",
+                            "--max-time", "20", "-A", UA,
+                            f"https://stockanalysis.com/{v}/{sym}/"],
+                           capture_output=True, timeout=35)
+        if r.stdout.decode().strip() == "200":
+            found.append(v.split("/")[-1].upper())
+    return found
+
+
 def main():
     tg = confirmed_targets()
     print(f"  {len(tg)} tickers confirmed by two independent routes")
@@ -90,7 +113,10 @@ def main():
             fate = "symbol changed"
         else:
             fate = "gone from this symbol"
-        out[sym] = {**meta, "http": code, "now": now, "fate": fate}
+        venues = elsewhere(sym) if fate == "gone from this symbol" else []
+        if venues:
+            fate = "trades elsewhere"
+        out[sym] = {**meta, "http": code, "now": now, "fate": fate, "venues": venues}
         if i % 10 == 0:
             print(f"    {i}/{len(tg)}", flush=True)
     (RAW / "target_fate.json").write_text(json.dumps(out, indent=1))
