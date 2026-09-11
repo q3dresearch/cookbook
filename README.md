@@ -15,9 +15,10 @@ built on those and on sources that keep their own history.
 Ten, most recent first. Each links its own write-up.
 
 - **[One short report in five is reproducible from public data. The rest needed someone to talk](recipes/short-seller-method-corpus/)** —
-  273 activist short reports across six firms. The biggest single evidence type is
-  a conversation, and it was invisible to the first probe list because nobody
-  thinks to grep for "told us".
+  273 activist short reports across six firms, joined to daily prices. The biggest
+  single evidence type is a conversation, and it was invisible to the first probe
+  list because nobody thinks to grep for "told us". A report is worth about 3% on
+  the day — unless the target is over $10B, where it is worth nothing.
 - **[Three ways to measure an AI lab, and they disagree](recipes/openrouter-lab-share/)** —
   tokens, spend and model count rank the same firms differently, and the market
   grew 170× underneath all three.

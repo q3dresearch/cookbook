@@ -1,9 +1,10 @@
 # One short report in five is reproducible from public data. The rest needed someone to talk.
 
-**Published 2026-09-11** · seven figures, fifteen scripts · source: six activist
-short-selling firms, 273 first-look reports, 2.8M words · no key, no account ·
-**the sources are private companies and can delete any of this tomorrow**, so a
-capture manifest with a sha256 per resource ships alongside.
+**Published 2026-09-11** · twelve figures, twenty scripts · source: six activist
+short-selling firms, 273 first-look reports, 2.8M words, joined to daily prices for
+85 of them · no key, no account · **the sources are private companies and can delete
+any of this tomorrow**, so a capture manifest with a sha256 per resource — 728 rows
+covering 816 MB — ships alongside.
 
 ## What this is
 
@@ -39,6 +40,13 @@ tools who needs to know which half is automatable.
   interviews roughly halve. Pool them in and firm rankings reverse.
 - **Hindenburg learned this.** Its interview rate went 21% → 75% across three eras
   while Muddy Waters' highest era was its first, in 2010.
+- **A short report is worth about 3% on the day.** 78% of targets underperform
+  within a day. The drift continues to −7% by day 30.
+- **Size decides whether it lands at all.** A target over $10B does not move — 53%
+  fall, a coin toss. The hit peaks between $300M and $10B.
+- **Pick your horizon, pick your number.** The median abnormal return runs −2.7% to
+  −8.3% depending only on the window. The hit rate decays cleanly and is the honest
+  statistic.
 
 ## How hard is it to do alone
 
@@ -145,6 +153,94 @@ direction, neither conclusive.
 nothing else. Every finding above is a finding about the firms that publish
 readably, and that is a smaller set than the field.
 
+## What the stock does
+
+![The event window](artifacts/charts/event-window.svg)
+
+Indexed to the day **before** the report and measured against the Russell 2000, so
+the line is what the report did rather than what the month around it did.
+
+| | median |
+| --- | --- |
+| the report itself, day −1 to +1 | **−3.4%** |
+| day +30 | −6.9% |
+| underperformed within a day | **78%** |
+
+A −30 baseline reads −10.2% at day +30 and most of that is drift already under way.
+The step down is the announcement; the drift continues after it.
+
+**It is firm-dependent by an order of magnitude.** Hindenburg's targets fall a median
+8.1% on the day with 89% falling; Spruce Point's fall 1.0% with 56%.
+
+## And the horizon you choose is most of your headline
+
+![Horizon sensitivity](artifacts/charts/horizon-sensitivity.svg)
+
+The median abnormal return wanders non-monotonically — −3.4% at a day, −6.7% at a
+month, −2.9% at two, −8.3% at a year. Whichever window an author picks becomes their
+number. **The share that underperform decays cleanly, 78% to 55%, and that is the
+statistic to quote.**
+
+Thirty trading days, which this recipe used at first, is not a calendar period and
+sits near a local trough.
+
+## Size decides whether a report lands
+
+![Size and impact](artifacts/charts/size-and-impact.svg)
+
+| target | day +1 | % fell | day +21 |
+| --- | --- | --- | --- |
+| micro, under $300M | −1.9% | 55% | **−17.3%** |
+| small, $300M–2B | **−7.1%** | 85% | −8.1% |
+| mid, $2–10B | −5.3% | **95%** | −6.9% |
+| large, over $10B | −0.8% | 53% | **+1.0%** |
+
+**A company over $10B does not move.** The hit peaks in the middle of the range, and
+micro caps are the slow case — barely a move on the day, down 17% a month later,
+too illiquid to reprice at once.
+
+The correlation between log market cap and the one-day move is **−0.08**. Reported as
+a slope, size looks irrelevant. It is not a slope.
+
+This also explains most of the firm gap: Spruce Point's targets are 8× larger than
+Hindenburg's, with 52% above $10B against 7%.
+
+## Does better evidence predict a bigger fall
+
+![Evidence quality](artifacts/charts/evidence-quality.svg)
+
+The axis is exclusivity, not accuracy — what evidence **costs an outsider to obtain**.
+An SEC filing is nearly always true and already in the price; a former employee's
+account is neither. It comes from `corpuslib.BARRIER`, written to ask whether an
+independent researcher could reproduce this work, **before any price data existed**.
+
+| target | public or paid only | needs access to a person |
+| --- | --- | --- |
+| under $2B | −1.1% (n=8) | **−21.6%** (n=11) |
+| over $2B | −2.7% (n=9) | −4.6% (n=17) |
+
+Twenty-one points in small caps, and it is **not** size doing the work — median market
+cap is flat across evidence levels. But p = 0.022 against a Bonferroni threshold of
+0.013 for the four comparisons run. **A lead, not a result.**
+
+## Something trades before the report
+
+![Pre-positioning](artifacts/charts/pre-positioning.svg)
+
+Volume against each stock's own 100-day baseline: 1.08× a month out, 1.57× three days
+before, **1.88× on the eve**, 6.18× on the day. Something happens before the report
+exists.
+
+Converting that to a position size is not possible. Excess volume over the pre-month
+is a median **8.0% of shares outstanding**, so the implied short runs from 8% of the
+company at full attribution to 0.08% at 1% — two orders of magnitude on a parameter
+no public source reports. Kyle (1985) is the standard inversion and assumes the
+*trade* moves the price; here the *report* does.
+
+13F is long-only. FINRA and Nasdaq publish aggregates. The UK moved to aggregate-only
+in 2025. Germany still names holders above 0.5% and almost no target here is
+German-listed.
+
 ## What to do with it
 
 **Build the tool for the fifth that is reachable, and staff the rest.**
@@ -157,6 +253,10 @@ readably, and that is a smaller set than the field.
   is a different operation from its post-2020 work.
 - **Check the firm's cadence before reading any rate.** A campaigner's pooled
   numbers are dominated by rebuttals that cite nothing.
+- **Check the target's size before expecting a move.** Above $10B a short report is
+  a coin toss. The tool is worth most between $300M and $10B.
+- **Quote the hit rate, not the median return.** The median is your window choice;
+  the hit rate decays monotonically and means something.
 
 ## What not to trust
 
@@ -179,10 +279,18 @@ readably, and that is a smaller set than the field.
   is its whole archive.
 - **A verified ticker exists for 23% of reports.** The first exchange-prefixed symbol
   is wrong roughly 30% of the time, because reports open with peer comparison tables
-   — Kratos returns Parrot SA, Inpixon returns Kodak.
-- **There is no price join.** Four free sources tested cold: Stooq serves a JS
-  challenge, Yahoo 429s, Nasdaq returns empty, SEC needs a declared User-Agent and
-  has no prices. Even given one, three rows in four would be hand-built.
+   — Kratos returns Parrot SA, Inpixon returns Kodak. SEC's registry catches these.
+- **The price join reaches 85 of 273 reports.** It needs a date, a ticker SEC
+  recognises, and a series spanning the window. J Capital contributes none — its
+  targets are Chinese and HK-listed.
+- **The price source is survivors-only, and the bias points the wrong way.** It keys
+  on a company's CURRENT symbol, so a target that went bankrupt moved to OTC under a
+  new one — Zynex is ZYXIQ now, Nikola is NKLAQ. Sino-Forest and China MediaExpress
+  are absent entirely. **The cases where the thesis landed hardest are the ones you
+  cannot price.**
+- **No cross-firm correlation means anything untested.** Length-versus-breadth is
+  +0.19 to +0.79 within firms and +0.29 pooled — the firms differ enough on both axes
+  to invert the within-firm picture. Compute per firm first, always.
 
 *Every question this recipe asks — with its status, what would settle it, and which
 answers describe, predict or prescribe — is the working document at
@@ -207,13 +315,24 @@ us".**
 No key, no account. Capture is slow and polite; everything after it is instant.
 
 ```sh
-python artifacts/scripts/capture_control.py            # six firms, sitemap-first
+# capture — slow and polite, an hour or so in total
+python artifacts/scripts/capture_hindenburg.py         # the closed archive, 105 posts
+python artifacts/scripts/capture_control.py            # five more firms, sitemap-first
 python artifacts/scripts/capture_access.py             # the 17-firm access census
+python artifacts/scripts/tickers.py                    # extract, then validate_tickers.py
+python artifacts/scripts/capture_prices.py             # daily OHLCV for the targets
+python artifacts/scripts/capture_marketcap.py          # SEC share counts
 python artifacts/scripts/build_manifest.py             # url + sha256 per resource
-python artifacts/scripts/chart-people-not-data.py
-python artifacts/scripts/chart-two-camps.py
-python artifacts/scripts/tickers.py                    # + validate_tickers.py
+
+# figures — instant
+for f in artifacts/scripts/chart-*.py; do python "$f"; done
 ```
+
+`artifacts/raw/` is not in this repository: 816 MB of third-party HTML and PDFs,
+captured from firms that can delete any of it. `artifacts/manifest/` is — 728 rows,
+one per resource, with its URL, fetch time, byte count and sha256. Re-fetch and
+compare hashes to know whether you are holding what these figures were computed
+from; get a 404 and you know exactly what is gone.
 
 **Four traps, all silent:**
 

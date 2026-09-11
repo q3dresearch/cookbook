@@ -82,6 +82,44 @@ def rows():
                                     f"raw/control/{firm}-pdftext/{name}.txt",
                             reason="" if pdf.exists() else "binary not retained; extracted text kept"))
 
+    # Prices, share counts and the SEC registry — the market-side captures.
+    prices = RAW / "prices"
+    if (prices / "coverage.json").exists():
+        cov = json.loads((prices / "coverage.json").read_text())
+        for sym, meta in cov.items():
+            f = prices / f"{sym}.json"
+            out.append(dict(source_id="stockanalysis.history",
+                            url=f"https://stockanalysis.com/api/symbol/s/{sym.lower()}/history"
+                                "?period=Daily&range=Max",
+                            fetched_at=stamp(f) if f.exists() else "",
+                            http_status=200 if f.exists() else "",
+                            content_type="application/json",
+                            content_length=f.stat().st_size if f.exists() else "",
+                            content_sha256=sha(f) if f.exists() else "",
+                            outcome="captured" if f.exists() else meta.get("outcome", "absent"),
+                            raw_ref=f"raw/prices/{sym}.json" if f.exists() else "",
+                            reason=meta.get("reason", "")))
+    shares = RAW / "shares"
+    if shares.exists():
+        for f in sorted(shares.glob("*.json")):
+            if f.name == "coverage.json":
+                continue
+            out.append(dict(source_id="sec.shares_outstanding",
+                            url=f"https://data.sec.gov/api/xbrl/companyconcept/"
+                                f"CIK/dei/EntityCommonStockSharesOutstanding.json ({f.stem})",
+                            fetched_at=stamp(f), http_status=200,
+                            content_type="application/json",
+                            content_length=f.stat().st_size, content_sha256=sha(f),
+                            outcome="captured", raw_ref=f"raw/shares/{f.name}", reason=""))
+    reg = RAW / "sec" / "company_tickers_exchange.json"
+    if reg.exists():
+        out.append(dict(source_id="sec.ticker_registry",
+                        url="https://www.sec.gov/files/company_tickers_exchange.json",
+                        fetched_at=stamp(reg), http_status=200, content_type="application/json",
+                        content_length=reg.stat().st_size, content_sha256=sha(reg),
+                        outcome="captured", raw_ref="raw/sec/company_tickers_exchange.json",
+                        reason="ticker -> company -> exchange, used to validate extractions"))
+
     # The access census — firms that answered, and the four that refused.
     aa = RAW / "access-audit.json"
     if aa.exists():
@@ -98,9 +136,13 @@ def rows():
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
     data = rows()
+    # A row with no fetch time is a resource that REFUSED — a 403 sitemap, a ticker
+    # with no history. Those are findings and belong in the month the attempt was
+    # made, not in a shard called "unknown" that reads like a filing error.
+    run_month = time.strftime("%Y-%m")
     by_month = {}
     for r in data:
-        by_month.setdefault((r["fetched_at"] or "unknown")[:7], []).append(r)
+        by_month.setdefault((r["fetched_at"][:7] if r["fetched_at"] else run_month), []).append(r)
     for month, rs in sorted(by_month.items()):
         f = OUT / f"{month}.csv"
         with f.open("w", newline="") as fh:

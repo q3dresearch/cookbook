@@ -10,3 +10,10 @@ __pycache__/
 # harvester instead — GitHub warns above 50 MB and clones stay slow forever.
 # Commit data only when it is a snapshot that cannot be reconstructed.
 *.csv.gz
+
+# Raw captures never ship. A recipe's artifacts/raw is either a local capture or a
+# symlink into the private drafting workspace; committing the symlink would give a
+# reader a broken path into a machine they do not have. What ships instead is
+# artifacts/manifest — one row per fetched resource with its URL, time and sha256.
+recipes/*/artifacts/raw/
+recipes/*/artifacts/raw
