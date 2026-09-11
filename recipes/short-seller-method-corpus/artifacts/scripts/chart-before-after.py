@@ -1,20 +1,26 @@
 #!/usr/bin/env python3
-"""KEPT AS A NEGATIVE EXAMPLE — the window is aimed at the wrong moment.
+"""KEPT AS A NEGATIVE EXAMPLE — it is convincing, and it is a red herring.
 
-This chart asks whether a fixed thirty trading days after a report separates the
-targets that were later vindicated from those that were not. It appears to: the
-medians differ by fifteen points. But the point cloud is visibly random, and the
-reason is that the median target takes 454 days to file its restatement or delisting
-notice. A month-long window is measuring a period in which, for most of these rows,
-nothing has happened yet.
+That combination is the reason it survives. A chart that is obviously wrong teaches
+nobody anything; this one has a fifteen-point gap between its medians, a plausible
+story about the market taking a month to digest a report, and a caption that reads
+like a finding. It is the kind of mistake that ships.
 
-The fix was not a bigger window. It was abandoning fixed windows: see
-report-to-outcome.svg, which runs each target from its report to its own filing date
-and finds a median -45% over a median 454 days, with five of nineteen rising anyway.
+What is wrong with it: the median target takes 454 days to file the restatement or
+delisting notice that corroborates the report, so a fixed thirty-day window is
+measuring a period in which, for most rows, nothing has happened. The point cloud is
+visibly random because it is random. The medians differ because a handful of fast
+outcomes drag them apart, not because the window separates the groups.
 
-Kept because the mistake is instructive and because the left panel still carries one
-real finding — the companies heading for a restatement were HOLDING UP in the month
-before the report, while the eventual survivors were already sliding.
+The fix was not a longer window. It was running both groups on the SAME clock and
+comparing them at every horizon — see right-vs-wrong.svg, where the corroborated
+targets are -33% against the market at one year and the rest are +5%, and where the
+research method turns out to predict almost nothing.
+
+One finding here does survive, in the left panel, because it does not depend on
+catching an outcome inside a month: before the report the companies heading for a
+restatement were HOLDING UP at +0.9% while the eventual survivors were already
+sliding at -6.9%.
 
 The market takes a month to work out which short reports were right.
 

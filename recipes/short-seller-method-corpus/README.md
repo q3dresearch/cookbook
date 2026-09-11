@@ -303,50 +303,49 @@ largest categories are about *who is behind the company*, not what the numbers s
 and neither is in filing metadata, which is the same wall as the 67% that need a
 person.
 
-## Being right is not being paid
+## Which calls landed, and what separated them
 
-![Report to outcome](artifacts/charts/report-to-outcome.svg)
+![Right vs wrong](artifacts/charts/right-vs-wrong.svg)
 
-The 19 targets that later filed a restatement, delisting notice or bankruptcy, each
-run from its report to its own filing date:
+Both groups on the same clock — targets that later filed a restatement, delisting
+notice or bankruptcy, against those that did not.
 
-**Median −45% against the market over a median 454 days. 14 of 19 negative — and five
-rose anyway**, Bloom Energy by 194%, MX by 107%, CG by 70%. The wait runs from 20 days
-to six years.
+| from the report | corroborated | not |
+| --- | --- | --- |
+| 1 month | −8.6% | +1.3% |
+| 1 quarter | −19.9% | +3.1% |
+| **1 year** | **−33.4%** | **+5.2%** |
+| 2 years | −63.1% | −4.6% |
 
-Being right about a company is a claim about the company. Being paid is a claim about
-timing, and on this corpus the two are close to unrelated.
+The paths separate and stay separated. **But almost nothing about how the report was
+researched tells you in advance which group it is in.** SEC filings 92% vs 90%,
+interviews 75% vs 69%, court records 58% vs 62%, kinds of evidence 5 vs 6 at p = 0.75.
 
-### The version that did not work, kept on purpose
+Where the method does move, it moves the **wrong way**: reports that were *not*
+corroborated used paid terminal data 71% against 33%, ran four thousand words longer,
+and did more field legwork. More expensive research, no better hit rate.
+
+**What separates them is the company.** 67% of corroborated targets had already filed
+a restatement or delisting notice before anyone wrote a word, against 17%.
+
+*"Not corroborated" is not "wrong" — nothing obliges a company to file a document
+conceding a related-party allegation, and 12 against 48 makes the method comparison a
+null rather than a measurement.*
+
+### A convincing chart that is wrong, kept on purpose
 
 ![Before and after](artifacts/charts/before-and-after.svg)
 
-The first attempt used a fixed 30 trading days after the report. The medians differ
-by fifteen points and the point cloud is visibly random — **because the median target
-takes 454 days to file anything**, so a month-long window is watching a period in
-which nothing has happened yet. The window was not too small; it was aimed at the
-wrong moment.
+Fifteen points between its medians, a plausible mechanism, a caption that reads like
+a finding — and it is measuring a **thirty-day window for an event that arrives at a
+median 454 days**. The point cloud is random because it is random; the medians part
+because a handful of fast outcomes drag them.
 
-One finding does survive, in the left panel: **before the report the doomed companies
-were holding up (+0.9%) while the eventual survivors were already sliding (−6.9%)**.
-That does not depend on catching an outcome inside a month.
+A chart that is obviously wrong teaches nobody anything. This is the kind that ships.
 
-| window | later filed a restatement or delisting | did not |
-| --- | --- | --- |
-| the month **before** | **+0.9%** | −6.9% |
-| **the report itself** | **−2.8%** | **−2.7%** |
-| the month **after** | **−12.8%** | **+2.0%** |
-
-**On the day the two are indistinguishable.** A report that would be conceded in a
-filing within the year moved the stock a tenth of a point differently from one that
-would not. Over the next month they separate by fifteen points.
-
-And before the report, the doomed companies were the ones **holding up** while the
-eventual survivors were already sliding — backwards from intuition, and a reminder
-that a falling stock is not what a short seller is looking at.
-
-Size explains none of this: the correlation between log market cap and the
-post-report return is +0.03. **The separation is the outcome, not the position.**
+One thing in it does survive, because it does not depend on catching an outcome
+inside a month: **before the report, the doomed companies were holding up at +0.9%
+while the eventual survivors were already sliding at −6.9%.**
 
 ## The one rule worth acting on
 
