@@ -241,6 +241,39 @@ no public source reports. Kyle (1985) is the standard inversion and assumes the
 in 2025. Germany still names holders above 0.5% and almost no target here is
 German-listed.
 
+## What became of the targets
+
+Of 32 targets whose ticker two independent routes agree on, years after their
+report: **59% still trade under the same symbol, 25% are gone from it, 12% changed
+symbol, 3% are bankrupt.**
+
+Do not quote that. Reading the thirteen non-survivors dissolves the categories —
+KDNY resolves to NVS because Chinook Therapeutics was **acquired by Novartis**, a
+premium exit filed next to a fraud. SQ to XYZ is Block renaming itself. Among the
+disappearances RINO and CIFS are delisted Chinese frauds, but FMCN went private and
+relisted in China and WSP trades on the TSX.
+
+**Symbol persistence is not corporate survival.** Separating a kill from a takeover
+needs merger, bankruptcy and deregistration filings — a bounded next step, and the
+one that would give the accuracy axis this recipe does not have.
+
+## The one thing that predicts being targeted
+
+| exchange | all 10,407 US filers | 104 targets | lift |
+| --- | --- | --- | --- |
+| Nasdaq | 41.9% | 55.8% | 1.3× |
+| NYSE | 31.7% | 42.3% | 1.3× |
+| **OTC** | **24.0%** | **1.9%** | **0.1×** |
+
+**Short sellers ignore OTC.** A quarter of US filers are there and one target in
+fifty. The mechanism is not in this corpus — plausibly that the stock cannot be
+borrowed, or that too little is held for a report to pay for itself.
+
+Nothing else here can answer what attracts a short seller, and that is a
+control-group problem rather than a missing-data one: it needs the same measurements
+on companies the firms passed over, and the free registries carry exchange and
+nothing else.
+
 ## What to do with it
 
 **Build the tool for the fifth that is reachable, and staff the rest.**
