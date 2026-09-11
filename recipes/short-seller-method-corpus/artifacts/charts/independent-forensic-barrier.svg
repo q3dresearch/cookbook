@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="615" viewBox="0 0 980 615" role="img" aria-label="Barrier to independent forensic research">
+<title>How hard is it to do this alone?</title>
+<desc>Bars showing what share of 105 Hindenburg reports cite sources in each access tier, and how many gated tiers a report needs.</desc>
+<rect width="980" height="615" fill="#fcfcfb"/>
+<text x="24.0" y="34.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="">How hard is it to do this alone?</text>
+<text x="24.0" y="58.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#52514e" text-anchor="start" font-weight="normal" style="">Every source cited across 94 initial Hindenburg Research reports (2017-2025), graded by what it demands of an</text>
+<text x="24.0" y="75.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#52514e" text-anchor="start" font-weight="normal" style="">independent researcher. The decision this supports: whether this work is reachable without a budget, travel, or</text>
+<text x="24.0" y="92.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#52514e" text-anchor="start" font-weight="normal" style="">sources of your own.</text>
+<text x="24.0" y="179.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="58" fill="#2361b0" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums;">20%</text>
+<text x="150.0" y="151.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="13" fill="#0b0b0b" text-anchor="start" font-weight="normal" style="">of reports — 19 of 94 — cite free, remotely-available sources and nothing</text>
+<text x="150.0" y="168.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="13" fill="#0b0b0b" text-anchor="start" font-weight="normal" style="">else. No terminal, no interview, no site visit, no whistleblower. One in</text>
+<text x="150.0" y="185.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="13" fill="#0b0b0b" text-anchor="start" font-weight="normal" style="">five were reachable from a desk. A further 4 name no source of any kind and</text>
+<text x="150.0" y="202.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="13" fill="#0b0b0b" text-anchor="start" font-weight="normal" style="">are left out.</text>
+<text x="24.0" y="229.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#52514e" text-anchor="start" font-weight="600" style="">What each tier demands, and how many reports need it</text>
+<path d="M250.0,251.0 h526.6 q4,0 4,4 v18.0 q0,4 -4,4 h-526.6 z" fill="#7db0ea"/>
+<text x="238.0" y="269.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#52514e" text-anchor="end" font-weight="normal" style="">free &amp; remote</text>
+<text x="238.0" y="285.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="end" font-weight="normal" style="">anyone with a browser</text>
+<text x="790.6" y="269.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums;">86  (91%)</text>
+<path d="M250.0,291.0 h310.7 q4,0 4,4 v18.0 q0,4 -4,4 h-310.7 z" fill="#4a8bdb"/>
+<text x="238.0" y="309.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#52514e" text-anchor="end" font-weight="normal" style="">needs money</text>
+<text x="238.0" y="325.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="end" font-weight="normal" style="">terminal or data subscription</text>
+<text x="574.7" y="309.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums;">51  (54%)</text>
+<path d="M250.0,331.0 h378.6 q4,0 4,4 v18.0 q0,4 -4,4 h-378.6 z" fill="#2361b0"/>
+<text x="238.0" y="349.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#52514e" text-anchor="end" font-weight="normal" style="">needs presence</text>
+<text x="238.0" y="365.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="end" font-weight="normal" style="">a person who agrees to talk</text>
+<text x="642.6" y="349.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums;">62  (66%)</text>
+<path d="M250.0,371.0 h45.4 q4,0 4,4 v18.0 q0,4 -4,4 h-45.4 z" fill="#123a68"/>
+<text x="238.0" y="389.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#52514e" text-anchor="end" font-weight="normal" style="">needs luck</text>
+<text x="238.0" y="405.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="end" font-weight="normal" style="">a source who comes to you</text>
+<text x="309.4" y="389.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums;">8  (9%)</text>
+<line x1="250.0" y1="243.0" x2="250.0" y2="415.0" stroke="#c3c2b7" stroke-width="1"/>
+<text x="24.0" y="445.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#52514e" text-anchor="start" font-weight="600" style="">How many gated tiers a single report needs</text>
+<path d="M250.0,461.0 h112.2 q3,0 3,3 v24.0 q0,3 -3,3 h-112.2 z" fill="#7db0ea"/>
+<text x="307.6" y="481.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#0b0b0b" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">19</text>
+<text x="307.6" y="507.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="middle" font-weight="normal" style="">free only</text>
+<path d="M367.2,461.0 h161.6 q3,0 3,3 v24.0 q0,3 -3,3 h-161.6 z" fill="#4a8bdb"/>
+<text x="449.5" y="481.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#0b0b0b" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">27</text>
+<text x="449.5" y="507.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="middle" font-weight="normal" style="">one gate</text>
+<path d="M533.8,461.0 h229.5 q3,0 3,3 v24.0 q0,3 -3,3 h-229.5 z" fill="#2361b0"/>
+<text x="650.1" y="481.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#ffffff" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">38</text>
+<text x="650.1" y="507.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="middle" font-weight="normal" style="">two gates</text>
+<path d="M768.3,461.0 h32.0 q3,0 3,3 v24.0 q0,3 -3,3 h-32.0 z" fill="#123a68"/>
+<text x="785.8" y="455.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#0b0b0b" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">6</text>
+<text x="785.8" y="507.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="middle" font-weight="normal" style="">three gates</text>
+<path d="M805.3,461.0 h19.7 q3,0 3,3 v24.0 q0,3 -3,3 h-19.7 z" fill="#c3c2b7"/>
+<text x="816.7" y="455.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#0b0b0b" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">4</text>
+<text x="816.7" y="507.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="middle" font-weight="normal" style="">no source named</text>
+<text x="24.0" y="537.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="start" font-weight="normal" style="">Reads DECLARED sources, so it undercounts: a report may use a terminal without naming it, and a citation is not effort — a desk-only report</text>
+<text x="24.0" y="551.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="start" font-weight="normal" style="">can still take six months. Published reports only, so investigations abandoned when the thesis collapsed are invisible. Detection is</text>
+<text x="24.0" y="565.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="start" font-weight="normal" style="">keyword-based over 94 reports; treat these as orders of magnitude, not decimals.</text>
+</svg>
