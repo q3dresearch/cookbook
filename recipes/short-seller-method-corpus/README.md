@@ -1,6 +1,6 @@
 # One short report in five is reproducible from public data. The rest needed someone to talk.
 
-**Published 2026-09-11** · sixteen figures, twenty-five scripts · source: six activist
+**Published 2026-09-11** · seventeen figures, thirty-nine scripts · source: six activist
 short-selling firms, 273 first-look reports, 2.8M words, joined to daily prices for
 85 of them · no key, no account · **the sources are private companies and can delete
 any of this tomorrow**, so a capture manifest with a sha256 per resource — 728 rows
@@ -51,6 +51,18 @@ tools who needs to know which half is automatable.
   random control sample, every prior-distress ratio is 1.0×.
 - **But among targets, prior distress predicts vindication almost perfectly** — and
   the market moves least on exactly those reports.
+- **What they avoid is sharper than what they pick.** Against the same controls, an
+  emerging growth company is attacked at 0.2× and a non-accelerated filer at 0.4×,
+  both surviving Bonferroni. Short sellers skip small and young companies; they do
+  not hunt them.
+- **This is not an industry that hunts bad business models.** 78% of reports allege a
+  crime or accounting manipulation. 5% rest on broken unit economics alone.
+- **Spruce Point is an accounting shop; Hindenburg is a fraud shop.** 69% against 17%
+  on accounting manipulation, from firms whose output looks superficially alike.
+- **The two things worth proving are found in different companies.** Targets that went
+  on to disclose an investigation had a median pre-report operating margin of +17%;
+  those that did not, −1%. Not significant on 41 companies, but the sign is stable at
+  every window. You cannot find the crime by screening for bad numbers.
 
 ## How hard is it to do alone
 
@@ -156,6 +168,17 @@ direction, neither conclusive.
 **4 of 17 firms refuse the connection outright.** Several more publish a teaser and
 nothing else. Every finding above is a finding about the firms that publish
 readably, and that is a smaller set than the field.
+
+There is a second selection, on the target side. **Short sellers essentially never
+touch OTC** — 24.0% of the 10,407 US filers trade there against 1.9% of 104 targets,
+a lift of 0.1×. Nasdaq and NYSE both run 1.3×. This is a constraint, not a thesis:
+the mechanism is not in this corpus, but the plausible ones are that the stock cannot
+be borrowed to short, or that too little of it is held for a report to pay for the
+work. Either way it bounds what any reproduction of this can see. It is filed here
+rather than under target selection because where a stock trades is a fact about
+borrowability, not about the company — an earlier draft led with it as "the one thing
+that predicts being targeted", which measured the easiest available attribute and
+promoted a clean null to an answer.
 
 ## What the stock does
 
@@ -263,22 +286,174 @@ relisted in China and WSP trades on the TSX.
 needs merger, bankruptcy and deregistration filings — a bounded next step, and the
 one that would give the accuracy axis this recipe does not have.
 
-## The one thing that predicts being targeted
+## What makes a company worth attacking
 
-| exchange | all 10,407 US filers | 104 targets | lift |
+Earlier this section led with the exchange a target trades on. That finding is real —
+short sellers essentially never touch OTC, 1.9% of targets against 24% of filers —
+but it was the wrong headline for an instructive reason. **Exchange was the easiest
+attribute to measure, so it got measured first, and a clean null got promoted to an
+answer.** Where a stock trades is a fact about borrowability, not about the company.
+It belongs under constraints, and that is where it now sits.
+
+The question worth asking is what the company *does* and how it *earns*. Run against
+the same 140 untargeted filers, with Fisher exact on every cell and a Bonferroni
+threshold of p < 0.0026 for 19 comparisons:
+
+| attribute, before the report | targets | controls | lift | p |
+| --- | --- | --- | --- | --- |
+| **emerging growth company** | 6/74 = 8% | 43/123 = 35% | **0.2×** | **0.0000** |
+| **non-accelerated filer** | 12/74 = 16% | 52/123 = 42% | **0.4×** | **0.0001** |
+| large accelerated filer | 45/74 = 61% | 48/123 = 39% | 1.6× | 0.0033 |
+| smaller reporting company | 12/74 = 16% | 43/123 = 35% | 0.5× | 0.0052 |
+| SEC industry office 08, Industrial Applications | 13/76 = 17% | 6/128 = 5% | 3.6× | 0.0051 |
+| Nevada incorporation | 7/68 = 10% | 5/119 = 4% | 2.4× | 0.1250 |
+
+**The two findings that survive Bonferroni are both avoidances, and both are size.**
+A company that is small (non-accelerated filer) or young (emerging growth company,
+the JOBS Act class for recent IPOs under $1.235bn of revenue) is roughly a fifth to
+two-fifths as likely to be attacked. Short sellers are not hunting tiny sketchy
+companies; they are systematically skipping them. The OTC finding was this same size
+effect seen through a worse lens.
+
+Everything below the line is nominal only, expected to appear at this many tests, and
+should be read as a direction to check rather than a result. Nevada incorporation is
+the one worth naming as a hypothesis — 2.4× on 7 companies is exactly the shape a
+real effect and a coincidence both have at this sample size.
+
+Note what is *not* here. Filer class is a multi-label field — `Non-accelerated
+filer<br>Smaller reporting company<br>Emerging growth company` is three flags, not one
+class. Read as a single string it splits the same companies across buckets and
+produces a striking "0 of 76 targets are smaller reporting companies". The true figure
+is 12 of 76. Each flag is its own comparison here for that reason.
+
+## Why they say they are short
+
+`thesis.py` pulls the sentences where a firm states its own case — first person,
+declarative, "we believe", "our investigation found", "today we reveal" — and
+classifies the report on three overlapping axes. The extractor finds a thesis sentence
+in 96% of reports, against `claims.py`'s 74%, because a firm stating its own position
+writes in a far more predictable register than a firm describing an allegation.
+
+| what the report alleges | share of 273 first-look reports |
+| --- | --- |
+| a crime — fraud, forgery, bribery, self-dealing | 68% |
+| broken unit economics | 36% |
+| accounting manipulation not called a crime | 32% |
+| **crime or accounting manipulation** | **78%** |
+| **broken economics and nothing else** | **5%** |
+| none of the three | 17% |
+
+**This is not an industry that hunts bad business models.** Four reports in five
+allege wrongdoing; one in twenty rests on unit economics alone. If the goal is to
+prove a business cannot work, the corpus offers 13 worked examples, not 273.
+
+The firms split sharply on which they lead with:
+
+| firm | alleges a crime | alleges accounting manipulation |
+| --- | --- | --- |
+| Fuzzy Panda | 88% | 20% |
+| Hindenburg | 74% | 17% |
+| Spruce Point | 73% | **69%** |
+| J Capital | 63% | 30% |
+| Muddy Waters | 61% | 43% |
+| Night Market | 39% | 9% |
+
+**Spruce Point is an accounting shop and Hindenburg is a fraud shop.** 69% against 17%
+on the same axis, from firms whose output looks superficially alike. That is a
+sharper separation than anything in the evidence-type measurements, and it is visible
+only because the firms say it themselves.
+
+One caution on reading any of this. A declared reason is what a firm chose to lead
+with, which is a marketing decision as much as an analytical one. It is evidence of
+what the firm thought would land, not necessarily of what it actually found.
+
+## Which jackpot do they actually hit
+
+![Two jackpots](artifacts/charts/two-jackpots.svg)
+
+Both axes, run against the 139 controls with each control assigned a report date drawn
+from the target distribution so the exposure matches:
+
+| within 3 years of the report | targets | controls | lift | p |
+| --- | --- | --- | --- | --- |
+| **disclosed an investigation** | **13/59 = 22%** | **6/108 = 6%** | **3.8×** | **0.0021** |
+
+| at the last annual before the report | targets | controls | lift | p |
+| --- | --- | --- | --- | --- |
+| negative gross margin | 1/49 = 2% | 2/31 = 6% | 0.3× | 0.56 |
+| negative operating margin | 25/51 = 49% | 14/41 = 34% | 1.4× | 0.20 |
+| operating cash flow negative | 21/57 = 37% | 14/58 = 24% | 1.5× | 0.16 |
+| burns more than 50c per $1 of revenue | 10/57 = 18% | 4/58 = 7% | 2.6× | 0.09 |
+| *median gross margin* | *+41%* | *+28%* | — | — |
+| *median operating margin* | *+2%* | *+6%* | — | — |
+
+**These firms find crime. They do not find broken business models.** A target is
+nearly four times as likely as a matched control to disclose a Wells notice, grand
+jury, subpoena or formal order of investigation within three years — the single
+strongest and best-powered result in this recipe. On the economics side nothing
+reaches significance, and **the targets have better gross margins than random
+filers**: +41% against +28%, with negative gross margins *rarer* among targets than
+controls.
+
+That is the answer to "which jackpot". If the goal is proving unit economics do not
+work, this corpus is the wrong model to copy — the firms in it are not finding those
+companies, and the one clear economic signal they do pick up is overhead and cash
+burn rather than the cost of the product itself. If the goal is finding a company
+that is about to be investigated, they are demonstrably good at it, and this is the
+measurement that says so.
+
+Read the 3.8× with one caution held firmly. **A short report can cause the
+investigation it appears to predict** — regulators read these, and a public
+allegation is itself a reason to open a file. Nothing in this data separates "found a
+company already under investigation" from "caused the investigation", and the two
+have completely different implications for anyone trying to do the same thing. That
+separation needs the date a file was *opened*, which is not public.
+
+## The two jackpots are different companies
+
+So the firms find the crime. The obvious next question is whether you could find it
+the same way they do — by reading the numbers. The obvious assumption is that the two
+jackpots arrive together, that the company cooking its books is the company whose
+margins look wrong. They do not. Of 41 targets whose
+pre-report margins can be read and whose three-year window has closed, the ones that
+went on to disclose an investigation had a **median operating margin of +17%**; the
+ones that did not, **−1%**. Visibly broken economics → investigated 2/21 = 10%;
+economics that looked fine → 5/20 = 25%.
+
+**Match the exposure or the comparison is fake.** A target attacked in 2014 has twelve
+years in which to disclose an investigation; one attacked in 2025 has months — and it
+is not random which is which. The targets whose economics were visibly broken have a
+median report year of 2022 against 2020 for the rest, so they carry two years less
+exposure, which on its own produces a lower rate. Counting "ever disclosed after"
+gave 11% against 33% at p = 0.09. A fixed three-year window gives 10% against 25% at
+p = 0.24. The first number was flattered by the clock.
+
+**A margin screen finds companies that are losing money, which is not the same set as
+companies that are committing crimes.** A company losing money in public is not hiding
+anything — its problem is on the face of the income statement and there is nothing to
+charge. The company worth investigating is the one reporting margins it should not be
+able to earn. Fraud has to look healthy; that is what makes it fraud.
+
+**None of this is significant and it should not be read as if it were.** Seven
+investigated companies is far too few. What the direction has going for it is
+stability rather than strength — it holds at every window tested:
+
+| window | broken economics | looked fine | p |
 | --- | --- | --- | --- |
-| Nasdaq | 41.9% | 55.8% | 1.3× |
-| NYSE | 31.7% | 42.3% | 1.3× |
-| **OTC** | **24.0%** | **1.9%** | **0.1×** |
+| 2 years | 4% | 24% | 0.09 |
+| 3 years | 10% | 25% | 0.24 |
+| 4 years | 19% | 31% | 0.69 |
+| 5 years | 17% | 31% | 0.66 |
 
-**Short sellers ignore OTC.** A quarter of US filers are there and one target in
-fifty. The mechanism is not in this corpus — plausibly that the stock cannot be
-borrowed, or that too little is held for a report to pay for itself.
+So the claim this supports is the negative one: **nothing here suggests bad numbers
+lead you to the crime, and the sign runs the other way in every window.** That is
+still worth knowing if you were about to build a margin screen. And disclosing an
+investigation is not being guilty of anything — the causation caution above applies
+here too.
 
-Nothing else here can answer what attracts a short seller, and that is a
-control-group problem rather than a missing-data one: it needs the same measurements
-on companies the firms passed over, and the free registries carry exchange and
-nothing else.
+The allegation itself predicts nothing here. Reports alleging a crime were followed by
+a disclosed investigation 28% of the time; reports not alleging one, 27%. **What a
+report claims tells you nothing about whether the company later concedes it.**
 
 ## What the targets have in common — and it is not distress
 
@@ -458,7 +633,16 @@ python artifacts/scripts/capture_access.py             # the 17-firm access cens
 python artifacts/scripts/tickers.py                    # extract, then validate_tickers.py
 python artifacts/scripts/capture_prices.py             # daily OHLCV for the targets
 python artifacts/scripts/capture_marketcap.py          # SEC share counts
+python artifacts/scripts/capture_control_firms.py       # 140 random non-targeted filers
+python artifacts/scripts/capture_outcomes.py           # 8-K item codes either side of the report
+python artifacts/scripts/capture_profiles.py           # SIC, owner office, filer class, state
+python artifacts/scripts/capture_jackpot.py            # XBRL unit economics + enforcement language
 python artifacts/scripts/build_manifest.py             # url + sha256 per resource
+
+# analysis — instant
+python artifacts/scripts/thesis.py                     # why each report says it is short
+python artifacts/scripts/selection.py                  # targets vs 140 controls, Bonferroni
+python artifacts/scripts/jackpot.py                    # broken economics and conceded investigations
 
 # figures — instant
 for f in artifacts/scripts/chart-*.py; do python "$f"; done
@@ -482,3 +666,32 @@ from; get a 404 and you know exactly what is gone.
   repeated *sentences* instead, after collapsing whitespace.
 - **A probe matching ~100% is matching the template.** Night Market read as 100%
   social-media citation because its navigation bar contains a link saying "Twitter".
+
+**Four more, specific to the SEC side:**
+
+- **XBRL tags drift within one company.** Riot files `GrossProfit` until 2016 and
+  `CostOfRevenue` until 2021; Nikola never files `Revenues` at all, only
+  `RevenueFromContractWithCustomerExcludingAssessedTax`. Every measure needs an alias
+  list, and `companyfacts` returns all 450 tags in one request where `companyconcept`
+  needs sixteen.
+- **A third of this corpus files IFRS, not US-GAAP, and in its own currency.** Aurora
+  Cannabis has no `us-gaap` namespace and reports in CAD; a USD-only, GAAP-only reader
+  drops it silently. Foreign targets are not a random subset — they are the ones short
+  sellers like most.
+- **Filter XBRL on the FILED date, not the period end.** A figure for 2013 filed in
+  2016 is the *restated* figure, which in a fraud study is the one number you must not
+  quietly substitute for what was public at the time.
+- **A margin needs a denominator worth dividing by.** Riot's last annual before
+  Hindenburg's report showed revenue of $9,416 — it was Bioptix, a biotech that had
+  just renamed itself — giving an operating margin of −669×. Arithmetically correct,
+  analytically meaningless, and it dominates any average it enters.
+
+**And two on EDGAR full-text search**, which is the only free route to enforcement
+language: scope it with `ciks=0001234567`, zero-padded — unpadded returns zero hits
+with no error. And choose phrases the company can only be saying about *itself*.
+`"Department of Justice"` returns 27 hits for AMETEK, every one inside an EX-10
+employment contract; restricting to 8-K/10-K/10-Q does not help, because EDGAR
+attributes an exhibit to its parent form. `"class action"` is worse than imprecise —
+a securities class action *follows* a stock drop, so counting it after a short report
+measures the report's own wake. `"Wells notice"`, `"grand jury"`, `"received a
+subpoena"` and `"formal order of investigation"` correctly score AMETEK at zero.
