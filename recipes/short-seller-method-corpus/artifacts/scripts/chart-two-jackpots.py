@@ -31,6 +31,20 @@ it should: median $47m, $217m and $2,600m across the three bands.
 **The middle band is thin and is drawn thin.** Eleven targets and ten controls, so its
 intervals swallow most of the panel. Do not read the dip; read the two ends.
 
+**The two series are dodged apart, not jittered.** Stacked on one x position their
+intervals overlapped and neither could be read. Random jitter would fix that by
+asserting x positions that do not exist -- there is no company sitting between
+"accelerated" and "large accelerated" -- so the offset is a fixed paired one and every
+mark still sits at a real value. A faint separator groups each pair back into its band.
+
+**Boxplots were the other candidate and do not survive the sample.** The crime axis is
+binary per company, so there is no distribution to box at all. The economics axis has
+one -- operating margin -- but four of its six cells hold between six and ten
+companies, and quartiles drawn from six points assert a precision that is not there.
+The tails make it worse: operating margin runs from -49x to +0.39 among small targets
+and cash burn from -93x to +27x, so any box would need clipping before it could be
+drawn. A rate with an interval says what the sample can support.
+
 **One caution on the crime panel that does not go away.** A short report can cause the
 investigation it appears to predict -- regulators read these, and a public allegation
 is itself a reason to open a file. Nothing here separates "found a company already
@@ -155,8 +169,17 @@ def main():
             if pi == 0:
                 s.append(txt(x0 - 10, y + 4, f"{g:.0%}", size=11, fill=MUTED,
                              anchor="end", tab=True))
+        # Targets and controls are DODGED, not jittered. Random jitter on an ordinal
+        # axis asserts x positions that do not exist -- there is no company "between"
+        # accelerated and large accelerated. A fixed paired offset separates the two
+        # series and every mark still sits at a real value.
         bx = [x0 + pw * (j + 0.5) / 3 for j in range(3)]
+        DODGE = 15
         for j, (b, thresh, med) in enumerate(BANDS):
+            if j:
+                sep = x0 + pw * j / 3
+                s.append(f'<line x1="{sep:.1f}" y1="{TOP - 4}" x2="{sep:.1f}" '
+                         f'y2="{TOP + ph + 8:.1f}" stroke="{RULE}" stroke-width="1"/>')
             s.append(txt(bx[j], TOP + ph + 22, b.replace(" ", "\n").split("\n")[0],
                          size=11, fill=INK2, anchor="middle"))
             s.append(txt(bx[j], TOP + ph + 36, med, size=11, fill=MUTED,
@@ -164,24 +187,24 @@ def main():
         # Lines connect because the x-axis is ordered by size: the connector asserts a
         # trend across size, which is exactly the claim each panel makes.
         for (ser, col, side) in ((sc, COOL, +1), (st, HOT, -1)):
-            pts = [(bx[j], sy(k / n)) for j, (k, n) in enumerate(ser) if n]
+            px = [b + side * DODGE for b in bx]
+            pts = [(px[j], sy(k / n)) for j, (k, n) in enumerate(ser) if n]
             s.append(f'<polyline points="{" ".join(f"{a:.1f},{b:.1f}" for a, b in pts)}" '
                      f'fill="none" stroke="{col}" stroke-width="2" stroke-opacity="0.5"/>')
             for j, (k, n) in enumerate(ser):
                 if not n:
                     continue
                 lo, hi = wilson(k, n)
-                s.append(f'<line x1="{bx[j]:.1f}" y1="{sy(lo):.1f}" x2="{bx[j]:.1f}" '
+                s.append(f'<line x1="{px[j]:.1f}" y1="{sy(lo):.1f}" x2="{px[j]:.1f}" '
                          f'y2="{sy(hi):.1f}" stroke="{col}" stroke-width="3" '
                          f'stroke-opacity="0.3" stroke-linecap="round"/>')
-                s.append(f'<circle cx="{bx[j]:.1f}" cy="{sy(k / n):.1f}" r="6" fill="{col}" '
+                s.append(f'<circle cx="{px[j]:.1f}" cy="{sy(k / n):.1f}" r="6" fill="{col}" '
                          f'stroke="{SURFACE}" stroke-width="2"/>')
-                # The two series can land within a few pixels -- 1/11 and 1/10 in the
-                # middle band overprinted. Push each label to its own side of the dot.
-                other = (st if col == COOL else sc)[j]
-                close = other[1] and abs(k / n - other[0] / other[1]) < 0.06
-                dy = (14 * side) if close else 4
-                s.append(txt(bx[j] + 11, sy(k / n) + dy, f"{k}/{n}", size=10.5, fill=col, tab=True))
+                # With the series dodged apart the labels follow them outward, so the
+                # count sits on the same side as its own track at every band.
+                lx = px[j] + (11 if side > 0 else -11)
+                s.append(txt(lx, sy(k / n) + 4, f"{k}/{n}", size=10.5, fill=col,
+                             anchor="start" if side > 0 else "end", tab=True))
         s.append(txt(x0 + pw / 2, TOP + ph + 56, "public float band", size=11.5,
                      fill=INK2, anchor="middle"))
 
