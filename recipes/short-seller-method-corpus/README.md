@@ -1,6 +1,6 @@
 # One short report in five is reproducible from public data. The rest needed someone to talk.
 
-**Published 2026-09-11** · fourteen figures, twenty-three scripts · source: six activist
+**Published 2026-09-11** · fifteen figures, twenty-four scripts · source: six activist
 short-selling firms, 273 first-look reports, 2.8M words, joined to daily prices for
 85 of them · no key, no account · **the sources are private companies and can delete
 any of this tomorrow**, so a capture manifest with a sha256 per resource — 728 rows
@@ -302,6 +302,27 @@ in the text of their own reports: **undisclosed related party 29%, paid promotio
 largest categories are about *who is behind the company*, not what the numbers say —
 and neither is in filing metadata, which is the same wall as the 67% that need a
 person.
+
+## When the market works it out
+
+![Before and after](artifacts/charts/before-and-after.svg)
+
+| window | later filed a restatement or delisting | did not |
+| --- | --- | --- |
+| the month **before** | **+0.9%** | −6.9% |
+| **the report itself** | **−2.8%** | **−2.7%** |
+| the month **after** | **−12.8%** | **+2.0%** |
+
+**On the day the two are indistinguishable.** A report that would be conceded in a
+filing within the year moved the stock a tenth of a point differently from one that
+would not. Over the next month they separate by fifteen points.
+
+And before the report, the doomed companies were the ones **holding up** while the
+eventual survivors were already sliding — backwards from intuition, and a reminder
+that a falling stock is not what a short seller is looking at.
+
+Size explains none of this: the correlation between log market cap and the
+post-report return is +0.03. **The separation is the outcome, not the position.**
 
 ## The one rule worth acting on
 
