@@ -55,11 +55,11 @@ tools who needs to know which half is automatable.
   emerging growth company is attacked at 0.2× and a non-accelerated filer at 0.4×,
   both surviving Bonferroni. Short sellers skip small and young companies; they do
   not hunt them.
-- **They find crimes at every size; broken businesses are what small looks like.** A
-  target discloses an investigation within three years at 22% against 6% for matched
-  controls — 4.0×, p = 0.002 — and the control rate is *flat* across a 55× size range.
-  On unit economics the control rate collapses with size, 83% → 20%, so the pooled
-  1.5× lift is the size mix, not the targeting.
+- **Crime does not slope with size; broken economics almost entirely is.** A target
+  discloses an investigation within three years at 22% against 6% for matched controls
+  — 4.0×, p = 0.002 — and neither group's crime rate moves measurably across a
+  thousandfold range of market value. Both economics slopes are steeply negative, so
+  the pooled 1.5× lift there is the size mix, not the targeting.
 - **This is not an industry that hunts bad business models.** 78% of reports allege a
   crime or accounting manipulation. 5% rest on broken unit economics alone. And
   targets have *better* gross margins than random filers, +41% against +28%.
@@ -373,7 +373,7 @@ One caution on reading any of this. A declared reason is what a firm chose to le
 with, which is a marketing decision as much as an analytical one. It is evidence of
 what the firm thought would land, not necessarily of what it actually found.
 
-## They find crimes at every size. Broken businesses are what small looks like.
+## Crime does not slope with size. Broken economics is almost entirely size.
 
 ![Two jackpots](artifacts/charts/two-jackpots.svg)
 
@@ -388,32 +388,47 @@ filers. Pooled across all sizes:
 | **a crime is being investigated** (within 3 years) | **13/59 = 22%** | **6/108 = 6%** | **4.0×** | **0.002** |
 | the business does not work (overhead or cash burn) | 30/61 = 49% | 19/58 = 33% | 1.5× | 0.093 |
 
-**But the pooled economics number is an artefact, and you can only see that with size
-on an axis.** Split by SEC filer class — the regulator's own public-float bands, which
-track float as they should at a median $47m, $217m and $2.6bn:
+Put size on the x-axis as a continuous variable — public float, every company its own
+point — and fit one logistic curve per group. The two axes behave in opposite ways:
 
-| public float band | crime: targets | controls | economics: targets | controls |
-| --- | --- | --- | --- | --- |
-| non-accelerated, ~$47m | 3/14 = 21% | 3/49 = **6%** | 10/10 = 100% | 5/6 = **83%** |
-| accelerated, ~$217m | 1/11 = 9% | 1/10 = **10%** | 7/10 = 70% | 6/8 = **75%** |
-| large accelerated, ~$2.6bn | 9/32 = 28% | 2/37 = **5%** | 12/39 = 31% | 8/41 = **20%** |
+| outcome ~ log10(public float) | slope per 10× | verdict |
+| --- | --- | --- |
+| crime, targets | +0.06 ± 0.31 | **no resolvable slope** |
+| crime, controls | +0.48 ± 0.27 | **no resolvable slope** |
+| broken economics, targets | −2.21 ± 0.61 | resolved, steep |
+| broken economics, controls | −0.95 ± 0.41 | resolved |
 
-Read the control column of each pair, because that is the world without short sellers
-in it. **On crime it is flat — 6%, 10%, 5% across a 55× range of company size.** Being
-large does not get you investigated. On economics it collapses — **83%, 75%, 20%.**
-Being small is most of what "the business does not work" measures.
+**Crime does not move with size for either group.** Targets carry 10 events in 39
+against 5 in 45 for controls, and that gap does not open or close across a
+thousandfold range of market value. Being targeted raises the rate; being large does
+not. **Broken economics is a size curve** — both groups fall steeply, the curves run
+close together, and a small company fails to cover its overhead or burns cash almost
+always, whether or not anybody shorted it. That is why the pooled 1.5× exists: targets
+skew large, controls skew small.
 
-So the two axes behave in opposite ways. Targets sit above the control line on crime
-at both ends, 21% vs 6% and 28% vs 5%. On economics the lines run together in every
-band and no band is significant: 1.2× (p = 0.38), 0.9× (p = 1.00), 1.6× (p = 0.31).
-The pooled 1.5× exists because targets skew large and controls skew small — the
-Bonferroni-surviving finding two sections up — not because targeted companies are more
-broken than their size-matched peers.
+**An earlier version of this section banded size into three filer classes, and the
+bands were manufacturing a shape.** The target crime rate read 21%, 9%, 28% — a
+U-shape that looks like a mechanism and is eleven companies in the middle bin. The
+fitted slope says there is nothing there: +0.06 with a standard error of 0.31. The
+banded numbers are not wrong, but three points invite a curve, and the curve was noise.
 
-**The middle band is 11 companies against 10 and its intervals swallow the panel.**
-Read the ends, not the dip. Dropping it would give a cleaner-looking crime result and
-that number is deliberately not quoted here, because choosing which band to drop after
-seeing the answer is how a forking path becomes a finding.
+**Why no spline, which is the obvious next question.** The binding constraint is the
+event count, not the axis. Ten crime events among targets and five among controls; at
+the usual ten-events-per-parameter that supports about one parameter, and the fit here
+already spends two. A three-knot spline is four parameters against five events, and it
+will draw a confident wiggle every time. The dashed lines in the crime panel are there
+for the same reason — where the slope cannot be told from zero, the drawn line is
+still a claim, and this one bends: the control curve climbs toward 60% on five events
+that all sit between $800m and $16bn, with none above or below.
+
+**Why public float and not total assets.** Assets covers more companies and is unusable
+for this. It is reported in the filer's own currency — Nomura enters at 62.6 trillion,
+which is yen — and for a bank it is the loan book, so Bank of America outweighs every
+industrial in the corpus by two orders of magnitude. `EntityPublicFloat` is a US
+regulatory disclosure: always USD, always market value. It costs coverage, because
+foreign private issuers do not file it, which is 21 of 76 targets. Run on assets the
+same fits give the same signs and the same verdicts, so the conclusion survives the
+swap even though the axis does not.
 
 The component measures point the same way, and one says it loudly: **targets have
 better gross margins than random filers.** Median +41% against +28%, with negative
@@ -423,7 +438,7 @@ up is overhead and financing, not the unit.
 
 So if the goal is proving unit economics do not work, **this corpus is the wrong model
 to copy.** The firms in it are not finding those companies; they are finding companies
-about to be investigated, and they do that at every size.
+about to be investigated, and they do it at every size.
 
 **Exposure has to be matched on the crime axis or the clock decides the answer.** A
 target attacked in 2014 has twelve years in which to disclose an investigation; one
@@ -716,6 +731,10 @@ from; get a 404 and you know exactly what is gone.
 - **Filter XBRL on the FILED date, not the period end.** A figure for 2013 filed in
   2016 is the *restated* figure, which in a fraud study is the one number you must not
   quietly substitute for what was public at the time.
+- **XBRL values carry their filer's own currency.** `Assets` put Nomura in the data at
+  62.6 trillion — yen — and nothing flagged it. Read `units["USD"]` explicitly rather
+  than taking whichever unit comes first, and remember that for a bank `Assets` is the
+  loan book, not a size comparable to an industrial's.
 - **Public float looks like a free market-cap axis and is not, for this corpus.**
   `dei:EntityPublicFloat` is 2-4 KB per company against 2 MB for `companyfacts`, so it
   is cheap to try — but foreign private issuers do not file it. 21 of 76 targets 404,

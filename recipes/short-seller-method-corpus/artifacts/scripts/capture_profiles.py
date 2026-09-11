@@ -47,15 +47,19 @@ def get(url):
 
 
 def concept_at(cik, tag, before):
-    """The most recent reported value dated on or before `before`."""
+    """The most recent USD value dated on or before `before`.
+
+    **The unit matters and is not optional.** An earlier version took whatever unit
+    came first, which put Nomura Holdings into the file at 62.6 trillion -- yen, not
+    dollars, and about $400bn in reality. Any size axis built on that is wrong by two
+    orders of magnitude for exactly the foreign filers this corpus is full of. Non-USD
+    units are now refused rather than silently mixed in.
+    """
     d = get(f"https://data.sec.gov/api/xbrl/companyconcept/CIK{cik:010d}/us-gaap/{tag}.json")
     if not d:
         return None
-    vals = []
-    for unit, rows in d.get("units", {}).items():
-        for r in rows:
-            if r.get("end") and (before is None or r["end"] <= before) and r.get("val") is not None:
-                vals.append((r["end"], r["val"]))
+    vals = [(r["end"], r["val"]) for r in d.get("units", {}).get("USD", [])
+            if r.get("end") and (before is None or r["end"] <= before) and r.get("val") is not None]
     return max(vals)[1] if vals else None
 
 

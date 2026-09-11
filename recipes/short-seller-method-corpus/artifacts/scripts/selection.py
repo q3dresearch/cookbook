@@ -56,6 +56,38 @@ def fisher(a, b, c, d):
     return min(1.0, sum(pr(x) for x in range(lo, hi + 1) if pr(x) <= obs * 1.0000001))
 
 
+def logistic(x, y):
+    """IRLS fit of y ~ 1 + x. Returns (beta, covariance) or None if it will not fit.
+
+    Kept here beside wilson and fisher because it answers the same kind of question
+    with one more parameter: not "do these two rates differ" but "does this rate move
+    with a continuous variable". Two parameters is the ceiling this corpus supports --
+    the crime axis has six events among controls, and the usual rule of ten events per
+    parameter would allow less than one. A spline is not an option at that count.
+    """
+    import numpy as np
+    X = np.column_stack([np.ones(len(x)), np.asarray(x, float)])
+    y = np.asarray(y, float)
+    if len(y) < 5 or not 0 < y.sum() < len(y):
+        return None
+    b = np.zeros(2)
+    for _ in range(80):
+        p = 1 / (1 + np.exp(-X @ b))
+        W = np.clip(p * (1 - p), 1e-9, None)
+        try:
+            step = np.linalg.solve(X.T @ (X * W[:, None]), X.T @ (y - p))
+        except np.linalg.LinAlgError:
+            return None
+        b = b + step
+        if np.max(np.abs(step)) < 1e-10:
+            break
+    try:
+        cov = np.linalg.inv(X.T @ (X * W[:, None]))
+    except np.linalg.LinAlgError:
+        return None
+    return b, cov
+
+
 def compare_flag(name, label, tflags, cflags, tests):
     """One yes/no attribute. The 'no' side is the denominator, not a missing value."""
     a, tn = sum(label in f for f in tflags), len(tflags)
