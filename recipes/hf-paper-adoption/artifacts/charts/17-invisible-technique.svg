@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="658" viewBox="0 0 940 658"><rect width="940" height="658" fill="#fcfcfb"/>
+<text x="28.0" y="42.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="">A technique can be universal and still register once</text>
+<text x="28.0" y="66.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#52514e" text-anchor="start" font-weight="normal" style="">Papers cited by a top-1,000 model, by how many independent organisations name them.</text>
+<line x1="92" y1="490.0" x2="640.0" y2="490.0" stroke="#0b0b0b" stroke-width="1.3"/>
+<text x="82.0" y="494.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums;">0</text>
+<line x1="92" y1="418.4" x2="640.0" y2="418.4" stroke="#e1e0d9" stroke-width="1"/>
+<text x="82.0" y="422.4" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums;">100</text>
+<line x1="92" y1="346.8" x2="640.0" y2="346.8" stroke="#e1e0d9" stroke-width="1"/>
+<text x="82.0" y="350.8" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums;">200</text>
+<line x1="92" y1="275.3" x2="640.0" y2="275.3" stroke="#e1e0d9" stroke-width="1"/>
+<text x="82.0" y="279.3" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums;">300</text>
+<rect x="109.5" y="470.0" width="74.5" height="20.0" rx="2" fill="#b03a2e" fill-opacity="0.85"/>
+<text x="146.8" y="462.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#b03a2e" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">28</text>
+<text x="146.8" y="510.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#0b0b0b" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums;">0</text>
+<rect x="219.1" y="217.3" width="74.5" height="272.7" rx="2" fill="#b03a2e" fill-opacity="0.85"/>
+<text x="256.4" y="209.3" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#b03a2e" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">381</text>
+<text x="256.4" y="510.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#0b0b0b" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums;">1</text>
+<rect x="328.7" y="477.8" width="74.5" height="12.2" rx="2" fill="#1b4f8a" fill-opacity="0.85"/>
+<text x="366.0" y="469.8" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#1b4f8a" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">17</text>
+<text x="366.0" y="510.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#0b0b0b" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums;">2</text>
+<rect x="438.3" y="487.9" width="74.5" height="2.1" rx="2" fill="#1b4f8a" fill-opacity="0.85"/>
+<text x="475.6" y="479.9" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#1b4f8a" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">3</text>
+<text x="475.6" y="510.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#0b0b0b" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums;">3</text>
+<rect x="547.9" y="489.3" width="74.5" height="0.7" rx="2" fill="#1b4f8a" fill-opacity="0.85"/>
+<text x="585.2" y="481.3" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#1b4f8a" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">1</text>
+<text x="585.2" y="510.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#0b0b0b" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums;">10</text>
+<text x="366.0" y="534.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#52514e" text-anchor="middle" font-weight="normal" style="">independent organisations naming the paper</text>
+<text x="366.0" y="550.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="9.5" fill="#898781" text-anchor="middle" font-weight="normal" style="">categorical — only these counts occur, so the gap between 3 and 10 is not a distance</text>
+<text x="82.0" y="146.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#52514e" text-anchor="start" font-weight="normal" style="">papers, of the 430 that any top-1,000 model cites</text>
+<text x="82.0" y="164.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#b03a2e" text-anchor="start" font-weight="normal" style="">409 of 430 — 95% — are named by one organisation or none: the lab citing itself</text>
+<text x="662.0" y="200.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="">where the famous ones land</text>
+<text x="662.0" y="220.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#b03a2e" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums;">1</text>
+<text x="682.0" y="220.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="">LoRA</text>
+<text x="682.0" y="234.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="9.5" fill="#898781" text-anchor="start" font-weight="normal" style="">plausibly the most-used</text>
+<text x="682.0" y="250.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="9.5" fill="#898781" text-anchor="start" font-weight="normal" style="">technique in the ecosystem</text>
+<text x="662.0" y="274.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#1b4f8a" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums;">10</text>
+<text x="682.0" y="274.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="">carbon-emissions boilerplate</text>
+<text x="682.0" y="288.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="9.5" fill="#898781" text-anchor="start" font-weight="normal" style="">a model-card template field,</text>
+<text x="682.0" y="304.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="9.5" fill="#898781" text-anchor="start" font-weight="normal" style="">not an implementation</text>
+<text x="662.0" y="328.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#1b4f8a" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums;">2</text>
+<text x="682.0" y="328.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="">BERT</text>
+<text x="662.0" y="350.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#1b4f8a" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums;">3</text>
+<text x="682.0" y="350.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="">ViT</text>
+<text x="662.0" y="372.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#1b4f8a" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums;">3</text>
+<text x="682.0" y="372.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="">RoBERTa</text>
+<text x="662.0" y="394.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#1b4f8a" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums;">2</text>
+<text x="682.0" y="394.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="">ResNet</text>
+<line x1="28" y1="575.0" x2="912.0" y2="575.0" stroke="#ebeae3" stroke-width="1"/>
+<text x="28.0" y="595.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="">95% of cited papers reach one organisation or none. An arXiv tag is overwhelmingly a lab citing its own paper.</text>
+<text x="28.0" y="610.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">LoRA sits in the '1' bar, indistinguishable from a paper nobody has heard of: its adapters are long-tail so they miss the download head, and a LoRA finetune rarely cites the LoRA paper.</text>
+<text x="28.0" y="625.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">The carbon-emissions paper sits high not because anyone implemented it but because it is a field in Hugging Face's model-card template.</text>
+<text x="28.0" y="640.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">So this measures which papers the uploaders of already-popular models chose to name. A technique can be universal and invisible here.</text>
+</svg>

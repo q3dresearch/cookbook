@@ -1,0 +1,160 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="704" viewBox="0 0 940 704"><rect width="940" height="704" fill="#fcfcfb"/>
+<text x="28.0" y="42.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="">A new idea has never once arrived from a single group</text>
+<text x="28.0" y="66.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#52514e" text-anchor="start" font-weight="normal" style="">Every keyword that goes from absent to 0.3% of a quarter, by how many papers carried it in that first quarter and how many</text>
+<text x="28.0" y="82.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#52514e" text-anchor="start" font-weight="normal" style="">distinct author groups wrote them.</text>
+<line x1="258.0" y1="164.0" x2="258.0" y2="572.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="258.0" y="156.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums;">0</text>
+<line x1="369.9" y1="164.0" x2="369.9" y2="572.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="369.9" y="156.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums;">5</text>
+<line x1="481.8" y1="164.0" x2="481.8" y2="572.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="481.8" y="156.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums;">10</text>
+<line x1="593.7" y1="164.0" x2="593.7" y2="572.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="593.7" y="156.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums;">15</text>
+<line x1="705.6" y1="164.0" x2="705.6" y2="572.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="705.6" y="156.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums;">20</text>
+<text x="258.0" y="134.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#52514e" text-anchor="start" font-weight="normal" style="">papers carrying the keyword in its very first quarter</text>
+<text x="28.0" y="134.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#b03a2e" text-anchor="start" font-weight="600" style="">a vendor shipped</text>
+<text x="28.0" y="148.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#1b4f8a" text-anchor="start" font-weight="600" style="">a technique appeared</text>
+<line x1="258" y1="181.0" x2="683.2" y2="181.0" stroke="#b03a2e" stroke-width="8" stroke-opacity="0.22" stroke-linecap="round"/>
+<circle cx="269.2" cy="181.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="291.6" cy="181.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="314.0" cy="181.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="336.3" cy="181.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="358.7" cy="181.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="381.1" cy="181.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="403.5" cy="181.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="425.9" cy="181.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="448.2" cy="181.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="470.6" cy="181.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="493.0" cy="181.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="515.4" cy="181.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="537.8" cy="181.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="560.1" cy="181.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="582.5" cy="181.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="604.9" cy="181.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="627.3" cy="181.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="649.7" cy="181.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="672.0" cy="181.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<text x="242.0" y="186.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">gpt-4v</text>
+<text x="697.2" y="186.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#b03a2e" text-anchor="start" font-weight="600" style="">19 papers</text>
+<text x="697.2" y="199.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">19 distinct groups</text>
+<text x="242.0" y="199.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="end" font-weight="normal" style="">2023Q4</text>
+<line x1="258" y1="227.0" x2="638.5" y2="227.0" stroke="#b03a2e" stroke-width="8" stroke-opacity="0.22" stroke-linecap="round"/>
+<circle cx="269.2" cy="227.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="291.6" cy="227.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="314.0" cy="227.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="336.3" cy="227.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="358.7" cy="227.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="381.1" cy="227.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="403.5" cy="227.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="425.9" cy="227.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="448.2" cy="227.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="470.6" cy="227.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="493.0" cy="227.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="515.4" cy="227.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="537.8" cy="227.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="560.1" cy="227.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="582.5" cy="227.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="604.9" cy="227.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="627.3" cy="227.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<text x="242.0" y="232.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">deepseek-r1</text>
+<text x="652.5" y="232.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#b03a2e" text-anchor="start" font-weight="600" style="">17 papers</text>
+<text x="652.5" y="245.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">17 distinct groups</text>
+<text x="242.0" y="245.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="end" font-weight="normal" style="">2025Q1</text>
+<line x1="258" y1="273.0" x2="481.8" y2="273.0" stroke="#1b4f8a" stroke-width="8" stroke-opacity="0.22" stroke-linecap="round"/>
+<circle cx="269.2" cy="273.0" r="3.6" fill="#1b4f8a" fill-opacity="0.9"/>
+<circle cx="291.6" cy="273.0" r="3.6" fill="#1b4f8a" fill-opacity="0.9"/>
+<circle cx="314.0" cy="273.0" r="3.6" fill="#1b4f8a" fill-opacity="0.9"/>
+<circle cx="336.3" cy="273.0" r="3.6" fill="#1b4f8a" fill-opacity="0.9"/>
+<circle cx="358.7" cy="273.0" r="3.6" fill="#1b4f8a" fill-opacity="0.9"/>
+<circle cx="381.1" cy="273.0" r="3.6" fill="#1b4f8a" fill-opacity="0.9"/>
+<circle cx="403.5" cy="273.0" r="3.6" fill="#1b4f8a" fill-opacity="0.9"/>
+<circle cx="425.9" cy="273.0" r="3.6" fill="#1b4f8a" fill-opacity="0.9"/>
+<circle cx="448.2" cy="273.0" r="3.6" fill="#1b4f8a" fill-opacity="0.9"/>
+<circle cx="470.6" cy="273.0" r="3.6" fill="#1b4f8a" fill-opacity="0.9"/>
+<text x="242.0" y="278.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">large reasoning models</text>
+<text x="495.8" y="278.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#1b4f8a" text-anchor="start" font-weight="600" style="">10 papers</text>
+<text x="495.8" y="291.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">10 distinct groups</text>
+<text x="242.0" y="291.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="end" font-weight="normal" style="">2025Q1</text>
+<line x1="258" y1="319.0" x2="459.4" y2="319.0" stroke="#1b4f8a" stroke-width="8" stroke-opacity="0.22" stroke-linecap="round"/>
+<circle cx="269.2" cy="319.0" r="3.6" fill="#1b4f8a" fill-opacity="0.9"/>
+<circle cx="291.6" cy="319.0" r="3.6" fill="#1b4f8a" fill-opacity="0.9"/>
+<circle cx="314.0" cy="319.0" r="3.6" fill="#1b4f8a" fill-opacity="0.9"/>
+<circle cx="336.3" cy="319.0" r="3.6" fill="#1b4f8a" fill-opacity="0.9"/>
+<circle cx="358.7" cy="319.0" r="3.6" fill="#1b4f8a" fill-opacity="0.9"/>
+<circle cx="381.1" cy="319.0" r="3.6" fill="#1b4f8a" fill-opacity="0.9"/>
+<circle cx="403.5" cy="319.0" r="3.6" fill="#1b4f8a" fill-opacity="0.9"/>
+<circle cx="425.9" cy="319.0" r="3.6" fill="#1b4f8a" fill-opacity="0.9"/>
+<circle cx="448.2" cy="319.0" r="3.6" fill="#1b4f8a" fill-opacity="0.9"/>
+<text x="242.0" y="324.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">reinforcement fine-tuning</text>
+<text x="473.4" y="324.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#1b4f8a" text-anchor="start" font-weight="600" style="">9 papers</text>
+<text x="473.4" y="337.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">9 distinct groups</text>
+<text x="242.0" y="337.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="end" font-weight="normal" style="">2025Q2</text>
+<line x1="258" y1="365.0" x2="459.4" y2="365.0" stroke="#1b4f8a" stroke-width="8" stroke-opacity="0.22" stroke-linecap="round"/>
+<circle cx="269.2" cy="365.0" r="3.6" fill="#1b4f8a" fill-opacity="0.9"/>
+<circle cx="291.6" cy="365.0" r="3.6" fill="#1b4f8a" fill-opacity="0.9"/>
+<circle cx="314.0" cy="365.0" r="3.6" fill="#1b4f8a" fill-opacity="0.9"/>
+<circle cx="336.3" cy="365.0" r="3.6" fill="#1b4f8a" fill-opacity="0.9"/>
+<circle cx="358.7" cy="365.0" r="3.6" fill="#1b4f8a" fill-opacity="0.9"/>
+<circle cx="381.1" cy="365.0" r="3.6" fill="#1b4f8a" fill-opacity="0.9"/>
+<circle cx="403.5" cy="365.0" r="3.6" fill="#1b4f8a" fill-opacity="0.9"/>
+<circle cx="425.9" cy="365.0" r="3.6" fill="#1b4f8a" fill-opacity="0.9"/>
+<circle cx="448.2" cy="365.0" r="3.6" fill="#1b4f8a" fill-opacity="0.9"/>
+<text x="242.0" y="370.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">3d gaussian splatting</text>
+<text x="473.4" y="370.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#1b4f8a" text-anchor="start" font-weight="600" style="">9 papers</text>
+<text x="473.4" y="383.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">9 distinct groups</text>
+<text x="242.0" y="383.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="end" font-weight="normal" style="">2023Q4</text>
+<line x1="258" y1="411.0" x2="437.0" y2="411.0" stroke="#b03a2e" stroke-width="8" stroke-opacity="0.22" stroke-linecap="round"/>
+<circle cx="269.2" cy="411.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="291.6" cy="411.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="314.0" cy="411.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="336.3" cy="411.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="358.7" cy="411.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="381.1" cy="411.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="403.5" cy="411.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="425.9" cy="411.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<text x="242.0" y="416.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">gpt-4o</text>
+<text x="451.0" y="416.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#b03a2e" text-anchor="start" font-weight="600" style="">8 papers</text>
+<text x="451.0" y="429.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">8 distinct groups</text>
+<text x="242.0" y="429.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="end" font-weight="normal" style="">2024Q2</text>
+<line x1="258" y1="457.0" x2="414.7" y2="457.0" stroke="#1b4f8a" stroke-width="8" stroke-opacity="0.22" stroke-linecap="round"/>
+<circle cx="269.2" cy="457.0" r="3.6" fill="#1b4f8a" fill-opacity="0.9"/>
+<circle cx="291.6" cy="457.0" r="3.6" fill="#1b4f8a" fill-opacity="0.9"/>
+<circle cx="314.0" cy="457.0" r="3.6" fill="#1b4f8a" fill-opacity="0.9"/>
+<circle cx="336.3" cy="457.0" r="3.6" fill="#1b4f8a" fill-opacity="0.9"/>
+<circle cx="358.7" cy="457.0" r="3.6" fill="#1b4f8a" fill-opacity="0.9"/>
+<circle cx="381.1" cy="457.0" r="3.6" fill="#1b4f8a" fill-opacity="0.9"/>
+<circle cx="403.5" cy="457.0" r="3.6" fill="#1b4f8a" fill-opacity="0.9"/>
+<text x="242.0" y="462.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">math-500</text>
+<text x="428.7" y="462.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#1b4f8a" text-anchor="start" font-weight="600" style="">7 papers</text>
+<text x="428.7" y="475.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">7 distinct groups</text>
+<text x="242.0" y="475.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="end" font-weight="normal" style="">2025Q1</text>
+<line x1="258" y1="503.0" x2="392.3" y2="503.0" stroke="#1b4f8a" stroke-width="8" stroke-opacity="0.22" stroke-linecap="round"/>
+<circle cx="269.2" cy="503.0" r="3.6" fill="#1b4f8a" fill-opacity="0.9"/>
+<circle cx="291.6" cy="503.0" r="3.6" fill="#1b4f8a" fill-opacity="0.9"/>
+<circle cx="314.0" cy="503.0" r="3.6" fill="#1b4f8a" fill-opacity="0.9"/>
+<circle cx="336.3" cy="503.0" r="3.6" fill="#1b4f8a" fill-opacity="0.9"/>
+<circle cx="358.7" cy="503.0" r="3.6" fill="#1b4f8a" fill-opacity="0.9"/>
+<circle cx="381.1" cy="503.0" r="3.6" fill="#1b4f8a" fill-opacity="0.9"/>
+<text x="242.0" y="508.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">group relative policy optimiza</text>
+<text x="406.3" y="508.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#1b4f8a" text-anchor="start" font-weight="600" style="">6 papers</text>
+<text x="406.3" y="521.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">6 distinct groups</text>
+<text x="242.0" y="521.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="end" font-weight="normal" style="">2025Q1</text>
+<line x1="258" y1="549.0" x2="392.3" y2="549.0" stroke="#b03a2e" stroke-width="8" stroke-opacity="0.22" stroke-linecap="round"/>
+<circle cx="269.2" cy="549.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="291.6" cy="549.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="314.0" cy="549.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="336.3" cy="549.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="358.7" cy="549.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<circle cx="381.1" cy="549.0" r="3.6" fill="#b03a2e" fill-opacity="0.9"/>
+<text x="242.0" y="554.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">gpt-5</text>
+<text x="406.3" y="554.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#b03a2e" text-anchor="start" font-weight="600" style="">6 papers</text>
+<text x="406.3" y="567.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">6 distinct groups</text>
+<text x="242.0" y="567.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="end" font-weight="normal" style="">2025Q3</text>
+<line x1="28" y1="606.0" x2="912.0" y2="606.0" stroke="#ebeae3" stroke-width="1"/>
+<text x="28.0" y="626.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="">One dot is one paper. In 9 of 9 terms every paper comes from a different author group — no group publishes twice in the quarter a term appears.</text>
+<text x="28.0" y="641.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">ORANGE is a vendor shipping and everyone evaluating it — weeks of work, not held research. BLUE is a technique, the case that would support hoarding.</text>
+<text x="28.0" y="656.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">And the blue cases diffuse slowly. GRPO's originating paper is 2024-02; the keyword does not cross 0.3% until 2025Q1, about a year later.</text>
+<text x="28.0" y="671.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">Every test here sits inside the published set. Work never shipped and never written up is invisible by construction,</text>
+<text x="28.0" y="686.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">so the strong 'tip of the iceberg' claim is not falsifiable with this data, and is not claimed either way.</text>
+</svg>

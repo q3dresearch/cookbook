@@ -1,0 +1,2 @@
+run_date,method_version,papers_cited,papers_2plus_independent_orgs,feed_papers,feed_papers_named_by_a_model,feed_papers_2plus_independent_orgs,median_lag_months_paper_first,top10pct_upvotes_capture,note
+2026-09-14,3.0.0,430,21,15890,127,2,21,0.5616,"promotion audit: renamed to hf-paper-adoption; 4 answers retracted (Q19 cause, Q23, Q25, Q29); arXiv corpus re-fetched; 20 figures; every number re-derived by verify.py"

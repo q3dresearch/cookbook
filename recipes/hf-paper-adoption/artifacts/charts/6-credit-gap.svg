@@ -1,0 +1,255 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1010" height="1066" viewBox="0 0 1010 1066"><rect width="1010" height="1066" fill="#fcfcfb"/>
+<text x="28.0" y="42.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="">The field's canon, and the part an adoption metric can credit</text>
+<text x="28.0" y="66.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#52514e" text-anchor="start" font-weight="normal" style="">The most-depended-on papers across 424 recovered bibliographies, scored on independent organisations naming them on a model</text>
+<text x="28.0" y="82.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#52514e" text-anchor="start" font-weight="normal" style="">card — derivatives and same-company namespaces removed.</text>
+<line x1="268.0" y1="144.0" x2="268.0" y2="916.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="268.0" y="136.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums;">0</text>
+<line x1="431.5" y1="144.0" x2="431.5" y2="916.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="431.5" y="136.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums;">50</text>
+<line x1="595.0" y1="144.0" x2="595.0" y2="916.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="595.0" y="136.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums;">100</text>
+<line x1="758.6" y1="144.0" x2="758.6" y2="916.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="758.6" y="136.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums;">150</text>
+<text x="268.0" y="112.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#52514e" text-anchor="start" font-weight="normal" style="">bibliographies citing it   (of 424)</text>
+<text x="856.0" y="112.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#52514e" text-anchor="start" font-weight="normal" style="">independent orgs</text>
+<text x="856.0" y="128.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#52514e" text-anchor="start" font-weight="normal" style="">naming it</text>
+<text x="28.0" y="178.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="600" style="">INFRASTRUCTURE: OPTIMIZERS, LIBRARIES, TRAINING RECIPES</text>
+<line x1="28" y1="185.0" x2="982" y2="185.0" stroke="#ebeae3" stroke-width="1"/>
+<text x="254.0" y="207.2" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">Attention Is All You Need</text>
+<line x1="268" y1="203.2" x2="807.6" y2="203.2" stroke="#b03a2e" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="807.6" cy="203.2" r="4.6" fill="#b03a2e" fill-opacity="0.25" stroke="#b03a2e" stroke-width="1.5"/>
+<text x="818.6" y="207.2" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">165</text>
+<text x="874.0" y="207.2" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#b03a2e" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">0</text>
+<text x="254.0" y="222.4" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">AdamW</text>
+<line x1="268" y1="218.4" x2="506.7" y2="218.4" stroke="#b03a2e" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="506.7" cy="218.4" r="4.6" fill="#b03a2e" fill-opacity="0.25" stroke="#b03a2e" stroke-width="1.5"/>
+<text x="517.7" y="222.4" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">73</text>
+<text x="874.0" y="222.4" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#b03a2e" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">0</text>
+<text x="254.0" y="237.6" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">Adam</text>
+<line x1="268" y1="233.6" x2="408.6" y2="233.6" stroke="#b03a2e" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="408.6" cy="233.6" r="4.6" fill="#b03a2e" fill-opacity="0.25" stroke="#b03a2e" stroke-width="1.5"/>
+<text x="419.6" y="237.6" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">43</text>
+<text x="874.0" y="237.6" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#b03a2e" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">0</text>
+<text x="254.0" y="252.8" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">Transformers (library)</text>
+<line x1="268" y1="248.8" x2="398.8" y2="248.8" stroke="#b03a2e" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="398.8" cy="248.8" r="4.6" fill="#b03a2e" fill-opacity="0.25" stroke="#b03a2e" stroke-width="1.5"/>
+<text x="409.8" y="252.8" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">40</text>
+<text x="874.0" y="252.8" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#b03a2e" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">0</text>
+<text x="254.0" y="268.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">InstructGPT / RLHF</text>
+<line x1="268" y1="264.0" x2="389.0" y2="264.0" stroke="#b03a2e" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="389.0" cy="264.0" r="4.6" fill="#b03a2e" fill-opacity="0.25" stroke="#b03a2e" stroke-width="1.5"/>
+<text x="400.0" y="268.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">37</text>
+<text x="874.0" y="268.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#b03a2e" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">0</text>
+<text x="254.0" y="283.2" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">BPE subword units</text>
+<line x1="268" y1="279.2" x2="385.7" y2="279.2" stroke="#b03a2e" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="385.7" cy="279.2" r="4.6" fill="#b03a2e" fill-opacity="0.25" stroke="#b03a2e" stroke-width="1.5"/>
+<text x="396.7" y="283.2" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">36</text>
+<text x="874.0" y="283.2" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#b03a2e" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">0</text>
+<text x="254.0" y="298.4" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">Chain-of-thought</text>
+<line x1="268" y1="294.4" x2="379.2" y2="294.4" stroke="#b03a2e" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="379.2" cy="294.4" r="4.6" fill="#b03a2e" fill-opacity="0.25" stroke="#b03a2e" stroke-width="1.5"/>
+<text x="390.2" y="298.4" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">34</text>
+<text x="874.0" y="298.4" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#b03a2e" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">0</text>
+<text x="254.0" y="313.6" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">Scaling laws</text>
+<line x1="268" y1="309.6" x2="369.4" y2="309.6" stroke="#b03a2e" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="369.4" cy="309.6" r="4.6" fill="#b03a2e" fill-opacity="0.25" stroke="#b03a2e" stroke-width="1.5"/>
+<text x="380.4" y="313.6" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">31</text>
+<text x="874.0" y="313.6" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#b03a2e" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">0</text>
+<text x="254.0" y="328.8" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">Chinchilla</text>
+<line x1="268" y1="324.8" x2="366.1" y2="324.8" stroke="#b03a2e" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="366.1" cy="324.8" r="4.6" fill="#b03a2e" fill-opacity="0.25" stroke="#b03a2e" stroke-width="1.5"/>
+<text x="377.1" y="328.8" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">30</text>
+<text x="874.0" y="328.8" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#b03a2e" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">0</text>
+<text x="254.0" y="344.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">PyTorch</text>
+<line x1="268" y1="340.0" x2="366.1" y2="340.0" stroke="#b03a2e" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="366.1" cy="340.0" r="4.6" fill="#b03a2e" fill-opacity="0.25" stroke="#b03a2e" stroke-width="1.5"/>
+<text x="377.1" y="344.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">30</text>
+<text x="874.0" y="344.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#b03a2e" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">0</text>
+<text x="28.0" y="366.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="600" style="">BENCHMARKS AND DATASETS</text>
+<line x1="28" y1="373.0" x2="982" y2="373.0" stroke="#ebeae3" stroke-width="1"/>
+<text x="254.0" y="395.2" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="">MMLU</text>
+<line x1="268" y1="391.2" x2="444.6" y2="391.2" stroke="#1b4f8a" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="444.6" cy="391.2" r="4.6" fill="#1b4f8a" fill-opacity="0.9" stroke="#1b4f8a" stroke-width="1.5"/>
+<text x="455.6" y="395.2" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">54</text>
+<text x="874.0" y="395.2" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#1b4f8a" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">1</text>
+<text x="886.0" y="395.2" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="start" font-weight="normal" style="">google</text>
+<text x="254.0" y="410.4" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="">HumanEval</text>
+<line x1="268" y1="406.4" x2="428.3" y2="406.4" stroke="#1b4f8a" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="428.3" cy="406.4" r="4.6" fill="#1b4f8a" fill-opacity="0.9" stroke="#1b4f8a" stroke-width="1.5"/>
+<text x="439.3" y="410.4" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">49</text>
+<text x="874.0" y="410.4" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#1b4f8a" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">1</text>
+<text x="886.0" y="410.4" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="start" font-weight="normal" style="">google</text>
+<text x="254.0" y="425.6" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">MS COCO</text>
+<line x1="268" y1="421.6" x2="411.9" y2="421.6" stroke="#b03a2e" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="411.9" cy="421.6" r="4.6" fill="#b03a2e" fill-opacity="0.25" stroke="#b03a2e" stroke-width="1.5"/>
+<text x="422.9" y="425.6" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">44</text>
+<text x="874.0" y="425.6" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#b03a2e" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">0</text>
+<text x="254.0" y="440.8" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">GLUE</text>
+<line x1="268" y1="436.8" x2="408.6" y2="436.8" stroke="#b03a2e" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="408.6" cy="436.8" r="4.6" fill="#b03a2e" fill-opacity="0.25" stroke="#b03a2e" stroke-width="1.5"/>
+<text x="419.6" y="440.8" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">43</text>
+<text x="874.0" y="440.8" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#b03a2e" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">0</text>
+<text x="254.0" y="456.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="">MATH</text>
+<line x1="268" y1="452.0" x2="408.6" y2="452.0" stroke="#1b4f8a" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="408.6" cy="452.0" r="4.6" fill="#1b4f8a" fill-opacity="0.9" stroke="#1b4f8a" stroke-width="1.5"/>
+<text x="419.6" y="456.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">43</text>
+<text x="874.0" y="456.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#1b4f8a" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">1</text>
+<text x="886.0" y="456.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="start" font-weight="normal" style="">google</text>
+<text x="254.0" y="471.2" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="">GSM8K</text>
+<line x1="268" y1="467.2" x2="395.5" y2="467.2" stroke="#1b4f8a" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="395.5" cy="467.2" r="4.6" fill="#1b4f8a" fill-opacity="0.9" stroke="#1b4f8a" stroke-width="1.5"/>
+<text x="406.5" y="471.2" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">39</text>
+<text x="874.0" y="471.2" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#1b4f8a" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">1</text>
+<text x="886.0" y="471.2" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="start" font-weight="normal" style="">google</text>
+<text x="254.0" y="486.4" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="">SQuAD</text>
+<line x1="268" y1="482.4" x2="389.0" y2="482.4" stroke="#1b4f8a" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="389.0" cy="482.4" r="4.6" fill="#1b4f8a" fill-opacity="0.9" stroke="#1b4f8a" stroke-width="1.5"/>
+<text x="400.0" y="486.4" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">37</text>
+<text x="874.0" y="486.4" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#1b4f8a" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">1</text>
+<text x="886.0" y="486.4" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="start" font-weight="normal" style="">google</text>
+<text x="254.0" y="501.6" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">ARC</text>
+<line x1="268" y1="497.6" x2="389.0" y2="497.6" stroke="#b03a2e" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="389.0" cy="497.6" r="4.6" fill="#b03a2e" fill-opacity="0.25" stroke="#b03a2e" stroke-width="1.5"/>
+<text x="400.0" y="501.6" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">37</text>
+<text x="874.0" y="501.6" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#b03a2e" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">0</text>
+<text x="254.0" y="516.8" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="">HellaSwag</text>
+<line x1="268" y1="512.8" x2="385.7" y2="512.8" stroke="#1b4f8a" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="385.7" cy="512.8" r="4.6" fill="#1b4f8a" fill-opacity="0.9" stroke="#1b4f8a" stroke-width="1.5"/>
+<text x="396.7" y="516.8" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">36</text>
+<text x="874.0" y="516.8" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#1b4f8a" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">1</text>
+<text x="886.0" y="516.8" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="start" font-weight="normal" style="">google</text>
+<text x="254.0" y="532.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="">WinoGrande</text>
+<line x1="268" y1="528.0" x2="379.2" y2="528.0" stroke="#1b4f8a" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="379.2" cy="528.0" r="4.6" fill="#1b4f8a" fill-opacity="0.9" stroke="#1b4f8a" stroke-width="1.5"/>
+<text x="390.2" y="532.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">34</text>
+<text x="874.0" y="532.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#1b4f8a" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">1</text>
+<text x="886.0" y="532.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="start" font-weight="normal" style="">google</text>
+<text x="254.0" y="547.2" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="">MBPP</text>
+<line x1="268" y1="543.2" x2="372.7" y2="543.2" stroke="#1b4f8a" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="372.7" cy="543.2" r="4.6" fill="#1b4f8a" fill-opacity="0.9" stroke="#1b4f8a" stroke-width="1.5"/>
+<text x="383.7" y="547.2" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">32</text>
+<text x="874.0" y="547.2" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#1b4f8a" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">1</text>
+<text x="886.0" y="547.2" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="start" font-weight="normal" style="">google</text>
+<text x="254.0" y="562.4" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="">MultiNLI</text>
+<line x1="268" y1="558.4" x2="369.4" y2="558.4" stroke="#1b4f8a" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="369.4" cy="558.4" r="4.6" fill="#1b4f8a" fill-opacity="0.9" stroke="#1b4f8a" stroke-width="1.5"/>
+<text x="380.4" y="562.4" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">31</text>
+<text x="874.0" y="562.4" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#1b4f8a" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">1</text>
+<text x="886.0" y="562.4" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="start" font-weight="normal" style="">google</text>
+<text x="254.0" y="577.6" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="">PIQA</text>
+<line x1="268" y1="573.6" x2="369.4" y2="573.6" stroke="#1b4f8a" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="369.4" cy="573.6" r="4.6" fill="#1b4f8a" fill-opacity="0.9" stroke="#1b4f8a" stroke-width="1.5"/>
+<text x="380.4" y="577.6" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">31</text>
+<text x="874.0" y="577.6" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#1b4f8a" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">1</text>
+<text x="886.0" y="577.6" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="start" font-weight="normal" style="">google</text>
+<text x="254.0" y="592.8" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">TextVQA</text>
+<line x1="268" y1="588.8" x2="369.4" y2="588.8" stroke="#b03a2e" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="369.4" cy="588.8" r="4.6" fill="#b03a2e" fill-opacity="0.25" stroke="#b03a2e" stroke-width="1.5"/>
+<text x="380.4" y="592.8" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">31</text>
+<text x="874.0" y="592.8" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#b03a2e" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">0</text>
+<text x="254.0" y="608.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">VQA v2</text>
+<line x1="268" y1="604.0" x2="366.1" y2="604.0" stroke="#b03a2e" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="366.1" cy="604.0" r="4.6" fill="#b03a2e" fill-opacity="0.25" stroke="#b03a2e" stroke-width="1.5"/>
+<text x="377.1" y="608.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">30</text>
+<text x="874.0" y="608.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#b03a2e" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">0</text>
+<text x="254.0" y="623.2" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">DocVQA</text>
+<line x1="268" y1="619.2" x2="366.1" y2="619.2" stroke="#b03a2e" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="366.1" cy="619.2" r="4.6" fill="#b03a2e" fill-opacity="0.25" stroke="#b03a2e" stroke-width="1.5"/>
+<text x="377.1" y="623.2" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">30</text>
+<text x="874.0" y="623.2" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#b03a2e" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">0</text>
+<text x="28.0" y="645.2" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="600" style="">ARCHITECTURES AND ENCODERS</text>
+<line x1="28" y1="652.2" x2="982" y2="652.2" stroke="#ebeae3" stroke-width="1"/>
+<text x="254.0" y="674.4" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="">BERT</text>
+<line x1="268" y1="670.4" x2="748.8" y2="670.4" stroke="#1b4f8a" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="748.8" cy="670.4" r="4.6" fill="#1b4f8a" fill-opacity="0.9" stroke="#1b4f8a" stroke-width="1.5"/>
+<text x="759.8" y="674.4" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">147</text>
+<text x="874.0" y="674.4" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#1b4f8a" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">2</text>
+<text x="254.0" y="689.6" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="">T5</text>
+<line x1="268" y1="685.6" x2="552.5" y2="685.6" stroke="#1b4f8a" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="552.5" cy="685.6" r="4.6" fill="#1b4f8a" fill-opacity="0.9" stroke="#1b4f8a" stroke-width="1.5"/>
+<text x="563.5" y="689.6" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">87</text>
+<text x="874.0" y="689.6" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#1b4f8a" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">1</text>
+<text x="886.0" y="689.6" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="start" font-weight="normal" style="">amazon</text>
+<text x="254.0" y="704.8" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="">CLIP</text>
+<line x1="268" y1="700.8" x2="480.6" y2="700.8" stroke="#1b4f8a" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="480.6" cy="700.8" r="4.6" fill="#1b4f8a" fill-opacity="0.9" stroke="#1b4f8a" stroke-width="1.5"/>
+<text x="491.6" y="704.8" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">65</text>
+<text x="874.0" y="704.8" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#1b4f8a" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">2</text>
+<text x="254.0" y="720.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="">RoBERTa</text>
+<line x1="268" y1="716.0" x2="480.6" y2="716.0" stroke="#1b4f8a" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="480.6" cy="716.0" r="4.6" fill="#1b4f8a" fill-opacity="0.9" stroke="#1b4f8a" stroke-width="1.5"/>
+<text x="491.6" y="720.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">65</text>
+<text x="874.0" y="720.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#1b4f8a" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">3</text>
+<text x="254.0" y="735.2" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="">ViT</text>
+<line x1="268" y1="731.2" x2="434.8" y2="731.2" stroke="#1b4f8a" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="434.8" cy="731.2" r="4.6" fill="#1b4f8a" fill-opacity="0.9" stroke="#1b4f8a" stroke-width="1.5"/>
+<text x="445.8" y="735.2" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">51</text>
+<text x="874.0" y="735.2" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#1b4f8a" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">3</text>
+<text x="254.0" y="750.4" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="">RoPE</text>
+<line x1="268" y1="746.4" x2="421.7" y2="746.4" stroke="#1b4f8a" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="421.7" cy="746.4" r="4.6" fill="#1b4f8a" fill-opacity="0.9" stroke="#1b4f8a" stroke-width="1.5"/>
+<text x="432.7" y="750.4" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">47</text>
+<text x="874.0" y="750.4" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#1b4f8a" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">1</text>
+<text x="886.0" y="750.4" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="start" font-weight="normal" style="">EleutherAI</text>
+<text x="254.0" y="765.6" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="">ResNet</text>
+<line x1="268" y1="761.6" x2="411.9" y2="761.6" stroke="#1b4f8a" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="411.9" cy="761.6" r="4.6" fill="#1b4f8a" fill-opacity="0.9" stroke="#1b4f8a" stroke-width="1.5"/>
+<text x="422.9" y="765.6" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">44</text>
+<text x="874.0" y="765.6" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#1b4f8a" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">2</text>
+<text x="254.0" y="780.8" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">ELMo</text>
+<line x1="268" y1="776.8" x2="385.7" y2="776.8" stroke="#b03a2e" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="385.7" cy="776.8" r="4.6" fill="#b03a2e" fill-opacity="0.25" stroke="#b03a2e" stroke-width="1.5"/>
+<text x="396.7" y="780.8" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">36</text>
+<text x="874.0" y="780.8" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#b03a2e" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">0</text>
+<text x="28.0" y="802.8" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="600" style="">MODEL RELEASES</text>
+<line x1="28" y1="809.8" x2="982" y2="809.8" stroke="#ebeae3" stroke-width="1"/>
+<text x="254.0" y="832.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="">GPT-3</text>
+<line x1="268" y1="828.0" x2="631.0" y2="828.0" stroke="#1b4f8a" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="631.0" cy="828.0" r="4.6" fill="#1b4f8a" fill-opacity="0.9" stroke="#1b4f8a" stroke-width="1.5"/>
+<text x="642.0" y="832.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">111</text>
+<text x="874.0" y="832.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#1b4f8a" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">1</text>
+<text x="886.0" y="832.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="start" font-weight="normal" style="">facebook</text>
+<text x="254.0" y="847.2" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">LLaMA</text>
+<line x1="268" y1="843.2" x2="434.8" y2="843.2" stroke="#b03a2e" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="434.8" cy="843.2" r="4.6" fill="#b03a2e" fill-opacity="0.25" stroke="#b03a2e" stroke-width="1.5"/>
+<text x="445.8" y="847.2" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">51</text>
+<text x="874.0" y="847.2" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#b03a2e" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">0</text>
+<text x="254.0" y="862.4" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="">Llama 2</text>
+<line x1="268" y1="858.4" x2="415.2" y2="858.4" stroke="#1b4f8a" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="415.2" cy="858.4" r="4.6" fill="#1b4f8a" fill-opacity="0.9" stroke="#1b4f8a" stroke-width="1.5"/>
+<text x="426.2" y="862.4" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">45</text>
+<text x="874.0" y="862.4" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#1b4f8a" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">1</text>
+<text x="886.0" y="862.4" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="start" font-weight="normal" style="">meta-llama</text>
+<text x="254.0" y="877.6" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">LLaVA</text>
+<line x1="268" y1="873.6" x2="402.1" y2="873.6" stroke="#b03a2e" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="402.1" cy="873.6" r="4.6" fill="#b03a2e" fill-opacity="0.25" stroke="#b03a2e" stroke-width="1.5"/>
+<text x="413.1" y="877.6" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">41</text>
+<text x="874.0" y="877.6" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#b03a2e" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">0</text>
+<text x="254.0" y="892.8" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">Llama 3</text>
+<line x1="268" y1="888.8" x2="392.3" y2="888.8" stroke="#b03a2e" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="392.3" cy="888.8" r="4.6" fill="#b03a2e" fill-opacity="0.25" stroke="#b03a2e" stroke-width="1.5"/>
+<text x="403.3" y="892.8" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">38</text>
+<text x="874.0" y="892.8" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#b03a2e" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">0</text>
+<text x="254.0" y="908.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">PaLM</text>
+<line x1="268" y1="904.0" x2="382.5" y2="904.0" stroke="#b03a2e" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="382.5" cy="904.0" r="4.6" fill="#b03a2e" fill-opacity="0.25" stroke="#b03a2e" stroke-width="1.5"/>
+<text x="393.5" y="908.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">35</text>
+<text x="874.0" y="908.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#b03a2e" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">0</text>
+<text x="254.0" y="923.2" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">Flamingo</text>
+<line x1="268" y1="919.2" x2="369.4" y2="919.2" stroke="#b03a2e" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="369.4" cy="919.2" r="4.6" fill="#b03a2e" fill-opacity="0.25" stroke="#b03a2e" stroke-width="1.5"/>
+<text x="380.4" y="923.2" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">31</text>
+<text x="874.0" y="923.2" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#b03a2e" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">0</text>
+<text x="254.0" y="938.4" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="">Gemini</text>
+<line x1="268" y1="934.4" x2="369.4" y2="934.4" stroke="#1b4f8a" stroke-width="1" stroke-opacity="0.3"/>
+<circle cx="369.4" cy="934.4" r="4.6" fill="#1b4f8a" fill-opacity="0.9" stroke="#1b4f8a" stroke-width="1.5"/>
+<text x="380.4" y="938.4" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums;">31</text>
+<text x="874.0" y="938.4" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#1b4f8a" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">1</text>
+<text x="886.0" y="938.4" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="start" font-weight="normal" style="">google</text>
+<line x1="28" y1="968.0" x2="982.0" y2="968.0" stroke="#ebeae3" stroke-width="1"/>
+<text x="28.0" y="988.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="">22 of these 42 papers have no independent adopter at all — hollow rings. Only 5 reach two: BERT, CLIP, RoBERTa, ViT, ResNet.</text>
+<text x="28.0" y="1003.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">Every benchmark reading 1 is the SAME org — Google, because Gemma-3's card lists its eval suite. Ten separate 'adoptions' are one model card.</text>
+<text x="28.0" y="1018.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">Counted in models rather than orgs those same ten read 7 apiece and look like a trend.</text>
+<text x="28.0" y="1033.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">A model card names the model you started from — not the optimizer, the tokenizer or the benchmark.</text>
+<text x="28.0" y="1048.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">Ids hand-verified; a canon paper whose id could not be confirmed is omitted rather than scored zero. Top-1,000-by-download listing only.</text>
+</svg>

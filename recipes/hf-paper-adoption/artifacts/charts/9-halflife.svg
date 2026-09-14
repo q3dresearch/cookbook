@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="926" height="624" viewBox="0 0 926 624"><rect width="926" height="624" fill="#fcfcfb"/>
+<text x="28.0" y="42.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="">How long a subject stays the subject</text>
+<text x="28.0" y="66.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#52514e" text-anchor="start" font-weight="normal" style="">Keyword share by quarter for eight topics, on one shared scale. The climb is the entry window; the fall is how long being</text>
+<text x="28.0" y="82.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#52514e" text-anchor="start" font-weight="normal" style="">right pays.</text>
+<text x="40.0" y="112.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#52514e" text-anchor="start" font-weight="normal" style="">share of the quarter's papers carrying the keyword   (same scale in every panel, 0 to 4.8%)</text>
+<rect x="40" y="164" width="190" height="118" fill="none" stroke="#ebeae3" stroke-width="1"/>
+<line x1="40" y1="255.6" x2="230" y2="255.6" stroke="#c3c2b7" stroke-width="1" stroke-dasharray="3 3"/>
+<path d="M40.0 282.0 L55.8 282.0 L71.7 278.1 L87.5 229.2 L103.3 271.7 L119.2 270.3 L135.0 275.5 L150.8 276.7 L166.7 277.8 L182.5 278.5 L198.3 280.6 L214.2 282.0 L230.0 281.0" fill="none" stroke="#b03a2e" stroke-width="2"/>
+<circle cx="87.5" cy="229.2" r="4.2" fill="#b03a2e" stroke="#fcfcfb" stroke-width="1.5"/>
+<text x="40.0" y="134.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#0b0b0b" text-anchor="start" font-weight="600" style="">Mamba</text>
+<text x="40.0" y="150.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#b03a2e" text-anchor="start" font-weight="normal" style="">climb 1q · half-life 1q</text>
+<text x="230.0" y="134.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="end" font-weight="normal" style="">2.1% · 2024Q1</text>
+<rect x="262" y="164" width="190" height="118" fill="none" stroke="#ebeae3" stroke-width="1"/>
+<line x1="262" y1="258.1" x2="452" y2="258.1" stroke="#c3c2b7" stroke-width="1" stroke-dasharray="3 3"/>
+<path d="M262.0 282.0 L277.8 282.0 L293.7 274.1 L309.5 260.9 L325.3 234.1 L341.2 276.2 L357.0 268.9 L372.8 252.2 L388.7 260.8 L404.5 267.9 L420.3 270.9 L436.2 267.3 L452.0 273.8" fill="none" stroke="#b03a2e" stroke-width="2"/>
+<circle cx="325.3" cy="234.1" r="4.2" fill="#b03a2e" stroke="#fcfcfb" stroke-width="1.5"/>
+<text x="262.0" y="134.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#0b0b0b" text-anchor="start" font-weight="600" style="">DPO</text>
+<text x="262.0" y="150.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#b03a2e" text-anchor="start" font-weight="normal" style="">climb 2q · half-life 1q</text>
+<text x="452.0" y="134.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="end" font-weight="normal" style="">1.9% · 2024Q2</text>
+<rect x="484" y="164" width="190" height="118" fill="none" stroke="#ebeae3" stroke-width="1"/>
+<line x1="484" y1="244.4" x2="674" y2="244.4" stroke="#c3c2b7" stroke-width="1" stroke-dasharray="3 3"/>
+<path d="M484.0 282.0 L499.8 282.0 L515.7 207.1 L531.5 215.1 L547.3 206.8 L563.2 261.6 L579.0 271.1 L594.8 282.0 L610.7 282.0 L626.5 282.0 L642.3 282.0 L658.2 282.0 L674.0 282.0" fill="none" stroke="#b03a2e" stroke-width="2"/>
+<circle cx="547.3" cy="206.8" r="4.2" fill="#b03a2e" stroke="#fcfcfb" stroke-width="1.5"/>
+<text x="484.0" y="134.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#0b0b0b" text-anchor="start" font-weight="600" style="">GPT-4V</text>
+<text x="484.0" y="150.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#b03a2e" text-anchor="start" font-weight="normal" style="">climb 3q · half-life 1q</text>
+<text x="674.0" y="134.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="end" font-weight="normal" style="">3.1% · 2024Q2</text>
+<rect x="706" y="164" width="190" height="118" fill="none" stroke="#ebeae3" stroke-width="1"/>
+<line x1="706" y1="249.4" x2="896" y2="249.4" stroke="#c3c2b7" stroke-width="1" stroke-dasharray="3 3"/>
+<path d="M706.0 282.0 L721.8 282.0 L737.7 282.0 L753.5 282.0 L769.3 254.6 L785.2 235.3 L801.0 216.7 L816.8 226.0 L832.7 239.5 L848.5 250.3 L864.3 261.2 L880.2 279.6 L896.0 282.0" fill="none" stroke="#b03a2e" stroke-width="2"/>
+<circle cx="801.0" cy="216.7" r="4.2" fill="#b03a2e" stroke="#fcfcfb" stroke-width="1.5"/>
+<text x="706.0" y="134.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#0b0b0b" text-anchor="start" font-weight="600" style="">GPT-4o</text>
+<text x="706.0" y="150.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#b03a2e" text-anchor="start" font-weight="normal" style="">climb 3q · half-life 3q</text>
+<text x="896.0" y="134.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="end" font-weight="normal" style="">2.7% · 2024Q4</text>
+<rect x="40" y="356" width="190" height="118" fill="none" stroke="#ebeae3" stroke-width="1"/>
+<line x1="40" y1="452.9" x2="230" y2="452.9" stroke="#c3c2b7" stroke-width="1" stroke-dasharray="3 3"/>
+<path d="M40.0 474.0 L55.8 474.0 L71.7 438.5 L87.5 431.7 L103.3 436.4 L119.2 433.2 L135.0 439.2 L150.8 460.0 L166.7 464.1 L182.5 456.4 L198.3 462.9 L214.2 461.8 L230.0 459.7" fill="none" stroke="#b03a2e" stroke-width="2"/>
+<circle cx="87.5" cy="431.7" r="4.2" fill="#b03a2e" stroke="#fcfcfb" stroke-width="1.5"/>
+<text x="40.0" y="326.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#0b0b0b" text-anchor="start" font-weight="600" style="">3D Gaussian Splatting</text>
+<text x="40.0" y="342.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#b03a2e" text-anchor="start" font-weight="normal" style="">climb 2q · half-life 4q</text>
+<text x="230.0" y="326.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="end" font-weight="normal" style="">1.7% · 2024Q1</text>
+<text x="40.0" y="492.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="start" font-weight="normal" style="">2023Q2</text>
+<text x="230.0" y="492.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="end" font-weight="normal" style="">2026Q2</text>
+<rect x="262" y="356" width="190" height="118" fill="none" stroke="#ebeae3" stroke-width="1"/>
+<line x1="262" y1="436.2" x2="452" y2="436.2" stroke="#c3c2b7" stroke-width="1" stroke-dasharray="3 3"/>
+<path d="M262.0 474.0 L277.8 474.0 L293.7 474.0 L309.5 474.0 L325.3 474.0 L341.2 474.0 L357.0 474.0 L372.8 467.0 L388.7 420.2 L404.5 398.3 L420.3 437.9 L436.2 431.2 L452.0 423.9" fill="none" stroke="#898781" stroke-width="2"/>
+<circle cx="404.5" cy="398.3" r="4.2" fill="#898781" stroke="#fcfcfb" stroke-width="1.5"/>
+<text x="262.0" y="326.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#0b0b0b" text-anchor="start" font-weight="600" style="">GRPO</text>
+<text x="262.0" y="342.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="">climb 2q · half-life UNREADABLE</text>
+<text x="452.0" y="326.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="end" font-weight="normal" style="">3.1% · 2025Q3</text>
+<text x="262.0" y="492.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="start" font-weight="normal" style="">2023Q2</text>
+<text x="452.0" y="492.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="end" font-weight="normal" style="">2026Q2</text>
+<rect x="484" y="356" width="190" height="118" fill="none" stroke="#ebeae3" stroke-width="1"/>
+<line x1="484" y1="420.3" x2="674" y2="420.3" stroke="#c3c2b7" stroke-width="1" stroke-dasharray="3 3"/>
+<path d="M484.0 464.7 L499.8 447.7 L515.7 442.5 L531.5 428.2 L547.3 436.4 L563.2 447.8 L579.0 437.0 L594.8 404.0 L610.7 373.5 L626.5 366.7 L642.3 387.9 L658.2 385.9 L674.0 399.3" fill="none" stroke="#1b4f8a" stroke-width="2"/>
+<circle cx="626.5" cy="366.7" r="4.2" fill="#1b4f8a" stroke="#fcfcfb" stroke-width="1.5"/>
+<text x="484.0" y="326.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#0b0b0b" text-anchor="start" font-weight="600" style="">supervised fine-tuning</text>
+<text x="484.0" y="342.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#1b4f8a" text-anchor="start" font-weight="normal" style="">climb 4q · still above half</text>
+<text x="674.0" y="326.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="end" font-weight="normal" style="">4.4% · 2025Q3</text>
+<text x="484.0" y="492.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="start" font-weight="normal" style="">2023Q2</text>
+<text x="674.0" y="492.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="end" font-weight="normal" style="">2026Q2</text>
+<rect x="706" y="356" width="190" height="118" fill="none" stroke="#ebeae3" stroke-width="1"/>
+<line x1="706" y1="425.4" x2="896" y2="425.4" stroke="#c3c2b7" stroke-width="1" stroke-dasharray="3 3"/>
+<path d="M706.0 474.0 L721.8 452.9 L737.7 438.5 L753.5 438.8 L769.3 405.6 L785.2 415.7 L801.0 384.8 L816.8 409.2 L832.7 382.0 L848.5 393.1 L864.3 376.8 L880.2 383.4 L896.0 381.9" fill="none" stroke="#1b4f8a" stroke-width="2"/>
+<circle cx="864.3" cy="376.8" r="4.2" fill="#1b4f8a" stroke="#fcfcfb" stroke-width="1.5"/>
+<text x="706.0" y="326.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#0b0b0b" text-anchor="start" font-weight="600" style="">multimodal LLMs</text>
+<text x="706.0" y="342.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#1b4f8a" text-anchor="start" font-weight="normal" style="">climb 9q · still above half</text>
+<text x="896.0" y="326.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="end" font-weight="normal" style="">4.0% · 2025Q4</text>
+<text x="706.0" y="492.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="start" font-weight="normal" style="">2023Q2</text>
+<text x="896.0" y="492.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="end" font-weight="normal" style="">2026Q2</text>
+<line x1="28" y1="496.0" x2="898.0" y2="496.0" stroke="#ebeae3" stroke-width="1"/>
+<text x="28.0" y="516.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="">Across all 56 keywords that reach 1% and peak away from both edges: median climb 2 quarters, median fall to half the peak 1.</text>
+<text x="28.0" y="531.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">GREY = unreadable. A single-word term whose half-life lands in the quarter holding the 2025-12-25 extractor break, where its fall and the instrument's are one event.</text>
+<text x="28.0" y="546.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">Dots mark each peak, the dashed line half of it. Orange ends below half; blue has not fallen there yet, so its window is open and its length unknown.</text>
+<text x="28.0" y="561.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">Terms peaking in the first or last two quarters are excluded, not clipped — a curve cut off at the frame edge reads as a plateau.</text>
+<text x="28.0" y="576.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">A fall does NOT separate 'superseded' from 'so standard nobody names it'. The test that would — does the artifact side keep growing? — cannot run:</text>
+<text x="28.0" y="591.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">the top-1,000-by-download listing holds zero Mamba, Gaussian-splatting and NeRF models, so absence there is its composition and not evidence.</text>
+<text x="28.0" y="606.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">2026Q3 is excluded because the extractor changed again — see 11-instrument.</text>
+</svg>

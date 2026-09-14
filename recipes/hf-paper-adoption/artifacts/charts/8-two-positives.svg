@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="496" viewBox="0 0 940 496"><rect width="940" height="496" fill="#fcfcfb"/>
+<text x="28.0" y="42.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="">The label a funding rule would need has two examples</text>
+<text x="28.0" y="66.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#52514e" text-anchor="start" font-weight="normal" style="">Attrition from two starting populations to the papers named by two organisations that are not redistributing each other's</text>
+<text x="28.0" y="82.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#52514e" text-anchor="start" font-weight="normal" style="">models.</text>
+<line x1="119.7" y1="132.0" x2="119.7" y2="378.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="119.7" y="124.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums;">2</text>
+<line x1="252.6" y1="132.0" x2="252.6" y2="378.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="252.6" y="124.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums;">10</text>
+<line x1="442.7" y1="132.0" x2="442.7" y2="378.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="442.7" y="124.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums;">100</text>
+<line x1="632.7" y1="132.0" x2="632.7" y2="378.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="632.7" y="124.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums;">1,000</text>
+<line x1="822.8" y1="132.0" x2="822.8" y2="378.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="822.8" y="124.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums;">10,000</text>
+<text x="96.0" y="104.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#52514e" text-anchor="start" font-weight="normal" style="">papers surviving the filter   (log scale)</text>
+<text x="28.0" y="144.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="">the feed chain — what an allocator could have funded</text>
+<line x1="861.0" y1="182.0" x2="119.7" y2="182.0" stroke="#b03a2e" stroke-width="1.6" stroke-opacity="0.35"/>
+<circle cx="861.0" cy="182.0" r="7" fill="#b03a2e" fill-opacity="0.28" stroke="#b03a2e" stroke-width="1.8"/>
+<text x="861.0" y="167.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="13" fill="#b03a2e" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">15,890</text>
+<text x="861.0" y="208.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="middle" font-weight="normal" style="">on the daily feed</text>
+<circle cx="462.4" cy="182.0" r="7" fill="#b03a2e" fill-opacity="0.28" stroke="#b03a2e" stroke-width="1.8"/>
+<text x="462.4" y="167.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="13" fill="#b03a2e" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">127</text>
+<text x="462.4" y="224.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="middle" font-weight="normal" style="">named by a top-1,000 model</text>
+<line x1="462.4" y1="190.0" x2="462.4" y2="213.0" stroke="#e1e0d9" stroke-width="1"/>
+<circle cx="313.8" cy="182.0" r="7" fill="#b03a2e" fill-opacity="0.28" stroke="#b03a2e" stroke-width="1.8"/>
+<text x="313.8" y="167.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="13" fill="#b03a2e" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">21</text>
+<text x="313.8" y="208.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="middle" font-weight="normal" style="">named by two or more orgs</text>
+<circle cx="119.7" cy="182.0" r="7" fill="#b03a2e" fill-opacity="0.9" stroke="#b03a2e" stroke-width="1.8"/>
+<text x="119.7" y="167.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="13" fill="#b03a2e" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">2</text>
+<text x="119.7" y="224.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="middle" font-weight="normal" style="">two INDEPENDENT orgs</text>
+<line x1="119.7" y1="190.0" x2="119.7" y2="213.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="28.0" y="294.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="">the model-tag chain — every paper a top-1,000 model cites</text>
+<line x1="563.1" y1="332.0" x2="313.8" y2="332.0" stroke="#1b4f8a" stroke-width="1.6" stroke-opacity="0.35"/>
+<circle cx="563.1" cy="332.0" r="7" fill="#1b4f8a" fill-opacity="0.28" stroke="#1b4f8a" stroke-width="1.8"/>
+<text x="563.1" y="317.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="13" fill="#1b4f8a" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">430</text>
+<text x="563.1" y="358.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="middle" font-weight="normal" style="">cited by a top-1,000 model</text>
+<circle cx="424.2" cy="332.0" r="7" fill="#1b4f8a" fill-opacity="0.28" stroke="#1b4f8a" stroke-width="1.8"/>
+<text x="424.2" y="317.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="13" fill="#1b4f8a" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">80</text>
+<text x="424.2" y="374.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="middle" font-weight="normal" style="">two or more orgs</text>
+<line x1="424.2" y1="340.0" x2="424.2" y2="363.0" stroke="#e1e0d9" stroke-width="1"/>
+<circle cx="313.8" cy="332.0" r="7" fill="#1b4f8a" fill-opacity="0.9" stroke="#1b4f8a" stroke-width="1.8"/>
+<text x="313.8" y="317.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="13" fill="#1b4f8a" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">21</text>
+<text x="313.8" y="358.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="middle" font-weight="normal" style="">two INDEPENDENT orgs</text>
+<line x1="28" y1="398.0" x2="912.0" y2="398.0" stroke="#ebeae3" stroke-width="1"/>
+<text x="28.0" y="418.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="">Two papers in three and a half years clear the bar the word 'adoption' implies. A rule trained on that label has two positive examples.</text>
+<text x="28.0" y="433.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">The feed chain loses 99.2% at step one — curated and implemented are different populations. The model-tag chain loses three quarters to redistribution.</text>
+<text x="28.0" y="448.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">Not a lag that patience fixes: the independent-adoption rate is 0.00% in every quarter of the feed's existence.</text>
+<text x="28.0" y="463.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">The 19 papers chain B keeps and chain A cannot are older than the feed itself — ViT, BERT, ResNet and CLIP all predate 2023-05-04.</text>
+<text x="28.0" y="478.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">Top-1,000-by-download listing only, so adoption by models nobody downloads is invisible here.</text>
+</svg>

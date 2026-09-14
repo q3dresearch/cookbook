@@ -1,0 +1,108 @@
+{
+  "method_version": "3.0.0",
+  "_method_version": "3.0.0 is a MAJOR bump: a promotion audit re-derived every headline number and retracted three answers (Q23 diffusion speed by field, Q25 deadline-paper quality, Q29 dead topics). All three had read a property of the measurement as a property of the subject. Figures and rows written under 2.x are not comparable on those three questions; they are kept, not deleted. 3.0.0 also retracts a fourth answer found while charting: Q19's stated cause for the ancestry gap (a record-type effect) is wrong \u2014 it is a date cliff in OpenAlex's ingestion at 2022. Renamed from paper-to-production to hf-paper-adoption before first commit: the old slug asserted a direction the recipe partly disproves (131 of 1,133 pairs have the model first) and implied a universe of published research it does not cover.",
+  "retrieved": "2026-09-14",
+  "sources": {
+    "wss-hugging-face": {
+      "what": "weekly capture of Hugging Face model listings and the curated daily-papers feed",
+      "role": "CAPTURE \u2014 the feed overwrites itself; without this the 2026 cohort is unreconstructable",
+      "model_captures": 11,
+      "first_model_capture": "2026/08/20260831T153916Z-ab6a72917854.json",
+      "last_model_capture": "2026/09/20260908T091121Z-c2372d9dcfa8.json.gz",
+      "daily_feed_files": 879,
+      "note": "not vendored here; set $WSS_HUGGING_FACE or place it at artifacts/data/wss-hugging-face",
+      "model_captures_sha256": {
+        "2026/08/20260831T153916Z-ab6a72917854.json": {
+          "bytes": 549027,
+          "sha256": "ab6a72917854450271daeb5e7657f78efa051536b76aa525da2c862061863402"
+        },
+        "2026/08/20260831T170815Z-443ff4d98af4.json": {
+          "bytes": 549051,
+          "sha256": "443ff4d98af4e03be180bd9c0c0f0da420b2d01c0b3a9076ed681f78916e9b44"
+        },
+        "2026/08/20260831T224138Z-9a788c9ff5e0.json": {
+          "bytes": 549051,
+          "sha256": "9a788c9ff5e05a9d181f23a676e2c6bd1028f75a5ebbf17217f9b8656522075c"
+        },
+        "2026/09/20260902T000441Z-637329b30aba.json": {
+          "bytes": 549063,
+          "sha256": "637329b30abaaf9714f95e60ac9252ed317f066c9439310961711abc67bb8141"
+        },
+        "2026/09/20260903T000846Z-78bfdf3a3e8b.json": {
+          "bytes": 550935,
+          "sha256": "78bfdf3a3e8bd954ba460b08e85f41f4ddbe254dcbd276875267449abf7be73e"
+        },
+        "2026/09/20260904T000040Z-a1d03516f203.json": {
+          "bytes": 551862,
+          "sha256": "a1d03516f2039e809dcc405067abec7839286cee14ea02f2356c20598465fbbf"
+        },
+        "2026/09/20260904T235918Z-f5adeadca2f8.json": {
+          "bytes": 552403,
+          "sha256": "f5adeadca2f82a95775bd7f1dfeaf83d3889164486f5d5ccb9cd372c70a10260"
+        },
+        "2026/09/20260905T235012Z-7312301b43ca.json": {
+          "bytes": 552741,
+          "sha256": "7312301b43ca6bcab13a368c76a3eef45985325e17f8c8eb85008f4eac203cd6"
+        },
+        "2026/09/20260907T233944Z-51d593d1cce8.json.gz": {
+          "bytes": 110472,
+          "sha256": "45c88d366306584c5ab21da110026fd8a258c9fb6ec9cf130bc718bf4bb87324"
+        },
+        "2026/09/20260908T004007Z-1b8136949460.json.gz": {
+          "bytes": 110478,
+          "sha256": "fb5d226b1773854af639f5e8d41c15f495d234f1b831c2369aef5541857af256"
+        },
+        "2026/09/20260908T091121Z-c2372d9dcfa8.json.gz": {
+          "bytes": 110772,
+          "sha256": "963debeec49becf2b985efbd6b5fc541057c702c019134097879cf386f93d709"
+        }
+      },
+      "daily_feed_manifest_sha256": "5247a86ee2e06b6690dd44fd60be29a87d487288b80f0c424fbc047bd28df61e",
+      "_manifest_note": "879 feed files are hashed as one manifest of 'path size' lines, not individually: the per-file list would be longer than this document and the point is drift detection."
+    },
+    "arxiv": {
+      "what": "LaTeX source of each model-cited paper, parsed for its .bbl reference list",
+      "role": "ENRICHMENT \u2014 arXiv archives permanently, so this is re-fetchable and no window closes",
+      "regenerate": "python artifacts/scripts/bibliographies.py  (resumable)",
+      "produces": "artifacts/data/bibliographies.json",
+      "refetched": "2026-09-14 \u2014 449/449 papers, 428 yielded a .bbl, 2,014MB streamed and discarded",
+      "drift_note": "the re-fetch returned 424 usable bibliographies where the first pass had 428, and 173 citations of Attention where it had 175. Papers get revised; a .bbl is whatever the current source says. verify.py surfaces this rather than hiding it."
+    },
+    "openalex": {
+      "what": "reference lists by arXiv DOI, for the backwards lineage walk",
+      "role": "ENRICHMENT \u2014 re-fetchable; 86% resolve but only 24% carry references",
+      "regenerate": "python artifacts/scripts/ancestry.py",
+      "produces": "artifacts/data/openalex.json, artifacts/data/ancestry.json"
+    }
+  },
+  "headline": {
+    "papers_cited_by_top_1000_models": 430,
+    "papers_at_2plus_independent_orgs": 21,
+    "feed_papers": 15890,
+    "feed_papers_named_by_a_model": 127,
+    "feed_papers_at_2plus_independent_orgs": 2,
+    "cohort_papers_at_2plus_independent_orgs": 1,
+    "median_lag_months_all_pairs": 13,
+    "median_lag_months_paper_first_only": 21,
+    "pairs_where_model_came_first": "131 of 1133",
+    "top_10pct_by_upvotes_captures": 0.56,
+    "random_baseline_at_same_budget": 0.1,
+    "single_word_keyword_share_before_2025_12_25": 0.26,
+    "single_word_keyword_share_after": 0.14,
+    "bibliographies_recovered": 424,
+    "references_in_them": 30710,
+    "ancestry_walkable_share": 0.21,
+    "ancestry_walkable_after_2021": 0.0,
+    "new_keywords_arriving_from_one_group": 0
+  },
+  "verify": "python artifacts/scripts/verify.py \u2014 re-derives every number above from the capture",
+  "figures": {
+    "count": 20,
+    "answered_questions_without_one": [
+      20,
+      26,
+      37
+    ],
+    "why": "20's evidence was never stored; 26's data lives outside this recipe; 37 is an absence."
+  }
+}

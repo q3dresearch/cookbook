@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="630" viewBox="0 0 940 630"><rect width="940" height="630" fill="#fcfcfb"/>
+<text x="28.0" y="42.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="">Membership was recoverable; the trajectories were not</text>
+<text x="28.0" y="66.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#52514e" text-anchor="start" font-weight="normal" style="">Papers per month across the whole daily-papers feed, with the part that weekly capture has actually held marked.</text>
+<rect x="858.0" y="190" width="0.0" height="280" fill="#1b4f8a" fill-opacity="0.10"/>
+<line x1="88" y1="470.0" x2="858.0" y2="470.0" stroke="#0b0b0b" stroke-width="1.3"/>
+<text x="78.0" y="474.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums;">0</text>
+<line x1="88" y1="417.4" x2="858.0" y2="417.4" stroke="#e1e0d9" stroke-width="1"/>
+<text x="78.0" y="421.4" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums;">200</text>
+<line x1="88" y1="364.7" x2="858.0" y2="364.7" stroke="#e1e0d9" stroke-width="1"/>
+<text x="78.0" y="368.7" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums;">400</text>
+<line x1="88" y1="312.1" x2="858.0" y2="312.1" stroke="#e1e0d9" stroke-width="1"/>
+<text x="78.0" y="316.1" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums;">600</text>
+<line x1="88" y1="259.5" x2="858.0" y2="259.5" stroke="#e1e0d9" stroke-width="1"/>
+<text x="78.0" y="263.5" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums;">800</text>
+<path d="M88.0 397.1 L107.7 404.5 L127.5 420.3 L147.2 441.8 L167.0 423.9 L186.7 428.7 L206.5 425.0 L226.2 391.6 L245.9 412.1 L265.7 402.4 L285.4 411.1 L305.2 417.9 L324.9 432.1 L344.7 368.9 L364.4 385.3 L384.2 398.7 L403.9 401.6 L423.6 342.9 L443.4 391.6 L463.1 375.0 L482.9 399.2 L502.6 335.5 L522.4 302.4 L542.1 357.1 L561.8 279.5 L581.6 311.8 L601.3 370.0 L621.1 348.9 L640.8 320.5 L660.6 245.0 L680.3 348.4 L700.1 314.7 L719.8 313.2 L739.5 276.8 L759.3 267.6 L779.0 293.2 L798.8 220.0 L818.5 252.6 L838.3 315.3 L858.0 294.5" fill="none" stroke="#b03a2e" stroke-width="2.4"/>
+<text x="88.0" y="490.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="middle" font-weight="normal" style="">2023-05</text>
+<text x="245.9" y="490.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="middle" font-weight="normal" style="">2024-01</text>
+<text x="482.9" y="490.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="middle" font-weight="normal" style="">2025-01</text>
+<text x="719.8" y="490.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="middle" font-weight="normal" style="">2026-01</text>
+<text x="78.0" y="146.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#52514e" text-anchor="start" font-weight="normal" style="">papers on the daily feed, per month</text>
+<text x="78.0" y="164.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">17,534 in total, across 40 months</text>
+<text x="107.7" y="208.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#b03a2e" text-anchor="start" font-weight="600" style="">RECOVERED BY BACKFILL</text>
+<text x="107.7" y="223.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="">membership only — the feed serves today's upvotes,</text>
+<text x="107.7" y="236.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="">so trajectories are gone the moment a paper rolls off</text>
+<text x="107.7" y="264.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#1b4f8a" text-anchor="start" font-weight="600" style="">HELD BY WEEKLY CAPTURE</text>
+<text x="107.7" y="279.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="">the shaded band — 1 of 40 months, and the only window</text>
+<text x="107.7" y="292.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="">where anything beyond membership survives</text>
+<line x1="107.7" y1="268.0" x2="854.0" y2="268.0" stroke="#1b4f8a" stroke-width="1" stroke-dasharray="3 3" stroke-opacity="0.5"/>
+<line x1="858.0" y1="190" x2="858.0" y2="470.0" stroke="#0b0b0b" stroke-width="1.4" stroke-dasharray="5 3"/>
+<line x1="28" y1="547.0" x2="912.0" y2="547.0" stroke="#ebeae3" stroke-width="1"/>
+<text x="28.0" y="567.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="">17,534 papers recovered from 865 days of ?date=YYYY-MM-DD. The registry's 'destroys_own_history' is right about trajectories and wrong about membership.</text>
+<text x="28.0" y="582.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">Believing it covered both is what made this recipe look like it needed until 2029.</text>
+<text x="28.0" y="597.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">What a backfill cannot return is a count as it STOOD: the feed serves today's upvotes. That is why Q14 needs forward capture and cannot be fixed by fetching harder.</text>
+<text x="28.0" y="612.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">Enrichment archives itself — arXiv keeps its LaTeX, OpenAlex its references, GitHub its repo dates. A number a provider overwrites in place does not.</text>
+</svg>
