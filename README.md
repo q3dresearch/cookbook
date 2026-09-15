@@ -12,8 +12,18 @@ built on those and on sources that keep their own history.
 
 ## Recipes
 
-Ten, most recent first. Each links its own write-up.
+Twelve, most recent first. Each links its own write-up.
 
+- **[Most of the FDA shortage list is not a shortage](recipes/drug-shortage-overlap/)** —
+  137 of 196 substances are products being discontinued, not products in short supply.
+  One reporting firm predicts an exit at 95% against 16% for two or more; nothing
+  carrying the paediatric flag is being discontinued. And a shortage lasts about a
+  year, not the two months a register's own resolved rows suggest, because all three
+  registers delete resolutions after twelve months. Every join the archive supports
+  was tried; supplier depth, enforcement records and severity classes predict nothing.
+- **[Twenty-one papers in the whole of Hugging Face are adopted by someone who did not write them](recipes/hf-paper-adoption/)** —
+  what the daily-papers feed predicts about adoption, what it does not, and four
+  answers retracted by the promotion audit.
 - **[One short report in five is reproducible from public data. The rest needed someone to talk](recipes/short-seller-method-corpus/)** —
   273 activist short reports across six firms, joined to daily prices. The biggest
   single evidence type is a conversation, and it was invisible to the first probe

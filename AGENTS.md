@@ -37,6 +37,27 @@ asked, what was answered, and what is open **with the reason it is open and what
 would close it**. That file is the work queue. It is written for a return visit,
 whether the returner is a person or not.
 
+## The bar a figure has to clear
+
+A figure that reports a state has not finished. Four tests, and a blank on any one
+means it is not ready:
+
+**What does the reader do differently?** Not "understands better" — *does*.
+**What is the conditional?** What would flip the advice, and is the boundary visible?
+**What is the segmentation?** Does the answer change with the reader's own country,
+budget, field or scale?
+**Is every quantity drawn rather than typed?** Position, length, area, density — the
+things an eye measures without being asked. A figure can pass the first three and
+still be a table: a 2×2 of labelled boxes with `10 drugs` and `53 drugs` typed into
+the corners names an action, a conditional and a segmentation, and a reader still
+cannot see which cell is bigger without reading the digits and comparing them in
+their head. That one shipped in `drug-shortage-overlap` and was redrawn as one dot
+per substance.
+
+Worked examples of both failure modes, drawn from figures in this repo rather than
+invented, are kept beside the recipe that produced them, in
+[`recipes/drug-shortage-overlap/artifacts/charts/negative/`](recipes/drug-shortage-overlap/artifacts/charts/negative/).
+
 ## Failure modes worth inheriting
 
 These cost real time and generalise past this dataset:
@@ -56,6 +77,14 @@ yet 100% of 2017 carried one.
 **Filters can be accepted and ignored.** `maxSize=100000` returned a 12.3 GB
 dataset. The parameter validated, appeared to work, and silently did not filter.
 **Verify a filter changed the result, never that it was accepted.**
+
+**A paginated source read as one file is half a dataset that looks whole.** openFDA
+serves the shortage register as two pages; the archive stores them as two files 28
+seconds apart, and the lexically newest is page two. A recipe read that file as the
+register — 619 of 1,619 rows — and every downstream number was internally consistent,
+the row count plausible, and the verifier green, because it re-derived from the same
+half. **Check the source's own stated total against what you loaded**, and treat a
+capture as a *run* of files, never as its newest file.
 
 **Swallowed exceptions produce confident wrong numbers.** An `except: pass`
 around a JSON read hid 106 gzipped files and reported 63,606 phantom deletions.

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="658" viewBox="0 0 1000 658"><rect width="1000" height="658" fill="#fcfcfb"/>
+<text x="28.0" y="42.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="">Shortage firms are inspected no worse than anyone else</text>
+<text x="28.0" y="66.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#52514e" text-anchor="start" font-weight="normal" style="">FDA drug-inspection outcomes for the firms reporting shortages, against every other inspected firm, pooled across 2009-2026.</text>
+<line x1="300.0" y1="234.0" x2="300.0" y2="508.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="300.0" y="226.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums;">0%</text>
+<line x1="412.5" y1="234.0" x2="412.5" y2="508.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="412.5" y="226.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums;">25%</text>
+<line x1="525.0" y1="234.0" x2="525.0" y2="508.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="525.0" y="226.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums;">50%</text>
+<line x1="637.5" y1="234.0" x2="637.5" y2="508.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="637.5" y="226.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums;">75%</text>
+<line x1="750.0" y1="234.0" x2="750.0" y2="508.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="750.0" y="226.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums;">100%</text>
+<text x="300.0" y="204.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#52514e" text-anchor="start" font-weight="normal" style="">share of that group's drug inspections, by outcome</text>
+<rect x="300" y="162" width="11" height="11" rx="2" fill="#1b4f8a"/>
+<text x="317.0" y="172.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="">NAI — no action indicated</text>
+<rect x="510" y="162" width="11" height="11" rx="2" fill="#c07a1e"/>
+<text x="527.0" y="172.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="normal" style="">VAI — voluntary action</text>
+<rect x="720" y="162" width="11" height="11" rx="2" fill="#b03a2e"/>
+<text x="737.0" y="172.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#b03a2e" text-anchor="start" font-weight="600" style="">OAI — OFFICIAL ACTION — the serious one</text>
+<text x="282.0" y="256.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">firms short of the 19 shared substances</text>
+<text x="282.0" y="272.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="end" font-weight="normal" style="">34 firms · 121 establishments · 771 inspections</text>
+<rect x="300.0" y="244.0" width="215.4" height="24" fill="#1b4f8a" fill-opacity="0.55"/>
+<text x="407.7" y="260.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#fcfcfb" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">47%</text>
+<rect x="515.4" y="244.0" width="197.3" height="24" fill="#c07a1e" fill-opacity="0.55"/>
+<text x="614.0" y="260.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#fcfcfb" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">43%</text>
+<rect x="712.6" y="244.0" width="37.4" height="24" fill="#b03a2e" fill-opacity="0.95"/>
+<text x="764.0" y="260.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#b03a2e" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums;">OAI 8%</text>
+<text x="300.0" y="286.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="9.5" fill="#898781" text-anchor="start" font-weight="normal" style="">establishments in: United States 574, India 126, Canada 40, Austria 16, Germany 8</text>
+<text x="282.0" y="352.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">all US shortage firms</text>
+<text x="282.0" y="368.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="end" font-weight="normal" style="">128 firms · 273 establishments · 1,545 inspections</text>
+<rect x="300.0" y="340.0" width="217.3" height="24" fill="#1b4f8a" fill-opacity="0.55"/>
+<text x="408.6" y="356.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#fcfcfb" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">48%</text>
+<rect x="517.3" y="340.0" width="205.6" height="24" fill="#c07a1e" fill-opacity="0.55"/>
+<text x="620.1" y="356.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#fcfcfb" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">45%</text>
+<rect x="722.9" y="340.0" width="27.1" height="24" fill="#b03a2e" fill-opacity="0.95"/>
+<text x="764.0" y="356.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#b03a2e" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums;">OAI 6%</text>
+<text x="300.0" y="382.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="9.5" fill="#898781" text-anchor="start" font-weight="normal" style="">establishments in: United States 1105, India 296, Canada 40, Sweden 18, Japan 16</text>
+<text x="282.0" y="448.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">every other inspected firm</text>
+<text x="282.0" y="464.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="end" font-weight="normal" style="">16,437 firms · 18,628 establishments · 38,433 inspections</text>
+<rect x="300.0" y="436.0" width="202.9" height="24" fill="#1b4f8a" fill-opacity="0.55"/>
+<text x="401.4" y="452.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#fcfcfb" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">45%</text>
+<rect x="502.9" y="436.0" width="212.7" height="24" fill="#c07a1e" fill-opacity="0.55"/>
+<text x="609.2" y="452.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#fcfcfb" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums;">47%</text>
+<rect x="715.6" y="436.0" width="34.4" height="24" fill="#b03a2e" fill-opacity="0.95"/>
+<text x="764.0" y="452.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#b03a2e" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums;">OAI 7%</text>
+<text x="300.0" y="478.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="9.5" fill="#898781" text-anchor="start" font-weight="normal" style="">establishments in: United States 24794, India 2651, China 1605, Germany 1013, Canada 848</text>
+<line x1="28" y1="560.0" x2="972.0" y2="560.0" stroke="#ebeae3" stroke-width="1"/>
+<text x="28.0" y="580.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="">Pooled from 39,988 drug inspection rows across fiscal years 2009-2026. The serious outcome, OAI, runs 7%, 6% and 7% — there is no difference to explain.</text>
+<text x="28.0" y="595.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">This is the control for 3-suppliers: nine of the nineteen are short at several independent firms at once, and it is not because those firms are worse operators.</text>
+<text x="28.0" y="610.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">A single capture file holds 1,167 rows and matched 15% of shortage firms, which looked like a broken name join. The 14 captures pool to 73%. It was a paginated slice.</text>
+<text x="28.0" y="625.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">A reporting firm is a marketing company, so these establishments are closer to the plant than company_name, and still not the API supplier two tiers upstream.</text>
+<text x="28.0" y="640.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">Of 234 establishments behind the 73 matched firms, 61 firms have a US site, 11 an Indian one and 2 a Chinese one — small, not absent, which is a difference that matters.</text>
+</svg>

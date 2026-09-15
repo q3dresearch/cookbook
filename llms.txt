@@ -13,6 +13,19 @@ records their publishers overwrite.
 - [VERSIONING.md](VERSIONING.md): method versus data versioning, append-only series
 
 ## Recipes
+- [drug-shortage-overlap](recipes/drug-shortage-overlap/README.md): the FDA drug
+  shortage register is a §506C compliance feed, not a clinical one — 137 of 196
+  substances are permanent discontinuances; one reporting firm predicts an exit at
+  95% vs 16%; nothing flagged for paediatric use is being discontinued (0 of 12, 8.6
+  expected). Only Australia's register can support a duration and it understates it
+  six-fold (median 62 days from resolved rows, 387 corrected for the twelve-month
+  purge); no register keeps history. FDA's update_date is reliable (3 silent changes
+  in 842) once lists are sorted and the key carries the statutory stream. Supplier
+  depth, warning letters, recalls, import alerts, severity, reason codes and
+  concentration were tested and failed; five superseded figures kept as worked failures.
+- [hf-paper-adoption](recipes/hf-paper-adoption/README.md): which arXiv computing
+  papers get adopted by someone who did not write them, and what the Hugging Face
+  daily-papers feed does and does not predict about it.
 - [dataset-demand-shape](recipes/dataset-demand-shape/README.md): what happens to
   a dataset published on Kaggle. 737,729 datasets; median 8 downloads; 69.5%
   never opened in a notebook; 412,935 with ten downloads or fewer. Size predicts

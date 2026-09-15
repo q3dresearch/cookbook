@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1060" height="1128" viewBox="0 0 1060 1128"><rect width="1060" height="1128" fill="#fcfcfb"/>
+<text x="28.0" y="42.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="">23 drugs are short in three countries at once</text>
+<text x="28.0" y="66.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#52514e" text-anchor="start" font-weight="normal" style="">Every substance appearing on the United States, French and Australian shortage registers simultaneously, with the name each</text>
+<text x="28.0" y="82.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#52514e" text-anchor="start" font-weight="normal" style="">regulator gives it.</text>
+<text x="40.0" y="114.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#0b0b0b" text-anchor="start" font-weight="600" style="">WHAT EACH REGISTER HOLDS</text>
+<text x="40.0" y="134.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#0072B2" text-anchor="start" font-weight="normal" style="">FDA · United States</text>
+<text x="240.0" y="134.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#0072B2" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums;">196</text>
+<text x="40.0" y="154.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#D55E00" text-anchor="start" font-weight="normal" style="">ANSM · France</text>
+<text x="240.0" y="154.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#D55E00" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums;">163</text>
+<text x="40.0" y="174.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#009E73" text-anchor="start" font-weight="normal" style="">TGA · Australia</text>
+<text x="240.0" y="174.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#009E73" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums;">382</text>
+<text x="470.0" y="114.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#0b0b0b" text-anchor="start" font-weight="600" style="">AND WHAT THEY SHARE</text>
+<text x="470.0" y="134.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="">US and FR</text>
+<text x="600.0" y="134.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums;">36</text>
+<text x="470.0" y="154.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="">US and AU</text>
+<text x="600.0" y="154.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums;">79</text>
+<text x="470.0" y="174.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="">FR and AU</text>
+<text x="600.0" y="174.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums;">76</text>
+<text x="470.0" y="198.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#b03a2e" text-anchor="start" font-weight="600" style="">all three</text>
+<text x="600.0" y="198.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="13" fill="#b03a2e" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums;">23</text>
+<text x="640.0" y="198.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#898781" text-anchor="start" font-weight="normal" style="">of 573 distinct ingredients across all three</text>
+<text x="254.0" y="266.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#0072B2" text-anchor="start" font-weight="600" style="">FDA (United States)</text>
+<text x="536.0" y="266.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#D55E00" text-anchor="start" font-weight="600" style="">ANSM (France)</text>
+<text x="816.0" y="266.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#009E73" text-anchor="start" font-weight="600" style="">TGA (Australia)</text>
+<text x="28.0" y="294.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="600" style="">CYTOTOXIC AND ITS ANTIEMETIC</text>
+<line x1="28" y1="300.0" x2="1032" y2="300.0" stroke="#ebeae3" stroke-width="1"/>
+<text x="218.0" y="310.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">bendamustine</text>
+<text x="254.0" y="310.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">Bendamustine Hydrochloride Inject</text>
+<text x="536.0" y="310.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">bendamustine (chlorhydrate de) mo</text>
+<text x="816.0" y="310.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">bendamustine hydrochloride</text>
+<text x="218.0" y="334.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">gemcitabine</text>
+<text x="254.0" y="334.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">Gemcitabine Hydrochloride Injecti</text>
+<text x="536.0" y="334.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">gemcitabine (chlorhydrate de)</text>
+<text x="816.0" y="334.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">gemcitabine hydrochloride</text>
+<text x="218.0" y="358.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">ifosfamide</text>
+<text x="254.0" y="358.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">Ifosfamide Injection</text>
+<text x="536.0" y="358.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">ifosfamide</text>
+<text x="816.0" y="358.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">ifosfamide</text>
+<text x="218.0" y="382.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">methotrexate</text>
+<text x="254.0" y="382.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">Methotrexate Sodium Injection</text>
+<text x="536.0" y="382.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">méthotrexate</text>
+<text x="816.0" y="382.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">methotrexate</text>
+<text x="218.0" y="406.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">aprepitant</text>
+<text x="254.0" y="406.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">Aprepitant Oral Powder for Suspen</text>
+<text x="536.0" y="406.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">aprépitant</text>
+<text x="816.0" y="406.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">aprepitant</text>
+<text x="28.0" y="444.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="600" style="">ANAESTHESIA, SEDATION, SEIZURE</text>
+<line x1="28" y1="450.0" x2="1032" y2="450.0" stroke="#ebeae3" stroke-width="1"/>
+<text x="218.0" y="460.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">midazolam</text>
+<text x="254.0" y="460.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">Midazolam Hydrochloride Injection</text>
+<text x="536.0" y="460.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">midazolam</text>
+<text x="816.0" y="460.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">midazolam hydrochloride</text>
+<text x="218.0" y="484.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">phenobarbital</text>
+<text x="254.0" y="484.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">Phenobarbital Tablet</text>
+<text x="536.0" y="484.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">phénobarbital</text>
+<text x="816.0" y="484.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">phenobarbital sodium</text>
+<text x="218.0" y="508.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">valproate</text>
+<text x="254.0" y="508.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">Valproate Sodium Injection</text>
+<text x="536.0" y="508.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">valproate semisodique</text>
+<text x="816.0" y="508.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">sodium valproate</text>
+<text x="218.0" y="532.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">lamotrigine</text>
+<text x="254.0" y="532.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">Lamotrigine Tablet, Extended Rele</text>
+<text x="536.0" y="532.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">lamotrigine</text>
+<text x="816.0" y="532.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">lamotrigine</text>
+<text x="218.0" y="556.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">methylphenidate</text>
+<text x="254.0" y="556.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">Methylphenidate Hydrochloride Tab</text>
+<text x="536.0" y="556.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">méthylphénidate (chlorhydrate de)</text>
+<text x="816.0" y="556.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">methylphenidate hydrochloride</text>
+<text x="28.0" y="594.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="600" style="">CORTICOSTEROID</text>
+<line x1="28" y1="600.0" x2="1032" y2="600.0" stroke="#ebeae3" stroke-width="1"/>
+<text x="218.0" y="610.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">dexamethasone</text>
+<text x="254.0" y="610.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">Dexamethasone Sodium Phosphate In</text>
+<text x="536.0" y="610.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">dexaméthasone (phosphate sodique </text>
+<text x="816.0" y="610.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">dexamethasone sodium phosphate</text>
+<text x="218.0" y="634.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">methylprednisolone</text>
+<text x="254.0" y="634.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">Methylprednisolone Acetate Inject</text>
+<text x="536.0" y="634.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">méthylprednisolone (hydrogénosucc</text>
+<text x="816.0" y="634.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">methylprednisolone acetate</text>
+<text x="28.0" y="672.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="600" style="">CARDIOVASCULAR</text>
+<line x1="28" y1="678.0" x2="1032" y2="678.0" stroke="#ebeae3" stroke-width="1"/>
+<text x="218.0" y="688.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">diltiazem</text>
+<text x="254.0" y="688.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">Diltiazem Hydrochloride Injection</text>
+<text x="536.0" y="688.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">diltiazem (chlorhydrate de)</text>
+<text x="816.0" y="688.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">diltiazem hydrochloride</text>
+<text x="218.0" y="712.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">metoprolol</text>
+<text x="254.0" y="712.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">Metoprolol Succinate Tablet, Exte</text>
+<text x="536.0" y="712.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">métoprolol (tartrate de)</text>
+<text x="816.0" y="712.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">metoprolol succinate</text>
+<text x="28.0" y="750.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="600" style="">ANTI-INFECTIVE</text>
+<line x1="28" y1="756.0" x2="1032" y2="756.0" stroke="#ebeae3" stroke-width="1"/>
+<text x="218.0" y="766.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">clindamycin</text>
+<text x="254.0" y="766.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">Clindamycin Phosphate Injection</text>
+<text x="536.0" y="766.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">clindamycine (phosphate de)</text>
+<text x="816.0" y="766.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">clindamycin hydrochloride</text>
+<text x="218.0" y="790.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">rifampin</text>
+<text x="254.0" y="790.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">Rifampin Capsule</text>
+<text x="536.0" y="790.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">rifampicine</text>
+<text x="816.0" y="790.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">rifampicin</text>
+<text x="28.0" y="828.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10.5" fill="#898781" text-anchor="start" font-weight="600" style="">OTHER ESSENTIALS</text>
+<line x1="28" y1="834.0" x2="1032" y2="834.0" stroke="#ebeae3" stroke-width="1"/>
+<text x="218.0" y="844.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">desmopressin</text>
+<text x="254.0" y="844.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">Desmopressin Acetate Spray</text>
+<text x="536.0" y="844.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">acétate de desmopressine trihydra</text>
+<text x="816.0" y="844.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">desmopressin acetate</text>
+<text x="218.0" y="868.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">hydroxocobalamin</text>
+<text x="254.0" y="868.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">Hydroxocobalamin Injection</text>
+<text x="536.0" y="868.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">hydroxocobalamine</text>
+<text x="816.0" y="868.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">hydroxocobalamin acetate</text>
+<text x="218.0" y="892.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="end" font-weight="600" style="">mesalamine</text>
+<text x="254.0" y="892.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">Mesalamine Capsule, Extended Rele</text>
+<text x="536.0" y="892.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">mésalazine</text>
+<text x="816.0" y="892.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="">mesalazine</text>
+<line x1="28" y1="1030.0" x2="1032.0" y2="1030.0" stroke="#ebeae3" stroke-width="1"/>
+<text x="28.0" y="1050.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="">23 substances on all three registers, from one capture of each taken 2026-09-10. Four cytotoxics, five anaesthesia and seizure drugs, and otherwise the cheapest drugs in the formulary.</text>
+<text x="28.0" y="1065.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">The join is an RxNorm ingredient code, not a name — so salt forms collapse and the French 'rifampicine' meets the American 'Rifampin'. The names are printed so it can be checked.</text>
+<text x="28.0" y="1080.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">A name-stem join gets this wrong in both directions — see 2-string-vs-code. It misses mesalamine and rifampin, and it merges three different insulins into one.</text>
+<text x="28.0" y="1095.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">Register totals are NOT comparable — FDA records per package NDC, ANSM and TGA per product. Only the overlap is.</text>
+<text x="28.0" y="1110.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal" style="">One capture each, taken 2026-09-10, so this is a cross-section and cannot say whether the overlap is growing.</text>
+</svg>
