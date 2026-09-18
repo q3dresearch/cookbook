@@ -1,0 +1,68 @@
+{
+  "method_version": "1.0.0",
+  "_method_version": "1.0.0 promotes five figures from a fourteen-figure workspace recipe, chosen because together they are one method rather than five findings: the register is mostly sampling effort, a within-stratum composition ratio divides that out, and the result is a biological cliff that survives every check thrown at it. Two of the five replace published versions kept in the workspace rather than deleted \u2014 a pair of figures that made the same argument twice and named the same cells twice, merged into one, and a depth panel whose reader could not tell what was being compared because the comparison was drawn as three separate hairline rules.",
+  "retrieved": "2026-09-19",
+  "source": {
+    "publisher": "OBIS, the Ocean Biodiversity Information System",
+    "api": "https://api.obis.org/v3",
+    "auth": "none",
+    "records_at_fetch": 229671953,
+    "species_at_fetch": 168352,
+    "datasets_at_fetch": 6918,
+    "note": "Live and additive. The record count moved by 62,000 between two probes minutes apart, so every figure is a statement about one fetch."
+  },
+  "headline": {
+    "cells_in_grid": 27168,
+    "share_held_by_top_27_cells": 0.316,
+    "median_top_dataset_share_per_cell": 0.45,
+    "rho_sequencing_share_vs_records_below_50m": 0.97,
+    "rho_with_drill_core_forams_included": 0.73,
+    "light_cliff_crossing_m": {
+      "seagrasses": 20,
+      "kelp": 30,
+      "red algae": 50,
+      "green algae": 70
+    },
+    "controls_never_crossing": [
+      "sponges",
+      "bristle worms",
+      "ray-finned fish"
+    ],
+    "on_land_share_seabirds": 0.527,
+    "crossings_unchanged_after_cleaning": "7 of 7",
+    "top_200m_raw_vs_cleaned": [
+      0.88,
+      0.876
+    ]
+  },
+  "files": {
+    "classes.json": {
+      "sha256": "1a9ad53a68cf82e4b21e50743fdf4357bcad295a9016da5aacaf8c4c05952e9e",
+      "bytes": 59056
+    },
+    "cliffs.json": {
+      "sha256": "8d83f6e724937cac88cac313f973e9fe178f0332e35a038b7bf61b9184249c6b",
+      "bytes": 27053
+    },
+    "flags.json": {
+      "sha256": "2178aa5bdf34615e864f802c0490a9e4f2d1dc7881ef347366bcca3e1c942f43",
+      "bytes": 12304
+    },
+    "grid3.json": {
+      "sha256": "ea6af1f55580f4f837d054444db89dc1ba8df8d94c05c063fda6ed9a7822846f",
+      "bytes": 5053929
+    },
+    "map-depth.json": {
+      "sha256": "74a320fc4f19ed698a61cb93b0db88e06372c5cdc9256a4d0752c6afa815dc6e",
+      "bytes": 32016
+    },
+    "producers.json": {
+      "sha256": "d70bfeb76449f332c0f90e9e8025ba57b98736d33a365654a475d548525ebca0",
+      "bytes": 51841
+    },
+    "statistics.json": {
+      "sha256": "261fef3100bd16be84eebf848398fd8abc9992ae01243eae9bb9d1ba3044bd9e",
+      "bytes": 117
+    }
+  }
+}

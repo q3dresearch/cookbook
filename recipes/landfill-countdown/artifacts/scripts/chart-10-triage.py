@@ -87,7 +87,7 @@ def main():
     for t, lab in ((0.3, "0.3"), (1, "1"), (5, "5"), (20, "20"), (50, "50"), (200, "200")):
         body.append(f'<line x1="{lx(t):.1f}" y1="{T}" x2="{lx(t):.1f}" y2="{T+PH}" stroke="{GRID}"/>')
         body.append(txt(lx(t), T + PH + 20, lab, size=11, fill=MUTED, anchor="middle"))
-    for t, lab in ((1e3, "none"), (1e4, "10k"), (1e5, "100k"), (1e6, "1M"), (8e6, "8M")):
+    for t, lab in ((1e3, "1k"), (1e4, "10k"), (1e5, "100k"), (1e6, "1M"), (8e6, "8M")):
         body.append(f'<line x1="{L}" y1="{ly(t):.1f}" x2="{L+PW}" y2="{ly(t):.1f}" stroke="{GRID}"/>')
         body.append(txt(L - 10, ly(t) + 4, lab, size=11, fill=MUTED, anchor="end"))
     body.append(txt(L + PW / 2, T + PH + 46, "years of room left, at the current acceptance rate",

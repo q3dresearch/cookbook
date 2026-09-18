@@ -1,0 +1,2 @@
+# Never commit data. fetch.py retrieves it and prints the drift against provenance.json.
+artifacts/data/

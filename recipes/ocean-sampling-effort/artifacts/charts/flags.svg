@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="850" viewBox="0 0 1200 850" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'><rect width="1200" height="850" fill="#fcfcfb"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">A fifth of this register is flagged on land. Removing it would delete the shore.</text>
+<text x="28.0" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">FOR</text>
+<text x="28.0" y="77.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">anyone about to exclude flagged records before analysing OBIS</text>
+<text x="409.3" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">DECIDE</text>
+<text x="409.3" y="77.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">whether a quality flag marks an error or a habitat</text>
+<text x="790.7" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">WRONG IF</text>
+<text x="790.7" y="77.0" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">dropping the flagged rows moves any finding in this recipe</text>
+<line x1="28" y1="86.5" x2="1172" y2="86.5" stroke="#e3e2db"/>
+<text x="28.0" y="206.0" font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">the two big flags select opposite animals</text>
+<text x="28.0" y="222.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">share of each class's records carrying each flag</text>
+<line x1="80.0" y1="262.0" x2="80.0" y2="642.0" stroke="#f0efe9"/>
+<text x="80.0" y="658.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">0%</text>
+<line x1="174.5" y1="262.0" x2="174.5" y2="642.0" stroke="#f0efe9"/>
+<text x="174.5" y="658.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">15%</text>
+<line x1="269.0" y1="262.0" x2="269.0" y2="642.0" stroke="#f0efe9"/>
+<text x="269.0" y="658.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">30%</text>
+<line x1="363.5" y1="262.0" x2="363.5" y2="642.0" stroke="#f0efe9"/>
+<text x="363.5" y="658.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">45%</text>
+<line x1="458.0" y1="262.0" x2="458.0" y2="642.0" stroke="#f0efe9"/>
+<text x="458.0" y="658.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">60%</text>
+<line x1="80.0" y1="642.0" x2="458.0" y2="642.0" stroke="#f0efe9"/>
+<text x="73.0" y="645.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">0%</text>
+<line x1="80.0" y1="547.0" x2="458.0" y2="547.0" stroke="#f0efe9"/>
+<text x="73.0" y="550.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">3%</text>
+<line x1="80.0" y1="452.0" x2="458.0" y2="452.0" stroke="#f0efe9"/>
+<text x="73.0" y="455.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">6%</text>
+<line x1="80.0" y1="357.0" x2="458.0" y2="357.0" stroke="#f0efe9"/>
+<text x="73.0" y="360.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">9%</text>
+<line x1="80.0" y1="262.0" x2="458.0" y2="262.0" stroke="#f0efe9"/>
+<text x="73.0" y="265.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">12%</text>
+<text x="28.0" y="674.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">flagged ON_LAND</text>
+<text transform="translate(38,452.0) rotate(-90)" font-size="9.5" fill="#8a8880" text-anchor="middle">flagged DEPTH_EXCEEDS_BATH</text>
+<circle cx="411.7" cy="597.8" r="4.4" fill="#8c2318" fill-opacity="0.8"/>
+<text x="401.7" y="601.3" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums">seabirds</text>
+<text x="401.7" y="601.3" fill="#8c2318" font-size="9.5" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums">seabirds</text>
+<circle cx="279.6" cy="636.0" r="4.4" fill="#8c2318" fill-opacity="0.8"/>
+<text x="289.6" y="639.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">seagrasses</text>
+<text x="289.6" y="639.0" fill="#8c2318" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">seagrasses</text>
+<circle cx="209.5" cy="533.2" r="4.4" fill="#8c2318" fill-opacity="0.8"/>
+<text x="219.5" y="536.7" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">sea snails</text>
+<text x="219.5" y="536.7" fill="#8c2318" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">sea snails</text>
+<circle cx="216.1" cy="595.2" r="4.4" fill="#8c2318" fill-opacity="0.8"/>
+<text x="226.1" y="598.7" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">clams and mussels</text>
+<text x="226.1" y="598.7" fill="#8c2318" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">clams and mussels</text>
+<circle cx="204.1" cy="581.1" r="4.4" fill="#8c2318" fill-opacity="0.8"/>
+<text x="214.1" y="584.6" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">red algae</text>
+<text x="214.1" y="584.6" fill="#8c2318" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">red algae</text>
+<circle cx="123.0" cy="334.0" r="4.4" fill="#4a7fa8" fill-opacity="0.8"/>
+<text x="133.0" y="337.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">kelp</text>
+<text x="133.0" y="337.5" fill="#4a7fa8" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">kelp</text>
+<circle cx="166.1" cy="555.2" r="4.4" fill="#9aa4ad" fill-opacity="0.8"/>
+<text x="176.1" y="558.7" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">ray-finned fish</text>
+<text x="176.1" y="558.7" fill="#9aa4ad" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">ray-finned fish</text>
+<circle cx="113.2" cy="323.2" r="4.4" fill="#4a7fa8" fill-opacity="0.8"/>
+<line x1="119.2" y1="323.2" x2="123.2" y2="345.7" stroke="#4a7fa8" stroke-width="0.8" stroke-opacity="0.55"/>
+<text x="123.2" y="348.7" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">sea urchins</text>
+<text x="123.2" y="348.7" fill="#4a7fa8" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">sea urchins</text>
+<circle cx="168.3" cy="600.3" r="4.4" fill="#9aa4ad" fill-opacity="0.8"/>
+<line x1="174.3" y1="600.3" x2="178.3" y2="567.8" stroke="#9aa4ad" stroke-width="0.8" stroke-opacity="0.55"/>
+<text x="178.3" y="570.8" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">crabs and shrimp</text>
+<text x="178.3" y="570.8" fill="#9aa4ad" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">crabs and shrimp</text>
+<circle cx="110.0" cy="410.8" r="4.4" fill="#4a7fa8" fill-opacity="0.8"/>
+<text x="120.0" y="414.3" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">corals and anemones</text>
+<text x="120.0" y="414.3" fill="#4a7fa8" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">corals and anemones</text>
+<circle cx="120.8" cy="527.3" r="4.4" fill="#9aa4ad" fill-opacity="0.8"/>
+<line x1="126.8" y1="527.3" x2="130.8" y2="615.8" stroke="#9aa4ad" stroke-width="0.8" stroke-opacity="0.55"/>
+<text x="130.8" y="618.8" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">sharks and rays</text>
+<text x="130.8" y="618.8" fill="#9aa4ad" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">sharks and rays</text>
+<circle cx="112.3" cy="485.9" r="4.4" fill="#4a7fa8" fill-opacity="0.8"/>
+<text x="122.3" y="489.4" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">sponges</text>
+<text x="122.3" y="489.4" fill="#4a7fa8" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">sponges</text>
+<circle cx="137.9" cy="629.9" r="4.4" fill="#9aa4ad" fill-opacity="0.8"/>
+<text x="147.9" y="633.4" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">marine mammals</text>
+<text x="147.9" y="633.4" fill="#9aa4ad" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">marine mammals</text>
+<circle cx="101.4" cy="447.3" r="4.4" fill="#4a7fa8" fill-opacity="0.8"/>
+<text x="111.4" y="450.8" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">sea cucumbers</text>
+<text x="111.4" y="450.8" fill="#4a7fa8" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">sea cucumbers</text>
+<circle cx="119.5" cy="611.6" r="4.4" fill="#9aa4ad" fill-opacity="0.8"/>
+<line x1="125.5" y1="611.6" x2="129.5" y2="513.1" stroke="#9aa4ad" stroke-width="0.8" stroke-opacity="0.55"/>
+<text x="129.5" y="516.1" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">bristle worms</text>
+<text x="129.5" y="516.1" fill="#9aa4ad" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">bristle worms</text>
+<circle cx="115.6" cy="625.8" r="4.4" fill="#9aa4ad" fill-opacity="0.8"/>
+<line x1="121.6" y1="625.8" x2="125.6" y2="472.3" stroke="#9aa4ad" stroke-width="0.8" stroke-opacity="0.55"/>
+<text x="125.6" y="475.3" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">diatoms</text>
+<text x="125.6" y="475.3" fill="#9aa4ad" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">diatoms</text>
+<circle cx="274.0" cy="278.5" r="4.4" fill="#8c2318" fill-opacity="0.8"/>
+<text x="285.0" y="282.0" font-size="9.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">over 18% on land — the shore</text>
+<circle cx="274.0" cy="292.5" r="4.4" fill="#4a7fa8" fill-opacity="0.8"/>
+<text x="285.0" y="296.0" font-size="9.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">over 4% below the sea floor — rugged bottom</text>
+<circle cx="274.0" cy="306.5" r="4.4" fill="#9aa4ad" fill-opacity="0.8"/>
+<text x="285.0" y="310.0" font-size="9.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">neither</text>
+<text x="28.0" y="696.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Nothing sits in the top right. A class is either counted from the shore or</text>
+<text x="28.0" y="709.5" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">found on broken ground, and almost never both. Seabirds are half on land</text>
+<text x="28.0" y="723.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">because that is where people stand to count them; sea urchins are a tenth</text>
+<text x="28.0" y="736.5" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">below the sea floor because the bathymetry raster is coarser than the rock</text>
+<text x="28.0" y="750.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">they live on. Neither is a mistake in the record.</text>
+<text x="560.0" y="206.0" font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">and dropping them moves nothing</text>
+<text x="560.0" y="222.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">figure 8's crossing depth, re-measured with the flagged records excluded</text>
+<line x1="612.0" y1="421.6" x2="990.0" y2="421.6" stroke="#52514e" stroke-width="1.5"/>
+<line x1="612.0" y1="361.6" x2="612.0" y2="481.6" stroke="#f0efe9"/>
+<text x="612.0" y="499.6" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">0%</text>
+<line x1="683.3" y1="361.6" x2="683.3" y2="481.6" stroke="#f0efe9"/>
+<text x="683.3" y="499.6" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">5%</text>
+<line x1="754.7" y1="361.6" x2="754.7" y2="481.6" stroke="#f0efe9"/>
+<text x="754.7" y="499.6" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">10%</text>
+<line x1="826.0" y1="361.6" x2="826.0" y2="481.6" stroke="#f0efe9"/>
+<text x="826.0" y="499.6" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">15%</text>
+<line x1="897.4" y1="361.6" x2="897.4" y2="481.6" stroke="#f0efe9"/>
+<text x="897.4" y="499.6" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">20%</text>
+<text x="560.0" y="515.6" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">share of the class's records removed by cleaning</text>
+<text x="604.0" y="424.6" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">0</text>
+<text transform="translate(570,421.6) rotate(-90)" font-size="9.5" fill="#8a8880" text-anchor="middle">change in the crossing depth, metres</text>
+<circle cx="940.7" cy="421.6" r="4.6" fill="#1b7f5a" fill-opacity="0.85"/>
+<text x="940.7" y="412.6" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">red algae · 50 m</text>
+<text x="940.7" y="412.6" fill="#1b7f5a" font-size="9.5" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">red algae · 50 m</text>
+<circle cx="850.1" cy="421.6" r="4.6" fill="#1b7f5a" fill-opacity="0.85"/>
+<text x="850.1" y="400.6" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">green algae · 70 m</text>
+<text x="850.1" y="400.6" fill="#1b7f5a" font-size="9.5" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">green algae · 70 m</text>
+<circle cx="836.5" cy="421.6" r="4.6" fill="#1b7f5a" fill-opacity="0.85"/>
+<text x="836.5" y="388.6" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">kelp · 30 m</text>
+<text x="836.5" y="388.6" fill="#1b7f5a" font-size="9.5" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">kelp · 30 m</text>
+<circle cx="836.1" cy="421.6" r="4.6" fill="#1b7f5a" fill-opacity="0.85"/>
+<text x="836.1" y="376.6" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">seagrasses · 20 m</text>
+<text x="836.1" y="376.6" fill="#1b7f5a" font-size="9.5" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">seagrasses · 20 m</text>
+<circle cx="739.2" cy="421.6" r="4.6" fill="#9aa4ad" fill-opacity="0.85"/>
+<text x="739.2" y="364.6" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">sponges · never</text>
+<text x="739.2" y="364.6" fill="#9aa4ad" font-size="9.5" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">sponges · never</text>
+<circle cx="715.5" cy="421.6" r="4.6" fill="#9aa4ad" fill-opacity="0.85"/>
+<text x="715.5" y="352.6" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">ray-finned fish · never</text>
+<text x="715.5" y="352.6" fill="#9aa4ad" font-size="9.5" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">ray-finned fish · never</text>
+<circle cx="686.3" cy="421.6" r="4.6" fill="#9aa4ad" fill-opacity="0.85"/>
+<text x="686.3" y="340.6" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">bristle worms · never</text>
+<text x="686.3" y="340.6" fill="#9aa4ad" font-size="9.5" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">bristle worms · never</text>
+<circle cx="617.0" cy="530.1" r="4.6" fill="#1b7f5a" fill-opacity="0.85"/>
+<text x="628.0" y="533.6" font-size="9.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">has a crossing, unchanged</text>
+<circle cx="617.0" cy="544.1" r="4.6" fill="#9aa4ad" fill-opacity="0.85"/>
+<text x="628.0" y="547.6" font-size="9.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">never reaches a tenth, before or after</text>
+<text x="560.0" y="571.6" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Every mark sits on the zero line. Cleaning removes up to 23% of a class's</text>
+<text x="560.0" y="585.1" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">records and moves not one of the seven crossings — seagrasses 20 m, kelp 30</text>
+<text x="560.0" y="598.6" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">m, red algae 50 m, green algae 70 m, and the three controls still never</text>
+<text x="560.0" y="612.1" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">reach a tenth. The share of all records in the top 200 m goes from 88.0% to</text>
+<text x="560.0" y="625.6" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">87.6%. The flags fall roughly where each group already is, so a within-bin</text>
+<text x="560.0" y="639.1" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">ratio divides them out — the same reason figure 8 worked.</text>
+<line x1="28" y1="782.0" x2="1172" y2="782.0" stroke="#e3e2db"/>
+<text x="28.0" y="802.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">OBIS v3 statistics/qc and occurrence with flags/exclude, fetched 2026-09-19 against 229,671,953 records. statistics/qc and a filtered count disagree</text>
+<text x="28.0" y="816.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">on ON_LAND — 43,236,520 against 34,582,170 — because the qc table counts everything ever ingested including rows dropped before indexing, while the</text>
+<text x="28.0" y="830.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">filter counts what a query returns; the filter count is used, being the population every other figure drew from. Both parameters were verified:</text>
+<text x="28.0" y="844.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">flags=BANANA returns 0 rather than the total, and banana=ON_LAND returns the unfiltered total, which is what four other parameters in this API do</text>
+<text x="28.0" y="858.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">silently. Cleaning here means excluding ON_LAND, DEPTH_EXCEEDS_BATH, NO_MATCH, NOT_MARINE.</text>
+</svg>

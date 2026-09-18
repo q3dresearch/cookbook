@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="968" viewBox="0 0 1200 968" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'><rect width="1200" height="968" fill="#fcfcfb"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">Light is the only cliff this register can prove.</text>
+<text x="28.0" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">FOR</text>
+<text x="28.0" y="77.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">anyone about to read a community claim off a depth slice</text>
+<text x="409.3" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">DECIDE</text>
+<text x="409.3" y="77.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">whether a depth band's mix is biology or one ship's itinerary</text>
+<text x="790.7" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">WRONG IF</text>
+<text x="790.7" y="77.0" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the deep bands keep their composition once the largest dataset</text>
+<text x="790.7" y="90.5" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">is dropped</text>
+<line x1="28" y1="100.0" x2="1172" y2="100.0" stroke="#e3e2db"/>
+<text x="28.0" y="200.0" font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">what share of each depth bin belongs to each group</text>
+<text x="28.0" y="216.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">ratio to the same group's share of the top 20 m, log scale</text>
+<line x1="74.0" y1="250.0" x2="74.0" y2="630.0" stroke="#f0efe9"/>
+<text x="74.0" y="646.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">0</text>
+<line x1="173.0" y1="250.0" x2="173.0" y2="630.0" stroke="#f0efe9"/>
+<text x="173.0" y="646.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">50</text>
+<line x1="272.0" y1="250.0" x2="272.0" y2="630.0" stroke="#f0efe9"/>
+<text x="272.0" y="646.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">100</text>
+<line x1="371.0" y1="250.0" x2="371.0" y2="630.0" stroke="#f0efe9"/>
+<text x="371.0" y="646.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">150</text>
+<line x1="470.0" y1="250.0" x2="470.0" y2="630.0" stroke="#f0efe9"/>
+<text x="470.0" y="646.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">200</text>
+<line x1="74.0" y1="318.8" x2="470.0" y2="318.8" stroke="#f0efe9"/>
+<text x="67.0" y="321.8" font-size="9" fill="#8a8880" text-anchor="end">10<tspan font-size="6.5" dy="-3.6">0</tspan></text>
+<line x1="74.0" y1="407.1" x2="470.0" y2="407.1" stroke="#f0efe9"/>
+<text x="67.0" y="410.1" font-size="9" fill="#8a8880" text-anchor="end">10<tspan font-size="6.5" dy="-3.6">-1</tspan></text>
+<line x1="74.0" y1="495.5" x2="470.0" y2="495.5" stroke="#f0efe9"/>
+<text x="67.0" y="498.5" font-size="9" fill="#8a8880" text-anchor="end">10<tspan font-size="6.5" dy="-3.6">-2</tspan></text>
+<line x1="74.0" y1="583.8" x2="470.0" y2="583.8" stroke="#f0efe9"/>
+<text x="67.0" y="586.8" font-size="9" fill="#8a8880" text-anchor="end">10<tspan font-size="6.5" dy="-3.6">-3</tspan></text>
+<text x="28.0" y="662.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">metres below the surface</text>
+<text transform="translate(40,440.0) rotate(-90)" font-size="9.5" fill="#8a8880" text-anchor="middle">its share of this bin &#247; its share of 0-20 m</text>
+<path d="M74.0,307.9 L93.8,386.8 L113.6,431.4 L133.4,461.6 L153.2,493.4 L173.0,515.2 L192.8,517.4 L212.6,532.8 L232.4,529.9 L252.2,567.9 L272.0,553.7 L291.8,590.0 L311.6,615.8 L331.4,569.7 L351.2,574.6 L371.0,589.3 L390.8,568.7 L410.6,542.3 L430.4,604.7 L450.2,440.6 L470.0,503.6" fill="none" stroke="#1b7f5a" stroke-width="1.9" stroke-opacity="0.95"/>
+<circle cx="113.6" cy="407.1" r="3.6" fill="#1b7f5a"/>
+<text x="120.6" y="398.1" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">seagrasses · 20 m</text>
+<text x="120.6" y="398.1" fill="#1b7f5a" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">seagrasses · 20 m</text>
+<path d="M74.0,323.0 L93.8,309.8 L113.6,369.6 L133.4,429.2 L153.2,458.7 L173.0,502.9 L192.8,498.8 L212.6,507.4 L232.4,510.2 L252.2,512.2 L272.0,519.1 L291.8,521.2 L311.6,536.8 L331.4,546.7 L351.2,559.6 L371.0,546.7 L390.8,585.4 L410.6,539.1 L430.4,556.9 L450.2,537.7 L470.0,543.9" fill="none" stroke="#1b7f5a" stroke-width="1.9" stroke-opacity="0.95"/>
+<circle cx="133.4" cy="407.1" r="3.6" fill="#1b7f5a"/>
+<text x="140.4" y="386.1" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">kelp / brown algae · 30 m</text>
+<text x="140.4" y="386.1" fill="#1b7f5a" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">kelp / brown algae · 30 m</text>
+<path d="M74.0,316.7 L93.8,324.3 L113.6,366.1 L133.4,383.8 L153.2,379.3 L173.0,425.6 L192.8,419.9 L212.6,449.0 L232.4,454.6 L252.2,476.1 L272.0,479.3 L291.8,499.8 L311.6,506.4 L331.4,508.0 L351.2,544.8 L371.0,498.5 L390.8,571.8 L410.6,516.6 L430.4,520.9 L450.2,545.9 L470.0,499.1" fill="none" stroke="#1b7f5a" stroke-width="1.9" stroke-opacity="0.95"/>
+<circle cx="173.0" cy="407.1" r="3.6" fill="#1b7f5a"/>
+<text x="180.0" y="374.1" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">red algae · 50 m</text>
+<text x="180.0" y="374.1" fill="#1b7f5a" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">red algae · 50 m</text>
+<path d="M74.0,313.0 L93.8,338.9 L113.6,353.3 L133.4,366.2 L153.2,368.3 L173.0,404.9 L192.8,401.7 L212.6,430.9 L232.4,437.9 L252.2,444.9 L272.0,442.0 L291.8,463.0 L311.6,477.2 L331.4,524.9 L351.2,508.1 L371.0,470.8 L390.8,549.5 L410.6,479.6 L430.4,496.3 L450.2,540.9 L470.0,491.5" fill="none" stroke="#1b7f5a" stroke-width="1.9" stroke-opacity="0.95"/>
+<circle cx="212.6" cy="407.1" r="3.6" fill="#1b7f5a"/>
+<text x="219.6" y="362.1" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">green algae · 70 m</text>
+<text x="219.6" y="362.1" fill="#1b7f5a" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">green algae · 70 m</text>
+<path d="M74.0,327.5 L93.8,302.8 L113.6,333.0 L133.4,299.4 L153.2,266.8 L173.0,348.3 L192.8,362.8 L212.6,366.9 L232.4,347.0 L252.2,312.8 L272.0,367.5 L291.8,357.1 L311.6,374.6 L331.4,399.0 L351.2,403.0 L371.0,410.4 L390.8,408.5 L410.6,395.5 L430.4,374.3 L450.2,362.2 L470.0,353.8" fill="none" stroke="#c07a1e" stroke-width="1.9" stroke-opacity="0.95"/>
+<text x="476.0" y="344.8" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">stony corals</text>
+<text x="476.0" y="344.8" fill="#c07a1e" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">stony corals</text>
+<path d="M74.0,343.7 L93.8,288.3 L113.6,305.8 L133.4,320.9 L153.2,326.9 L173.0,327.0 L192.8,309.1 L212.6,329.2 L232.4,329.8 L252.2,320.1 L272.0,344.9 L291.8,295.7 L311.6,333.7 L331.4,305.2 L351.2,326.2 L371.0,348.1 L390.8,341.9 L410.6,332.0 L430.4,325.7 L450.2,322.2 L470.0,323.0" fill="none" stroke="#7d8a96" stroke-width="1.9" stroke-opacity="0.55"/>
+<text x="476.0" y="326.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">sponges</text>
+<text x="476.0" y="326.0" fill="#7d8a96" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">sponges</text>
+<path d="M74.0,321.4 L93.8,312.8 L113.6,300.4 L133.4,285.7 L153.2,295.4 L173.0,319.3 L192.8,289.8 L212.6,296.7 L232.4,296.5 L252.2,281.7 L272.0,291.3 L291.8,256.6 L311.6,259.8 L331.4,291.6 L351.2,291.9 L371.0,315.7 L390.8,335.5 L410.6,313.9 L430.4,320.5 L450.2,314.4 L470.0,287.3" fill="none" stroke="#7d8a96" stroke-width="1.9" stroke-opacity="0.55"/>
+<text x="476.0" y="290.3" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">bristle worms</text>
+<text x="476.0" y="290.3" fill="#7d8a96" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">bristle worms</text>
+<path d="M74.0,326.1 L93.8,304.8 L113.6,308.2 L133.4,301.4 L153.2,306.6 L173.0,318.7 L192.8,295.0 L212.6,312.7 L232.4,306.7 L252.2,302.4 L272.0,331.9 L291.8,304.7 L311.6,302.6 L331.4,303.5 L351.2,300.2 L371.0,300.8 L390.8,297.1 L410.6,294.8 L430.4,298.1 L450.2,303.2 L470.0,302.3" fill="none" stroke="#7d8a96" stroke-width="1.9" stroke-opacity="0.55"/>
+<text x="476.0" y="305.3" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">ray-finned fish</text>
+<text x="476.0" y="305.3" fill="#7d8a96" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">ray-finned fish</text>
+<line x1="84.0" y1="465.4" x2="100.0" y2="465.4" stroke="#1b7f5a" stroke-width="2.4"/>
+<text x="106.0" y="468.9" font-size="9.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">needs light to live</text>
+<line x1="84.0" y1="479.4" x2="100.0" y2="479.4" stroke="#c07a1e" stroke-width="2.4"/>
+<text x="106.0" y="482.9" font-size="9.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">symbionts in the shallows only</text>
+<line x1="84.0" y1="493.4" x2="100.0" y2="493.4" stroke="#7d8a96" stroke-width="2.4"/>
+<text x="106.0" y="496.9" font-size="9.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">does not photosynthesise</text>
+<circle cx="92.0" cy="507.4" r="3.6" fill="#52514e"/>
+<text x="106.0" y="510.9" font-size="9.5" fill="#52514e" text-anchor="start">crosses 10<tspan font-size="6.8" dy="-3.8">-1</tspan></text>
+<text x="28.0" y="684.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Every line starts at 1.0 by construction. The photosynthesisers cross 0.1</text>
+<text x="28.0" y="697.5" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">within 70 m and bottom out between 0.00043 and 0.0024 — three decades down.</text>
+<text x="28.0" y="711.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">The controls never leave the 0.1 to 1.0 decade at any depth on this panel.</text>
+<text x="28.0" y="724.5" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Stony corals are the intermediate the panel was built to contain, with a</text>
+<text x="28.0" y="738.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">floor of 0.092, because reef corals carry photosynthetic symbionts and</text>
+<text x="28.0" y="751.5" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">deep-water corals do not.</text>
+<text x="560.0" y="200.0" font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">and where that ratio stops meaning anything</text>
+<text x="560.0" y="216.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">largest dataset's share of each depth band; area is records in the band</text>
+<line x1="614.0" y1="250.0" x2="614.0" y2="630.0" stroke="#f0efe9"/>
+<text x="614.0" y="646.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">10 m</text>
+<line x1="741.6" y1="250.0" x2="741.6" y2="630.0" stroke="#f0efe9"/>
+<text x="741.6" y="646.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">100</text>
+<line x1="869.1" y1="250.0" x2="869.1" y2="630.0" stroke="#f0efe9"/>
+<text x="869.1" y="646.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">1,000</text>
+<line x1="996.7" y1="250.0" x2="996.7" y2="630.0" stroke="#f0efe9"/>
+<text x="996.7" y="646.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">10,000</text>
+<line x1="614.0" y1="630.0" x2="1002.0" y2="630.0" stroke="#f0efe9"/>
+<text x="607.0" y="633.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">0%</text>
+<line x1="614.0" y1="503.3" x2="1002.0" y2="503.3" stroke="#f0efe9"/>
+<text x="607.0" y="506.3" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">20%</text>
+<line x1="614.0" y1="376.7" x2="1002.0" y2="376.7" stroke="#f0efe9"/>
+<text x="607.0" y="379.7" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">40%</text>
+<line x1="614.0" y1="250.0" x2="1002.0" y2="250.0" stroke="#f0efe9"/>
+<text x="607.0" y="253.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">60%</text>
+<text x="560.0" y="662.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">depth band, log scale</text>
+<text transform="translate(570,440.0) rotate(-90)" font-size="9.5" fill="#8a8880" text-anchor="middle">biggest single dataset's share of the band</text>
+<path d="M614.0,556.0 L683.4,570.4 L725.6,571.2 L764.0,401.8 L811.0,420.5 L853.2,483.1 L891.6,503.1 L919.9,465.1 L938.6,475.8 L952.5,536.3 L963.6,335.0 L987.7,295.4" fill="none" stroke="#8a8880" stroke-width="1.2" stroke-opacity="0.5"/>
+<circle cx="614.0" cy="556.0" r="19.0" fill="#1b7f5a" fill-opacity="0.32" stroke="#1b7f5a" stroke-width="1.4"/>
+<circle cx="683.4" cy="570.4" r="12.1" fill="#1b7f5a" fill-opacity="0.32" stroke="#1b7f5a" stroke-width="1.4"/>
+<circle cx="725.6" cy="571.2" r="11.2" fill="#1b7f5a" fill-opacity="0.32" stroke="#1b7f5a" stroke-width="1.4"/>
+<circle cx="764.0" cy="401.8" r="10.7" fill="#c07a1e" fill-opacity="0.32" stroke="#c07a1e" stroke-width="1.4"/>
+<circle cx="811.0" cy="420.5" r="9.4" fill="#c07a1e" fill-opacity="0.32" stroke="#c07a1e" stroke-width="1.4"/>
+<circle cx="853.2" cy="483.1" r="7.3" fill="#1b7f5a" fill-opacity="0.32" stroke="#1b7f5a" stroke-width="1.4"/>
+<circle cx="891.6" cy="503.1" r="6.6" fill="#1b7f5a" fill-opacity="0.32" stroke="#1b7f5a" stroke-width="1.4"/>
+<circle cx="919.9" cy="465.1" r="5.6" fill="#c07a1e" fill-opacity="0.32" stroke="#c07a1e" stroke-width="1.4"/>
+<circle cx="938.6" cy="475.8" r="5.0" fill="#1b7f5a" fill-opacity="0.32" stroke="#1b7f5a" stroke-width="1.4"/>
+<circle cx="952.5" cy="536.3" r="5.2" fill="#1b7f5a" fill-opacity="0.32" stroke="#1b7f5a" stroke-width="1.4"/>
+<circle cx="963.6" cy="335.0" r="4.9" fill="#8c2318" fill-opacity="0.32" stroke="#8c2318" stroke-width="1.4"/>
+<circle cx="987.7" cy="295.4" r="4.4" fill="#8c2318" fill-opacity="0.32" stroke="#8c2318" stroke-width="1.4"/>
+<text x="614.0" y="531.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">0–20 m</text>
+<text x="614.0" y="531.0" fill="#52514e" font-size="9" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">0–20 m</text>
+<text x="725.6" y="554.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">50–100 m</text>
+<text x="725.6" y="554.0" fill="#52514e" font-size="9" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">50–100 m</text>
+<text x="963.6" y="324.1" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">5,000–6,000 m</text>
+<text x="963.6" y="324.1" fill="#52514e" font-size="9" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">5,000–6,000 m</text>
+<text x="987.7" y="285.1" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">6,000–11,000 m</text>
+<text x="987.7" y="285.1" fill="#52514e" font-size="9" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">6,000–11,000 m</text>
+<circle cx="632.0" cy="262.5" r="5" fill="#1b7f5a" fill-opacity="0.32" stroke="#1b7f5a" stroke-width="1.4"/>
+<text x="644.0" y="266.0" font-size="9.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">under 25% — a share here is a measurement</text>
+<circle cx="632.0" cy="276.5" r="5" fill="#c07a1e" fill-opacity="0.32" stroke="#c07a1e" stroke-width="1.4"/>
+<text x="644.0" y="280.0" font-size="9.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">25–40% — one contributor is steering it</text>
+<circle cx="632.0" cy="290.5" r="5" fill="#8c2318" fill-opacity="0.32" stroke="#8c2318" stroke-width="1.4"/>
+<text x="644.0" y="294.0" font-size="9.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">40% and over — not a measurement</text>
+<text x="906.0" y="566.0" font-size="9" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">records in the band</text>
+<circle cx="925.0" cy="581.0" r="19.0" fill="none" stroke="#8a8880" stroke-width="1.1"/>
+<text x="925.0" y="612.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">64M</text>
+<circle cx="977.0" cy="593.4" r="6.6" fill="none" stroke="#8a8880" stroke-width="1.1"/>
+<text x="977.0" y="612.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2M</text>
+<text x="560.0" y="684.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">The light cliff sits at 20–50 m, where 1,189–2,665 datasets contribute and</text>
+<text x="560.0" y="697.5" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the largest holds 9–12%. The other cliff worth hunting was the carbonate</text>
+<text x="560.0" y="711.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">compensation depth near 4,500 m, and forams do fall from 2.04% of the 3–4 km</text>
+<text x="560.0" y="724.5" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">band to 0.39% of the 4–5 km band — right size, right place. It cannot be</text>
+<text x="560.0" y="738.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">claimed: sea cucumbers are 26.7% of that band by themselves. Blocked, not</text>
+<text x="560.0" y="751.5" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">negative.</text>
+<line x1="28" y1="900.0" x2="1172" y2="900.0" stroke="#e3e2db"/>
+<text x="28.0" y="920.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">OBIS v3 statistics/env, /occurrence and /dataset, fetched 2026-09-18. The 38 depth bins are NOT equal width — 10 m to 200 m, then 100 m, then 1,000 m</text>
+<text x="28.0" y="934.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">— so the raw histogram's steps at 200 m and 1,000 m are the bin widening, not a boundary: per metre, 190–200 m holds 67,390 records and 200–300 m</text>
+<text x="28.0" y="948.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">holds 45,865, a fall drawn as a rise. Only the 10 m bins are used here. startdepth/enddepth match a record's depth RANGE, so abutting bands overlap</text>
+<text x="28.0" y="962.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">and their counts must not be summed; every band figure is a ratio inside one query. Bathymetry, sst, sss and shoredistance are on every record but</text>
+<text x="28.0" y="976.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">cannot be filtered on — those params return the unfiltered total, exactly as a nonsense param does.</text>
+</svg>

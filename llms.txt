@@ -31,6 +31,19 @@ records their publishers overwrite.
   resolves, so the interval exists by accident and both workbooks are committed. Promotion
   replaced openpyxl with a stdlib xlsx reader (verified cell by cell, 2,642 rows) and that
   byte-diff exposed a figure that had never been reproducible because it iterated a set.
+- [ocean-sampling-effort](recipes/ocean-sampling-effort/README.md): the method for getting a
+  biological answer out of a presence-only register. OBIS holds 229,671,953 marine records; 27
+  of 27,168 grid cells hold 31.6%, and the median cell takes 45% from a single dataset. For
+  plants, algae and single cells the recorded depth is the instrument, rho +0.97 against
+  DNA-sequencing share, with drill-core forams as the outlier that names the mechanism. A
+  within-stratum composition ratio cancels the shared effort and yields one provable cliff:
+  benthic photosynthesisers cross a tenth of their shallow share at 20/30/50/70 m while three
+  controls never cross. It only works where the stratum has many contributors — below 5,000 m
+  one cruise holds 46.6%, so the carbonate compensation depth is blocked, not negative. The
+  register's own ON_LAND flag covers 52.7% of seabird records and is a habitat map, not an
+  error signature; excluding it changes none of the seven crossings. Four API traps recorded,
+  including four parameters that silently return the unfiltered total — send a nonsense
+  parameter to tell a working filter from an ignored one.
 - [waste-route-concentration](recipes/waste-route-concentration/README.md): four counting
   artefacts in the EPA hazardous waste register, each generalising past it. The route with the
   fewest firms (deep-well injection, 31) has the lowest Gini (0.63); the one with 77 firms has
