@@ -36,12 +36,14 @@ Fifteen, most recent first. Each links its own write-up.
   priced: 100 more sponge species cost 83,000 records and 100 more seabird species 63.5 million.
   And four of IUCN's five criteria are unreachable from occurrence data, with the fifth ruled
   out for 81% of Critically Endangered species.
-- **[Four ways a national register lies about who is concentrated](recipes/waste-route-concentration/)** —
-  the route with the fewest firms turns out to be the least concentrated of them all, and
-  the Gini is flat for twenty-two years only because firms are leaving the sample. Pin the
-  count and seven of eight routes concentrate. A record count measures how finely activity
-  was written down, not how much of it there was: one route filed 24× the rows on half the
-  waste. And one plant in Texas is 17% of every ton the country manages.
+- **[What America's hazardous waste register counts, and what it hides](recipes/waste-route-concentration/)** —
+  eighteen figures in four parts. A record count measures filing granularity, not activity: one
+  route filed 24× the rows on half the waste. A priority-chemical flag fell 94% → 13% while
+  `D008` went 100% → 16% — lead did not stop being lead. The route with the fewest firms has the
+  lowest Gini, and the flat 22-year inequality trend is flat only because firms leave the
+  sample: pin the count and seven of eight routes concentrate. 95–97% of managed tonnage is
+  liquid and 96% of it never leaves the plant. Price is not the lever — levels give rho −0.24,
+  first differences −0.07 at p 0.49 — procurement is, at +8 points of recovery rate.
 - **[Most of the FDA shortage list is not a shortage](recipes/drug-shortage-overlap/)** —
   137 of 196 substances are products being discontinued, not products in short supply.
   One reporting firm predicts an exit at 95% against 16% for two or more; nothing

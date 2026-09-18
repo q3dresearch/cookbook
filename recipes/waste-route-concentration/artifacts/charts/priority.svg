@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1060" height="720" viewBox="0 0 1060 720" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'><rect width='1060' height='720' fill='#fcfcfb'/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">Lead did not stop being lead</text>
+<text x="28.0" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">FOR</text>
+<text x="28.0" y="77.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">a regulator tracking whether a priority chemical is</text>
+<text x="28.0" y="90.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">being phased out</text>
+<text x="362.7" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">DECIDE</text>
+<text x="362.7" y="77.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">whether a falling record count means the hazard fell</text>
+<text x="697.3" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">WRONG IF</text>
+<text x="697.3" y="77.0" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">lead tonnage falls while its record count holds</text>
+<line x1="28" y1="100.0" x2="1032" y2="100.0" stroke="#e3e2db"/>
+<line x1="92" y1="600.0" x2="492" y2="600.0" stroke="#f0efe9"/>
+<line x1="92" y1="504.0" x2="492" y2="504.0" stroke="#f0efe9"/>
+<line x1="92" y1="408.0" x2="492" y2="408.0" stroke="#f0efe9"/>
+<line x1="92" y1="312.0" x2="492" y2="312.0" stroke="#f0efe9"/>
+<line x1="92" y1="216.0" x2="492" y2="216.0" stroke="#f0efe9"/>
+<text x="92.0" y="620.0" font-size="11" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2001</text>
+<text x="273.8" y="620.0" font-size="11" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2011</text>
+<text x="492.0" y="620.0" font-size="11" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2023</text>
+<line x1="600" y1="600.0" x2="892" y2="600.0" stroke="#f0efe9"/>
+<line x1="600" y1="504.0" x2="892" y2="504.0" stroke="#f0efe9"/>
+<line x1="600" y1="408.0" x2="892" y2="408.0" stroke="#f0efe9"/>
+<line x1="600" y1="312.0" x2="892" y2="312.0" stroke="#f0efe9"/>
+<line x1="600" y1="216.0" x2="892" y2="216.0" stroke="#f0efe9"/>
+<text x="600.0" y="620.0" font-size="11" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2001</text>
+<text x="732.7" y="620.0" font-size="11" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2011</text>
+<text x="892.0" y="620.0" font-size="11" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2023</text>
+<text x="82.0" y="604.0" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">0%</text>
+<text x="590.0" y="604.0" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">0%</text>
+<text x="82.0" y="508.0" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">25%</text>
+<text x="590.0" y="508.0" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">25%</text>
+<text x="82.0" y="412.0" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">50%</text>
+<text x="590.0" y="412.0" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">50%</text>
+<text x="82.0" y="316.0" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">75%</text>
+<text x="590.0" y="316.0" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">75%</text>
+<text x="82.0" y="220.0" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">100%</text>
+<text x="590.0" y="220.0" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">100%</text>
+<text x="92.0" y="170.0" font-size="13" fill="#b03a2e" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">the chart that would have been published</text>
+<text x="92.0" y="186.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">share of metals-recovery tonnage recorded as containing</text>
+<text x="92.0" y="198.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">an EPA priority chemical</text>
+<path d="M92.0,240.2 L273.8,238.0 L310.2,261.6 L346.5,253.1 L382.9,377.8 L419.3,483.7 L492.0,551.2" fill="none" stroke="#b03a2e" stroke-width="3"/>
+<circle cx="92.0" cy="240.2" r="3.5" fill="#b03a2e"/>
+<circle cx="273.8" cy="238.0" r="3.5" fill="#b03a2e"/>
+<circle cx="310.2" cy="261.6" r="3.5" fill="#b03a2e"/>
+<circle cx="346.5" cy="253.1" r="3.5" fill="#b03a2e"/>
+<circle cx="382.9" cy="377.8" r="3.5" fill="#b03a2e"/>
+<circle cx="419.3" cy="483.7" r="3.5" fill="#b03a2e"/>
+<circle cx="492.0" cy="551.2" r="3.5" fill="#b03a2e"/>
+<text x="100.0" y="230.2" fill="none" stroke="#fcfcfb" stroke-width="3" stroke-linejoin="round" font-size="13" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">94%</text>
+<text x="100.0" y="230.2" fill="#b03a2e" font-size="13" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">94%</text>
+<text x="484.0" y="539.2" fill="none" stroke="#fcfcfb" stroke-width="3" stroke-linejoin="round" font-size="13" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">13%</text>
+<text x="484.0" y="539.2" fill="#b03a2e" font-size="13" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">13%</text>
+<text x="102.0" y="361.9" font-size="11.5" fill="#b03a2e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">“Priority-chemical waste in metals</text>
+<text x="102.0" y="375.9" font-size="11.5" fill="#b03a2e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">recovery fell 87% in twenty years.”</text>
+<text x="102.0" y="389.9" font-size="11.5" fill="#b03a2e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Publishable, quotable, and false.</text>
+<text x="600.0" y="170.0" font-size="13" fill="#1b4f8a" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">the test that kills it</text>
+<text x="600.0" y="186.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">share of records flagged, holding the waste code fixed —</text>
+<text x="600.0" y="198.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the same physical material throughout</text>
+<path d="M600.0,216.3 L732.7,216.3 L759.3,291.2 L785.8,280.5 L812.4,282.3 L838.9,457.0 L892.0,538.9" fill="none" stroke="#8c2318" stroke-width="2"/>
+<text x="899.0" y="542.9" fill="none" stroke="#fcfcfb" stroke-width="3" stroke-linejoin="round" font-size="10" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">D008  lead  16%</text>
+<text x="899.0" y="542.9" fill="#8c2318" font-size="10" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">D008  lead  16%</text>
+<path d="M600.0,216.0 L732.7,216.0 L759.3,217.3 L785.8,218.2 L812.4,308.2 L838.9,389.2 L892.0,530.7" fill="none" stroke="#b03a2e" stroke-width="2"/>
+<text x="899.0" y="560.7" fill="none" stroke="#fcfcfb" stroke-width="3" stroke-linejoin="round" font-size="10" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">F006  plating sludge  18%</text>
+<text x="899.0" y="560.7" fill="#b03a2e" font-size="10" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">F006  plating sludge  18%</text>
+<path d="M600.0,216.0 L732.7,216.0 L759.3,217.0 L785.8,217.3 L812.4,227.6 L838.9,310.7 L892.0,354.4" fill="none" stroke="#c07a1e" stroke-width="2"/>
+<text x="899.0" y="358.4" fill="none" stroke="#fcfcfb" stroke-width="3" stroke-linejoin="round" font-size="10" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">K061  furnace dust  64%</text>
+<text x="899.0" y="358.4" fill="#c07a1e" font-size="10" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">K061  furnace dust  64%</text>
+<path d="M600.0,376.0 L732.7,307.5 L759.3,328.1 L785.8,402.6 L812.4,367.4 L838.9,480.1 L892.0,538.8" fill="none" stroke="#6b6f2e" stroke-width="2"/>
+<text x="899.0" y="581.8" fill="none" stroke="#fcfcfb" stroke-width="3" stroke-linejoin="round" font-size="10" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">D007  chromium  16%</text>
+<text x="899.0" y="581.8" fill="#6b6f2e" font-size="10" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">D007  chromium  16%</text>
+<path d="M600.0,216.5 L732.7,216.1 L759.3,226.2 L785.8,218.9 L812.4,286.5 L838.9,353.2 L892.0,407.8" fill="none" stroke="#9a5a2e" stroke-width="2"/>
+<text x="899.0" y="411.8" fill="none" stroke="#fcfcfb" stroke-width="3" stroke-linejoin="round" font-size="10" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">D009  mercury  50%</text>
+<text x="899.0" y="411.8" fill="#9a5a2e" font-size="10" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">D009  mercury  50%</text>
+<path d="M600.0,464.8 L732.7,448.9 L759.3,539.7 L785.8,453.6 L812.4,463.3 L838.9,489.6 L892.0,485.1" fill="none" stroke="#1b4f8a" stroke-width="2.6" stroke-dasharray="5 3"/>
+<text x="899.0" y="489.1" fill="none" stroke="#fcfcfb" stroke-width="3" stroke-linejoin="round" font-size="10" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">D002 in deep-well  30%</text>
+<text x="899.0" y="489.1" fill="#1b4f8a" font-size="10" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">D002 in deep-well  30%</text>
+<text x="606.0" y="500.2" font-size="10.5" fill="#1b4f8a" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Deep-well injection is flat across the same</text>
+<text x="606.0" y="513.2" font-size="10.5" fill="#1b4f8a" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">years, so a spot-check on the wrong category</text>
+<text x="606.0" y="526.2" font-size="10.5" fill="#1b4f8a" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">would have confirmed the field as healthy.</text>
+<line x1="28" y1="650.0" x2="1032" y2="650.0" stroke="#e3e2db"/>
+<text x="28.0" y="670.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">D008 is the code a waste carries because it leaches lead. It was flagged as a priority chemical on 100% of records at its peak and 16% in 2023.</text>
+<text x="28.0" y="685.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">The left panel is kept because it is convincing. A merely bad chart teaches nothing; one that would have been believed is the entire lesson.</text>
+<text x="28.0" y="700.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Metals recovery and deep-well injection, all cycles with a full-schema extract. Whether EPA revised its priority list or the flag decayed, this cannot say — only that it cannot carry a trend.</text>
+</svg>

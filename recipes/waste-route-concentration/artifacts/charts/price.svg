@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="701" viewBox="0 0 1200 701" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'><rect width='1200' height='701' fill='#fcfcfb'/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">No plant, in either metal, ships a ton more when its metal gets dearer</text>
+<text x="28.0" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">FOR</text>
+<text x="28.0" y="77.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">anyone underwriting an entry into metals recovery</text>
+<text x="409.3" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">DECIDE</text>
+<text x="409.3" y="77.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">whether to price it as a commodity bet or a contracted-volume</text>
+<text x="409.3" y="90.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">one</text>
+<text x="790.7" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">WRONG IF</text>
+<text x="790.7" y="77.0" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">a plant's tonnage tracks its own metal's price in a later</text>
+<text x="790.7" y="90.5" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">cycle</text>
+<line x1="28" y1="100.0" x2="1172" y2="100.0" stroke="#e3e2db"/>
+<text x="28.0" y="164.0" font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">why the wrong answer was convincing</text>
+<text x="28.0" y="180.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">each indexed to 2001</text>
+<line x1="28" y1="422.0" x2="328" y2="422.0" stroke="#f0efe9"/>
+<text x="21.0" y="426.0" font-size="10" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">0x</text>
+<line x1="28" y1="357.0" x2="328" y2="357.0" stroke="#f0efe9"/>
+<text x="21.0" y="361.0" font-size="10" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">1x</text>
+<line x1="28" y1="292.0" x2="328" y2="292.0" stroke="#f0efe9"/>
+<text x="21.0" y="296.0" font-size="10" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">2x</text>
+<line x1="28" y1="227.0" x2="328" y2="227.0" stroke="#f0efe9"/>
+<text x="21.0" y="231.0" font-size="10" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">3x</text>
+<path d="M28.0,357.0 L65.5,364.2 L103.0,331.6 L140.5,227.5 L178.0,326.5 L215.5,298.1 L253.0,314.2 L290.5,273.4 L328.0,294.5" fill="none" stroke="#4a7fa8" stroke-width="2.6"/>
+<text x="326.0" y="284.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10.5" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums">real zinc price</text>
+<text x="326.0" y="284.5" fill="#4a7fa8" font-size="10.5" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums">real zinc price</text>
+<path d="M28.0,357.0 L65.5,352.4 L103.0,334.4 L140.5,342.7 L178.0,347.0 L215.5,359.8 L253.0,365.3 L290.5,367.5 L328.0,369.1" fill="none" stroke="#8c2318" stroke-width="2.6"/>
+<text x="326.0" y="359.1" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10.5" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums">tons these plants recover</text>
+<text x="326.0" y="359.1" fill="#8c2318" font-size="10.5" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums">tons these plants recover</text>
+<text x="28.0" y="439.0" font-size="10" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2001</text>
+<text x="215.5" y="439.0" font-size="10" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2011</text>
+<text x="328.0" y="439.0" font-size="10" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2019</text>
+<text x="28.0" y="460.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Price up (rho +0.70 with time), tonnage down</text>
+<text x="28.0" y="473.5" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">(-0.73). Pooled in levels that reads as rho</text>
+<text x="28.0" y="487.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">-0.24, p 0.009 — significant, and an artefact</text>
+<text x="28.0" y="500.5" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">of these two lines.</text>
+<text x="408.0" y="164.0" font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">what a price rise actually buys</text>
+<text x="408.0" y="180.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">median change in a plant's tonnage, by price change</text>
+<line x1="408" y1="410.1" x2="748" y2="410.1" stroke="#f0efe9"/>
+<text x="401.0" y="414.1" font-size="10" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">-40%</text>
+<line x1="408" y1="362.6" x2="748" y2="362.6" stroke="#f0efe9"/>
+<text x="401.0" y="366.6" font-size="10" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">-20%</text>
+<line x1="408" y1="315.0" x2="748" y2="315.0" stroke="#e3e2db"/>
+<text x="401.0" y="319.0" font-size="10" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">0</text>
+<line x1="408" y1="267.4" x2="748" y2="267.4" stroke="#f0efe9"/>
+<text x="401.0" y="271.4" font-size="10" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">+20%</text>
+<line x1="408" y1="219.9" x2="748" y2="219.9" stroke="#f0efe9"/>
+<text x="401.0" y="223.9" font-size="10" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">+40%</text>
+<path d="M442.0,315.0 L510.0,351.5 L714.0,311.4" fill="none" stroke="#7a4a8a" stroke-width="2.6"/>
+<circle cx="442.0" cy="315.0" r="4.5" fill="#7a4a8a"/>
+<text x="442.0" y="304.0" font-size="8.5" fill="#7a4a8a" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">n13</text>
+<circle cx="510.0" cy="351.5" r="4.5" fill="#7a4a8a"/>
+<text x="510.0" y="340.5" font-size="8.5" fill="#7a4a8a" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">n19</text>
+<circle cx="714.0" cy="311.4" r="4.5" fill="#7a4a8a"/>
+<text x="714.0" y="300.4" font-size="8.5" fill="#7a4a8a" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">n21</text>
+<text x="722.0" y="315.4" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">lead plants</text>
+<text x="722.0" y="315.4" fill="#7a4a8a" font-size="10.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">lead plants</text>
+<path d="M442.0,284.3 L510.0,296.3 L646.0,270.0 L714.0,336.4" fill="none" stroke="#1b7f5a" stroke-width="2.6"/>
+<circle cx="442.0" cy="284.3" r="4.5" fill="#1b7f5a"/>
+<text x="442.0" y="273.3" font-size="8.5" fill="#1b7f5a" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">n4</text>
+<circle cx="510.0" cy="296.3" r="4.5" fill="#1b7f5a"/>
+<text x="510.0" y="285.3" font-size="8.5" fill="#1b7f5a" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">n11</text>
+<circle cx="646.0" cy="270.0" r="4.5" fill="#1b7f5a"/>
+<text x="646.0" y="259.0" font-size="8.5" fill="#1b7f5a" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">n4</text>
+<circle cx="714.0" cy="336.4" r="4.5" fill="#1b7f5a"/>
+<text x="714.0" y="325.4" font-size="8.5" fill="#1b7f5a" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">n10</text>
+<text x="722.0" y="340.4" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">zinc plants</text>
+<text x="722.0" y="340.4" fill="#1b7f5a" font-size="10.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">zinc plants</text>
+<text x="442.0" y="438.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">-15%</text>
+<text x="442.0" y="449.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">or worse</text>
+<text x="510.0" y="438.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">-15 to</text>
+<text x="510.0" y="449.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">-2%</text>
+<text x="578.0" y="438.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">-2 to</text>
+<text x="578.0" y="449.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">+10%</text>
+<text x="646.0" y="438.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">+10 to</text>
+<text x="646.0" y="449.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">+30%</text>
+<text x="714.0" y="438.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">+30%</text>
+<text x="714.0" y="449.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">or more</text>
+<text x="408.0" y="468.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">If the hypothesis held these would slope up. Lead</text>
+<text x="408.0" y="481.5" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">against lead: rho -0.002, p 0.99, n 53. Not weak —</text>
+<text x="408.0" y="495.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">absent.</text>
+<text x="830.0" y="164.0" font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">and no single plant does it either</text>
+<text x="830.0" y="180.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">its median tonnage change when its metal rose, minus when it fell</text>
+<line x1="1066.0" y1="204.0" x2="1066.0" y2="394.0" stroke="#e3e2db"/>
+<text x="830.0" y="219.8" font-size="9.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Exide Technologies</text>
+<text x="988.0" y="219.8" font-size="9.5" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">CA</text>
+<rect x="1004.0" y="211.8" width="62.0" height="9" fill="#7a4a8a" fill-opacity="0.8"/>
+<text x="830.0" y="235.2" font-size="9.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Exide Technologies</text>
+<text x="988.0" y="235.2" font-size="9.5" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">IN</text>
+<rect x="1004.0" y="227.2" width="62.0" height="9" fill="#7a4a8a" fill-opacity="0.8"/>
+<text x="830.0" y="250.8" font-size="9.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Revere Smelting &amp; </text>
+<text x="988.0" y="250.8" font-size="9.5" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">NY</text>
+<rect x="1010.5" y="242.8" width="55.5" height="9" fill="#7a4a8a" fill-opacity="0.8"/>
+<text x="830.0" y="266.2" font-size="9.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">The Intl Metals Re</text>
+<text x="988.0" y="266.2" font-size="9.5" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">PA</text>
+<rect x="1042.0" y="258.2" width="24.0" height="9" fill="#1b7f5a" fill-opacity="0.8"/>
+<text x="830.0" y="281.8" font-size="9.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Gopher Resource</text>
+<text x="988.0" y="281.8" font-size="9.5" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">MN</text>
+<rect x="1046.5" y="273.8" width="19.5" height="9" fill="#7a4a8a" fill-opacity="0.8"/>
+<text x="830.0" y="297.2" font-size="9.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">American Zinc Recy</text>
+<text x="988.0" y="297.2" font-size="9.5" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">IL</text>
+<rect x="1049.4" y="289.2" width="16.6" height="9" fill="#1b7f5a" fill-opacity="0.8"/>
+<text x="830.0" y="312.8" font-size="9.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">American Zinc Recy</text>
+<text x="988.0" y="312.8" font-size="9.5" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">PA</text>
+<rect x="1055.1" y="304.8" width="10.9" height="9" fill="#1b7f5a" fill-opacity="0.8"/>
+<text x="830.0" y="328.2" font-size="9.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Steel Dust Recycli</text>
+<text x="988.0" y="328.2" font-size="9.5" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">AL</text>
+<rect x="1066.0" y="320.2" width="7.2" height="9" fill="#1b7f5a" fill-opacity="0.8"/>
+<text x="830.0" y="343.8" font-size="9.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Envirofocus Techno</text>
+<text x="988.0" y="343.8" font-size="9.5" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">FL</text>
+<rect x="1066.0" y="335.8" width="7.8" height="9" fill="#7a4a8a" fill-opacity="0.8"/>
+<text x="830.0" y="359.2" font-size="9.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Sanders Lead Compa</text>
+<text x="988.0" y="359.2" font-size="9.5" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">AL</text>
+<rect x="1066.0" y="351.2" width="21.4" height="9" fill="#7a4a8a" fill-opacity="0.8"/>
+<text x="830.0" y="374.8" font-size="9.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Quemetco Inc</text>
+<text x="988.0" y="374.8" font-size="9.5" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">CA</text>
+<rect x="1066.0" y="366.8" width="62.0" height="9" fill="#7a4a8a" fill-opacity="0.8"/>
+<text x="830.0" y="390.2" font-size="9.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Retriev Technologi</text>
+<text x="988.0" y="390.2" font-size="9.5" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">OH</text>
+<rect x="1066.0" y="382.2" width="62.0" height="9" fill="#7a4a8a" fill-opacity="0.8"/>
+<text x="1066.0" y="408.0" font-size="9.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">0</text>
+<text x="1030.0" y="408.0" font-size="9.5" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">ships less</text>
+<text x="1102.0" y="408.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">ships more</text>
+<text x="830.0" y="434.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">5 of 12 plants ship more when their metal is</text>
+<text x="830.0" y="447.5" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">dearer, which is what a coin does. Colour is</text>
+<text x="830.0" y="461.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the metal — green zinc, purple lead — and the</text>
+<text x="830.0" y="474.5" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">state is beside each name: no region behaves</text>
+<text x="830.0" y="488.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">differently either.</text>
+<text x="28.0" y="560.0" font-size="13" fill="#0b0b0b" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">The gate fee, not the metal, is the revenue that decides whether a plant runs. These are disposal businesses that happen to produce</text>
+<text x="28.0" y="577.0" font-size="13" fill="#0b0b0b" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">metal — so entry is a bet on feedstock contracts and permits, not on zinc.</text>
+<line x1="28" y1="617.0" x2="1172" y2="617.0" stroke="#e3e2db"/>
+<text x="28.0" y="639.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Price is USGS Data Series 140 unit value, constant 1998 dollars. 2023 has no price on this instrument and 2015 is a non-filing cycle; both excluded. 12</text>
+<text x="28.0" y="653.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">plants, classed by whether D008 or K061 carries most of their tonnage. All tests on changes within a plant, never levels. Method in the recipe.</text>
+</svg>

@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="730" viewBox="0 0 1040 730" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'><rect width='1040' height='730' fill='#fcfcfb'/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">Ten lines on a form are half of America's hazardous waste</text>
+<text x="28.0" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">FOR</text>
+<text x="28.0" y="77.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">anyone designing a sampling, audit or monitoring</text>
+<text x="28.0" y="90.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">programme</text>
+<text x="356.0" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">DECIDE</text>
+<text x="356.0" y="77.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">how many form codes you must cover to reach half the</text>
+<text x="356.0" y="90.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">mass</text>
+<text x="684.0" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">WRONG IF</text>
+<text x="684.0" y="77.0" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the top ten's share drops below a third in a later</text>
+<text x="684.0" y="90.5" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">cycle</text>
+<line x1="28" y1="100.0" x2="1012" y2="100.0" stroke="#e3e2db"/>
+<line x1="100.0" y1="206" x2="100.0" y2="600" stroke="#f0efe9"/>
+<text x="100.0" y="620.0" font-size="10.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">1</text>
+<line x1="198.7" y1="206" x2="198.7" y2="600" stroke="#f0efe9"/>
+<text x="198.7" y="620.0" font-size="10.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">10</text>
+<line x1="297.3" y1="206" x2="297.3" y2="600" stroke="#f0efe9"/>
+<text x="297.3" y="620.0" font-size="10.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">100</text>
+<line x1="396.0" y1="206" x2="396.0" y2="600" stroke="#f0efe9"/>
+<text x="396.0" y="620.0" font-size="10.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">1,000</text>
+<line x1="494.7" y1="206" x2="494.7" y2="600" stroke="#f0efe9"/>
+<text x="494.7" y="620.0" font-size="10.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">10,000</text>
+<line x1="593.3" y1="206" x2="593.3" y2="600" stroke="#f0efe9"/>
+<text x="593.3" y="620.0" font-size="10.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">100,000</text>
+<line x1="100" y1="600.0" x2="660" y2="600.0" stroke="#f0efe9"/>
+<text x="90.0" y="604.0" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">0%</text>
+<line x1="100" y1="501.5" x2="660" y2="501.5" stroke="#f0efe9"/>
+<text x="90.0" y="505.5" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">25%</text>
+<line x1="100" y1="403.0" x2="660" y2="403.0" stroke="#f0efe9"/>
+<text x="90.0" y="407.0" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">50%</text>
+<line x1="100" y1="304.5" x2="660" y2="304.5" stroke="#f0efe9"/>
+<text x="90.0" y="308.5" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">75%</text>
+<line x1="100" y1="206.0" x2="660" y2="206.0" stroke="#f0efe9"/>
+<text x="90.0" y="210.0" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">100%</text>
+<text x="380.0" y="646.0" font-size="12" fill="#52514e" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">number of records, largest first (logarithmic)</text>
+<text x="90.0" y="170.0" font-size="11" fill="#52514e" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">share of all</text>
+<text x="90.0" y="184.0" font-size="11" fill="#52514e" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">managed tonnage</text>
+<path d="M100.0,541.5L129.7,512.5L147.1,498.5L159.4,486.8L169.0,475.2L176.8,465.5L183.4,458.6L189.1,452.6L194.2,446.7L198.7,441.6L202.8,436.6L206.5,431.6L209.9,426.9L213.1,422.2L216.0,418.0L218.8,414.1L221.4,410.4L226.2,403.2L230.5,396.4L234.4,390.5L237.9,385.1L242.8,377.3L247.1,370.4L251.1,363.6L255.9,355.3L260.2,347.9L265.0,339.7L269.3,332.8L274.0,325.4L278.2,319.0L282.7,312.4L287.2,305.7L291.9,299.2L296.5,292.9L301.0,286.7L305.9,279.9L310.5,273.5L315.3,267.3L320.1,261.6L324.8,256.2L329.5,251.2L334.3,246.4L339.1,242.1L343.8,238.3L348.6,234.7L353.4,231.5L358.2,228.7L363.0,226.3L367.8,224.1L372.7,222.2L377.5,220.6L382.3,219.2L387.1,218.0L392.0,216.9L396.8,215.9L401.7,215.1L406.5,214.3L411.3,213.7L416.2,213.1L421.0,212.6L425.9,212.1L430.7,211.7L435.6,211.3L440.4,210.9L445.3,210.6L450.1,210.3L455.0,210.0L459.8,209.8L464.7,209.6L469.5,209.4L474.4,209.2L479.2,209.0L484.1,208.8L488.9,208.7L493.8,208.5L498.6,208.4L503.5,208.3L508.4,208.1L513.2,208.0L518.1,207.9L522.9,207.8L527.8,207.7L532.6,207.6L537.5,207.5L542.3,207.4L547.2,207.2L552.0,207.1L556.9,207.0L561.8,206.8L566.6,206.7L571.5,206.6L576.3,206.5L581.2,206.4L586.0,206.3L590.9,206.3L595.8,206.2L600.6,206.2L605.5,206.1L610.3,206.1L615.2,206.1L620.0,206.1L624.9,206.1L629.7,206.0L634.6,206.0L639.5,206.0L644.3,206.0L649.2,206.0L654.0,206.0L658.9,206.0" fill="none" stroke="#7fa8c4" stroke-width="2.6"/>
+<circle cx="198.7" cy="441.6" r="4.5" fill="#7fa8c4"/>
+<text x="207.7" y="445.6" fill="none" stroke="#fcfcfb" stroke-width="3" stroke-linejoin="round" font-size="11.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">2001: ten records = 40%</text>
+<text x="207.7" y="445.6" fill="#7fa8c4" font-size="11.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">2001: ten records = 40%</text>
+<path d="M100.0,568.6L129.7,547.3L147.1,526.6L159.4,510.1L169.0,494.5L176.8,483.0L183.4,473.2L189.1,463.5L194.2,454.6L198.7,446.7L202.8,438.7L206.5,431.3L209.9,424.0L213.1,416.9L216.0,410.4L218.8,404.3L221.4,398.8L226.2,388.6L230.5,379.7L234.4,371.0L237.9,362.8L242.8,352.8L247.1,343.7L251.1,335.0L255.9,324.9L260.2,315.8L265.0,305.5L269.3,296.8L274.0,288.4L278.2,281.9L282.7,275.5L287.2,269.7L291.9,264.2L296.5,259.5L301.0,255.4L305.9,251.6L310.5,248.1L315.3,244.9L320.1,242.2L324.8,239.9L329.5,237.7L334.3,235.7L339.1,233.9L343.8,232.3L348.6,230.8L353.4,229.4L358.2,228.1L363.0,226.9L367.8,225.7L372.7,224.6L377.5,223.6L382.3,222.6L387.1,221.7L392.0,220.9L396.8,220.0L401.7,219.3L406.5,218.5L411.3,217.8L416.2,217.2L421.0,216.5L425.9,215.9L430.7,215.4L435.6,214.8L440.4,214.3L445.3,213.9L450.1,213.4L455.0,213.0L459.8,212.6L464.7,212.3L469.5,211.9L474.4,211.6L479.2,211.2L484.1,210.9L488.9,210.6L493.8,210.3L498.6,210.0L503.5,209.8L508.4,209.6L513.2,209.3L518.1,209.1L522.9,208.9L527.8,208.6L532.6,208.3L537.5,208.1L542.3,207.8L547.2,207.6L552.0,207.4L556.9,207.2L561.8,207.0L566.6,206.9L571.5,206.7L576.3,206.6L581.2,206.5L586.0,206.4L590.9,206.4L595.8,206.3L600.6,206.3L605.5,206.2L610.3,206.2L615.2,206.1L620.0,206.1L624.9,206.1L629.7,206.0L634.6,206.0L639.5,206.0L644.3,206.0L649.2,206.0L654.0,206.0L658.9,206.0" fill="none" stroke="#8c2318" stroke-width="2.6"/>
+<circle cx="198.7" cy="446.7" r="4.5" fill="#8c2318"/>
+<text x="207.7" y="450.7" fill="none" stroke="#fcfcfb" stroke-width="3" stroke-linejoin="round" font-size="11.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">2023: ten records = 39%</text>
+<text x="207.7" y="450.7" fill="#8c2318" font-size="11.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">2023: ten records = 39%</text>
+<line x1="198.7" y1="206" x2="198.7" y2="600" stroke="#0b0b0b" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="686.0" y="210.0" font-size="11" fill="#0b0b0b" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">The ten largest records in</text>
+<text x="686.0" y="224.0" font-size="11" fill="#0b0b0b" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">2023, all of them deep-well</text>
+<text x="686.0" y="238.0" font-size="11" fill="#0b0b0b" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">injection at a chemical plant:</text>
+<text x="686.0" y="254.0" font-size="10.5" fill="#8c2318" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">5.59M</text>
+<text x="730.0" y="254.0" font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">MPM SILICONES LLC</text>
+<text x="686.0" y="269.0" font-size="10.5" fill="#8c2318" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">3.80M</text>
+<text x="730.0" y="269.0" font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">GLOBALFOUNDRIES</text>
+<text x="686.0" y="284.0" font-size="10.5" fill="#8c2318" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">3.71M</text>
+<text x="730.0" y="284.0" font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">EASTMAN CHEMICAL</text>
+<text x="686.0" y="299.0" font-size="10.5" fill="#8c2318" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">2.93M</text>
+<text x="730.0" y="299.0" font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">EASTMAN KODAK CO &amp; RED - R</text>
+<text x="686.0" y="314.0" font-size="10.5" fill="#8c2318" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">2.80M</text>
+<text x="730.0" y="314.0" font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">HF SINCLAIR PARCO REFINING</text>
+<text x="686.0" y="329.0" font-size="10.5" fill="#8c2318" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">2.05M</text>
+<text x="730.0" y="329.0" font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">ASCEND PERFORMANCE MATERIA</text>
+<text x="686.0" y="362.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Counting tonnage once per waste</text>
+<text x="686.0" y="375.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">code a record carries inflates</text>
+<text x="686.0" y="388.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">it by 22.3x in 2001 and 28.2x in</text>
+<text x="686.0" y="401.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">2023 — so any “how much plating</text>
+<text x="686.0" y="414.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">waste” figure grows without</text>
+<text x="686.0" y="427.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">waste being made.</text>
+<line x1="28" y1="660.0" x2="1012" y2="660.0" stroke="#e3e2db"/>
+<text x="28.0" y="680.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">A national statement about what is in American hazardous waste is a statement about a handful of plants: 39% of the tonnage is ten records, against 40% in 2001 — severe, and roughly constant.</text>
+<text x="28.0" y="695.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Records with twenty or more waste codes were 17.8% of tonnage in 2001 and 13.2% in 2023, while unweighted codes per record fell from 2.9 to 3.4. The giants got wordier; the rest did not.</text>
+<text x="28.0" y="710.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">473,908 records in 2001 and 465,189 in 2023, across all twelve management categories. This is a curve over records, not over facilities: it says nothing about plants consolidating. Method in the recipe.</text>
+</svg>
