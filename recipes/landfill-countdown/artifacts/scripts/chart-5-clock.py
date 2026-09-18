@@ -16,8 +16,8 @@ Restricted to the 811 sites whose reported stock advanced by exactly three years
 reference curve is correct for every mark. Thirteen others moved by one, two or four years
 and are left out rather than judged against the wrong line.
 
-The finding is that the system responds to scarcity. **68% of the landfills that had under
-ten years left in 2021 are above the curve; only 39% of those with over fifty years are.**
+The finding is that the system responds to scarcity. **69% of the landfills that had under
+ten years left in 2021 are above the curve; only 38% of those with over fifty years are.**
 Permitted capacity grew on 40% of the short ones against 15% of the long ones, and 39% of
 all the new permitted tonnage in the country went to the 18% of sites that were nearly out.
 A scale-free rank test puts that gradient at rho = -0.28, p < 0.0001, n = 824.
@@ -35,6 +35,7 @@ SURFACE, INK, INK2, MUTED, RULE, GRID = "#fcfcfb", "#0b0b0b", "#52514e", "#8a888
 GREW, SAME, HOT = "#1b7f5a", "#8a8880", "#c07a1e"
 FONT = 'system-ui, -apple-system, "Segoe UI", sans-serif'
 CAP, YR = "Landfill Design Capacity (tons)", "Waste in Place Year"
+WIP = "Waste in Place (tons)"
 LO, HI, GAP = 0.6, 200.0, 3.0
 
 
@@ -56,7 +57,7 @@ def wrap(x, y, s, *, size, fill, chars, leading=15.0):
 
 def main():
     a, b = load("2021"), load("2024")
-    pts = []
+    pts, basket = [], []
     for k in sorted(set(a) & set(b)):
         y0, _ = countdown(a[k], fresh=2017)
         y1, _ = countdown(b[k], fresh=2020)
@@ -64,6 +65,7 @@ def main():
         if y0 is None or y1 is None or not t0 or not t1 or t1 - t0 != GAP:
             continue
         c0, c1 = num(a[k].get(CAP)), num(b[k].get(CAP))
+        basket.append(k)
         pts.append({"x": min(max(y0, LO), HI), "y": min(max(y1, LO), HI),
                     "clamp": not (LO <= y0 <= HI and LO <= y1 <= HI),
                     "grew": bool(c0 and c1 and c1 > c0 * 1.01), "raw": (y0, y1),
@@ -151,8 +153,23 @@ def main():
     s += body
     fy = H - 20 - 15 * 2
     s.append(f'<line x1="28" y1="{fy-20:.1f}" x2="{W-28}" y2="{fy-20:.1f}" stroke="{RULE}"/>')
-    foot = ["Nationally the room grew: 14.5bn tons left in 2021, 14.8bn in 2024, after burying 1.0bn, "
-            "because 1.3bn tons of new capacity was permitted. Scarcity is local, not national.",
+    # Computed, not typed. This footer carried 14.5bn/14.8bn/1.3bn as a literal string for the
+    # recipe's whole life, and no basket in the shipped code produced those numbers -- the
+    # direction was right and every digit was stale. A headline belongs to whatever basis the
+    # figure actually plots, so it is derived from that basis here and the basis is named.
+    def _room(ed, keys):
+        t = 0.0
+        for k in keys:
+            c, w = num(ed[k].get(CAP)), num(ed[k].get(WIP))
+            if c is not None and w is not None and c - w > 0:
+                t += c - w
+        return t
+    r0, r1 = _room(a, basket), _room(b, basket)
+    added = sum(max(0.0, (num(b[k].get(CAP)) or 0) - (num(a[k].get(CAP)) or 0)) for k in basket)
+    dug = sum(max(0.0, (num(b[k].get(WIP)) or 0) - (num(a[k].get(WIP)) or 0)) for k in basket)
+    foot = [f"Across these {len(basket):,} sites the room grew: {r0/1e9:.1f}bn tons left in 2021, "
+            f"{r1/1e9:.1f}bn in 2024, after burying {dug/1e9:.1f}bn, because {added/1e9:.1f}bn tons "
+            f"of new capacity was permitted. Scarcity is local, not national.",
             "Measured scale-free: a 10% intake change moves a 100-year site by ten years and a 10-year "
             "site by one. Spearman of log countdown against log ratio: -0.28, p < 0.0001, n = 824.",
             "Two editions is one interval. Room was replaced once, between 2021 and 2024; whether that "

@@ -1,17 +1,29 @@
 # America is not running out of landfill room. Eight states are.
 
-**Status: proven** · method 1.0.0 · computed 2026-09-17 from the EPA Landfill Methane
+**Status: proven** · method 1.0.1 · computed 2026-09-18 from the EPA Landfill Methane
 Outreach Program database, 2,641 sites across 42 fields, two editions three years apart.
 **Both workbooks are committed**, against this repo's usual rule, because one of them can no
 longer be obtained from anywhere — see *What makes this recipe unusual* below.
 
-Nationally there is **more** permitted room than there was: 14.5 billion tons in 2021, 14.8
-billion in 2024, after burying a billion — because 1.3 billion tons of new capacity was
-permitted, and it was permitted where the clock was short.
+Nationally there is **more** permitted room than there was, on every basis you can measure
+it: **14.9 billion tons in 2021 against 15.2 billion in 2024** across all open sites, or
+**13.9 against 14.1** across the 811 sites that can be matched between the two editions. On
+that matched basket a billion tons was buried and **1.5 billion tons of new capacity was
+permitted** — and it was permitted where the clock was short.
 
-**Eight states have a median landfill with under twenty years left.** Half the country's
-remaining room belongs to two companies. Both are true at once and neither is visible from a
+**Seven states have a median landfill with under twenty years left** — counting only states
+with at least eight measurable sites, the threshold `measure.py` uses. Lower it to five and it
+is eight; Tennessee sits just outside at 20.2 years. The threshold decides the headline, so it
+is stated rather than assumed. Half the country's remaining room belongs to two companies. Both are true at once and neither is visible from a
 national total.
+
+**Revision 1.0.1.** Four numbers in this write-up were corrected on 2026-09-18. The figures
+were never wrong — all eleven rebuild byte-identically from the committed workbooks — but the
+prose had drifted from the code: the national room figures were a hardcoded string no basket
+reproduced, the eight-states headline depended on an unstated threshold, the rebrand count was
+248 rather than 250, and figure 5 drew 69%/38% while the text beside it said 68%/39%. The
+1.0.0 row stays in `history.csv` beside the correction. `artifacts/scripts/verify.py` now
+recomputes all of it from the workbooks.
 
 ## The decision it changes
 
@@ -123,7 +135,7 @@ correct for every mark. The lower curve is what three years looks like if nothin
 Above it, somebody added room or slowed the intake. Below it, the hole is filling faster than
 the calendar.
 
-**68% of the landfills that had under ten years left in 2021 are above the curve; only 39% of
+**69% of the landfills that had under ten years left in 2021 are above the curve; only 38% of
 those with over fifty years are.** Permitted capacity grew on 40% of the short ones against
 15% of the long ones, and **39% of all new permitted tonnage in the country went to the 18% of
 sites that were nearly out of time**. A scale-free rank test puts the gradient at rho = −0.28,
@@ -208,8 +220,9 @@ event, and the recipe says so wherever it uses them.
 
 **Ownership, status and capacity are current-state fields with no history.** A site whose
 owner changed between editions shows only its latest owner. Owner names are normalised before
-any comparison: raw, the register reports 304 ownership changes between its two editions and
-**250 of those are one company renaming itself**.
+any comparison: raw, the register reports 304 apparent ownership changes between its two
+editions, of which only **49 are real** — **248 are one company renaming itself** (Waste
+Management became WM in 2022) and 7 more are other spelling differences.
 
 **Nothing here is about hazard or about what is in the hole.** The register records volume and
 rate, not contents.
@@ -233,6 +246,10 @@ the arithmetic, which is a finding nobody has chased.
     python3 artifacts/scripts/geo.py             # Census population and distance features
     python3 artifacts/scripts/features.py        # one table of every measurable attribute
     for f in artifacts/scripts/chart-*.py; do python3 "$f"; done
+    python3 artifacts/scripts/verify.py         # recomputes every number above
 
-`fetch.py --verify` hashes what is present against `provenance.json`. Nothing needs
+`fetch.py --verify` hashes what is present against `provenance.json`. `verify.py` goes back to
+the two workbooks rather than re-reading the derived JSON, prints the site-count threshold the
+state headline depends on, and fails any figure whose SVG is older than the script that draws
+it — it exists because four published numbers had drifted from the code that produced them. Nothing needs
 installing — standard library only, verified by AST walk.
