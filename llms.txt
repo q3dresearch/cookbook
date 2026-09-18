@@ -31,6 +31,17 @@ records their publishers overwrite.
   resolves, so the interval exists by accident and both workbooks are committed. Promotion
   replaced openpyxl with a stdlib xlsx reader (verified cell by cell, 2,642 rows) and that
   byte-diff exposed a figure that had never been reproducible because it iterated a set.
+- [fda-gras-notices](recipes/fda-gras-notices/README.md): one dataset, eleven figures, two
+  questions; merged from two recipes that read the same two FDA inventories and carried
+  duplicate copies of the same classifier library, one headed "VENDORED COPY ... change it in
+  both". One GRAS filing in six is withdrawn by the filer and outright refusal is 11x rarer; the
+  withdrawal rate is flat at 10-21% for 28 years, but the share of pulled filings that come back
+  fell from 51% before 2010 to 29% after, surviving every control run against it. Synthetic
+  chemicals fail at 38% against an 11.6% base and a firm that just pulled a filing is 3.2x more
+  likely to pull the next. At least 16 of 155 "never seen again" substances are still permitted,
+  three via the food-additive petition route. The animal-food side of the same inventory clears
+  51% against human food's 79% with every failure mode elevated, and eight firms filing on both
+  sides clear 84% human against 57% animal - the programme, not the companies.
 - [ocean-sampling-effort](recipes/ocean-sampling-effort/README.md): one dataset, fourteen
   figures, five questions. OBIS holds 229,671,953 marine records; 27 of 27,168 grid cells hold
   31.6% and the median cell takes 45% from a single dataset. Two fields that promise and fail:
