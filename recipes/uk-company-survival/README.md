@@ -182,6 +182,12 @@ explained.
     python3 artifacts/scripts/extract_geo.py      # addresses, for the place and agent figures
     python3 artifacts/scripts/location.py
     for f in artifacts/scripts/chart-*.py; do python3 "$f"; done
+    python3 artifacts/scripts/verify.py           # recomputes every number above
+
+`verify.py` reloads the three snapshots rather than re-reading the JSON `survive.py` wrote, and
+refuses to run on a partial corpus rather than reporting a smaller answer — a survival rate
+computed on a missing snapshot is a wrong number, not a smaller one. On its first run it found
+no drift: every number in this write-up reproduces.
 
 `fetch.py --verify` hashes what is present against `provenance.json`; `fetch.py ch ons` takes
 named sources only. `FSB_DATA` points the scripts at an existing corpus. Standard library
