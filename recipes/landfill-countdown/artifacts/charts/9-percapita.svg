@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1020" height="726" viewBox="0 0 1020 726" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'><rect width='1020' height='726' fill='#fcfcfb'/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">New Jersey has six tons of landfill room per resident. Nevada has 385.</text>
+<text x="28.0" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">FOR</text>
+<text x="28.0" y="77.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">a state planner, or anyone siting new capacity</text>
+<text x="349.3" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">DECIDE</text>
+<text x="349.3" y="77.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">whether your state is importing or exporting its</text>
+<text x="349.3" y="90.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">disposal problem</text>
+<text x="670.7" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">WRONG IF</text>
+<text x="670.7" y="77.0" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">per-capita room stops predicting interstate waste</text>
+<text x="670.7" y="90.5" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">flow</text>
+<line x1="28" y1="100.0" x2="992" y2="100.0" stroke="#e3e2db"/>
+<line x1="104.0" y1="178" x2="104.0" y2="580" stroke="#f0efe9"/>
+<text x="104.0" y="600.0" font-size="11" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">0.15</text>
+<line x1="207.9" y1="178" x2="207.9" y2="580" stroke="#f0efe9"/>
+<text x="207.9" y="600.0" font-size="11" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">0.25</text>
+<line x1="348.8" y1="178" x2="348.8" y2="580" stroke="#f0efe9"/>
+<text x="348.8" y="600.0" font-size="11" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">0.5</text>
+<line x1="489.7" y1="178" x2="489.7" y2="580" stroke="#f0efe9"/>
+<text x="489.7" y="600.0" font-size="11" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">1.0</text>
+<line x1="676.0" y1="178" x2="676.0" y2="580" stroke="#f0efe9"/>
+<text x="676.0" y="600.0" font-size="11" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2.5</text>
+<line x1="104" y1="580.0" x2="676" y2="580.0" stroke="#f0efe9"/>
+<text x="94.0" y="584.0" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">3</text>
+<line x1="104" y1="488.7" x2="676" y2="488.7" stroke="#f0efe9"/>
+<text x="94.0" y="492.7" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">10</text>
+<line x1="104" y1="405.3" x2="676" y2="405.3" stroke="#f0efe9"/>
+<text x="94.0" y="409.3" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">30</text>
+<line x1="104" y1="313.9" x2="676" y2="313.9" stroke="#f0efe9"/>
+<text x="94.0" y="317.9" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">100</text>
+<line x1="104" y1="230.6" x2="676" y2="230.6" stroke="#f0efe9"/>
+<text x="94.0" y="234.6" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">300</text>
+<line x1="104" y1="178.0" x2="676" y2="178.0" stroke="#f0efe9"/>
+<text x="94.0" y="182.0" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">600</text>
+<text x="390.0" y="626.0" font-size="12" fill="#52514e" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">tons buried per resident per year</text>
+<text x="94.0" y="142.0" font-size="11" fill="#52514e" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">tons of room</text>
+<text x="94.0" y="156.0" font-size="11" fill="#52514e" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">per resident</text>
+<line x1="104.0" y1="580.0" x2="676.0" y2="366.5" stroke="#8c2318" stroke-width="1.5" stroke-dasharray=""/>
+<text x="156.1" y="557.1" font-size="10" fill="#8c2318" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">20 years</text>
+<line x1="104.0" y1="510.5" x2="676.0" y2="297.0" stroke="#e3e2db" stroke-width="1" stroke-dasharray="3 4"/>
+<text x="156.1" y="487.5" font-size="10" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">50 years</text>
+<line x1="104.0" y1="457.9" x2="676.0" y2="244.4" stroke="#e3e2db" stroke-width="1" stroke-dasharray="3 4"/>
+<text x="156.1" y="435.0" font-size="10" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">100 years</text>
+<line x1="104.0" y1="374.5" x2="676.0" y2="178.0" stroke="#e3e2db" stroke-width="1" stroke-dasharray="3 4"/>
+<text x="156.1" y="351.6" font-size="10" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">300 years</text>
+<circle cx="518.5" cy="360.2" r="12.0" fill="#c07a1e" fill-opacity="0.28" stroke="#c07a1e" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="501.4" cy="384.2" r="11.7" fill="#c07a1e" fill-opacity="0.28" stroke="#c07a1e" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="546.5" cy="211.6" r="10.8" fill="#1b4f8a" fill-opacity="0.28" stroke="#1b4f8a" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="523.5" cy="295.2" r="9.8" fill="#1b4f8a" fill-opacity="0.28" stroke="#1b4f8a" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="447.2" cy="392.2" r="9.3" fill="#c07a1e" fill-opacity="0.28" stroke="#c07a1e" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="495.0" cy="251.6" r="9.2" fill="#1b4f8a" fill-opacity="0.28" stroke="#1b4f8a" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="605.2" cy="347.5" r="9.1" fill="#c07a1e" fill-opacity="0.28" stroke="#c07a1e" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="586.4" cy="285.1" r="8.5" fill="#1b4f8a" fill-opacity="0.28" stroke="#1b4f8a" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="634.8" cy="361.5" r="8.1" fill="#c07a1e" fill-opacity="0.28" stroke="#c07a1e" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="539.0" cy="371.0" r="8.0" fill="#c07a1e" fill-opacity="0.28" stroke="#c07a1e" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="570.2" cy="327.4" r="7.9" fill="#c07a1e" fill-opacity="0.28" stroke="#c07a1e" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="564.0" cy="388.8" r="7.9" fill="#c07a1e" fill-opacity="0.28" stroke="#c07a1e" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="552.5" cy="377.7" r="7.3" fill="#c07a1e" fill-opacity="0.28" stroke="#c07a1e" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="613.3" cy="368.6" r="7.0" fill="#c07a1e" fill-opacity="0.28" stroke="#c07a1e" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="524.9" cy="417.5" r="7.0" fill="#c07a1e" fill-opacity="0.28" stroke="#c07a1e" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="492.5" cy="350.5" r="6.9" fill="#1b4f8a" fill-opacity="0.28" stroke="#1b4f8a" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="428.2" cy="391.8" r="6.7" fill="#c07a1e" fill-opacity="0.28" stroke="#c07a1e" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="528.7" cy="324.1" r="6.5" fill="#1b4f8a" fill-opacity="0.28" stroke="#1b4f8a" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="507.3" cy="392.0" r="6.5" fill="#c07a1e" fill-opacity="0.28" stroke="#c07a1e" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="358.9" cy="472.3" r="6.4" fill="#c07a1e" fill-opacity="0.28" stroke="#c07a1e" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="576.9" cy="364.3" r="6.4" fill="#c07a1e" fill-opacity="0.28" stroke="#c07a1e" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="480.2" cy="381.0" r="6.3" fill="#c07a1e" fill-opacity="0.28" stroke="#c07a1e" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="532.0" cy="373.8" r="6.2" fill="#c07a1e" fill-opacity="0.28" stroke="#c07a1e" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="522.3" cy="352.6" r="5.9" fill="#c07a1e" fill-opacity="0.28" stroke="#c07a1e" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="414.0" cy="412.6" r="5.9" fill="#c07a1e" fill-opacity="0.28" stroke="#c07a1e" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="485.5" cy="457.7" r="5.8" fill="#8c2318" fill-opacity="0.28" stroke="#8c2318" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="516.3" cy="387.4" r="5.4" fill="#c07a1e" fill-opacity="0.28" stroke="#c07a1e" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="517.3" cy="357.3" r="5.4" fill="#c07a1e" fill-opacity="0.28" stroke="#c07a1e" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="425.8" cy="391.2" r="5.3" fill="#c07a1e" fill-opacity="0.28" stroke="#c07a1e" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="441.4" cy="416.4" r="5.3" fill="#c07a1e" fill-opacity="0.28" stroke="#c07a1e" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="487.8" cy="367.6" r="5.2" fill="#c07a1e" fill-opacity="0.28" stroke="#c07a1e" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="494.3" cy="451.5" r="5.2" fill="#8c2318" fill-opacity="0.28" stroke="#8c2318" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="428.4" cy="375.5" r="5.1" fill="#1b4f8a" fill-opacity="0.28" stroke="#1b4f8a" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="509.0" cy="372.1" r="5.0" fill="#c07a1e" fill-opacity="0.28" stroke="#c07a1e" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="440.8" cy="325.0" r="4.8" fill="#1b4f8a" fill-opacity="0.28" stroke="#1b4f8a" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="251.6" cy="491.3" r="4.6" fill="#c07a1e" fill-opacity="0.28" stroke="#c07a1e" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="268.8" cy="528.9" r="4.6" fill="#8c2318" fill-opacity="0.28" stroke="#8c2318" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="227.5" cy="503.5" r="4.6" fill="#c07a1e" fill-opacity="0.28" stroke="#c07a1e" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="462.7" cy="378.8" r="4.5" fill="#c07a1e" fill-opacity="0.28" stroke="#c07a1e" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="402.1" cy="368.6" r="4.5" fill="#1b4f8a" fill-opacity="0.28" stroke="#1b4f8a" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="570.6" cy="437.9" r="4.2" fill="#8c2318" fill-opacity="0.28" stroke="#8c2318" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="384.9" cy="472.3" r="3.9" fill="#c07a1e" fill-opacity="0.28" stroke="#c07a1e" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="359.9" cy="429.7" r="3.9" fill="#c07a1e" fill-opacity="0.28" stroke="#c07a1e" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="494.6" cy="476.5" r="3.9" fill="#8c2318" fill-opacity="0.28" stroke="#8c2318" stroke-opacity="0.8" stroke-width="0.9"/>
+<circle cx="332.5" cy="419.4" r="3.8" fill="#c07a1e" fill-opacity="0.28" stroke="#c07a1e" stroke-opacity="0.8" stroke-width="0.9"/>
+<text x="518.5" y="363.8" font-size="9.5" fill="#c07a1e" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">TX</text>
+<text x="501.4" y="387.8" font-size="9.5" fill="#c07a1e" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">CA</text>
+<text x="546.5" y="215.2" font-size="9.5" fill="#1b4f8a" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">NV</text>
+<text x="523.5" y="298.8" font-size="9.5" fill="#1b4f8a" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">AZ</text>
+<text x="447.2" y="395.8" font-size="9.5" fill="#c07a1e" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">FL</text>
+<text x="495.0" y="255.2" font-size="9.5" fill="#1b4f8a" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">UT</text>
+<text x="605.2" y="351.1" font-size="9.5" fill="#c07a1e" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">OH</text>
+<text x="586.4" y="288.7" font-size="9.5" fill="#1b4f8a" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">OR</text>
+<text x="634.8" y="365.1" font-size="9.5" fill="#c07a1e" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">MI</text>
+<text x="539.0" y="374.6" font-size="9.5" fill="#c07a1e" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">GA</text>
+<text x="570.2" y="331.0" font-size="9.5" fill="#c07a1e" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">CO</text>
+<text x="564.0" y="392.4" font-size="9.5" fill="#c07a1e" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">PA</text>
+<text x="552.5" y="381.3" font-size="9.5" fill="#c07a1e" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">VA</text>
+<text x="613.3" y="372.2" font-size="9.5" fill="#c07a1e" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">IN</text>
+<text x="524.9" y="421.1" font-size="9.5" fill="#c07a1e" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">IL</text>
+<text x="492.5" y="354.1" font-size="9.5" fill="#1b4f8a" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">AL</text>
+<text x="428.2" y="395.4" font-size="9.5" fill="#c07a1e" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">WA</text>
+<text x="528.7" y="327.7" font-size="9.5" fill="#1b4f8a" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">KS</text>
+<text x="507.3" y="395.6" font-size="9.5" fill="#c07a1e" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">TN</text>
+<text x="358.9" y="475.9" font-size="9.5" fill="#c07a1e" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">NY</text>
+<text x="576.9" y="367.9" font-size="9.5" fill="#c07a1e" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">KY</text>
+<text x="480.2" y="384.6" font-size="9.5" fill="#c07a1e" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">SC</text>
+<text x="532.0" y="377.4" font-size="9.5" fill="#c07a1e" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">LA</text>
+<text x="522.3" y="356.2" font-size="9.5" fill="#c07a1e" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">MS</text>
+<text x="414.0" y="416.2" font-size="9.5" fill="#c07a1e" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">MO</text>
+<text x="485.5" y="461.3" font-size="9.5" fill="#8c2318" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">NC</text>
+<text x="516.3" y="391.0" font-size="9.5" fill="#c07a1e" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">IA</text>
+<text x="517.3" y="360.9" font-size="9.5" fill="#c07a1e" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">NM</text>
+<text x="425.8" y="394.8" font-size="9.5" fill="#c07a1e" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">AR</text>
+<text x="441.4" y="420.0" font-size="9.5" fill="#c07a1e" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">OK</text>
+<text x="487.8" y="371.2" font-size="9.5" fill="#c07a1e" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">NE</text>
+<text x="494.3" y="455.1" font-size="9.5" fill="#8c2318" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">WI</text>
+<text x="428.4" y="379.1" font-size="9.5" fill="#1b4f8a" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">ID</text>
+<text x="509.0" y="375.7" font-size="9.5" fill="#c07a1e" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">WV</text>
+<text x="440.8" y="328.6" font-size="9.5" fill="#1b4f8a" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">AK</text>
+<text x="251.6" y="494.9" font-size="9.5" fill="#c07a1e" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">MN</text>
+<text x="268.8" y="532.5" font-size="9.5" fill="#8c2318" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">NJ</text>
+<text x="227.5" y="507.1" font-size="9.5" fill="#c07a1e" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">MD</text>
+<text x="462.7" y="382.4" font-size="9.5" fill="#c07a1e" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">MT</text>
+<text x="402.1" y="372.2" font-size="9.5" fill="#1b4f8a" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">SD</text>
+<text x="570.6" y="441.5" font-size="9.5" fill="#8c2318" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">NH</text>
+<text x="384.9" y="475.9" font-size="9.5" fill="#c07a1e" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">HI</text>
+<text x="359.9" y="433.3" font-size="9.5" fill="#c07a1e" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">ND</text>
+<text x="494.6" y="480.1" font-size="9.5" fill="#8c2318" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">ME</text>
+<text x="332.5" y="423.0" font-size="9.5" fill="#c07a1e" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">WY</text>
+<circle cx="706.0" cy="194.0" r="5" fill="#8c2318" fill-opacity="0.45" stroke="#8c2318" stroke-width="0.9"/>
+<text x="718.0" y="198.0" font-size="11" fill="#8c2318" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">under 20 years  5</text>
+<circle cx="706.0" cy="212.0" r="5" fill="#c07a1e" fill-opacity="0.45" stroke="#c07a1e" stroke-width="0.9"/>
+<text x="718.0" y="216.0" font-size="11" fill="#c07a1e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">20 to 60  31</text>
+<circle cx="706.0" cy="230.0" r="5" fill="#1b4f8a" fill-opacity="0.45" stroke="#1b4f8a" stroke-width="0.9"/>
+<text x="718.0" y="234.0" font-size="11" fill="#1b4f8a" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">over 60  9</text>
+<text x="706.0" y="264.0" font-size="10" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">mark area is the state's total room</text>
+<text x="706.0" y="296.0" font-size="11" fill="#0b0b0b" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">NV holds 385 tons of room per</text>
+<text x="706.0" y="310.0" font-size="11" fill="#0b0b0b" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">resident and NJ holds 6. Both</text>
+<text x="706.0" y="324.0" font-size="11" fill="#0b0b0b" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">bury about the same amount</text>
+<text x="706.0" y="338.0" font-size="11" fill="#0b0b0b" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">each year.</text>
+<text x="706.0" y="386.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Waste crosses state lines. The</text>
+<text x="706.0" y="399.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">numerator is buried here, the</text>
+<text x="706.0" y="412.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">denominator lives here, so</text>
+<text x="706.0" y="425.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">importers sit further right than</text>
+<text x="706.0" y="438.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">their own residents put there.</text>
+<line x1="28" y1="656.0" x2="992" y2="656.0" stroke="#e3e2db"/>
+<text x="28.0" y="676.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">The national median state holds 43 tons of room per resident. Below the orange diagonal a state has under twenty years at its current rate, whoever is generating the waste.</text>
+<text x="28.0" y="691.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Per-resident normalisation is what makes states comparable at all, and it is also what exposes the import problem: a state can look profligate because it is taking someone else's rubbish.</text>
+<text x="28.0" y="706.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">45 states qualify. Population is the Census 2023 county estimate summed to state; capacity and rate are the register's own reported figures for open sites.</text>
+</svg>

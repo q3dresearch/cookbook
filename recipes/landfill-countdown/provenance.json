@@ -1,0 +1,57 @@
+{
+  "method_version": "1.0.0",
+  "_method_version": "1.0.0 promotes eleven figures from a workspace recipe. Two changes were made for promotion and both were verified rather than assumed: openpyxl was replaced with a sixty-line stdlib xlsx reader so the recipe needs nothing installed, checked cell by cell against openpyxl on both editions (2,642 rows, no disagreement); and that byte-for-byte check then exposed a figure that had never been reproducible, because it iterated a set to place dots and Python randomises string hashing per process. Ten of eleven figures were byte-identical before and after the reader swap; the eleventh was the bug.",
+  "retrieved": "2026-09-17",
+  "source": {
+    "publisher": "US EPA",
+    "dataset": "Landfill Methane Outreach Program (LMOP) Database",
+    "editions": [
+      "2021-09",
+      "2024-09"
+    ],
+    "note": "The register publishes its current state at a dated path and overwrites the listing. Only the current edition resolves; September 2021 returns 404 and no web archive holds it. Both workbooks are committed under this repo's stated exception for a snapshot that cannot be reconstructed -- without the 2021 edition there is one edition, no interval, and the central finding cannot be computed.",
+    "also": [
+      "US Census county population estimates 2020-2023",
+      "US Census 2023 urban-area gazetteer"
+    ]
+  },
+  "corpus": {
+    "sites_2021": 2632,
+    "sites_2024": 2641,
+    "fields": 42
+  },
+  "sources": [
+    {
+      "file": "census-counties.csv.gz",
+      "bytes": 38931,
+      "sha256": "c524ce79b298d347a74e52e0fd730deddd4137690f1113e94c7e6d20187fffb8",
+      "obtainable": true
+    },
+    {
+      "file": "census-urban-areas.csv.gz",
+      "bytes": 53884,
+      "sha256": "b7381908dedfc97f04bf3e933461f72bc85cc08cdf042a3508b3ab61f60e32e9",
+      "obtainable": true
+    },
+    {
+      "file": "lmop-2021-09.xlsx",
+      "bytes": 774685,
+      "sha256": "6f2bef721717844cee8d61da91c5da1b64861c9b3f86f422ad6839fff042f885",
+      "obtainable": false
+    },
+    {
+      "file": "lmop-2024-09.xlsx",
+      "bytes": 768750,
+      "sha256": "2fc1d72ca9c022fb3ce9225f3b4ae5466b0b9c28b7d7efe7a10d2ac1415a0aa6",
+      "obtainable": true
+    }
+  ],
+  "headline_figures": {
+    "national_permitted_room_2021_bn_tons": 14.5,
+    "national_permitted_room_2024_bn_tons": 14.8,
+    "new_capacity_permitted_bn_tons": 1.3,
+    "landfills_full_within_five_years": 80,
+    "states_with_median_under_twenty_years": 8,
+    "share_of_remaining_room_top_two_owners": 0.5
+  }
+}
