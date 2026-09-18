@@ -1,0 +1,935 @@
+{
+  "method_version": "1.0.0",
+  "_method_version": "1.0.0 promotes three figures and a verifier from a larger workspace recipe, chosen because each isolates one counting artefact that generalises past this register. Two of the three replace a published wrong version, both kept in the write-up rather than deleted: a firm-count-against-national-share scatter that measured average firm size and ranked the most equal route as the most concentrated, and a log-log path chart whose eleven wandering lines asserted routes the categories may not have taken. The Gini trend exists only because the flat all-firms series was checked against a fixed-count one.",
+  "retrieved": "2026-09-18",
+  "source": {
+    "publisher": "US EPA",
+    "dataset": "RCRA Biennial Report, GM and WR forms",
+    "api": "https://data.epa.gov/efservice/",
+    "cycles": [
+      2001,
+      2003,
+      2005,
+      2007,
+      2009,
+      2011,
+      2013,
+      2015,
+      2017,
+      2019,
+      2021,
+      2023
+    ],
+    "management_categories": [
+      "METALS_RECOVERY",
+      "SOLVENTS_RECOVERY",
+      "ENERGY_RECOVERY",
+      "OTHER_RECOVERY",
+      "FUEL_BLENDING",
+      "INCINERATION",
+      "LANDFILL",
+      "DEEPWELL",
+      "WASTEWATER_TREATMENT",
+      "SLUDGE_TREATMENT",
+      "LAND_TREATMENT",
+      "OTHER_TREATMENT"
+    ],
+    "note": "The path API cannot filter a value containing a slash: it returns zero rows silently, which is what an absent category also looks like. Three real categories vanished that way before an unambiguous prefix was used for each."
+  },
+  "corpus": {
+    "slices": 144,
+    "rows": 7995785,
+    "bytes": 133929938
+  },
+  "slices": [
+    {
+      "slice": "DEEPWELL-2001",
+      "rows": 2599,
+      "bytes": 76580,
+      "sha256": "551e2ec0dc038a64a8f45a603d2f6a2b98f3bd4f4b783fea3e41d2539aa8fbe2"
+    },
+    {
+      "slice": "DEEPWELL-2003",
+      "rows": 2527,
+      "bytes": 69601,
+      "sha256": "a1f71a6a8ec28724f4b9e36c2c96c1633490b159927a8d9d412d5f37eb62e536"
+    },
+    {
+      "slice": "DEEPWELL-2005",
+      "rows": 3945,
+      "bytes": 94123,
+      "sha256": "5b537c650de6489f248865ef3224c2b391f8f15c95f244d785b6bfe8a1b50d91"
+    },
+    {
+      "slice": "DEEPWELL-2007",
+      "rows": 2016,
+      "bytes": 64662,
+      "sha256": "43af701598791d119daaa3dd8b36a257698744810538b6444e88e407234ea199"
+    },
+    {
+      "slice": "DEEPWELL-2009",
+      "rows": 1778,
+      "bytes": 54945,
+      "sha256": "2f5f6a4d43f6372a1642116665035e1917119e9cbeca841649b9cf5dd040f2f2"
+    },
+    {
+      "slice": "DEEPWELL-2011",
+      "rows": 1911,
+      "bytes": 58943,
+      "sha256": "a049c6d365b61e8b12c8c2b9242205f09d2913c0706990a0c40afd956dc91d54"
+    },
+    {
+      "slice": "DEEPWELL-2013",
+      "rows": 1759,
+      "bytes": 56306,
+      "sha256": "b22ad6e00782f3740d8fabc89bf78c55a3a76fed83f9da72d1594cfaf92e7840"
+    },
+    {
+      "slice": "DEEPWELL-2015",
+      "rows": 1620,
+      "bytes": 57687,
+      "sha256": "0796e0a81f05c009b9ac7fe347216ac104cc6a3d63ce51d1e56f1d25c3db863b"
+    },
+    {
+      "slice": "DEEPWELL-2017",
+      "rows": 1655,
+      "bytes": 59752,
+      "sha256": "abf52d68c59ac6cb97b6f622654c2c8a6d97fa5b9992cb1ab33cb23a538d2b0e"
+    },
+    {
+      "slice": "DEEPWELL-2019",
+      "rows": 1638,
+      "bytes": 55466,
+      "sha256": "55026f7f78b2326de372e620fe1038e59a3eef334729d81526be139cf4cd690f"
+    },
+    {
+      "slice": "DEEPWELL-2021",
+      "rows": 1242,
+      "bytes": 43708,
+      "sha256": "85472fa0296f20137cdcbc82c3422b2e5d1cc6307b9077a1f5b77667d7ffcd16"
+    },
+    {
+      "slice": "DEEPWELL-2023",
+      "rows": 1431,
+      "bytes": 54197,
+      "sha256": "3fd7df449e8c9bad77d4d33212699610f95ba15d4e15a445b1ad4754cbac51e9"
+    },
+    {
+      "slice": "ENERGY_RECOVERY-2001",
+      "rows": 12467,
+      "bytes": 295059,
+      "sha256": "995d10e445e44bc541658b7cfca613d30a3245d22f2d9c5ff601ff0b538101a9"
+    },
+    {
+      "slice": "ENERGY_RECOVERY-2003",
+      "rows": 23535,
+      "bytes": 386975,
+      "sha256": "fe651faaa05674cbbb658c7498c3e4e44114143e5d2b12e8f05abf6fcccf574e"
+    },
+    {
+      "slice": "ENERGY_RECOVERY-2005",
+      "rows": 33463,
+      "bytes": 482237,
+      "sha256": "26591cda650070bc3438337d8eb6c569914ee204b47c5a0d3d75fc6884a699f2"
+    },
+    {
+      "slice": "ENERGY_RECOVERY-2007",
+      "rows": 21683,
+      "bytes": 411682,
+      "sha256": "4e75b0fdc51bd6ad7d9dab4a14f2aa29168435f626a731bcb5e8c141b9ac0318"
+    },
+    {
+      "slice": "ENERGY_RECOVERY-2009",
+      "rows": 18457,
+      "bytes": 347565,
+      "sha256": "16f0db16bf3a81ebf76da9e2e1fc827e6e17da186cfecee712cd320db71fb4c2"
+    },
+    {
+      "slice": "ENERGY_RECOVERY-2011",
+      "rows": 16944,
+      "bytes": 266806,
+      "sha256": "9722b1b13ffb6a15391bd959a664c27b6738efc208eca36272613212c85694b9"
+    },
+    {
+      "slice": "ENERGY_RECOVERY-2013",
+      "rows": 14972,
+      "bytes": 257832,
+      "sha256": "b85506550e723215d17da33cfb71b4273d8dc777c5ddc2baf6b89db4c51ca2b6"
+    },
+    {
+      "slice": "ENERGY_RECOVERY-2015",
+      "rows": 21870,
+      "bytes": 356221,
+      "sha256": "2b3fea7a37188f2d0678cdac3928329de201b317b78f82a8760eded9a9db6acd"
+    },
+    {
+      "slice": "ENERGY_RECOVERY-2017",
+      "rows": 20643,
+      "bytes": 316210,
+      "sha256": "5bf603b5133e2558508d5c95eaa5a181f87438fa72cafe784f76fee18d18944f"
+    },
+    {
+      "slice": "ENERGY_RECOVERY-2019",
+      "rows": 21542,
+      "bytes": 343852,
+      "sha256": "fdb24ef86c00691dbc57f5c035cbff97887ef860d6e8c20be991700bfdf9ace2"
+    },
+    {
+      "slice": "ENERGY_RECOVERY-2021",
+      "rows": 15106,
+      "bytes": 257891,
+      "sha256": "f99616a6848030642ea421b8941fa0418c12d0aba49ac6f831114ab8d46b4283"
+    },
+    {
+      "slice": "ENERGY_RECOVERY-2023",
+      "rows": 18235,
+      "bytes": 309765,
+      "sha256": "df81e099b7cef9de6b823039dd0686e4c3687589c676589e6e6e9d2f8cd1703d"
+    },
+    {
+      "slice": "FUEL_BLENDING-2001",
+      "rows": 192978,
+      "bytes": 3129266,
+      "sha256": "a5eec18de83540ffd6b74a471f00dcfd1b2488ef54be3dddabd94adb966068bc"
+    },
+    {
+      "slice": "FUEL_BLENDING-2003",
+      "rows": 199229,
+      "bytes": 3149328,
+      "sha256": "b812892c0b37c075b86b04f1fadfc7c2f27e4ed995c72fc51dd25c24520a79b4"
+    },
+    {
+      "slice": "FUEL_BLENDING-2005",
+      "rows": 181603,
+      "bytes": 2908599,
+      "sha256": "179447d4fa804357e10358562ae29a6bd7b01df856074f829dd2d6d054e1a797"
+    },
+    {
+      "slice": "FUEL_BLENDING-2007",
+      "rows": 205612,
+      "bytes": 3129295,
+      "sha256": "a2fbd9bf7b244839606a8a602cd44cf8009a0a2aed967fbcee9fcb3309fd318c"
+    },
+    {
+      "slice": "FUEL_BLENDING-2009",
+      "rows": 180097,
+      "bytes": 2868607,
+      "sha256": "453578adecac0ae97fb5966c59de5d9c85008c0d5c91381239d2eea8817546ef"
+    },
+    {
+      "slice": "FUEL_BLENDING-2011",
+      "rows": 188165,
+      "bytes": 3090435,
+      "sha256": "80e53c5b132e79bc708bc904b1c92c8c2cc41f396c232f3445301ac453e01d24"
+    },
+    {
+      "slice": "FUEL_BLENDING-2013",
+      "rows": 204898,
+      "bytes": 3260727,
+      "sha256": "91b18c72ee75bf04519b934e010441c46c081093e50c5d20c5f4e8a4a2701163"
+    },
+    {
+      "slice": "FUEL_BLENDING-2015",
+      "rows": 210189,
+      "bytes": 3153197,
+      "sha256": "5452e5d335035c8fb6dbd965ec03835f20bde9f36ddb79f44f3f4821c15c09c2"
+    },
+    {
+      "slice": "FUEL_BLENDING-2017",
+      "rows": 220997,
+      "bytes": 3067047,
+      "sha256": "2cf7148a04a0c85e7c75fcc617bcb9327f626595d7d5c337af622b0b30cde49f"
+    },
+    {
+      "slice": "FUEL_BLENDING-2019",
+      "rows": 219125,
+      "bytes": 3404153,
+      "sha256": "455b512b8a7e770ed98a40bb5c1ebf7cdf356a8643aa02760f52c67e5359e4fc"
+    },
+    {
+      "slice": "FUEL_BLENDING-2021",
+      "rows": 175979,
+      "bytes": 2712232,
+      "sha256": "5b8ceb531f918804224deedc862025b63b994b49d34221145ad0cd779af92711"
+    },
+    {
+      "slice": "FUEL_BLENDING-2023",
+      "rows": 166658,
+      "bytes": 2927562,
+      "sha256": "328016cd6fdb8425623defd839a3846f1b4fbcbc12fdc70a7a9eb15e5fb3e002"
+    },
+    {
+      "slice": "INCINERATION-2001",
+      "rows": 185178,
+      "bytes": 2981185,
+      "sha256": "53c3656afa2f45a1a84a0493fa08fc53e69d7f59bf3b54edd1dcc8b7ddb96951"
+    },
+    {
+      "slice": "INCINERATION-2003",
+      "rows": 214595,
+      "bytes": 3568344,
+      "sha256": "0355e7446fea45d23c703bf4cc2c2d99fd03850eed04aeee353f40c1d5b1387d"
+    },
+    {
+      "slice": "INCINERATION-2005",
+      "rows": 171261,
+      "bytes": 2815859,
+      "sha256": "54f83cec927c0301f8a65c75de922bc2b800d916af7f4db79772ad4c82e257bd"
+    },
+    {
+      "slice": "INCINERATION-2007",
+      "rows": 161089,
+      "bytes": 2885681,
+      "sha256": "620b546c6a6a55ee21cd5c889053b2dede88a07e0460c56c402756b2ffbbc48b"
+    },
+    {
+      "slice": "INCINERATION-2009",
+      "rows": 207136,
+      "bytes": 3561513,
+      "sha256": "d3f06c208e48c680a842f2118f1501856297f7698f8a0e5dab3243a033fee7d1"
+    },
+    {
+      "slice": "INCINERATION-2011",
+      "rows": 222142,
+      "bytes": 3737483,
+      "sha256": "54723b5e1c003f5254bf8001bd1873f4340be679e8483fd37141a63cc79418d1"
+    },
+    {
+      "slice": "INCINERATION-2013",
+      "rows": 239547,
+      "bytes": 4169926,
+      "sha256": "d2db55f9f7ae78fe317318fdb6017d28ac5942fd7085de12742c8ecae7c1139d"
+    },
+    {
+      "slice": "INCINERATION-2015",
+      "rows": 268697,
+      "bytes": 4492610,
+      "sha256": "06f4eddd58fa04d28748c0716dbe996dd59aea4f43c334a43bbe269821969010"
+    },
+    {
+      "slice": "INCINERATION-2017",
+      "rows": 276780,
+      "bytes": 4734612,
+      "sha256": "07c13f6dc8fd63d04b0a8b6e4f5b1656833808a9ace0c39619a302affb1fd17b"
+    },
+    {
+      "slice": "INCINERATION-2019",
+      "rows": 282119,
+      "bytes": 4872000,
+      "sha256": "f4f3aa382c757c18392808fb5f7b49400f4066f1bc1653ab489c55730b7b77ec"
+    },
+    {
+      "slice": "INCINERATION-2021",
+      "rows": 267531,
+      "bytes": 4317518,
+      "sha256": "a0e27eb66bad7bca420def962531598962688fefa160f76376125ba9a9d078e8"
+    },
+    {
+      "slice": "INCINERATION-2023",
+      "rows": 275034,
+      "bytes": 4771002,
+      "sha256": "04791a6eb74ff4870bb5a7d70d36b9ec3233ba58afd63d36970c3e0d00a14aeb"
+    },
+    {
+      "slice": "LANDFILL-2001",
+      "rows": 20650,
+      "bytes": 589077,
+      "sha256": "292034b8f6b8740b9456899cb5db198edae0ed6d31eab814262d4bba6097065a"
+    },
+    {
+      "slice": "LANDFILL-2003",
+      "rows": 21474,
+      "bytes": 558807,
+      "sha256": "0fe92e93f61db18f843a134d5a306776ef1abfdeb1fd6deec3c56bcaa104af27"
+    },
+    {
+      "slice": "LANDFILL-2005",
+      "rows": 28621,
+      "bytes": 633740,
+      "sha256": "b353dbdabcdca2f1960d7f1a56784581dc33d9c73f7f40132bf1a936c02fee0a"
+    },
+    {
+      "slice": "LANDFILL-2007",
+      "rows": 21943,
+      "bytes": 532092,
+      "sha256": "bf1479202b4cb99f9afa36b4f12dd27c02b8a0af4e80e1a289ab24ab135653fa"
+    },
+    {
+      "slice": "LANDFILL-2009",
+      "rows": 33129,
+      "bytes": 733133,
+      "sha256": "067bc6fbaf0f895d60794c9477f8ee108e70f6d38280d00967b9bd344125e94f"
+    },
+    {
+      "slice": "LANDFILL-2011",
+      "rows": 36375,
+      "bytes": 799095,
+      "sha256": "973f42f40d7a5e02a5c4a2e230aefd36f8917d71a911ae984034b72213efa51c"
+    },
+    {
+      "slice": "LANDFILL-2013",
+      "rows": 36643,
+      "bytes": 819739,
+      "sha256": "03ffee31f5d923d907ad01510d17b987cfeffc6ee7e396ed9bba8d3c35bea826"
+    },
+    {
+      "slice": "LANDFILL-2015",
+      "rows": 37698,
+      "bytes": 839137,
+      "sha256": "4ec8ad7a74ee19adf565bf391e82ebb0439a28edf9e4ed1f9a95922bca2433e0"
+    },
+    {
+      "slice": "LANDFILL-2017",
+      "rows": 39377,
+      "bytes": 862873,
+      "sha256": "ff9374689e02a7185dc6ccf3eb8f6583f9556d59818d1a3acc8aa60e40030ae1"
+    },
+    {
+      "slice": "LANDFILL-2019",
+      "rows": 51199,
+      "bytes": 1016507,
+      "sha256": "84d9b4769fb9685c8d28710c08be896f056a58e5b6d4ddff938f56e8585ce81e"
+    },
+    {
+      "slice": "LANDFILL-2021",
+      "rows": 46818,
+      "bytes": 891148,
+      "sha256": "b80ab1069519da650cfd9e6a3c340ee4800551dc2300e518d3a5623298206284"
+    },
+    {
+      "slice": "LANDFILL-2023",
+      "rows": 58770,
+      "bytes": 1217964,
+      "sha256": "80b910eece436946d86649c3a29131e8f8b2ab4bef09c169507e8bc04b9c8507"
+    },
+    {
+      "slice": "LAND_TREATMENT-2001",
+      "rows": 2190,
+      "bytes": 66460,
+      "sha256": "6c1d74184a2c4ca08ebbe765b7c49a221f0e6a4b3a136a3ff9b0c6ca30d3d9f1"
+    },
+    {
+      "slice": "LAND_TREATMENT-2003",
+      "rows": 1294,
+      "bytes": 49230,
+      "sha256": "9105f7cedd476cd77bdaed26e224419eee99a37878e8d3bb0187dba80b77cb38"
+    },
+    {
+      "slice": "LAND_TREATMENT-2005",
+      "rows": 1277,
+      "bytes": 47207,
+      "sha256": "66b5c8f38ed24421ad1d0ddb0888fc488eb1ca5adc0aadaa5d68e273fb042d74"
+    },
+    {
+      "slice": "LAND_TREATMENT-2007",
+      "rows": 1107,
+      "bytes": 37791,
+      "sha256": "0bf7bd5435dc3239415d03125d90bc3c43206250f5e4251fe32fe55a39ece552"
+    },
+    {
+      "slice": "LAND_TREATMENT-2009",
+      "rows": 385,
+      "bytes": 18052,
+      "sha256": "0c080e7dc260b4ea25330697b3e3f9aa0bcb1b76747379f9d0cc1e2be003e0b5"
+    },
+    {
+      "slice": "LAND_TREATMENT-2011",
+      "rows": 416,
+      "bytes": 16931,
+      "sha256": "d73f6110a4bebccdec7575ed33c7853f8ae4f2f7aee37b777f0da1f131855910"
+    },
+    {
+      "slice": "LAND_TREATMENT-2013",
+      "rows": 599,
+      "bytes": 19601,
+      "sha256": "20361813931cd05f5944687ae8a43978a4f8f8a6497beb3383b265b4356773d5"
+    },
+    {
+      "slice": "LAND_TREATMENT-2015",
+      "rows": 366,
+      "bytes": 17584,
+      "sha256": "6aa9d611d3a5b597d386db3ffd7606836fef6bb4bcbc940b3d72cfb2377a5ece"
+    },
+    {
+      "slice": "LAND_TREATMENT-2017",
+      "rows": 299,
+      "bytes": 13454,
+      "sha256": "bd9ab2fd7a301a3e459778b23c07e0f8a7fea3d34843325c5473f5ddcf357a9b"
+    },
+    {
+      "slice": "LAND_TREATMENT-2019",
+      "rows": 194,
+      "bytes": 11302,
+      "sha256": "ede008aa50933e07e0334b3996129c9ea474294dde49de5781b44b9d2b12d4b1"
+    },
+    {
+      "slice": "LAND_TREATMENT-2021",
+      "rows": 187,
+      "bytes": 10308,
+      "sha256": "8c470ca079aa72cd27e661211de7b530e08c96d62c457fe5b5242de9e3a88941"
+    },
+    {
+      "slice": "LAND_TREATMENT-2023",
+      "rows": 197,
+      "bytes": 7001,
+      "sha256": "771932dbfde1a92379663ae3fc535e4d1a7e253d2a24c36e3961d650bded8c83"
+    },
+    {
+      "slice": "METALS_RECOVERY-2001",
+      "rows": 20569,
+      "bytes": 435855,
+      "sha256": "7d49fcc12ba5faac2178a3589f884204f65a43f6246b6fc87e91dbb0ccf2adf0"
+    },
+    {
+      "slice": "METALS_RECOVERY-2003",
+      "rows": 16820,
+      "bytes": 381334,
+      "sha256": "b2d43195cfe2f6a43e6caa793188120c83955a97553a41881864d6cc39e277d5"
+    },
+    {
+      "slice": "METALS_RECOVERY-2005",
+      "rows": 19117,
+      "bytes": 382668,
+      "sha256": "6e47b5fdf622f9fc262c8398d1379edeb2705e3f761fbbaa223b028d14b702ac"
+    },
+    {
+      "slice": "METALS_RECOVERY-2007",
+      "rows": 16439,
+      "bytes": 347641,
+      "sha256": "9b864ea9d72d683b8ce180e0f3bd493f521e7c2b5db4f3302b2a26dcf6db3c39"
+    },
+    {
+      "slice": "METALS_RECOVERY-2009",
+      "rows": 14355,
+      "bytes": 324412,
+      "sha256": "e155203b076294a6c3dffb08825a5aab5fc13f677b5a7200538206f19fa95eba"
+    },
+    {
+      "slice": "METALS_RECOVERY-2011",
+      "rows": 13618,
+      "bytes": 301957,
+      "sha256": "f4976b3591aa92c5ba67eed7203258965998f6f0f399bb69f253aa5b0b050c34"
+    },
+    {
+      "slice": "METALS_RECOVERY-2013",
+      "rows": 16139,
+      "bytes": 323341,
+      "sha256": "2ef8851c16438e0874b469be310733628d5d0c7c9a45c12d2a24c35af28d097d"
+    },
+    {
+      "slice": "METALS_RECOVERY-2015",
+      "rows": 15836,
+      "bytes": 342826,
+      "sha256": "246ea155658298d87de3cd3b97a8a8935ab650cadec55c0e52d941930c0b1b95"
+    },
+    {
+      "slice": "METALS_RECOVERY-2017",
+      "rows": 12368,
+      "bytes": 271045,
+      "sha256": "56fbfd08d1a5115656706d83b9656337531f23baea049ed95c7eb34ed370338e"
+    },
+    {
+      "slice": "METALS_RECOVERY-2019",
+      "rows": 11262,
+      "bytes": 253869,
+      "sha256": "7db75f308bfb577b61d0d672cdf31cc2ef268a14113213957c63642aa2cef23c"
+    },
+    {
+      "slice": "METALS_RECOVERY-2021",
+      "rows": 10443,
+      "bytes": 197871,
+      "sha256": "50713ff190ee8173e60db7364d1e5cbd2d243ffe9196105cd33eb17e36335429"
+    },
+    {
+      "slice": "METALS_RECOVERY-2023",
+      "rows": 8266,
+      "bytes": 194723,
+      "sha256": "ae5ddcc092108440030350b1170ae809ef896f3fd03de14c30fe94a8c8f0db1b"
+    },
+    {
+      "slice": "OTHER_RECOVERY-2001",
+      "rows": 4673,
+      "bytes": 139594,
+      "sha256": "6972115437fbfca8e30fde6708eab4526bf7c44f9867e8d5b9f3f16c8cf44939"
+    },
+    {
+      "slice": "OTHER_RECOVERY-2003",
+      "rows": 6377,
+      "bytes": 143059,
+      "sha256": "4e271767f878b4c4d59f790d5a01e27751f775bbb5a3b737547d08b718bd127a"
+    },
+    {
+      "slice": "OTHER_RECOVERY-2005",
+      "rows": 4806,
+      "bytes": 127522,
+      "sha256": "09e9561dce1b48ee191e5640254d12fd02f418c4ac9f8e7f245294617344f593"
+    },
+    {
+      "slice": "OTHER_RECOVERY-2007",
+      "rows": 5623,
+      "bytes": 134420,
+      "sha256": "e12e468c218caec66f924fb6bbf05ef913b00f0f9f4f284a4f1dac3e6d6c5b1a"
+    },
+    {
+      "slice": "OTHER_RECOVERY-2009",
+      "rows": 7717,
+      "bytes": 170261,
+      "sha256": "b46d2e78d0b202948bb378b36ba3037839af87f00010e8a9ebe30902a0225aec"
+    },
+    {
+      "slice": "OTHER_RECOVERY-2011",
+      "rows": 7778,
+      "bytes": 167160,
+      "sha256": "00a35a176316e0a14db298c10a3b1874ecdb6d8a171040cc80492a7a314d0406"
+    },
+    {
+      "slice": "OTHER_RECOVERY-2013",
+      "rows": 21225,
+      "bytes": 377334,
+      "sha256": "6ba85e98d970132b1efb04d649730b8d03612d5cd31226b94c582004df08e7b3"
+    },
+    {
+      "slice": "OTHER_RECOVERY-2015",
+      "rows": 25947,
+      "bytes": 432895,
+      "sha256": "5ea8ae3608d90c8746e9247b0e2ad13edf3269e535bc6aaf8d44ca10820aab2f"
+    },
+    {
+      "slice": "OTHER_RECOVERY-2017",
+      "rows": 27518,
+      "bytes": 464290,
+      "sha256": "58b18d4d988aceb831b9f419bbe43ecb56ac9d1290669e7e423a1a4aeb8cc414"
+    },
+    {
+      "slice": "OTHER_RECOVERY-2019",
+      "rows": 34920,
+      "bytes": 547349,
+      "sha256": "edb3f4ea989651b6052f0f29ed0406f16f82b8eb1338982ecce9a5a7665fa8a0"
+    },
+    {
+      "slice": "OTHER_RECOVERY-2021",
+      "rows": 44143,
+      "bytes": 557847,
+      "sha256": "3c9bef907891fa3e4728740d72f15c8c0d9be6f6291ababc31b3b4e92063ed89"
+    },
+    {
+      "slice": "OTHER_RECOVERY-2023",
+      "rows": 47535,
+      "bytes": 743017,
+      "sha256": "7002d8f999e912940b995a8ca6e18601af3d90e59202839476ffb08486da9185"
+    },
+    {
+      "slice": "OTHER_TREATMENT-2001",
+      "rows": 26758,
+      "bytes": 521299,
+      "sha256": "3c98fe1f901af0aede3712b38e71628a23c3cc6343b31f0e3a0027f0a62a1386"
+    },
+    {
+      "slice": "OTHER_TREATMENT-2003",
+      "rows": 18983,
+      "bytes": 346090,
+      "sha256": "161aee279b27a556a496befc4b33d4c89b2aa1154e4e45b58ffcf94cc4d50e19"
+    },
+    {
+      "slice": "OTHER_TREATMENT-2005",
+      "rows": 14684,
+      "bytes": 279898,
+      "sha256": "4bd9612ea21921d2192f19e8fce1f9018649ac227a5a0b3acc58b6137104c22b"
+    },
+    {
+      "slice": "OTHER_TREATMENT-2007",
+      "rows": 10202,
+      "bytes": 232618,
+      "sha256": "3c7c1bd89e5f121e10722e82312d2da8d4b28ddccf784a0640fa11d74a641c06"
+    },
+    {
+      "slice": "OTHER_TREATMENT-2009",
+      "rows": 6021,
+      "bytes": 159949,
+      "sha256": "84eda6849588a387f43bbd52db040d6930c29a0fd8ccdb8c5b0050763cfc5bb2"
+    },
+    {
+      "slice": "OTHER_TREATMENT-2011",
+      "rows": 6511,
+      "bytes": 158460,
+      "sha256": "2e3093c41a970ddca21da2354b96932d433a418cfd97718eceee51be23c40991"
+    },
+    {
+      "slice": "OTHER_TREATMENT-2013",
+      "rows": 3967,
+      "bytes": 109371,
+      "sha256": "f399fe1fd1fe8306c621933a32138d6335c241f3e888ff20a7e3217e0f58103e"
+    },
+    {
+      "slice": "OTHER_TREATMENT-2015",
+      "rows": 4351,
+      "bytes": 121691,
+      "sha256": "c14ebb5f3cdee798bffd6c16f14fdc32bb2029b05f31e3959b0441e5392543c6"
+    },
+    {
+      "slice": "OTHER_TREATMENT-2017",
+      "rows": 3809,
+      "bytes": 108529,
+      "sha256": "56c905d36919afab04b55d5568c4c2ec16a5e55456fa4b4668fc038fc556d6a6"
+    },
+    {
+      "slice": "OTHER_TREATMENT-2019",
+      "rows": 3206,
+      "bytes": 90844,
+      "sha256": "a688e297ba6fca8f83bc601c3b60a2aaba2ced33cf33e8945679cf386021edd3"
+    },
+    {
+      "slice": "OTHER_TREATMENT-2021",
+      "rows": 2357,
+      "bytes": 75235,
+      "sha256": "8ca9586de02f90c6b8ab547816c90f9db22376513ec9ef4a9b0259369d768f66"
+    },
+    {
+      "slice": "OTHER_TREATMENT-2023",
+      "rows": 1877,
+      "bytes": 61829,
+      "sha256": "05057abf25e2052cbd4d5f5d7acc9f0022ac6133cc06be831380409940ad64e6"
+    },
+    {
+      "slice": "SLUDGE_TREATMENT-2001",
+      "rows": 67029,
+      "bytes": 956846,
+      "sha256": "a767958841c47b1b3c2a7ff8333d00a8d93156a9c0e8b2498c44b221fea200dc"
+    },
+    {
+      "slice": "SLUDGE_TREATMENT-2003",
+      "rows": 49837,
+      "bytes": 777708,
+      "sha256": "d0f31d34a395d0f38aa4348f7138b481918d0fc52f511811e18087fbbf107757"
+    },
+    {
+      "slice": "SLUDGE_TREATMENT-2005",
+      "rows": 45167,
+      "bytes": 644684,
+      "sha256": "1e9189f1c919b0071e7e3289cfaee689d0bfbcc5e4c026ca4d7517749b510ce5"
+    },
+    {
+      "slice": "SLUDGE_TREATMENT-2007",
+      "rows": 54367,
+      "bytes": 746883,
+      "sha256": "dd3a7efd90d92e9664f04eb03ca8071b3b10d6a89ae354ef748639ac589e6e2c"
+    },
+    {
+      "slice": "SLUDGE_TREATMENT-2009",
+      "rows": 53728,
+      "bytes": 783289,
+      "sha256": "a76ede9b132605360e69281ce6520c64c97e92d1f67e90c9277d6542d3dd2e6f"
+    },
+    {
+      "slice": "SLUDGE_TREATMENT-2011",
+      "rows": 57673,
+      "bytes": 847967,
+      "sha256": "13f2617c095f778768ed15bd9d54aa61760bb001b12ebf275cc6ed42d8712e48"
+    },
+    {
+      "slice": "SLUDGE_TREATMENT-2013",
+      "rows": 33310,
+      "bytes": 638094,
+      "sha256": "d2ebc39cc4bdb1cc1841ac6d250893ea6790d2a825f1b50351d7b6f195da6257"
+    },
+    {
+      "slice": "SLUDGE_TREATMENT-2015",
+      "rows": 42541,
+      "bytes": 717521,
+      "sha256": "052b0fc6919fd5d96ca7f5b8393305128f592465c8f6b51564dc687668979cf9"
+    },
+    {
+      "slice": "SLUDGE_TREATMENT-2017",
+      "rows": 44476,
+      "bytes": 766361,
+      "sha256": "ff0d8a90ad6cb5df2dea846ecad803484f905980e22a6d7f83365fb970d3c7e0"
+    },
+    {
+      "slice": "SLUDGE_TREATMENT-2019",
+      "rows": 46443,
+      "bytes": 761950,
+      "sha256": "8d8f397a205b897d3c6f49955d8505dddbb8159de3339a74cd54948c606b8327"
+    },
+    {
+      "slice": "SLUDGE_TREATMENT-2021",
+      "rows": 46466,
+      "bytes": 708239,
+      "sha256": "48a473994e789494a7e689d45b90f89984d59bf620ed835948d0882d1d1e8bf7"
+    },
+    {
+      "slice": "SLUDGE_TREATMENT-2023",
+      "rows": 32215,
+      "bytes": 585221,
+      "sha256": "6ed140f2c06e17e199dc3aed8f6077c443a6f9a1c60d2e5cfd341e0fb7d19949"
+    },
+    {
+      "slice": "SOLVENTS_RECOVERY-2001",
+      "rows": 74498,
+      "bytes": 845723,
+      "sha256": "2ea390335b0fa088e75579b4aa2bbb3b56b0b494348a9873addbba23ecd87b58"
+    },
+    {
+      "slice": "SOLVENTS_RECOVERY-2003",
+      "rows": 64171,
+      "bytes": 650638,
+      "sha256": "282d6c5a19ae7b08656e656841ac5e064d4de14efeb1b1acff1093daa83dc614"
+    },
+    {
+      "slice": "SOLVENTS_RECOVERY-2005",
+      "rows": 58098,
+      "bytes": 624193,
+      "sha256": "4ac84891fcddff8cf9d744a127ac30b24ebd82fe64f25fb4b268fc14ac9979b8"
+    },
+    {
+      "slice": "SOLVENTS_RECOVERY-2007",
+      "rows": 56360,
+      "bytes": 558406,
+      "sha256": "5d08809270be2ceb4fae1b18fd32ac84d0f859201117bd9af815469f08ee6568"
+    },
+    {
+      "slice": "SOLVENTS_RECOVERY-2009",
+      "rows": 37878,
+      "bytes": 504493,
+      "sha256": "500bb032f134f63104f5bc85d34b8001bed320e62a0aff112199605f14ed9353"
+    },
+    {
+      "slice": "SOLVENTS_RECOVERY-2011",
+      "rows": 30366,
+      "bytes": 473025,
+      "sha256": "9cb147a702784760a0fa26527e1ac81241dc9d53a9f8fd4501e1a5aafa906ec9"
+    },
+    {
+      "slice": "SOLVENTS_RECOVERY-2013",
+      "rows": 41784,
+      "bytes": 556791,
+      "sha256": "8a988020378d0e514e745254d56f90fa82c1909d323a67409094d0cef2c4c279"
+    },
+    {
+      "slice": "SOLVENTS_RECOVERY-2015",
+      "rows": 42921,
+      "bytes": 547265,
+      "sha256": "410a44750e61126619832fc9b1db558aa7aa3df1845f2db85cf8415c619f25aa"
+    },
+    {
+      "slice": "SOLVENTS_RECOVERY-2017",
+      "rows": 43081,
+      "bytes": 540523,
+      "sha256": "d262e1ce457771396437efd6aff9661390c19968b0c71e6fd141bb56cbef47cf"
+    },
+    {
+      "slice": "SOLVENTS_RECOVERY-2019",
+      "rows": 38379,
+      "bytes": 628660,
+      "sha256": "566d17ae1726ffd82b11ac24e66b26cc35461e9cdc08336718c3502f116f1b7c"
+    },
+    {
+      "slice": "SOLVENTS_RECOVERY-2021",
+      "rows": 33686,
+      "bytes": 505994,
+      "sha256": "60de3ddb958771d65f2c562679c69ca4e51e29a2126b0af0ef37f32677312dc1"
+    },
+    {
+      "slice": "SOLVENTS_RECOVERY-2023",
+      "rows": 40597,
+      "bytes": 602131,
+      "sha256": "8fc51329765dcf3a82866ef38ebbdc2e1b3e75ca747af810d8753d9bb8a67412"
+    },
+    {
+      "slice": "WASTEWATER_TREATMENT-2001",
+      "rows": 40023,
+      "bytes": 850120,
+      "sha256": "265821ad38a7d6a89bc0169248340d1819e748be804300968db0a0e174ca52a4"
+    },
+    {
+      "slice": "WASTEWATER_TREATMENT-2003",
+      "rows": 54718,
+      "bytes": 951146,
+      "sha256": "7f9aad95cd998f21f86e985ffc8bad2c6fabab879967126213f7b330a79ac812"
+    },
+    {
+      "slice": "WASTEWATER_TREATMENT-2005",
+      "rows": 42819,
+      "bytes": 808196,
+      "sha256": "be312b6cc298eed6038c1db3d1279be22a906f8fada356a9194b16e8f0304115"
+    },
+    {
+      "slice": "WASTEWATER_TREATMENT-2007",
+      "rows": 36160,
+      "bytes": 698664,
+      "sha256": "2f7e591be4a9705715680613a2c3619179c8e5150dcd9c73814b83f8c42057e9"
+    },
+    {
+      "slice": "WASTEWATER_TREATMENT-2009",
+      "rows": 39529,
+      "bytes": 746515,
+      "sha256": "96297dcc3cb51f512744ce59c34e1e8366f3f3ec8bef2ae7219d010395cdad70"
+    },
+    {
+      "slice": "WASTEWATER_TREATMENT-2011",
+      "rows": 41406,
+      "bytes": 727346,
+      "sha256": "e50ff5e5947ca0871b890145bf4945fa91445baaac8105eb312d7ee55f8fe54d"
+    },
+    {
+      "slice": "WASTEWATER_TREATMENT-2013",
+      "rows": 30737,
+      "bytes": 647400,
+      "sha256": "c0b15e0c5d9ff2874ab5d36cbe99954b3ada651a904fd02db052acef97b6226c"
+    },
+    {
+      "slice": "WASTEWATER_TREATMENT-2015",
+      "rows": 49042,
+      "bytes": 910487,
+      "sha256": "3aed859b7e88abb9c6a553d0af141ab6a2d7bfcbd72fc49e8f079464296d7107"
+    },
+    {
+      "slice": "WASTEWATER_TREATMENT-2017",
+      "rows": 47578,
+      "bytes": 894817,
+      "sha256": "be1ba54f862dbd56285e8db33c0894f9adccb145f45be2c92eba65722400d79f"
+    },
+    {
+      "slice": "WASTEWATER_TREATMENT-2019",
+      "rows": 59201,
+      "bytes": 927446,
+      "sha256": "7b32675d430598b9e95bd1ea812044aa9ad6b7b5ef3e5943d75602ce8c7533d3"
+    },
+    {
+      "slice": "WASTEWATER_TREATMENT-2021",
+      "rows": 36172,
+      "bytes": 687076,
+      "sha256": "77c4be5dc5d2a1a1193d9aa792b2b2d1e0faa4151f23a0face6933fdcd80c35d"
+    },
+    {
+      "slice": "WASTEWATER_TREATMENT-2023",
+      "rows": 46224,
+      "bytes": 785538,
+      "sha256": "32ca664a59f4ec27da190eb8d53842f2d31ec32ecb58c3e143268e2bc1f43a7f"
+    }
+  ],
+  "headline_figures": {
+    "total_managed_tons_2023": 70300000,
+    "records_with_tonnage_2023": 465189,
+    "records_with_tonnage_2001": 473908,
+    "gini_all_firms_wastewater_2001_2023": [
+      0.96,
+      0.96
+    ],
+    "gini_top30_energy_recovery_2001_2023": [
+      0.38,
+      0.6
+    ],
+    "gini_top30_other_treatment_2001_2023": [
+      0.7,
+      0.95
+    ],
+    "deepwell_firms_2001_2023": [
+      46,
+      31
+    ],
+    "deepwell_gini_2023": 0.63,
+    "routes_concentrating_on_fixed_count": "7 of 8",
+    "largest_single_site_share_of_national": 0.17,
+    "other_recovery_record_multiple_2001_2023": 23.8
+  }
+}

@@ -1,0 +1,2 @@
+run_date,method_version,rows,gini_all_wastewater,gini_top30_energy,gini_top30_other_treatment,deepwell_firms,routes_concentrating
+2026-09-18,1.0.0,7995785,0.96,0.60,0.95,31,7

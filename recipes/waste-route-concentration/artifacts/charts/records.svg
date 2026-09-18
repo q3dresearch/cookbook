@@ -1,0 +1,206 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'><rect width="1200" height="800" fill="#fcfcfb"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">Record counts and tonnage move in opposite directions, by category</text>
+<text x="28.0" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">FOR</text>
+<text x="28.0" y="77.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">anyone reading a count of records as a count of activity</text>
+<text x="409.3" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">DECIDE</text>
+<text x="409.3" y="77.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">whether a category's record count can be used as a volume</text>
+<text x="409.3" y="90.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">measure</text>
+<text x="790.7" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">WRONG IF</text>
+<text x="790.7" y="77.0" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">records and tonnage move together inside a category</text>
+<line x1="28" y1="100.0" x2="1172" y2="100.0" stroke="#e3e2db"/>
+<text x="28.0" y="180.0" font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">how much each moved, 2001 to 2023</text>
+<text x="28.0" y="196.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">multiple of its 2001 value, log scale</text>
+<line x1="212.9" y1="200" x2="212.9" y2="614.0" stroke="#f0efe9"/>
+<text x="212.9" y="632.0" font-size="9.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">x0.1</text>
+<line x1="265.7" y1="200" x2="265.7" y2="614.0" stroke="#f0efe9"/>
+<text x="265.7" y="632.0" font-size="9.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">x0.25</text>
+<line x1="305.7" y1="200" x2="305.7" y2="614.0" stroke="#f0efe9"/>
+<text x="305.7" y="632.0" font-size="9.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">x0.5</text>
+<line x1="345.7" y1="200" x2="345.7" y2="614.0" stroke="#e3e2db"/>
+<text x="345.7" y="632.0" font-size="9.5" fill="#52514e" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">x1</text>
+<line x1="385.7" y1="200" x2="385.7" y2="614.0" stroke="#f0efe9"/>
+<text x="385.7" y="632.0" font-size="9.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">x2</text>
+<line x1="438.6" y1="200" x2="438.6" y2="614.0" stroke="#f0efe9"/>
+<text x="438.6" y="632.0" font-size="9.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">x5</text>
+<line x1="478.6" y1="200" x2="478.6" y2="614.0" stroke="#f0efe9"/>
+<text x="478.6" y="632.0" font-size="9.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">x10</text>
+<line x1="531.5" y1="200" x2="531.5" y2="614.0" stroke="#f0efe9"/>
+<text x="531.5" y="632.0" font-size="9.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">x25</text>
+<text x="345.7" y="646.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">same as 2001</text>
+<text x="28.0" y="220.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">other recovery</text>
+<line x1="528.6" y1="216.0" x2="301.4" y2="216.0" stroke="#aca89a" stroke-width="2"/>
+<circle cx="301.4" cy="216.0" r="4.4" fill="#4a7fa8"/>
+<circle cx="528.6" cy="216.0" r="4.4" fill="#c07a1e"/>
+<text x="537.6" y="217.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">rows x23.8</text>
+<text x="537.6" y="217.0" fill="#c07a1e" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">rows x23.8</text>
+<text x="537.6" y="228.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">tons x0.5</text>
+<text x="537.6" y="228.0" fill="#4a7fa8" font-size="9" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">tons x0.5</text>
+<text x="28.0" y="257.5" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">wastewater</text>
+<line x1="364.9" y1="253.5" x2="243.4" y2="253.5" stroke="#aca89a" stroke-width="2"/>
+<circle cx="243.4" cy="253.5" r="4.4" fill="#4a7fa8"/>
+<circle cx="364.9" cy="253.5" r="4.4" fill="#c07a1e"/>
+<text x="373.9" y="254.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">rows x1.4</text>
+<text x="373.9" y="254.5" fill="#c07a1e" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">rows x1.4</text>
+<text x="373.9" y="265.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">tons x0.2</text>
+<text x="373.9" y="265.5" fill="#4a7fa8" font-size="9" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">tons x0.2</text>
+<text x="28.0" y="294.9" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">energy recovery</text>
+<line x1="430.5" y1="290.9" x2="332.2" y2="290.9" stroke="#aca89a" stroke-width="2"/>
+<circle cx="332.2" cy="290.9" r="4.4" fill="#4a7fa8"/>
+<circle cx="430.5" cy="290.9" r="4.4" fill="#c07a1e"/>
+<text x="439.5" y="291.9" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">rows x4.3</text>
+<text x="439.5" y="291.9" fill="#c07a1e" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">rows x4.3</text>
+<text x="439.5" y="302.9" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">tons x0.8</text>
+<text x="439.5" y="302.9" fill="#4a7fa8" font-size="9" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">tons x0.8</text>
+<text x="28.0" y="332.4" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">landfill</text>
+<line x1="418.3" y1="328.4" x2="328.7" y2="328.4" stroke="#aca89a" stroke-width="2"/>
+<circle cx="328.7" cy="328.4" r="4.4" fill="#4a7fa8"/>
+<circle cx="418.3" cy="328.4" r="4.4" fill="#c07a1e"/>
+<text x="427.3" y="329.4" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">rows x3.5</text>
+<text x="427.3" y="329.4" fill="#c07a1e" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">rows x3.5</text>
+<text x="427.3" y="340.4" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">tons x0.7</text>
+<text x="427.3" y="340.4" fill="#4a7fa8" font-size="9" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">tons x0.7</text>
+<text x="28.0" y="369.8" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">incineration</text>
+<line x1="355.4" y1="365.8" x2="310.4" y2="365.8" stroke="#aca89a" stroke-width="2"/>
+<circle cx="310.4" cy="365.8" r="4.4" fill="#4a7fa8"/>
+<circle cx="355.4" cy="365.8" r="4.4" fill="#c07a1e"/>
+<text x="364.4" y="366.8" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">rows x1.2</text>
+<text x="364.4" y="366.8" fill="#c07a1e" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">rows x1.2</text>
+<text x="364.4" y="377.8" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">tons x0.5</text>
+<text x="364.4" y="377.8" fill="#4a7fa8" font-size="9" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">tons x0.5</text>
+<text x="28.0" y="407.3" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">sludge treatment</text>
+<line x1="289.1" y1="403.3" x2="270.8" y2="403.3" stroke="#aca89a" stroke-width="2"/>
+<circle cx="270.8" cy="403.3" r="4.4" fill="#4a7fa8"/>
+<circle cx="289.1" cy="403.3" r="4.4" fill="#c07a1e"/>
+<text x="298.1" y="404.3" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">rows x0.4</text>
+<text x="298.1" y="404.3" fill="#c07a1e" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">rows x0.4</text>
+<text x="298.1" y="415.3" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">tons x0.3</text>
+<text x="298.1" y="415.3" fill="#4a7fa8" font-size="9" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">tons x0.3</text>
+<text x="28.0" y="444.7" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">fuel blending</text>
+<line x1="335.0" y1="440.7" x2="318.3" y2="440.7" stroke="#aca89a" stroke-width="2"/>
+<circle cx="318.3" cy="440.7" r="4.4" fill="#4a7fa8"/>
+<circle cx="335.0" cy="440.7" r="4.4" fill="#c07a1e"/>
+<text x="344.0" y="441.7" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">rows x0.8</text>
+<text x="344.0" y="441.7" fill="#c07a1e" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">rows x0.8</text>
+<text x="344.0" y="452.7" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">tons x0.6</text>
+<text x="344.0" y="452.7" fill="#4a7fa8" font-size="9" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">tons x0.6</text>
+<text x="28.0" y="482.2" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">solvents recovery</text>
+<line x1="310.2" y1="478.2" x2="300.3" y2="478.2" stroke="#aca89a" stroke-width="2"/>
+<circle cx="300.3" cy="478.2" r="4.4" fill="#4a7fa8"/>
+<circle cx="310.2" cy="478.2" r="4.4" fill="#c07a1e"/>
+<text x="319.2" y="479.2" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">rows x0.5</text>
+<text x="319.2" y="479.2" fill="#c07a1e" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">rows x0.5</text>
+<text x="319.2" y="490.2" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">tons x0.5</text>
+<text x="319.2" y="490.2" fill="#4a7fa8" font-size="9" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">tons x0.5</text>
+<text x="28.0" y="519.6" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">deep-well</text>
+<line x1="313.4" y1="515.6" x2="343.1" y2="515.6" stroke="#aca89a" stroke-width="2"/>
+<circle cx="343.1" cy="515.6" r="4.4" fill="#4a7fa8"/>
+<circle cx="313.4" cy="515.6" r="4.4" fill="#c07a1e"/>
+<text x="352.1" y="516.6" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">tons x1.0</text>
+<text x="352.1" y="516.6" fill="#4a7fa8" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">tons x1.0</text>
+<text x="352.1" y="527.6" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">rows x0.6</text>
+<text x="352.1" y="527.6" fill="#c07a1e" font-size="9" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">rows x0.6</text>
+<text x="28.0" y="557.1" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">metals recovery</text>
+<line x1="290.9" y1="553.1" x2="324.0" y2="553.1" stroke="#aca89a" stroke-width="2"/>
+<circle cx="324.0" cy="553.1" r="4.4" fill="#4a7fa8"/>
+<circle cx="290.9" cy="553.1" r="4.4" fill="#c07a1e"/>
+<text x="333.0" y="554.1" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">tons x0.7</text>
+<text x="333.0" y="554.1" fill="#4a7fa8" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">tons x0.7</text>
+<text x="333.0" y="565.1" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">rows x0.4</text>
+<text x="333.0" y="565.1" fill="#c07a1e" font-size="9" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">rows x0.4</text>
+<text x="28.0" y="594.5" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">other treatment</text>
+<line x1="184.1" y1="590.5" x2="322.9" y2="590.5" stroke="#aca89a" stroke-width="2"/>
+<circle cx="322.9" cy="590.5" r="4.4" fill="#4a7fa8"/>
+<circle cx="184.1" cy="590.5" r="4.4" fill="#c07a1e"/>
+<text x="331.9" y="591.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">tons x0.7</text>
+<text x="331.9" y="591.5" fill="#4a7fa8" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">tons x0.7</text>
+<text x="331.9" y="602.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">rows x0.1</text>
+<text x="331.9" y="602.5" fill="#c07a1e" font-size="9" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">rows x0.1</text>
+<text x="542.0" y="180.0" font-size="10" fill="#c07a1e" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">records</text>
+<text x="542.0" y="196.0" font-size="10" fill="#4a7fa8" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">tonnage</text>
+<text x="28.0" y="652.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Where the two dots sit on opposite sides of the centre line, the category filed more rows</text>
+<text x="28.0" y="665.5" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">for less waste. Other recovery went to twenty-four times the rows on half the tonnage.</text>
+<text x="28.0" y="679.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Deep-well is the only one that moved the other way on both — fewer rows, and the tonnage</text>
+<text x="28.0" y="692.5" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">held.</text>
+<text x="660.0" y="180.0" font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">and who the giants are inside each one</text>
+<text x="660.0" y="196.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">share of a category's tonnage in its largest 1% of records</text>
+<line x1="810.0" y1="200" x2="810.0" y2="612.0" stroke="#f0efe9"/>
+<text x="810.0" y="628.0" font-size="9.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">0%</text>
+<line x1="935.0" y1="200" x2="935.0" y2="612.0" stroke="#f0efe9"/>
+<text x="935.0" y="628.0" font-size="9.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">50%</text>
+<line x1="1060.0" y1="200" x2="1060.0" y2="612.0" stroke="#f0efe9"/>
+<text x="1060.0" y="628.0" font-size="9.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">100%</text>
+<text x="660.0" y="218.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">wastewater</text>
+<line x1="1052.0" y1="214.0" x2="1059.2" y2="214.0" stroke="#aca89a" stroke-width="2.4"/>
+<circle cx="1052.0" cy="214.0" r="3" fill="none" stroke="#aca89a" stroke-width="1.6"/>
+<circle cx="1059.2" cy="214.0" r="4.2" fill="#aca89a"/>
+<text x="1072.0" y="218.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">100%</text>
+<text x="1072.0" y="218.0" fill="#aca89a" font-size="10" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">100%</text>
+<text x="660.0" y="256.2" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">other treatment</text>
+<line x1="1056.8" y1="252.2" x2="1051.6" y2="252.2" stroke="#8c2318" stroke-width="2.4"/>
+<circle cx="1056.8" cy="252.2" r="3" fill="none" stroke="#8c2318" stroke-width="1.6"/>
+<circle cx="1051.6" cy="252.2" r="4.2" fill="#8c2318"/>
+<text x="1072.0" y="256.2" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">97%</text>
+<text x="1072.0" y="256.2" fill="#8c2318" font-size="10" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">97%</text>
+<text x="660.0" y="294.4" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">incineration</text>
+<line x1="1009.7" y1="290.4" x2="1025.6" y2="290.4" stroke="#aca89a" stroke-width="2.4"/>
+<circle cx="1009.7" cy="290.4" r="3" fill="none" stroke="#aca89a" stroke-width="1.6"/>
+<circle cx="1025.6" cy="290.4" r="4.2" fill="#aca89a"/>
+<text x="1072.0" y="294.4" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">86%</text>
+<text x="1072.0" y="294.4" fill="#aca89a" font-size="10" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">86%</text>
+<text x="660.0" y="332.5" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">landfill</text>
+<line x1="1009.0" y1="328.5" x2="1018.2" y2="328.5" stroke="#c07a1e" stroke-width="2.4"/>
+<circle cx="1009.0" cy="328.5" r="3" fill="none" stroke="#c07a1e" stroke-width="1.6"/>
+<circle cx="1018.2" cy="328.5" r="4.2" fill="#c07a1e"/>
+<text x="1072.0" y="332.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">83%</text>
+<text x="1072.0" y="332.5" fill="#c07a1e" font-size="10" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">83%</text>
+<text x="660.0" y="370.7" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">metals recovery</text>
+<line x1="1051.5" y1="366.7" x2="1014.3" y2="366.7" stroke="#1b7f5a" stroke-width="2.4"/>
+<circle cx="1051.5" cy="366.7" r="3" fill="none" stroke="#1b7f5a" stroke-width="1.6"/>
+<circle cx="1014.3" cy="366.7" r="4.2" fill="#1b7f5a"/>
+<text x="1072.0" y="370.7" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">82%</text>
+<text x="1072.0" y="370.7" fill="#1b7f5a" font-size="10" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">82%</text>
+<text x="660.0" y="408.9" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">other recovery</text>
+<line x1="1036.1" y1="404.9" x2="1009.9" y2="404.9" stroke="#7a4a8a" stroke-width="2.4"/>
+<circle cx="1036.1" cy="404.9" r="3" fill="none" stroke="#7a4a8a" stroke-width="1.6"/>
+<circle cx="1009.9" cy="404.9" r="4.2" fill="#7a4a8a"/>
+<text x="1072.0" y="408.9" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">80%</text>
+<text x="1072.0" y="408.9" fill="#7a4a8a" font-size="10" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">80%</text>
+<text x="660.0" y="447.1" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">sludge treatment</text>
+<line x1="996.3" y1="443.1" x2="993.5" y2="443.1" stroke="#aca89a" stroke-width="2.4"/>
+<circle cx="996.3" cy="443.1" r="3" fill="none" stroke="#aca89a" stroke-width="1.6"/>
+<circle cx="993.5" cy="443.1" r="4.2" fill="#aca89a"/>
+<text x="1072.0" y="447.1" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">73%</text>
+<text x="1072.0" y="447.1" fill="#aca89a" font-size="10" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">73%</text>
+<text x="660.0" y="485.3" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">fuel blending</text>
+<line x1="973.9" y1="481.3" x2="986.9" y2="481.3" stroke="#aca89a" stroke-width="2.4"/>
+<circle cx="973.9" cy="481.3" r="3" fill="none" stroke="#aca89a" stroke-width="1.6"/>
+<circle cx="986.9" cy="481.3" r="4.2" fill="#aca89a"/>
+<text x="1072.0" y="485.3" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">71%</text>
+<text x="1072.0" y="485.3" fill="#aca89a" font-size="10" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">71%</text>
+<text x="660.0" y="523.5" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">energy recovery</text>
+<line x1="902.5" y1="519.5" x2="983.6" y2="519.5" stroke="#8c2318" stroke-width="2.4"/>
+<circle cx="902.5" cy="519.5" r="3" fill="none" stroke="#8c2318" stroke-width="1.6"/>
+<circle cx="983.6" cy="519.5" r="4.2" fill="#8c2318"/>
+<text x="1072.0" y="523.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">69%</text>
+<text x="1072.0" y="523.5" fill="#8c2318" font-size="10" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">69%</text>
+<text x="660.0" y="561.6" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">solvents recovery</text>
+<line x1="994.9" y1="557.6" x2="977.3" y2="557.6" stroke="#aca89a" stroke-width="2.4"/>
+<circle cx="994.9" cy="557.6" r="3" fill="none" stroke="#aca89a" stroke-width="1.6"/>
+<circle cx="977.3" cy="557.6" r="4.2" fill="#aca89a"/>
+<text x="1072.0" y="561.6" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">67%</text>
+<text x="1072.0" y="561.6" fill="#aca89a" font-size="10" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">67%</text>
+<text x="660.0" y="599.8" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">deep-well</text>
+<line x1="947.8" y1="595.8" x2="923.6" y2="595.8" stroke="#1b7f5a" stroke-width="2.4"/>
+<circle cx="947.8" cy="595.8" r="3" fill="none" stroke="#1b7f5a" stroke-width="1.6"/>
+<circle cx="923.6" cy="595.8" r="4.2" fill="#1b7f5a"/>
+<text x="1072.0" y="599.8" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">45%</text>
+<text x="1072.0" y="599.8" fill="#1b7f5a" font-size="10" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">45%</text>
+<text x="660.0" y="650.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Scale-free, so the cycles are comparable even though the</text>
+<text x="660.0" y="663.5" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">record counts are not. Wastewater treatment is 100%: its top</text>
+<text x="660.0" y="677.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">1% of rows is all of it. Energy recovery nearly doubled, 37%</text>
+<text x="660.0" y="690.5" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">to 69%, which is the one real concentration in the file.</text>
+<line x1="28" y1="718.0" x2="1172" y2="718.0" stroke="#e3e2db"/>
+<text x="28.0" y="738.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">All twelve management categories; the eleven with meaningful tonnage are drawn. management_category carries a typo — SLUDGE TRTMNT / STAG / ENCAP on 60</text>
+<text x="28.0" y="752.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">records in 2023 — which is normalised here, because grouping on the raw string files those rows as a category of their own. 2021 publishes no tonnage</text>
+<text x="28.0" y="766.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">and is omitted. Method in the recipe.</text>
+</svg>
