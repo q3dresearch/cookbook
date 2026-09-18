@@ -1,2 +1,2 @@
-run_date,method_version,records,cells,top27_share,median_top_dataset,rho_sequencing_depth,kelp_cliff_m,seabird_on_land,crossings_unchanged
-2026-09-19,1.0.0,229671953,27168,0.316,0.45,0.97,30,0.527,7
+run_date,method_version,records,top27_share,median_top_dataset,rho_sequencing_depth,kelp_cliff_m,seabird_on_land,saturating_under,b2_ruled_out_cr,wild_residual_sd,category_changes
+2026-09-19,1.0.0,229671953,0.316,0.45,0.97,30,0.527,16,0.81,1.04,7517

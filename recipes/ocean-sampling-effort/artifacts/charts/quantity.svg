@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="740" viewBox="0 0 1200 740" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'><rect width="1200" height="740" fill="#fcfcfb"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">The field that would give you biomass exists, and cannot be added up</text>
+<text x="28.0" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">FOR</text>
+<text x="28.0" y="77.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">anyone planning to compute density or biomass from occurrence</text>
+<text x="28.0" y="90.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">data</text>
+<text x="409.3" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">DECIDE</text>
+<text x="409.3" y="77.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">whether to build on organismQuantity or go to a survey source</text>
+<text x="790.7" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">WRONG IF</text>
+<text x="790.7" y="77.0" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">a controlled vocabulary appears and the strings collapse to a</text>
+<text x="790.7" y="90.5" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">few units</text>
+<line x1="28" y1="100.0" x2="1172" y2="100.0" stroke="#e3e2db"/>
+<text x="28.0" y="206.0" font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">what the quantity field is actually measuring</text>
+<text x="28.0" y="222.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">one mark per distinct string; width is how many records carry it, square-root scale</text>
+<text x="28.0" y="250.0" font-size="11" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">density — per AREA</text>
+<text x="458.0" y="250.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">361 records · 5 strings</text>
+<rect x="28.0" y="259.0" width="148.8" height="15" fill="#4a7fa8"/>
+<text x="32.0" y="270.0" font-size="7.5" fill="#ffffff" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">number of individuals per 60 m</text>
+<rect x="179.8" y="259.0" width="36.0" height="15" fill="#4a7fa8"/>
+<text x="183.8" y="270.0" font-size="7.5" fill="#ffffff" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">percen</text>
+<rect x="218.8" y="259.0" width="28.6" height="15" fill="#4a7fa8"/>
+<text x="222.8" y="270.0" font-size="7.5" fill="#ffffff" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Perc</text>
+<rect x="250.5" y="259.0" width="16.5" height="15" fill="#4a7fa8"/>
+<rect x="270.0" y="259.0" width="11.7" height="15" fill="#4a7fa8"/>
+<text x="28.0" y="293.0" font-size="11" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">density — per VOLUME</text>
+<text x="458.0" y="293.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">16 records · 4 strings</text>
+<rect x="28.0" y="302.0" width="28.6" height="15" fill="#2a6f7f"/>
+<text x="32.0" y="313.0" font-size="7.5" fill="#ffffff" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">numb</text>
+<rect x="59.6" y="302.0" width="11.7" height="15" fill="#2a6f7f"/>
+<rect x="74.3" y="302.0" width="11.0" height="15" fill="#2a6f7f"/>
+<rect x="88.3" y="302.0" width="11.0" height="15" fill="#2a6f7f"/>
+<text x="28.0" y="336.0" font-size="11" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">counts of individuals</text>
+<text x="458.0" y="336.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">274 records · 15 strings</text>
+<rect x="28.0" y="345.0" width="104.9" height="15" fill="#1b7f5a"/>
+<text x="32.0" y="356.0" font-size="7.5" fill="#ffffff" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">individuals</text>
+<rect x="135.9" y="345.0" width="58.5" height="15" fill="#1b7f5a"/>
+<text x="139.9" y="356.0" font-size="7.5" fill="#ffffff" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Individuals</text>
+<rect x="197.3" y="345.0" width="48.2" height="15" fill="#1b7f5a"/>
+<text x="201.3" y="356.0" font-size="7.5" fill="#ffffff" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">individu</text>
+<rect x="248.6" y="345.0" width="21.9" height="15" fill="#1b7f5a"/>
+<rect x="273.4" y="345.0" width="18.5" height="15" fill="#1b7f5a"/>
+<rect x="294.9" y="345.0" width="14.3" height="15" fill="#1b7f5a"/>
+<rect x="312.2" y="345.0" width="14.3" height="15" fill="#1b7f5a"/>
+<rect x="329.5" y="345.0" width="11.7" height="15" fill="#1b7f5a"/>
+<rect x="344.2" y="345.0" width="11.7" height="15" fill="#1b7f5a"/>
+<rect x="358.9" y="345.0" width="11.7" height="15" fill="#1b7f5a"/>
+<rect x="373.6" y="345.0" width="11.0" height="15" fill="#1b7f5a"/>
+<rect x="387.6" y="345.0" width="11.0" height="15" fill="#1b7f5a"/>
+<rect x="401.6" y="345.0" width="11.0" height="15" fill="#1b7f5a"/>
+<rect x="415.6" y="345.0" width="11.0" height="15" fill="#1b7f5a"/>
+<rect x="429.6" y="345.0" width="11.0" height="15" fill="#1b7f5a"/>
+<text x="28.0" y="379.0" font-size="11" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">mass</text>
+<text x="458.0" y="379.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">131 records · 3 strings</text>
+<rect x="28.0" y="388.0" width="86.7" height="15" fill="#c07a1e"/>
+<text x="32.0" y="399.0" font-size="7.5" fill="#ffffff" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">wet weight of all</text>
+<rect x="117.7" y="388.0" width="27.4" height="15" fill="#c07a1e"/>
+<text x="121.7" y="399.0" font-size="7.5" fill="#ffffff" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">tonn</text>
+<rect x="148.1" y="388.0" width="26.1" height="15" fill="#c07a1e"/>
+<text x="152.1" y="399.0" font-size="7.5" fill="#ffffff" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">biom</text>
+<text x="28.0" y="422.0" font-size="11" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">an ordinal letter scale</text>
+<text x="458.0" y="422.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">71 records · 1 string</text>
+<rect x="28.0" y="431.0" width="69.7" height="15" fill="#7a4a8a"/>
+<text x="32.0" y="442.0" font-size="7.5" fill="#ffffff" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">SACFORN</text>
+<text x="28.0" y="465.0" font-size="11" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">sequencing output</text>
+<text x="458.0" y="465.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">481 records · 2 strings</text>
+<rect x="28.0" y="474.0" width="168.0" height="15" fill="#8c2318"/>
+<text x="32.0" y="485.0" font-size="7.5" fill="#ffffff" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">DNA sequence reads</text>
+<rect x="199.0" y="474.0" width="68.2" height="15" fill="#8c2318"/>
+<text x="203.0" y="485.0" font-size="7.5" fill="#ffffff" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">DNA Sequence </text>
+<text x="28.0" y="508.0" font-size="11" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">not an abundance at all</text>
+<text x="458.0" y="508.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">4 records · 1 string</text>
+<rect x="28.0" y="517.0" width="16.5" height="15" fill="#000000"/>
+<text x="28.0" y="551.0" font-size="11" fill="#0b0b0b" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">everything else</text>
+<text x="458.0" y="551.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">33 records · 13 strings</text>
+<rect x="28.0" y="560.0" width="32.0" height="15" fill="#8a8880"/>
+<text x="32.0" y="571.0" font-size="7.5" fill="#ffffff" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">detec</text>
+<rect x="63.0" y="560.0" width="18.5" height="15" fill="#8a8880"/>
+<rect x="84.5" y="560.0" width="14.3" height="15" fill="#8a8880"/>
+<rect x="101.8" y="560.0" width="11.0" height="15" fill="#8a8880"/>
+<rect x="115.8" y="560.0" width="11.0" height="15" fill="#8a8880"/>
+<rect x="129.8" y="560.0" width="11.0" height="15" fill="#8a8880"/>
+<rect x="143.8" y="560.0" width="11.0" height="15" fill="#8a8880"/>
+<rect x="157.8" y="560.0" width="11.0" height="15" fill="#8a8880"/>
+<rect x="171.8" y="560.0" width="11.0" height="15" fill="#8a8880"/>
+<rect x="185.8" y="560.0" width="11.0" height="15" fill="#8a8880"/>
+<rect x="199.8" y="560.0" width="11.0" height="15" fill="#8a8880"/>
+<rect x="213.8" y="560.0" width="11.0" height="15" fill="#8a8880"/>
+<rect x="227.8" y="560.0" width="11.0" height="15" fill="#8a8880"/>
+<text x="28.0" y="598.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Area and volume are not the same dimension and nothing marks which is which. SACFORN is the</text>
+<text x="28.0" y="611.5" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">British ordinal abundance scale and has no numeric meaning at all. DNA sequence reads are not</text>
+<text x="28.0" y="625.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">organisms — a read count scales with PCR amplification. And the single widest mark in the file</text>
+<text x="28.0" y="638.5" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">is DNA sequence reads.</text>
+<text x="530.0" y="206.0" font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">it is not a tidying problem</text>
+<text x="530.0" y="222.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">distinct strings, before and after normalising</text>
+<text x="530.0" y="250.0" font-size="11" fill="#0b0b0b" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">as published</text>
+<rect x="530" y="258.0" width="320.0" height="26" fill="#8c2318"/>
+<text x="858.0" y="276.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="14" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">44</text>
+<text x="858.0" y="276.0" fill="#8c2318" font-size="14" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">44</text>
+<text x="530.0" y="324.0" font-size="11" fill="#0b0b0b" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">lowercased, depluralised</text>
+<rect x="530" y="332.0" width="283.6" height="26" fill="#c07a1e"/>
+<text x="821.6" y="350.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="14" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">39</text>
+<text x="821.6" y="350.0" fill="#c07a1e" font-size="14" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">39</text>
+<text x="530.0" y="398.0" font-size="11" fill="#0b0b0b" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">genuinely distinct kinds</text>
+<rect x="530" y="406.0" width="58.2" height="26" fill="#1b7f5a"/>
+<text x="596.2" y="424.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="14" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">8</text>
+<text x="596.2" y="424.0" fill="#1b7f5a" font-size="14" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">8</text>
+<text x="530.0" y="476.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Five strings disappear to case and plurals. The rest</text>
+<text x="530.0" y="489.5" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">are real differences in what was measured, so there</text>
+<text x="530.0" y="503.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">is no clean number underneath waiting to be</text>
+<text x="530.0" y="516.5" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">recovered.</text>
+<text x="530.0" y="528.0" font-size="11" fill="#0b0b0b" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Two records reading 12 mean twelve fish, twelve</text>
+<text x="530.0" y="541.5" font-size="11" fill="#0b0b0b" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">grams per square metre, or twelve thousand</text>
+<text x="530.0" y="555.0" font-size="11" fill="#0b0b0b" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">sequencing reads.</text>
+<text x="530.0" y="576.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">So biomass by latitude and longitude is not</text>
+<text x="530.0" y="589.5" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">answerable here, and the blocker is not coverage —</text>
+<text x="530.0" y="603.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the quantities are incommensurable by construction.</text>
+<text x="530.0" y="616.5" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Restricting to one unit string would make them</text>
+<text x="530.0" y="630.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">addable and throw away most of the data.</text>
+<line x1="28" y1="672.0" x2="1172" y2="672.0" stroke="#e3e2db"/>
+<text x="28.0" y="692.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">OBIS v3, fetched 2026-09-18. 6,000 records sampled 500 at a time across 12 taxa, not from the head of the index, so no single dataset's convention</text>
+<text x="28.0" y="706.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">dominates. It supports a claim about the VARIETY of units, not about the share of 229 million records carrying any one. Method in the recipe.</text>
+</svg>

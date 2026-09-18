@@ -1,6 +1,6 @@
 {
   "method_version": "1.0.0",
-  "_method_version": "1.0.0 promotes five figures from a fourteen-figure workspace recipe, chosen because together they are one method rather than five findings: the register is mostly sampling effort, a within-stratum composition ratio divides that out, and the result is a biological cliff that survives every check thrown at it. Two of the five replace published versions kept in the workspace rather than deleted \u2014 a pair of figures that made the same argument twice and named the same cells twice, merged into one, and a depth panel whose reader could not tell what was being compared because the comparison was drawn as three separate hairline rules.",
+  "_method_version": "1.0.0 publishes one folder for one dataset, with fourteen figures grouped into five questions rather than split across five folders. An earlier draft promoted five of the fourteen and then split the rest into separate recipes; both were wrong for the same reason \u2014 the unit of a cookbook entry is a dataset, and a reader who wants the conservation story wants the sampling story in the same place. Every headline here survived a control that reversed or blocked an earlier version of it.",
   "retrieved": "2026-09-19",
   "source": {
     "publisher": "OBIS, the Ocean Biodiversity Information System",
@@ -9,7 +9,13 @@
     "records_at_fetch": 229671953,
     "species_at_fetch": 168352,
     "datasets_at_fetch": 6918,
-    "note": "Live and additive. The record count moved by 62,000 between two probes minutes apart, so every figure is a statement about one fetch."
+    "note": "Live and additive. The record count moved by 62,000 between two probes minutes apart, so every figure is a statement about one fetch.",
+    "threat_status": {
+      "publisher": "IUCN, mirrored by GBIF",
+      "url": "https://hosted-datasets.gbif.org/datasets/iucn/",
+      "licence": "CC-BY 4.0 as declared on GBIF dataset 19491596-35ae-4a91-9a98-85cf505f1bd3",
+      "note": "IUCN's own terms are more restrictive than CC-BY for bulk data; only aggregate observations are published here."
+    }
   },
   "headline": {
     "cells_in_grid": 27168,
@@ -33,9 +39,35 @@
     "top_200m_raw_vs_cleaned": [
       0.88,
       0.876
-    ]
+    ],
+    "saturating_fit_under_predicts": "16 of 16",
+    "records_for_100_more_sponge_species": 83050,
+    "records_for_100_more_seabird_species": 63514480,
+    "description_peaks": [
+      1905,
+      2005
+    ],
+    "war_deficits": {
+      "1915-19": -0.3,
+      "1945-49": -0.31
+    },
+    "unseen_since_2016_threatened": 0.314,
+    "unseen_since_2016_control": 0.384,
+    "b2_ruled_out": {
+      "CR": 0.81,
+      "EN": 0.34,
+      "VU": 0.2
+    },
+    "wild_residual_vs_background_sd": 1.04,
+    "farmed_p": 0.36,
+    "category_changes": 7517,
+    "distinct_states": 8
   },
   "files": {
+    "attention.json": {
+      "sha256": "bcf14d9954d749218ccb2ec24dab54defb15cca6f241339e9056d32a5e96e293",
+      "bytes": 204525
+    },
     "classes.json": {
       "sha256": "1a9ad53a68cf82e4b21e50743fdf4357bcad295a9016da5aacaf8c4c05952e9e",
       "bytes": 59056
@@ -44,9 +76,33 @@
       "sha256": "8d83f6e724937cac88cac313f973e9fe178f0332e35a038b7bf61b9184249c6b",
       "bytes": 27053
     },
+    "composition-wrims.json": {
+      "sha256": "ca55e11df43f562c80cb49d776da3e4d1f9fee63c73b524dcb9a336c9833f6ec",
+      "bytes": 166
+    },
+    "composition.json": {
+      "sha256": "bab65deafb584d09e40ab0f026603d346669d6fb7a57b91a29e48337d3dd05b9",
+      "bytes": 179
+    },
+    "criterionb.json": {
+      "sha256": "f0dcde5af8efcbd6cabd12d3d96b8f6e734321948cffc5a25127fce434f8f572",
+      "bytes": 135050
+    },
+    "described.json": {
+      "sha256": "568b62a00a65b08dc83ea5cc8d0a6f6f057b6b9f2b2e7af42e185f4bf4e484ce",
+      "bytes": 23919
+    },
+    "env.json": {
+      "sha256": "11599631cae5c7e4c1ca6491f396e3387838747eed32a0ad29a2f864f148abfa",
+      "bytes": 1674
+    },
     "flags.json": {
       "sha256": "2178aa5bdf34615e864f802c0490a9e4f2d1dc7881ef347366bcca3e1c942f43",
       "bytes": 12304
+    },
+    "grid3-wrims.json": {
+      "sha256": "beb3069417691b662624f6ea22d390b8cda1a7387c2555d1400a8e631528bb84",
+      "bytes": 3516092
     },
     "grid3.json": {
       "sha256": "ea6af1f55580f4f837d054444db89dc1ba8df8d94c05c063fda6ed9a7822846f",
@@ -60,9 +116,29 @@
       "sha256": "d70bfeb76449f332c0f90e9e8025ba57b98736d33a365654a475d548525ebca0",
       "bytes": 51841
     },
+    "redlist.json": {
+      "sha256": "03064b9c66dae676943b2d6bfe0f4473f62a6cf2c413332405b4c960aa8827d2",
+      "bytes": 693383
+    },
+    "redlisthistory.json": {
+      "sha256": "45db52ee233c55e8943b478f6b41776d7247e22611e2cf797765bb29122405eb",
+      "bytes": 637280
+    },
+    "saturation.json": {
+      "sha256": "62bac403b13317c289005b36c73620c067e058e0be7ed99698fafe135d2a66f9",
+      "bytes": 14269
+    },
     "statistics.json": {
       "sha256": "261fef3100bd16be84eebf848398fd8abc9992ae01243eae9bb9d1ba3044bd9e",
       "bytes": 117
+    },
+    "units-sample.json": {
+      "sha256": "254d74f8959854bcfea6463e96af752d2e17c3f793e00d4c008f6830ebf5e3d9",
+      "bytes": 1741
+    },
+    "years.json": {
+      "sha256": "b633b478c7a997e31c1a254caee6b67f617db10eb2643982b7f2b8d6d89a0b21",
+      "bytes": 8426
     }
   }
 }

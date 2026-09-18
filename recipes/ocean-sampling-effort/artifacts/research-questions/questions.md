@@ -67,3 +67,55 @@ found 49% with no record before 1950 and 28% none before 1980, which would make 
 criterion A — decline over ten years or three generations — uncheckable here for long-lived
 groups. Measured but not drawn: it refines a conclusion the workspace recipe already reached by
 another route, and the data is cached.
+
+---
+
+## Answered — conservation status (part V)
+
+**Are threatened marine species under-monitored?** *(answered — the reverse)* Against
+non-threatened species from the same families matched on log10(record count), threatened
+species are **better** monitored in every stratum: 31.4% vs 38.4% unseen since 2016. Concern
+follows attention. Record count swings the outcome seventy-fold; threat status by a fifth.
+
+**Can a Red List listing be reconstructed from occurrence data?** *(answered — no)* Four of five
+criteria are abundance. The one spatial criterion is ruled out for **81% of CR**, and the 48 it
+cannot rule out hold a median of **one record**.
+
+**Can commercial exploitation or aquaculture be detected?** *(answered — fishing yes, farming
+no)* Wild-capture species sit **+1.04 sd** above the records-vs-datasets fit (p = 0.0001);
+farmed species are indistinguishable from background (p = 0.36).
+
+**Which species enter and leave threatened status?** *(answered, from outside OBIS)* Nine GBIF-
+mirrored IUCN archives give 7,517 changes across eight states. The largest flow in is **Data
+Deficient → threatened (548)** — a first assessment, not a fall.
+
+## Answered — discovery cost (part IV)
+
+**Is the register saturating?** *(answered — no, and the failure is the finding)* A saturating
+fit under-predicts 2024 in **16 of 16** classes. Log-linear is roughly unbiased, which means no
+asymptote, which converts into a price: 100 more sponge species cost ~83,000 records and 100
+more seabird species ~63.5M.
+
+**When was each class described?** *(answered)* Two golden ages, 1905–09 and 2005–09, and two
+world wars at −30% and −31%. Seabird taxonomy finished before photography; bristle worms gain
+11.9 species a year per thousand held.
+
+## Died — conservation status
+
+**"Heavily observed but never assessed."** OBIS stamps `category` only for CR/EN/VU/EX, so
+`None` conflates Least Concern with never-assessed.
+
+**"Marine species are declining 5:1."** 233 of 351 worsening marine species are hard corals and
+273 landed in one release. Drop them and it is 1.7:1.
+
+**"Capture the current state and ask again in a year."** The history was already published —
+six years of it, one listable directory away. *"OBIS cannot answer it"* is a fact about OBIS;
+*"nobody can"* is a claim about every other publisher, made without checking one.
+
+## Open — conservation status
+
+**Does the coral block hold up?** Needs the next IUCN release: do the same species keep moving?
+
+**IUCN's API v4 carries per-species assessment history** and needs a token. With one, the
+genuine-versus-knowledge flag may come too, which would unblock the question this recipe most
+wants.

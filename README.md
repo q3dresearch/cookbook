@@ -26,14 +26,16 @@ Fifteen, most recent first. Each links its own write-up.
   years and half the country's remaining room belongs to two companies. Half the evidence no
   longer exists at source: the register overwrites itself and the 2021 edition returns 404, so
   both workbooks are committed under the rule's own exception.
-- **[How to get a biological answer out of a register that is mostly sampling effort](recipes/ocean-sampling-effort/)** —
-  229 million marine records, and 27 grid cells hold a third of them. The median cell takes 45%
-  of its records from one dataset. For plants and single cells, recorded depth is the *gear*:
-  rank correlation +0.97 between a class's DNA-sequencing share and the share of its records
-  below 50 m. A within-bin composition ratio divides the effort out, and what survives is one
-  biological cliff — light. Seagrass is gone by 20 m, kelp by 30, red algae by 50; nothing that
-  does not photosynthesise moves at all. And do not clean the register first: ON_LAND is 52.7%
-  of seabird records because that is where people stand to count them.
+- **[What a presence-only marine register can and cannot tell you](recipes/ocean-sampling-effort/)** —
+  fourteen figures on OBIS's 229 million marine records, in five parts. 27 of 27,168 grid cells
+  hold a third of everything and the median cell is 45% one dataset. For plants and single
+  cells, recorded depth is the *gear*: rho +0.97 against DNA-sequencing share. A within-bin
+  composition ratio cancels that, and what survives is one biological cliff — seagrass gone by
+  20 m, kelp by 30, while nothing that does not photosynthesise moves at all. A saturating
+  accumulation fit under-predicts 16 classes out of 16, so species never run out, they get
+  priced: 100 more sponge species cost 83,000 records and 100 more seabird species 63.5 million.
+  And four of IUCN's five criteria are unreachable from occurrence data, with the fifth ruled
+  out for 81% of Critically Endangered species.
 - **[Four ways a national register lies about who is concentrated](recipes/waste-route-concentration/)** —
   the route with the fewest firms turns out to be the least concentrated of them all, and
   the Gini is flat for twenty-two years only because firms are leaving the sample. Pin the

@@ -3,7 +3,7 @@
 
     python3 verify.py
 
-**Why this exists.** Five figures and a README share the same facts, and a caption that was
+**Why this exists.** Fourteen figures and a README share the same facts, and a caption that was
 right when written goes wrong silently. In the workspace this came from, one figure's caption
 said a group held half its shallow share to 50 m; a change of baseline had moved it to 100 m
 and the sentence stayed. Nothing catches that except recomputing, and nothing catches a
@@ -12,7 +12,7 @@ corrected script whose figure was never rebuilt except comparing timestamps.
 If a number here disagrees with the README, **this script is authoritative and the prose is a
 bug**, per the repo's own rule.
 """
-import glob, json, math, os, statistics, sys
+import collections, glob, json, math, os, statistics, sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, "..", "data")
@@ -100,6 +100,117 @@ def main():
           f"{fl['top200_clean']:.1%}")
     if same != len(fl["checks"]):
         print("      ^ README says all of them"); bad += 1
+
+    print("\n  WHAT THE NEXT HUNDRED SPECIES COST")
+    sa = load("saturation.json")
+    Y, CUT = sa["years"], sa["cut"]
+    ci = Y.index(CUT)
+
+    def _ols(xs, ys):
+        n = len(xs); mx, my = sum(xs) / n, sum(ys) / n
+        b = sum((x - mx) * (y - my) for x, y in zip(xs, ys)) / (
+            sum((x - mx) ** 2 for x in xs) or 1e-9)
+        return my - b * mx, b
+    under = 0
+    for sci, v in sa["classes"].items():
+        N, S = v["records"], v["species"]
+        Nf, Sf = N[:ci + 1], S[:ci + 1]
+        if min(Sf) <= 0:
+            continue
+        best = None
+        for e in [i / 40 for i in range(0, 400)]:
+            K = 10 ** e
+            x = [n / (n + K) for n in Nf]
+            sm = sum(a * b for a, b in zip(Sf, x)) / (sum(a * a for a in x) or 1e-9)
+            err = sum((sm * a - b) ** 2 for a, b in zip(x, Sf))
+            if best is None or err < best[0]:
+                best = (err, sm, K)
+        if best[1] * N[-1] / (N[-1] + best[2]) < S[-1]:
+            under += 1
+    print(f"    saturating fit under-predicts  {under} of {len(sa['classes'])} classes")
+    if under != len(sa["classes"]):
+        print("      ^ README says all of them"); bad += 1
+    price = {}
+    for sci, v in sa["classes"].items():
+        a, b = _ols([math.log10(n) for n in v["records"]], v["species"])
+        if b > 0:
+            price[v["common"]] = v["records"][-1] * (10 ** (100 / b) - 1)
+    for k in ("sponges", "sea snails", "seabirds"):
+        if k in price:
+            print(f"    100 more {k:<14}{price[k]:>14,.0f} records")
+
+    print("\n  WHEN EACH CLASS WAS DESCRIBED")
+    de = load("described.json")
+    agg = collections.Counter()
+    for v in de["classes"].values():
+        for y, n in v["hist"].items():
+            agg[int(y)] += n
+    full = {y: n for y, n in agg.items() if y + de["bin"] - 1 <= 2024}
+    peak = max(full, key=lambda y: full[y])
+    print(f"    species with a year            {sum(full.values()):,}")
+    print(f"    busiest bin                    {peak}–{peak+4} at {full[peak]:,}")
+    for war in (1915, 1945):
+        exp = (full.get(war - 5, 0) + full.get(war + 5, 0)) / 2
+        print(f"    {war}–{war+4} against neighbours   {full.get(war,0)/exp-1:+.0%}")
+    for k in ("seabirds", "bristle worms"):
+        v = next((x for x in de["classes"].values() if x["common"] == k), None)
+        if v:
+            h = {int(a): b for a, b in v["hist"].items()}
+            print(f"    {k:<16}median {v['median']}, "
+                  f"{(h.get(2010,0)+h.get(2015,0))/10/max(v['dated'],1)*1000:5.1f} new per "
+                  f"year per 1,000 known")
+
+    print("\n  CONCERN FOLLOWS ATTENTION")
+    rl = load("redlist.json")
+    t, c = rl["threatened"], rl["control"]
+    zt = sum(1 for x in t if x["recent"] == 0) / len(t)
+    zc = sum(1 for x in c if x["recent"] == 0) / len(c)
+    print(f"    threatened unseen 10 yr        {zt:.1%}  (n={len(t):,})")
+    print(f"    matched control                {zc:.1%}  (n={len(c):,})")
+    if not zt < zc:
+        print("      ^ README says threatened are BETTER monitored"); bad += 1
+    ex = [x for x in t if x["category"] == "EX"]
+    print(f"    listed Extinct, unseen         "
+          f"{sum(1 for x in ex if x['recent']==0)/len(ex):.1%}  (n={len(ex)}) — the control")
+
+    print("\n  FOUR OF FIVE CRITERIA OUT OF REACH")
+    cb = load("criterionb.json")
+    for cat in ("CR", "EN", "VU"):
+        v = [x for x in cb["species"] if x["category"] == cat]
+        und = [x for x in v if not x["over_b2"]]
+        print(f"    {cat}  n={len(v):<4} B2 ruled out "
+              f"{sum(1 for x in v if x['over_b2'])/len(v):.0%}   still possible {len(und)}, "
+              f"median records {statistics.median([x['records'] for x in und]):,.0f}")
+
+    print("\n  IT SEES FISHING, NOT FARMING")
+    at = load("attention.json")
+    asp = [x for x in at["species"] if x["datasets"] and x["records"]]
+    xs = [math.log10(x["datasets"]) for x in asp]
+    ys = [math.log10(x["records"]) for x in asp]
+    a, b = _ols(xs, ys)
+    sd = statistics.pstdev([q - (a + b * p) for p, q in zip(xs, ys)])
+    res = {k: [] for k in (None, "farmed", "wild")}
+    for x in asp:
+        res[x["control"]].append(
+            (math.log10(x["records"]) - (a + b * math.log10(x["datasets"]))) / sd)
+    base = statistics.median(res[None])
+    for k in ("wild", "farmed"):
+        print(f"    {k:<8}n={len(res[k]):<4} vs background "
+              f"{statistics.median(res[k])-base:+.2f} sd")
+    if statistics.median(res["wild"]) - base < 0.9:
+        print("      ^ README says wild-caught ~+1.04 sd"); bad += 1
+
+    print("\n  THE LABEL MOVES BECAUSE KNOWLEDGE MOVES")
+    h = load("redlisthistory.json")
+    moves = [m for tr in h["transitions"] for m in tr["moves"]]
+    T = {"CR", "EN", "VU"}
+    into = collections.Counter(m["from"] for m in moves
+                               if m["from"] not in T and m["to"] in T)
+    zero = [tr for tr in h["transitions"] if tr["changed"] == 0]
+    print(f"    category changes               {len(moves):,}")
+    print(f"    entered threatened from DD     {into.get('DD',0):,}  (largest single flow in)")
+    print(f"    distinct states                {len(h['versions'])-len(zero)} "
+          f"from {len(h['versions'])} files")
 
     print("\n  STALENESS")
     for svg in sorted(glob.glob(os.path.join(CHARTS, "*.svg"))):

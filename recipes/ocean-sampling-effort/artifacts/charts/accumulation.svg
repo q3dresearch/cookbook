@@ -1,0 +1,178 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1000" viewBox="0 0 1200 1000" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'><rect width="1200" height="1000" fill="#fcfcfb"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">Species do not run out. They get logarithmically more expensive.</text>
+<text x="28.0" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">FOR</text>
+<text x="28.0" y="77.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">anyone planning a survey to find species not yet in the</text>
+<text x="28.0" y="90.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">register</text>
+<text x="409.3" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">DECIDE</text>
+<text x="409.3" y="77.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">which class the next million records should be spent on</text>
+<text x="790.7" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">WRONG IF</text>
+<text x="790.7" y="77.0" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the cheap classes are cheap because their records identify to</text>
+<text x="790.7" y="90.5" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">species more often, not because more species are there</text>
+<line x1="28" y1="100.0" x2="1172" y2="100.0" stroke="#e3e2db"/>
+<text x="28.0" y="200.0" font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">error on a year the fit never saw</text>
+<text x="28.0" y="216.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">fitted on records dated 2000 or earlier, predicting 2024</text>
+<line x1="133.0" y1="244.0" x2="133.0" y2="494.0" stroke="#f0efe9" stroke-width="1"/>
+<text x="133.0" y="510.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">-50%</text>
+<line x1="223.5" y1="244.0" x2="223.5" y2="494.0" stroke="#52514e" stroke-width="1.4"/>
+<text x="223.5" y="510.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">0</text>
+<line x1="314.0" y1="244.0" x2="314.0" y2="494.0" stroke="#f0efe9" stroke-width="1"/>
+<text x="314.0" y="510.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">+50%</text>
+<line x1="404.5" y1="244.0" x2="404.5" y2="494.0" stroke="#f0efe9" stroke-width="1"/>
+<text x="404.5" y="510.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">+100%</text>
+<line x1="495.0" y1="244.0" x2="495.0" y2="494.0" stroke="#f0efe9" stroke-width="1"/>
+<text x="495.0" y="510.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">+150%</text>
+<text x="124.0" y="526.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">predicted minus actual, as a share of actual</text>
+<text x="28.0" y="270.0" font-size="10.5" fill="#8c2318" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">saturating</text>
+<text x="28.0" y="284.0" font-size="9" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">16 of 16 under</text>
+<text x="28.0" y="297.0" font-size="9" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">median -19.0%</text>
+<circle cx="184.8" cy="266.8" r="3.7" fill="#8c2318" fill-opacity="0.55" stroke="#8c2318" stroke-width="0.9"/>
+<circle cx="181.1" cy="271.4" r="3.7" fill="#8c2318" fill-opacity="0.55" stroke="#8c2318" stroke-width="0.9"/>
+<circle cx="190.4" cy="276.0" r="3.7" fill="#8c2318" fill-opacity="0.55" stroke="#8c2318" stroke-width="0.9"/>
+<circle cx="177.2" cy="280.6" r="3.7" fill="#8c2318" fill-opacity="0.55" stroke="#8c2318" stroke-width="0.9"/>
+<circle cx="186.8" cy="285.2" r="3.7" fill="#8c2318" fill-opacity="0.55" stroke="#8c2318" stroke-width="0.9"/>
+<circle cx="206.0" cy="266.8" r="3.7" fill="#8c2318" fill-opacity="0.55" stroke="#8c2318" stroke-width="0.9"/>
+<circle cx="177.2" cy="271.4" r="3.7" fill="#8c2318" fill-opacity="0.55" stroke="#8c2318" stroke-width="0.9"/>
+<circle cx="201.1" cy="276.0" r="3.7" fill="#8c2318" fill-opacity="0.55" stroke="#8c2318" stroke-width="0.9"/>
+<circle cx="189.2" cy="280.6" r="3.7" fill="#8c2318" fill-opacity="0.55" stroke="#8c2318" stroke-width="0.9"/>
+<circle cx="212.4" cy="285.2" r="3.7" fill="#8c2318" fill-opacity="0.55" stroke="#8c2318" stroke-width="0.9"/>
+<circle cx="213.0" cy="266.8" r="3.7" fill="#8c2318" fill-opacity="0.55" stroke="#8c2318" stroke-width="0.9"/>
+<circle cx="201.7" cy="271.4" r="3.7" fill="#8c2318" fill-opacity="0.55" stroke="#8c2318" stroke-width="0.9"/>
+<circle cx="178.4" cy="276.0" r="3.7" fill="#8c2318" fill-opacity="0.55" stroke="#8c2318" stroke-width="0.9"/>
+<circle cx="209.2" cy="280.6" r="3.7" fill="#8c2318" fill-opacity="0.55" stroke="#8c2318" stroke-width="0.9"/>
+<circle cx="165.8" cy="285.2" r="3.7" fill="#8c2318" fill-opacity="0.55" stroke="#8c2318" stroke-width="0.9"/>
+<circle cx="165.3" cy="266.8" r="3.7" fill="#8c2318" fill-opacity="0.55" stroke="#8c2318" stroke-width="0.9"/>
+<text x="28.0" y="346.0" font-size="10.5" fill="#c07a1e" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">power law</text>
+<text x="28.0" y="360.0" font-size="9" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">2 of 16 under</text>
+<text x="28.0" y="373.0" font-size="9" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">median +49.1%</text>
+<circle cx="280.8" cy="342.8" r="3.7" fill="#c07a1e" fill-opacity="0.55" stroke="#c07a1e" stroke-width="0.9"/>
+<circle cx="307.5" cy="347.4" r="3.7" fill="#c07a1e" fill-opacity="0.55" stroke="#c07a1e" stroke-width="0.9"/>
+<circle cx="282.6" cy="352.0" r="3.7" fill="#c07a1e" fill-opacity="0.55" stroke="#c07a1e" stroke-width="0.9"/>
+<circle cx="303.7" cy="356.6" r="3.7" fill="#c07a1e" fill-opacity="0.55" stroke="#c07a1e" stroke-width="0.9"/>
+<circle cx="297.2" cy="361.2" r="3.7" fill="#c07a1e" fill-opacity="0.55" stroke="#c07a1e" stroke-width="0.9"/>
+<circle cx="325.6" cy="342.8" r="3.7" fill="#c07a1e" fill-opacity="0.55" stroke="#c07a1e" stroke-width="0.9"/>
+<circle cx="312.4" cy="347.4" r="3.7" fill="#c07a1e" fill-opacity="0.55" stroke="#c07a1e" stroke-width="0.9"/>
+<circle cx="389.7" cy="352.0" r="3.7" fill="#c07a1e" fill-opacity="0.55" stroke="#c07a1e" stroke-width="0.9"/>
+<circle cx="281.7" cy="356.6" r="3.7" fill="#c07a1e" fill-opacity="0.55" stroke="#c07a1e" stroke-width="0.9"/>
+<circle cx="391.5" cy="361.2" r="3.7" fill="#c07a1e" fill-opacity="0.55" stroke="#c07a1e" stroke-width="0.9"/>
+<circle cx="400.4" cy="342.8" r="3.7" fill="#c07a1e" fill-opacity="0.55" stroke="#c07a1e" stroke-width="0.9"/>
+<circle cx="346.9" cy="347.4" r="3.7" fill="#c07a1e" fill-opacity="0.55" stroke="#c07a1e" stroke-width="0.9"/>
+<circle cx="348.9" cy="352.0" r="3.7" fill="#c07a1e" fill-opacity="0.55" stroke="#c07a1e" stroke-width="0.9"/>
+<circle cx="471.0" cy="356.6" r="3.7" fill="#c07a1e" fill-opacity="0.55" stroke="#c07a1e" stroke-width="0.9"/>
+<circle cx="217.1" cy="361.2" r="3.7" fill="#c07a1e" fill-opacity="0.55" stroke="#c07a1e" stroke-width="0.9"/>
+<circle cx="188.7" cy="342.8" r="3.7" fill="#c07a1e" fill-opacity="0.55" stroke="#c07a1e" stroke-width="0.9"/>
+<text x="28.0" y="422.0" font-size="10.5" fill="#1b7f5a" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">log-linear</text>
+<text x="28.0" y="436.0" font-size="9" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">5 of 16 under</text>
+<text x="28.0" y="449.0" font-size="9" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">median +6.1%</text>
+<circle cx="231.5" cy="418.8" r="3.7" fill="#1b7f5a" fill-opacity="0.55" stroke="#1b7f5a" stroke-width="0.9"/>
+<circle cx="234.5" cy="423.4" r="3.7" fill="#1b7f5a" fill-opacity="0.55" stroke="#1b7f5a" stroke-width="0.9"/>
+<circle cx="235.0" cy="428.0" r="3.7" fill="#1b7f5a" fill-opacity="0.55" stroke="#1b7f5a" stroke-width="0.9"/>
+<circle cx="215.8" cy="432.6" r="3.7" fill="#1b7f5a" fill-opacity="0.55" stroke="#1b7f5a" stroke-width="0.9"/>
+<circle cx="220.8" cy="437.2" r="3.7" fill="#1b7f5a" fill-opacity="0.55" stroke="#1b7f5a" stroke-width="0.9"/>
+<circle cx="251.9" cy="418.8" r="3.7" fill="#1b7f5a" fill-opacity="0.55" stroke="#1b7f5a" stroke-width="0.9"/>
+<circle cx="210.5" cy="423.4" r="3.7" fill="#1b7f5a" fill-opacity="0.55" stroke="#1b7f5a" stroke-width="0.9"/>
+<circle cx="267.3" cy="428.0" r="3.7" fill="#1b7f5a" fill-opacity="0.55" stroke="#1b7f5a" stroke-width="0.9"/>
+<circle cx="228.4" cy="432.6" r="3.7" fill="#1b7f5a" fill-opacity="0.55" stroke="#1b7f5a" stroke-width="0.9"/>
+<circle cx="288.6" cy="437.2" r="3.7" fill="#1b7f5a" fill-opacity="0.55" stroke="#1b7f5a" stroke-width="0.9"/>
+<circle cx="286.1" cy="418.8" r="3.7" fill="#1b7f5a" fill-opacity="0.55" stroke="#1b7f5a" stroke-width="0.9"/>
+<circle cx="257.3" cy="423.4" r="3.7" fill="#1b7f5a" fill-opacity="0.55" stroke="#1b7f5a" stroke-width="0.9"/>
+<circle cx="232.2" cy="428.0" r="3.7" fill="#1b7f5a" fill-opacity="0.55" stroke="#1b7f5a" stroke-width="0.9"/>
+<circle cx="268.9" cy="432.6" r="3.7" fill="#1b7f5a" fill-opacity="0.55" stroke="#1b7f5a" stroke-width="0.9"/>
+<circle cx="200.8" cy="437.2" r="3.7" fill="#1b7f5a" fill-opacity="0.55" stroke="#1b7f5a" stroke-width="0.9"/>
+<circle cx="156.1" cy="418.8" r="3.7" fill="#1b7f5a" fill-opacity="0.55" stroke="#1b7f5a" stroke-width="0.9"/>
+<text x="28.0" y="556.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Each mark is one class, spread vertically only so they can be told apart.</text>
+<text x="28.0" y="569.5" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">The saturating fit lands entirely left of zero — every class has already</text>
+<text x="28.0" y="583.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">passed the ceiling a century of its own data implied, so that model cannot</text>
+<text x="28.0" y="596.5" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">be used to argue a group is nearly described. A power law overshoots almost</text>
+<text x="28.0" y="610.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">as consistently. The log-linear fit straddles zero, which is what makes the</text>
+<text x="28.0" y="623.5" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">right-hand panel legible at all; its mean absolute error is still 15%, so</text>
+<text x="28.0" y="637.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">read the ranking, not the digits.</text>
+<text x="560.0" y="200.0" font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">what the next hundred species cost</text>
+<text x="560.0" y="216.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">records that must be added to the class, from the log-linear fit</text>
+<line x1="634.0" y1="250.0" x2="634.0" y2="680.0" stroke="#f0efe9"/>
+<text x="634.0" y="696.0" font-size="9" fill="#8a8880" text-anchor="middle">10<tspan font-size="6.5" dy="-3.6">2</tspan></text>
+<line x1="772.5" y1="250.0" x2="772.5" y2="680.0" stroke="#f0efe9"/>
+<text x="772.5" y="696.0" font-size="9" fill="#8a8880" text-anchor="middle">10<tspan font-size="6.5" dy="-3.6">3</tspan></text>
+<line x1="910.9" y1="250.0" x2="910.9" y2="680.0" stroke="#f0efe9"/>
+<text x="910.9" y="696.0" font-size="9" fill="#8a8880" text-anchor="middle">10<tspan font-size="6.5" dy="-3.6">4</tspan></text>
+<line x1="634.0" y1="629.4" x2="994.0" y2="629.4" stroke="#f0efe9"/>
+<text x="627.0" y="632.4" font-size="9" fill="#8a8880" text-anchor="end">10<tspan font-size="6.5" dy="-3.6">5</tspan></text>
+<line x1="634.0" y1="502.9" x2="994.0" y2="502.9" stroke="#f0efe9"/>
+<text x="627.0" y="505.9" font-size="9" fill="#8a8880" text-anchor="end">10<tspan font-size="6.5" dy="-3.6">6</tspan></text>
+<line x1="634.0" y1="376.5" x2="994.0" y2="376.5" stroke="#f0efe9"/>
+<text x="627.0" y="379.5" font-size="9" fill="#8a8880" text-anchor="end">10<tspan font-size="6.5" dy="-3.6">7</tspan></text>
+<line x1="634.0" y1="250.0" x2="994.0" y2="250.0" stroke="#f0efe9"/>
+<text x="627.0" y="253.0" font-size="9" fill="#8a8880" text-anchor="end">10<tspan font-size="6.5" dy="-3.6">8</tspan></text>
+<text x="560.0" y="712.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">species the class already has in OBIS</text>
+<text transform="translate(570,465.0) rotate(-90)" font-size="9.5" fill="#8a8880" text-anchor="middle">records needed for 100 more species</text>
+<circle cx="886.2" cy="639.6" r="4.6" fill="#1b7f5a" fill-opacity="0.8"/>
+<text x="896.2" y="643.1" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">sponges</text>
+<text x="896.2" y="643.1" fill="#1b7f5a" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">sponges</text>
+<circle cx="963.2" cy="631.6" r="4.6" fill="#1b7f5a" fill-opacity="0.8"/>
+<line x1="969.2" y1="631.6" x2="973.2" y2="654.1" stroke="#1b7f5a" stroke-width="0.8" stroke-opacity="0.55"/>
+<text x="973.2" y="657.1" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">sea snails</text>
+<text x="973.2" y="657.1" fill="#1b7f5a" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">sea snails</text>
+<circle cx="834.1" cy="578.8" r="4.6" fill="#1b7f5a" fill-opacity="0.8"/>
+<text x="844.1" y="582.3" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">hydroids</text>
+<text x="844.1" y="582.3" fill="#1b7f5a" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">hydroids</text>
+<circle cx="962.4" cy="569.7" r="4.6" fill="#1b7f5a" fill-opacity="0.8"/>
+<line x1="968.4" y1="569.7" x2="972.4" y2="592.2" stroke="#1b7f5a" stroke-width="0.8" stroke-opacity="0.55"/>
+<text x="972.4" y="595.2" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">crabs and shrimp</text>
+<text x="972.4" y="595.2" fill="#1b7f5a" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">crabs and shrimp</text>
+<circle cx="794.8" cy="554.7" r="4.6" fill="#1b7f5a" fill-opacity="0.8"/>
+<text x="804.8" y="558.2" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">sea cucumbers</text>
+<text x="804.8" y="558.2" fill="#1b7f5a" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">sea cucumbers</text>
+<circle cx="886.8" cy="549.2" r="4.6" fill="#1b7f5a" fill-opacity="0.8"/>
+<line x1="892.8" y1="549.2" x2="896.8" y2="604.7" stroke="#1b7f5a" stroke-width="0.8" stroke-opacity="0.55"/>
+<text x="896.8" y="607.7" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">clams and mussels</text>
+<text x="896.8" y="607.7" fill="#1b7f5a" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">clams and mussels</text>
+<circle cx="876.0" cy="543.9" r="4.6" fill="#1b7f5a" fill-opacity="0.8"/>
+<line x1="882.0" y1="543.9" x2="886.0" y2="566.4" stroke="#1b7f5a" stroke-width="0.8" stroke-opacity="0.55"/>
+<text x="886.0" y="569.4" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">corals and anemones</text>
+<text x="886.0" y="569.4" fill="#1b7f5a" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">corals and anemones</text>
+<circle cx="906.0" cy="543.4" r="4.6" fill="#1b7f5a" fill-opacity="0.8"/>
+<text x="916.0" y="546.9" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">bristle worms</text>
+<text x="916.0" y="546.9" fill="#1b7f5a" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">bristle worms</text>
+<circle cx="815.0" cy="527.3" r="4.6" fill="#4a7fa8" fill-opacity="0.8"/>
+<text x="825.0" y="530.8" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">sea stars</text>
+<text x="825.0" y="530.8" fill="#4a7fa8" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">sea stars</text>
+<circle cx="836.5" cy="474.2" r="4.6" fill="#4a7fa8" fill-opacity="0.8"/>
+<text x="846.5" y="477.7" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">diatoms</text>
+<text x="846.5" y="477.7" fill="#4a7fa8" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">diatoms</text>
+<circle cx="775.6" cy="470.2" r="4.6" fill="#4a7fa8" fill-opacity="0.8"/>
+<line x1="781.6" y1="470.2" x2="785.6" y2="492.7" stroke="#4a7fa8" stroke-width="0.8" stroke-opacity="0.55"/>
+<text x="785.6" y="495.7" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">sea urchins</text>
+<text x="785.6" y="495.7" fill="#4a7fa8" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">sea urchins</text>
+<circle cx="948.1" cy="443.5" r="4.6" fill="#4a7fa8" fill-opacity="0.8"/>
+<text x="958.1" y="447.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">ray-finned fish</text>
+<text x="958.1" y="447.0" fill="#4a7fa8" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">ray-finned fish</text>
+<circle cx="785.5" cy="398.5" r="4.6" fill="#8c2318" fill-opacity="0.8"/>
+<text x="795.5" y="402.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">sharks and rays</text>
+<text x="795.5" y="402.0" fill="#8c2318" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">sharks and rays</text>
+<circle cx="767.4" cy="352.9" r="4.6" fill="#8c2318" fill-opacity="0.8"/>
+<text x="777.4" y="356.4" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">squid and octopus</text>
+<text x="777.4" y="356.4" fill="#8c2318" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">squid and octopus</text>
+<circle cx="703.6" cy="305.4" r="4.6" fill="#8c2318" fill-opacity="0.8"/>
+<text x="713.6" y="308.9" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">marine mammals</text>
+<text x="713.6" y="308.9" fill="#8c2318" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">marine mammals</text>
+<circle cx="785.0" cy="274.9" r="4.6" fill="#8c2318" fill-opacity="0.8"/>
+<text x="795.0" y="278.4" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">seabirds</text>
+<text x="795.0" y="278.4" fill="#8c2318" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">seabirds</text>
+<circle cx="647.0" cy="260.5" r="4.6" fill="#1b7f5a" fill-opacity="0.8"/>
+<text x="658.0" y="264.0" font-size="9.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">under 500k records</text>
+<circle cx="647.0" cy="274.5" r="4.6" fill="#4a7fa8" fill-opacity="0.8"/>
+<text x="658.0" y="278.0" font-size="9.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">500k to 5M</text>
+<circle cx="647.0" cy="288.5" r="4.6" fill="#8c2318" fill-opacity="0.8"/>
+<text x="658.0" y="292.0" font-size="9.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">over 5M</text>
+<text x="560.0" y="734.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Sponges and sea snails are the cheapest in the register and seabirds the</text>
+<text x="560.0" y="747.5" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">dearest by a factor of 765. That is not a size effect: sponges hold 6,627</text>
+<text x="560.0" y="761.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">species against the seabirds' 1,232, so the group with five times the</text>
+<text x="560.0" y="774.5" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">species is three orders of magnitude cheaper to extend. OBIS takes in</text>
+<text x="560.0" y="788.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">roughly 7.5M records a year across everything, which makes 100 more sponge</text>
+<text x="560.0" y="801.5" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">species about four days of global intake and 100 more seabird species about</text>
+<text x="560.0" y="815.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">eight and a half years of it.</text>
+<line x1="28" y1="932.0" x2="1172" y2="932.0" stroke="#e3e2db"/>
+<text x="28.0" y="952.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">OBIS v3 checklist with an enddate cut-off and statistics/years, fetched 2026-09-18. The horizontal axis of the accumulation curve is the date ON the</text>
+<text x="28.0" y="966.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">record, never the date it became known: a specimen collected in 1911 may have been keyed in in 2019, so this is what OBIS now holds dated on or before</text>
+<text x="28.0" y="980.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">a year, not what was known in that year. A fitted ceiling is a ceiling on this register, bounded by what gets observed, digitised and submitted — a</text>
+<text x="28.0" y="994.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">group nobody surveys has a low ceiling for that reason and not a biological one.</text>
+</svg>
