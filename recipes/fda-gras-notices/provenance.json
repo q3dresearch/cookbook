@@ -16,6 +16,12 @@
     "animal_gras_inventory": {
       "url": "https://www.fda.gov/animal-veterinary/generally-recognized-safe-gras-notification-program/current-animal-food-gras-notices-inventory",
       "note": "no bulk export exists, so the rendered table is captured"
+    },
+    "human_gras_inventory": {
+      "url": "https://www.cfsanappsexternal.fda.gov/scripts/fdcc/cfc/XMLService.cfm?method=downloadxls&set=GRASNotices",
+      "note": "cp1252 CSV, real header on row 3, GRN column wrapped in an Excel formula",
+      "rows": 1336,
+      "used_for": "the control: same agency, same mechanism, a different population"
     }
   },
   "headline": {
@@ -38,14 +44,68 @@
     "experienced_vs_first_timer_clearance": "86% vs 76%, z = +3.94",
     "withdrawal_stickiness": "after a pull, 29% of a firm's next filings are also pulled, against 9% after a clearance",
     "vanished_still_permitted": 16,
-    "vanished_via_food_additive_petition": 3
+    "vanished_via_food_additive_petition": 3,
+    "animal_notices": 94,
+    "animal_cleared": 0.511,
+    "animal_cleared_ci95": [
+      0.411,
+      0.609
+    ],
+    "human_cleared": 0.79,
+    "human_cleared_ci95": [
+      0.768,
+      0.811
+    ],
+    "animal_withdrawn": 0.34,
+    "human_withdrawn": 0.168,
+    "animal_refused": 0.064,
+    "human_refused": 0.015,
+    "firms_filing_both_sides": 8,
+    "their_human_clearance": 0.84,
+    "their_animal_clearance": 0.57,
+    "efficiency_share_by_era": [
+      0.72,
+      0.53,
+      0.21,
+      0.1
+    ],
+    "pet_notices_2010_14": 1,
+    "pet_notices_2025_29": 11,
+    "pet_cleared": 0.6,
+    "food_producing_cleared": 0.53,
+    "refiling_chains": 18,
+    "comeback_rate": 0.31,
+    "human_comeback_rate": 0.31,
+    "one_species_cleared": 0.56,
+    "four_plus_species_cleared": 0.36,
+    "short_use_statement_cleared": 0.31,
+    "long_use_statement_cleared": 0.52,
+    "notices_per_block": [
+      15,
+      10,
+      29,
+      34
+    ],
+    "top3_firm_share": [
+      0.6,
+      0.4,
+      0.45,
+      0.24
+    ]
   },
   "computed_by": {
     "gras-flow.svg": "chart_flow.py",
     "gras-withdrawal-rate.svg": "chart_years.py",
     "gras-meaning.svg": "chart_meaning.py",
     "gras-withdrawn-kinds.svg": "chart_kinds.py",
-    "the other-door table": "other_door.py"
+    "the other-door table": "other_door.py",
+    "animal-purpose-shift.svg": "chart_shift.py",
+    "animal-audience.svg": "chart_audience.py",
+    "animal-outcomes.svg": "chart_outcomes.py",
+    "animal-vs-human-wall.svg": "chart_wall.py",
+    "animal-refiling-chains.svg": "chart_chains.py",
+    "animal-claim-shape.svg": "chart_breadth.py",
+    "animal-filers.svg": "chart_filers.py"
   },
   "caveats": [
     "A comeback is counted only where FDA records a resubmission link, so every comeback rate is a floor.",
@@ -54,5 +114,6 @@
     "Substance categories are inferred from the notice's own name and are ours, not FDA's. 14% of notices match more than one rule and the first wins, which moves category sizes but not the -0.65 slope (stable from -0.68 to -0.53 across 200 random rule orders).",
     "The pre-2008 cohorts are thin: 5, 11 and 15 withdrawals. The pooled pre-2010 figure (n=47) is the evidence.",
     "The third fate of a withdrawn substance - sold on an undisclosed self-determination - is not observable from any FDA file by construction."
-  ]
+  ],
+  "_method_version": "1.0.0 merges two published recipes that read the same two FDA inventories and carried two copies of the same graslib.py, one headed \"VENDORED COPY ... if you change the classifier in one, change it in both\". One dataset is one folder. The eleven figures are unchanged; the two stories are now parts I and II of one README, and the divergence hazard between the duplicated classifiers is gone."
 }

@@ -8,21 +8,23 @@ Following them collapses notices into *substances*, which is the correct
 denominator: a company that withdraws and refiles appears three times in a
 notice count and once in a chain count.
 """
-# VENDORED COPY of gras-withdrawals/artifacts/scripts/graslib.py.
-# A recipe has to run without its siblings, so this is duplicated rather
-# than imported. If you change the classifier in one, change it in both —
-# `python larder/index.py` will not catch a divergence, only a missing file.
-
 import csv, glob, html, io, os, re
 from collections import Counter
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 # Written for an earlier layout and left resolving two levels too shallow when
-# the scripts moved under the recipe. Anchor on the recipe, walk up to larder.
+# One copy, not two. This file used to exist twice — once here and once in a
+# sibling recipe that carried the header "VENDORED COPY ... if you change the
+# classifier in one, change it in both". Both recipes read the same two FDA
+# inventories, so they are one folder now and the divergence hazard is gone.
+#
+# the scripts moved under the recipe, so every path pointed at nothing. Anchor
+# on the recipe, then walk up to the larder root.
 RECIPE = os.path.dirname(os.path.dirname(HERE))
 CHARTS = os.path.join(RECIPE, "artifacts", "charts")
 # This recipe commits no data. capture.py writes into a work directory and every
-# other script reads the same one: set GRAS_WORK, or accept ./work here.
+# other script reads the same one: set GRAS_WORK, or accept ./work in the current
+# directory. Nothing reaches outside the recipe except that dir.
 WORK = os.environ.get("GRAS_WORK") or os.path.join(os.getcwd(), "work")
 RAW = os.path.join(WORK, "fda-gras")
 os.makedirs(RAW, exist_ok=True)
