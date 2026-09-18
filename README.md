@@ -12,8 +12,26 @@ built on those and on sources that keep their own history.
 
 ## Recipes
 
-Twelve, most recent first. Each links its own write-up.
+Fifteen, most recent first. Each links its own write-up.
 
+- **[The register publishes its survivors and drops its dead. That is measurable anyway.](recipes/uk-company-survival/)** —
+  Companies House never populates its dissolution column and every status it carries is one a
+  live company holds, so the file cannot measure survival directly. Three dated snapshots that
+  nothing links to make it measurable: a company is dead when it stops appearing. Two-thirds
+  are gone within five years; 449,461 companies sit at forty addresses whose two-year survival
+  is 37% against 56% elsewhere, and 8.9 points of that survive standardising for age.
+- **[America is not running out of landfill room. Eight states are.](recipes/landfill-countdown/)** —
+  permitted room went up 14.5bn to 14.8bn tons while a billion was buried, because new capacity
+  was permitted where the clock was shortest. Eight states have a median site under twenty
+  years and half the country's remaining room belongs to two companies. Half the evidence no
+  longer exists at source: the register overwrites itself and the 2021 edition returns 404, so
+  both workbooks are committed under the rule's own exception.
+- **[Four ways a national register lies about who is concentrated](recipes/waste-route-concentration/)** —
+  the route with the fewest firms turns out to be the least concentrated of them all, and
+  the Gini is flat for twenty-two years only because firms are leaving the sample. Pin the
+  count and seven of eight routes concentrate. A record count measures how finely activity
+  was written down, not how much of it there was: one route filed 24× the rows on half the
+  waste. And one plant in Texas is 17% of every ton the country manages.
 - **[Most of the FDA shortage list is not a shortage](recipes/drug-shortage-overlap/)** —
   137 of 196 substances are products being discontinued, not products in short supply.
   One reporting firm predicts an exit at 95% against 16% for two or more; nothing

@@ -13,6 +13,33 @@ records their publishers overwrite.
 - [VERSIONING.md](VERSIONING.md): method versus data versioning, append-only series
 
 ## Recipes
+- [uk-company-survival](recipes/uk-company-survival/README.md): the Companies House bulk file
+  is a live-register snapshot — DissolutionDate is populated on zero of the first 73,146 rows
+  and every status present is one a live company holds, so the register publishes survivors and
+  drops its dead. Survival becomes measurable only because the publisher keeps dated monthly
+  files nothing links to: a company is dead when it stops appearing. Two-thirds gone within five
+  years; agrees with ONS on ordering (rho +0.79) and not on level (below in 11 of 14 sectors);
+  449,461 companies at forty formation-agent addresses survive two years at 37% against 56%
+  elsewhere, 8.9 points surviving age standardisation, with the two groups indistinguishable in
+  2012. Cause is explicitly not claimed: the register carries address and outcome and nothing
+  about the relationship.
+- [landfill-countdown](recipes/landfill-countdown/README.md): every US municipal landfill in
+  one federal file, two editions three years apart. Nationally permitted room rose 14.5bn to
+  14.8bn tons after burying a billion, because 1.3bn tons of new capacity went to the states
+  with the shortest clocks; eight states have a median site under twenty years; two companies
+  own half the remaining room. The register overwrites itself and only the current edition
+  resolves, so the interval exists by accident and both workbooks are committed. Promotion
+  replaced openpyxl with a stdlib xlsx reader (verified cell by cell, 2,642 rows) and that
+  byte-diff exposed a figure that had never been reproducible because it iterated a set.
+- [waste-route-concentration](recipes/waste-route-concentration/README.md): four counting
+  artefacts in the EPA hazardous waste register, each generalising past it. The route with the
+  fewest firms (deep-well injection, 31) has the lowest Gini (0.63); the one with 77 firms has
+  0.98 because one company is 86% of it. Gini across all firms is flat 2001-2023 in every
+  route — pin the count at each route's largest 30 and seven of eight concentrate, because
+  exits come off the bottom of the distribution. A record count measures filing granularity,
+  not activity: one route filed 23.8x the rows on half the tonnage. One plant is 17.0% of every
+  ton the country manages. Two figures are replacements for published wrong versions, both
+  kept in the write-up.
 - [drug-shortage-overlap](recipes/drug-shortage-overlap/README.md): the FDA drug
   shortage register is a §506C compliance feed, not a clinical one — 137 of 196
   substances are permanent discontinuances; one reporting firm predicts an exit at
