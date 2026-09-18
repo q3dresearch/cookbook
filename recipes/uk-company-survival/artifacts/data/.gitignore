@@ -1,0 +1,4 @@
+# Nothing here ships. The corpora are 1.5 GB of Companies House snapshots and the fetcher
+# retrieves them; provenance.json records the sha256 of exactly what the figures came from.
+*
+!.gitignore

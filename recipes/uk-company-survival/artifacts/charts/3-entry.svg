@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1060" height="680" viewBox="0 0 1060 680" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'><rect width='1060' height='680' fill='#fcfcfb'/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">Manufacturing halved. Retail doubled. Nobody stopped starting companies.</text>
+<text x="28.0" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">FOR</text>
+<text x="28.0" y="77.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">anyone reading a sector's company count as a measure</text>
+<text x="28.0" y="90.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">of its health</text>
+<text x="362.7" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">DECIDE</text>
+<text x="362.7" y="77.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">whether a falling count means firms are failing or not</text>
+<text x="362.7" y="90.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">forming</text>
+<text x="697.3" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">WRONG IF</text>
+<text x="697.3" y="77.0" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">formation and dissolution start moving together within</text>
+<text x="697.3" y="90.5" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">a sector</text>
+<line x1="28" y1="100.0" x2="1032" y2="100.0" stroke="#e3e2db"/>
+<line x1="118" y1="542.0" x2="718" y2="542.0" stroke="#f0efe9"/>
+<text x="108.0" y="546.0" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">0%</text>
+<line x1="118" y1="473.6" x2="718" y2="473.6" stroke="#f0efe9"/>
+<text x="108.0" y="477.6" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">5%</text>
+<line x1="118" y1="405.2" x2="718" y2="405.2" stroke="#f0efe9"/>
+<text x="108.0" y="409.2" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">10%</text>
+<line x1="118" y1="336.8" x2="718" y2="336.8" stroke="#f0efe9"/>
+<text x="108.0" y="340.8" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">15%</text>
+<line x1="118" y1="268.3" x2="718" y2="268.3" stroke="#f0efe9"/>
+<text x="108.0" y="272.3" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">20%</text>
+<line x1="118" y1="199.9" x2="718" y2="199.9" stroke="#f0efe9"/>
+<text x="108.0" y="203.9" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">25%</text>
+<text x="118.0" y="562.0" font-size="11" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">1998</text>
+<text x="206.9" y="562.0" font-size="11" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2002</text>
+<text x="295.8" y="562.0" font-size="11" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2006</text>
+<text x="384.7" y="562.0" font-size="11" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2010</text>
+<text x="473.6" y="562.0" font-size="11" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2014</text>
+<text x="562.4" y="562.0" font-size="11" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2018</text>
+<text x="651.3" y="562.0" font-size="11" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2022</text>
+<text x="418.0" y="584.0" font-size="12" fill="#52514e" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">year the company was registered</text>
+<text x="108.0" y="148.0" font-size="11" fill="#52514e" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">share of new</text>
+<text x="108.0" y="162.0" font-size="11" fill="#52514e" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">limited companies</text>
+<path d="M118.0,437.4 L140.2,436.8 L162.4,437.3 L184.7,445.2 L206.9,445.0 L229.1,449.1 L251.3,458.4 L273.6,467.4 L295.8,469.1 L318.0,476.8 L340.2,472.1 L362.4,468.8 L384.7,476.1 L406.9,475.8 L429.1,477.8 L451.3,478.5 L473.6,481.3 L495.8,486.0 L518.0,487.0 L540.2,489.2 L562.4,489.1 L584.7,489.5 L606.9,486.1 L629.1,489.5 L651.3,492.3 L673.6,490.8 L695.8,493.5 L718.0,490.2" fill="none" stroke="#b03a2e" stroke-width="2.4" stroke-linejoin="round"/>
+<path d="M118.0,410.9 L140.2,407.0 L162.4,404.2 L184.7,408.9 L206.9,379.8 L229.1,373.2 L251.3,399.9 L273.6,401.1 L295.8,408.1 L318.0,419.0 L340.2,402.0 L362.4,397.5 L384.7,400.6 L406.9,398.4 L429.1,396.9 L451.3,399.6 L473.6,409.9 L495.8,409.0 L518.0,409.2 L540.2,403.3 L562.4,384.1 L584.7,375.8 L606.9,348.8 L629.1,358.8 L651.3,367.0 L673.6,339.4 L695.8,325.5 L718.0,262.7" fill="none" stroke="#1b4f8a" stroke-width="2.4" stroke-linejoin="round"/>
+<path d="M118.0,394.8 L140.2,414.6 L162.4,407.8 L184.7,429.9 L206.9,446.8 L229.1,452.9 L251.3,435.0 L273.6,431.9 L295.8,429.2 L318.0,413.1 L340.2,406.4 L362.4,410.7 L384.7,401.1 L406.9,393.7 L429.1,396.5 L451.3,400.8 L473.6,402.9 L495.8,406.8 L518.0,417.6 L540.2,427.4 L562.4,426.9 L584.7,433.6 L606.9,435.9 L629.1,436.3 L651.3,431.0 L673.6,428.6 L695.8,427.1 L718.0,413.5" fill="none" stroke="#c07a1e" stroke-width="2.4" stroke-linejoin="round"/>
+<path d="M118.0,346.9 L140.2,336.3 L162.4,326.2 L184.7,336.6 L206.9,333.3 L229.1,335.9 L251.3,334.8 L273.6,322.6 L295.8,325.7 L318.0,309.5 L340.2,307.4 L362.4,309.3 L384.7,307.1 L406.9,308.1 L429.1,298.4 L451.3,308.7 L473.6,320.8 L495.8,333.6 L518.0,351.7 L540.2,364.2 L562.4,361.6 L584.7,374.5 L606.9,373.5 L629.1,384.9 L651.3,379.4 L673.6,379.0 L695.8,383.4 L718.0,401.4" fill="none" stroke="#4a7a3a" stroke-width="2.4" stroke-linejoin="round"/>
+<path d="M118.0,419.0 L140.2,416.4 L162.4,417.7 L184.7,401.7 L206.9,368.3 L229.1,354.6 L251.3,382.1 L273.6,370.4 L295.8,369.4 L318.0,367.9 L340.2,383.5 L362.4,396.0 L384.7,399.0 L406.9,395.6 L429.1,396.1 L451.3,386.9 L473.6,366.4 L495.8,364.4 L518.0,373.2 L540.2,373.5 L562.4,369.6 L584.7,372.5 L606.9,387.6 L629.1,386.8 L651.3,390.7 L673.6,399.7 L695.8,409.3 L718.0,419.3" fill="none" stroke="#7a6ea6" stroke-width="2.4" stroke-linejoin="round"/>
+<rect x="629.1" y="182" width="88.9" height="360" fill="#0b0b0b" fill-opacity="0.035"/>
+<text x="673.6" y="174.0" font-size="10.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">little has had time to die</text>
+<line x1="721.0" y1="262.7" x2="731.0" y2="262.7" stroke="#1b4f8a" stroke-width="1"/>
+<text x="735.0" y="266.7" font-size="11" fill="#1b4f8a" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Retail &amp; wholesale  20.4%</text>
+<line x1="721.0" y1="401.4" x2="731.0" y2="401.4" stroke="#4a7a3a" stroke-width="1"/>
+<text x="735.0" y="405.4" font-size="11" fill="#4a7a3a" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Professional &amp; scientific  10.3%</text>
+<line x1="721.0" y1="413.5" x2="731.0" y2="416.4" stroke="#c07a1e" stroke-width="1"/>
+<text x="735.0" y="420.4" font-size="11" fill="#c07a1e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Information &amp; communication  9.4%</text>
+<line x1="721.0" y1="419.3" x2="731.0" y2="431.4" stroke="#7a6ea6" stroke-width="1"/>
+<text x="735.0" y="435.4" font-size="11" fill="#7a6ea6" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Construction  9.0%</text>
+<line x1="721.0" y1="490.2" x2="731.0" y2="490.2" stroke="#b03a2e" stroke-width="1"/>
+<text x="735.0" y="494.2" font-size="11" fill="#b03a2e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Manufacturing  3.8%</text>
+<text x="132.0" y="200.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Manufacturing fell from 7.6% of new British limited</text>
+<text x="132.0" y="215.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">companies in 1998 to 3.8% in 2025, while retail and</text>
+<text x="132.0" y="230.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">wholesale went the other way.</text>
+<circle cx="584.7" cy="504.6" r="3.4" fill="none" stroke="#b03a2e" stroke-width="1.6"/>
+<circle cx="606.9" cy="498.6" r="3.4" fill="none" stroke="#b03a2e" stroke-width="1.6"/>
+<circle cx="629.1" cy="500.7" r="3.4" fill="none" stroke="#b03a2e" stroke-width="1.6"/>
+<circle cx="651.3" cy="497.4" r="3.4" fill="none" stroke="#b03a2e" stroke-width="1.6"/>
+<circle cx="673.6" cy="495.5" r="3.4" fill="none" stroke="#b03a2e" stroke-width="1.6"/>
+<circle cx="695.8" cy="497.6" r="3.4" fill="none" stroke="#b03a2e" stroke-width="1.6"/>
+<circle cx="718.0" cy="504.2" r="3.4" fill="none" stroke="#b03a2e" stroke-width="1.6"/>
+<circle cx="584.7" cy="399.4" r="3.4" fill="none" stroke="#1b4f8a" stroke-width="1.6"/>
+<circle cx="606.9" cy="394.7" r="3.4" fill="none" stroke="#1b4f8a" stroke-width="1.6"/>
+<circle cx="629.1" cy="395.2" r="3.4" fill="none" stroke="#1b4f8a" stroke-width="1.6"/>
+<circle cx="651.3" cy="401.2" r="3.4" fill="none" stroke="#1b4f8a" stroke-width="1.6"/>
+<circle cx="673.6" cy="382.1" r="3.4" fill="none" stroke="#1b4f8a" stroke-width="1.6"/>
+<circle cx="695.8" cy="379.2" r="3.4" fill="none" stroke="#1b4f8a" stroke-width="1.6"/>
+<circle cx="718.0" cy="380.1" r="3.4" fill="none" stroke="#1b4f8a" stroke-width="1.6"/>
+<circle cx="584.7" cy="445.7" r="3.4" fill="none" stroke="#c07a1e" stroke-width="1.6"/>
+<circle cx="606.9" cy="436.6" r="3.4" fill="none" stroke="#c07a1e" stroke-width="1.6"/>
+<circle cx="629.1" cy="443.2" r="3.4" fill="none" stroke="#c07a1e" stroke-width="1.6"/>
+<circle cx="651.3" cy="437.1" r="3.4" fill="none" stroke="#c07a1e" stroke-width="1.6"/>
+<circle cx="673.6" cy="422.9" r="3.4" fill="none" stroke="#c07a1e" stroke-width="1.6"/>
+<circle cx="695.8" cy="414.8" r="3.4" fill="none" stroke="#c07a1e" stroke-width="1.6"/>
+<circle cx="718.0" cy="393.1" r="3.4" fill="none" stroke="#c07a1e" stroke-width="1.6"/>
+<circle cx="584.7" cy="343.2" r="3.4" fill="none" stroke="#4a7a3a" stroke-width="1.6"/>
+<circle cx="606.9" cy="337.4" r="3.4" fill="none" stroke="#4a7a3a" stroke-width="1.6"/>
+<circle cx="629.1" cy="346.7" r="3.4" fill="none" stroke="#4a7a3a" stroke-width="1.6"/>
+<circle cx="651.3" cy="346.6" r="3.4" fill="none" stroke="#4a7a3a" stroke-width="1.6"/>
+<circle cx="673.6" cy="324.4" r="3.4" fill="none" stroke="#4a7a3a" stroke-width="1.6"/>
+<circle cx="695.8" cy="312.6" r="3.4" fill="none" stroke="#4a7a3a" stroke-width="1.6"/>
+<circle cx="718.0" cy="316.0" r="3.4" fill="none" stroke="#4a7a3a" stroke-width="1.6"/>
+<circle cx="584.7" cy="392.9" r="3.4" fill="none" stroke="#7a6ea6" stroke-width="1.6"/>
+<circle cx="606.9" cy="399.2" r="3.4" fill="none" stroke="#7a6ea6" stroke-width="1.6"/>
+<circle cx="629.1" cy="400.1" r="3.4" fill="none" stroke="#7a6ea6" stroke-width="1.6"/>
+<circle cx="651.3" cy="388.8" r="3.4" fill="none" stroke="#7a6ea6" stroke-width="1.6"/>
+<circle cx="673.6" cy="382.2" r="3.4" fill="none" stroke="#7a6ea6" stroke-width="1.6"/>
+<circle cx="695.8" cy="393.7" r="3.4" fill="none" stroke="#7a6ea6" stroke-width="1.6"/>
+<circle cx="718.0" cy="396.5" r="3.4" fill="none" stroke="#7a6ea6" stroke-width="1.6"/>
+<line x1="28" y1="595.0" x2="1032" y2="595.0" stroke="#e3e2db"/>
+<text x="28.0" y="615.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Before repeating a decline narrative about a sector, check whether people are still forming companies in it. This is the measure that answers that, and it needs no deaths.</text>
+<text x="28.0" y="630.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">These are survivors, so early years are thinned unevenly: manufacturing survives worse than average, so its true 1998 share was above 7.6% and the fall is steeper than drawn.</text>
+<text x="28.0" y="645.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Entry share is not output. A sector can consolidate into fewer, larger firms and look identical here; distinguishing the two needs employment or turnover, which registers do not carry.</text>
+<text x="28.0" y="660.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">The industry code is self-declared at incorporation and rarely updated, so it records what the founder intended rather than what the company did.</text>
+</svg>

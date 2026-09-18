@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1060" height="802" viewBox="0 0 1060 802" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'><rect width='1060' height='802' fill='#fcfcfb'/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">Forty addresses hold a twelfth of Britain's companies, and they have gone bad</text>
+<text x="28.0" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">FOR</text>
+<text x="28.0" y="77.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">a due-diligence or AML screening team</text>
+<text x="362.7" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">DECIDE</text>
+<text x="362.7" y="77.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">whether a formation-agent address is worth flagging on</text>
+<text x="362.7" y="90.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">its own</text>
+<text x="697.3" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">WRONG IF</text>
+<text x="697.3" y="77.0" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">companies at those addresses fail at the ordinary rate</text>
+<line x1="28" y1="100.0" x2="1032" y2="100.0" stroke="#e3e2db"/>
+<text x="96.0" y="164.0" font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">two-year survival by the year the company was formed</text>
+<line x1="96" y1="582.0" x2="576" y2="582.0" stroke="#f0efe9"/>
+<text x="86.0" y="586.0" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">0%</text>
+<line x1="96" y1="489.0" x2="576" y2="489.0" stroke="#f0efe9"/>
+<text x="86.0" y="493.0" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">25%</text>
+<line x1="96" y1="396.0" x2="576" y2="396.0" stroke="#f0efe9"/>
+<text x="86.0" y="400.0" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">50%</text>
+<line x1="96" y1="303.0" x2="576" y2="303.0" stroke="#f0efe9"/>
+<text x="86.0" y="307.0" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">75%</text>
+<line x1="96" y1="210.0" x2="576" y2="210.0" stroke="#f0efe9"/>
+<text x="86.0" y="214.0" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">100%</text>
+<line x1="96.0" y1="210" x2="96.0" y2="582" stroke="#f0efe9"/>
+<text x="96.0" y="602.0" font-size="10.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2012</text>
+<line x1="176.0" y1="210" x2="176.0" y2="582" stroke="#f0efe9"/>
+<text x="176.0" y="602.0" font-size="10.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2014</text>
+<line x1="256.0" y1="210" x2="256.0" y2="582" stroke="#f0efe9"/>
+<text x="256.0" y="602.0" font-size="10.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2016</text>
+<line x1="336.0" y1="210" x2="336.0" y2="582" stroke="#f0efe9"/>
+<text x="336.0" y="602.0" font-size="10.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2018</text>
+<line x1="416.0" y1="210" x2="416.0" y2="582" stroke="#f0efe9"/>
+<text x="416.0" y="602.0" font-size="10.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2020</text>
+<line x1="496.0" y1="210" x2="496.0" y2="582" stroke="#f0efe9"/>
+<text x="496.0" y="602.0" font-size="10.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2022</text>
+<line x1="576.0" y1="210" x2="576.0" y2="582" stroke="#f0efe9"/>
+<text x="576.0" y="602.0" font-size="10.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2024</text>
+<path d="M96.0,255.9 L136.0,256.2 L176.0,258.9 L216.0,258.0 L256.0,261.3 L296.0,260.5 L336.0,265.0 L376.0,273.7 L416.0,297.3 L456.0,302.4 L496.0,321.9 L536.0,379.8 L576.0,373.3 L576.0,445.1 L536.0,459.1 L496.0,356.4 L456.0,328.5 L416.0,318.5 L376.0,295.2 L336.0,289.4 L296.0,276.8 L256.0,271.4 L216.0,264.0 L176.0,261.7 L136.0,255.5 L96.0,257.1 Z" fill="#b03a2e" fill-opacity="0.10"/>
+<path d="M96.0,255.9 L136.0,256.2 L176.0,258.9 L216.0,258.0 L256.0,261.3 L296.0,260.5 L336.0,265.0 L376.0,273.7 L416.0,297.3 L456.0,302.4 L496.0,321.9 L536.0,379.8 L576.0,373.3" fill="none" stroke="#1b4f8a" stroke-width="2.4"/>
+<circle cx="576.0" cy="373.3" r="3.5" fill="#1b4f8a"/>
+<text x="583.0" y="377.3" font-size="11" fill="#1b4f8a" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">56%</text>
+<path d="M96.0,257.1 L136.0,255.5 L176.0,261.7 L216.0,264.0 L256.0,271.4 L296.0,276.8 L336.0,289.4 L376.0,295.2 L416.0,318.5 L456.0,328.5 L496.0,356.4 L536.0,459.1 L576.0,445.1" fill="none" stroke="#b03a2e" stroke-width="2.4"/>
+<circle cx="576.0" cy="445.1" r="3.5" fill="#b03a2e"/>
+<text x="583.0" y="449.1" font-size="11" fill="#b03a2e" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">37%</text>
+<line x1="96" y1="622.0" x2="118" y2="622.0" stroke="#1b4f8a" stroke-width="2.4"/>
+<text x="126.0" y="626.0" font-size="11" fill="#1b4f8a" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">everywhere else</text>
+<line x1="96" y1="639.0" x2="118" y2="639.0" stroke="#b03a2e" stroke-width="2.4"/>
+<text x="126.0" y="643.0" font-size="11" fill="#b03a2e" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">at the 40 busiest addresses</text>
+<text x="96.0" y="668.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">In 2012 the two were the same. Standardised to the national</text>
+<text x="96.0" y="682.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">age mix, agent-address survival is 68.3% against 77.3% — a gap</text>
+<text x="96.0" y="696.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">of 8.9 points that is not just these companies being newer.</text>
+<text x="640.0" y="164.0" font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">the ten busiest registered offices</text>
+<text x="640.0" y="180.0" font-size="10" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">bar is how many companies; the number is two-year survival</text>
+<rect x="640" y="202.0" width="300.0" height="17" fill="#b03a2e" fill-opacity="0.57"/>
+<text x="645.0" y="215.0" font-size="10.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">WC2H 9JQ</text>
+<text x="934.0" y="215.0" font-size="10" fill="#ffffff" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">90,368</text>
+<text x="986.0" y="215.0" font-size="11" fill="#b03a2e" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums">47%</text>
+<text x="994.0" y="215.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">London</text>
+<rect x="640" y="236.0" width="201.7" height="17" fill="#b03a2e" fill-opacity="0.50"/>
+<text x="645.0" y="249.0" font-size="10.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">EC1V 2NX</text>
+<text x="835.7" y="249.0" font-size="10" fill="#ffffff" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">60,760</text>
+<text x="986.0" y="249.0" font-size="11" fill="#52514e" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums">58%</text>
+<text x="994.0" y="249.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">London</text>
+<rect x="640" y="270.0" width="151.2" height="17" fill="#b03a2e" fill-opacity="0.75"/>
+<text x="645.0" y="283.0" font-size="10.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">CF14 8LH</text>
+<text x="785.2" y="283.0" font-size="10" fill="#ffffff" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">45,536</text>
+<text x="986.0" y="283.0" font-size="11" fill="#b03a2e" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums">17%</text>
+<text x="994.0" y="283.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Cardiff</text>
+<rect x="640" y="304.0" width="142.3" height="17" fill="#b03a2e" fill-opacity="0.47"/>
+<text x="645.0" y="317.0" font-size="10.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">N1 7GU</text>
+<text x="776.3" y="317.0" font-size="10" fill="#ffffff" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">42,872</text>
+<text x="986.0" y="317.0" font-size="11" fill="#52514e" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums">63%</text>
+<text x="994.0" y="317.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">London</text>
+<rect x="640" y="338.0" width="86.7" height="17" fill="#b03a2e" fill-opacity="0.54"/>
+<text x="645.0" y="351.0" font-size="10.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">EC2A 4NE</text>
+<text x="766.0" y="351.0" font-size="10" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">26,106</text>
+<text x="986.0" y="351.0" font-size="11" fill="#52514e" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums">52%</text>
+<text x="994.0" y="351.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">London</text>
+<rect x="640" y="372.0" width="56.6" height="17" fill="#b03a2e" fill-opacity="0.45"/>
+<text x="645.0" y="385.0" font-size="10.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">WC1N 3AX</text>
+<text x="766.0" y="385.0" font-size="10" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">17,059</text>
+<text x="986.0" y="385.0" font-size="11" fill="#52514e" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums">67%</text>
+<text x="994.0" y="385.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">London</text>
+<rect x="640" y="406.0" width="54.5" height="17" fill="#b03a2e" fill-opacity="0.45"/>
+<text x="645.0" y="419.0" font-size="10.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">W1W 7LT</text>
+<text x="766.0" y="419.0" font-size="10" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">16,421</text>
+<text x="986.0" y="419.0" font-size="11" fill="#52514e" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums">66%</text>
+<text x="994.0" y="419.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">London</text>
+<rect x="640" y="440.0" width="38.1" height="17" fill="#b03a2e" fill-opacity="0.46"/>
+<text x="645.0" y="453.0" font-size="10.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">WC2A 2JR</text>
+<text x="766.0" y="453.0" font-size="10" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">11,466</text>
+<text x="986.0" y="453.0" font-size="11" fill="#52514e" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums">64%</text>
+<text x="994.0" y="453.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">London</text>
+<rect x="640" y="474.0" width="34.4" height="17" fill="#b03a2e" fill-opacity="0.50"/>
+<text x="645.0" y="487.0" font-size="10.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">IP28 7DE</text>
+<text x="766.0" y="487.0" font-size="10" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">10,359</text>
+<text x="986.0" y="487.0" font-size="11" fill="#52514e" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums">59%</text>
+<text x="994.0" y="487.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Bury St. Edmun</text>
+<rect x="640" y="508.0" width="30.6" height="17" fill="#b03a2e" fill-opacity="0.45"/>
+<text x="645.0" y="521.0" font-size="10.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">W1W 5PF</text>
+<text x="766.0" y="521.0" font-size="10" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">9,205</text>
+<text x="986.0" y="521.0" font-size="11" fill="#52514e" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums">66%</text>
+<text x="994.0" y="521.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">London</text>
+<text x="640.0" y="570.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Darker means fewer survive. The Cardiff address is</text>
+<text x="640.0" y="583.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">a different business from the Covent Garden one:</text>
+<text x="640.0" y="596.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">both hold tens of thousands of companies, and one</text>
+<text x="640.0" y="609.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">loses five in six of them within two years.</text>
+<line x1="28" y1="732.0" x2="1032" y2="732.0" stroke="#e3e2db"/>
+<text x="28.0" y="752.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">The 2012 cohorts were indistinguishable — 87.3% against 87.7%. The 2023 cohorts are 33.0% against 54.3%. Whatever changed, it changed recently.</text>
+<text x="28.0" y="767.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">449,461 companies at the forty addresses, 5,095,597 elsewhere. Age-standardised survival 68.3% against 77.3%, so the gap is not composition.</text>
+<text x="28.0" y="782.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">The register carries the address and the outcome and nothing about the relationship. A high-churn address may be a cheap service used by people trying things, or something else.</text>
+</svg>

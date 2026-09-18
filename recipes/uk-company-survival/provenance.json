@@ -1,0 +1,65 @@
+{
+  "method_version": "1.0.0",
+  "_method_version": "1.0.0 promotes seven figures from a workspace recipe. Two changes for promotion, both verified: openpyxl replaced with a stdlib xlsx reader, checked cell by cell against openpyxl on the ONS workbook (89 rows, no disagreement) and the downstream rank correlation reproduced at +0.79; and seven scripts that hardcoded ../data were made to honour FSB_DATA, without which the recipe only ran from one directory. Every figure was confirmed byte-identical across two separate builds.",
+  "retrieved": "2026-09-17",
+  "sources_note": "Companies House publishes a live-register snapshot: in the first 73,146 rows the count carrying a DissolutionDate is ZERO, and every status present is one a company holds while still registered. The register publishes survivors and drops its dead. What makes survival measurable is that the publisher keeps a back-catalogue at dated URLs that nothing links to, so three snapshots a year apart give a death definition the register itself does not provide: a company is dead when it stops appearing.",
+  "sources": [
+    {
+      "file": "ch-2024-09-01.zip",
+      "bytes": 486510044,
+      "sha256": "d6a0a5987590e7be1fdd7fe0cdad82ae907119c086130402e201bb58610c3832"
+    },
+    {
+      "file": "ch-2025-09-01.zip",
+      "bytes": 490198561,
+      "sha256": "c2812c9908b21d387e98104fe4e0320d192d44ba4c8ce6763d880979bd0fe536"
+    },
+    {
+      "file": "ch-2026-09-01.zip",
+      "bytes": 492551925,
+      "sha256": "0cad523a096c6c9c79004f1243746985e296bda48b24e32b69cbde5ff61348e5"
+    },
+    {
+      "file": "ons-business-demography-2024.xlsx",
+      "bytes": 926112,
+      "sha256": "d0687054646be98c0b7ba0f476888111523cc7ead380e07ecf609f0c5e2cde37"
+    },
+    {
+      "file": "colorado.csv.gz",
+      "bytes": 25286118,
+      "sha256": "86b386139e5452780a923d2eb368b65d25661701e3e95a016926914152def6a0"
+    },
+    {
+      "file": "norway-enheter.json.gz",
+      "bytes": 18923176,
+      "sha256": "8c83c0615b11e118bbc337db27519891cabd8c081587bbe9cb2b5da0ededf2b4"
+    },
+    {
+      "file": "norway-as-2019.csv.gz",
+      "bytes": 3166511,
+      "sha256": "8e53d07571efabe7b8b0a2ae22b5ed07bd6b3e1e541af2f4e06527862c37fb6e"
+    }
+  ],
+  "corpus": {
+    "snapshots": 3,
+    "snapshot_dates": [
+      "2024-09-01",
+      "2025-09-01",
+      "2026-09-01"
+    ],
+    "controls": [
+      "ONS business demography 2024",
+      "Colorado open register",
+      "Norway Enhetsregisteret"
+    ]
+  },
+  "headline_figures": {
+    "five_year_survival": 0.33,
+    "ons_rank_correlation": 0.79,
+    "register_below_official_in_sectors": "11 of 14",
+    "agent_address_two_year_survival": 0.37,
+    "elsewhere_two_year_survival": 0.56,
+    "age_standardised_agent_gap_points": 8.9,
+    "companies_at_forty_addresses": 449461
+  }
+}

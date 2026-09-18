@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1020" height="660" viewBox="0 0 1020 660" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'><rect width='1020' height='660' fill='#fcfcfb'/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">Two-thirds of UK companies are gone within five years</text>
+<text x="28.0" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">FOR</text>
+<text x="28.0" y="77.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">anyone quoting a company survival or failure rate</text>
+<text x="28.0" y="90.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">for the UK</text>
+<text x="349.3" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">DECIDE</text>
+<text x="349.3" y="77.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">which baseline an individual company is being judged</text>
+<text x="349.3" y="90.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">against</text>
+<text x="670.7" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">WRONG IF</text>
+<text x="670.7" y="77.0" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">five-year survival moves outside the band its</text>
+<text x="670.7" y="90.5" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">cohorts have held</text>
+<line x1="28" y1="100.0" x2="992" y2="100.0" stroke="#e3e2db"/>
+<line x1="92" y1="510.0" x2="712" y2="510.0" stroke="#f0efe9"/>
+<text x="82.0" y="514.0" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">0%</text>
+<line x1="92" y1="438.0" x2="712" y2="438.0" stroke="#f0efe9"/>
+<text x="82.0" y="442.0" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">20%</text>
+<line x1="92" y1="366.0" x2="712" y2="366.0" stroke="#f0efe9"/>
+<text x="82.0" y="370.0" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">40%</text>
+<line x1="92" y1="294.0" x2="712" y2="294.0" stroke="#f0efe9"/>
+<text x="82.0" y="298.0" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">60%</text>
+<line x1="92" y1="222.0" x2="712" y2="222.0" stroke="#f0efe9"/>
+<text x="82.0" y="226.0" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">80%</text>
+<line x1="92" y1="150.0" x2="712" y2="150.0" stroke="#f0efe9"/>
+<text x="82.0" y="154.0" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">100%</text>
+<line x1="92.0" y1="150" x2="92.0" y2="510" stroke="#f0efe9"/>
+<text x="92.0" y="530.0" font-size="11" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">0</text>
+<line x1="116.8" y1="150" x2="116.8" y2="510" stroke="#f0efe9"/>
+<text x="116.8" y="530.0" font-size="11" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">1</text>
+<line x1="141.6" y1="150" x2="141.6" y2="510" stroke="#f0efe9"/>
+<text x="141.6" y="530.0" font-size="11" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2</text>
+<line x1="166.4" y1="150" x2="166.4" y2="510" stroke="#f0efe9"/>
+<text x="166.4" y="530.0" font-size="11" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">3</text>
+<line x1="216.0" y1="150" x2="216.0" y2="510" stroke="#f0efe9"/>
+<text x="216.0" y="530.0" font-size="11" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">5</text>
+<line x1="290.4" y1="150" x2="290.4" y2="510" stroke="#f0efe9"/>
+<text x="290.4" y="530.0" font-size="11" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">8</text>
+<line x1="389.6" y1="150" x2="389.6" y2="510" stroke="#f0efe9"/>
+<text x="389.6" y="530.0" font-size="11" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">12</text>
+<line x1="588.0" y1="150" x2="588.0" y2="510" stroke="#f0efe9"/>
+<text x="588.0" y="530.0" font-size="11" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">20</text>
+<line x1="712.0" y1="150" x2="712.0" y2="510" stroke="#f0efe9"/>
+<text x="712.0" y="530.0" font-size="11" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">25</text>
+<text x="402.0" y="554.0" font-size="12" fill="#52514e" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">years since incorporation</text>
+<text x="82.0" y="116.0" font-size="11" fill="#52514e" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">still on the</text>
+<text x="82.0" y="130.0" font-size="11" fill="#52514e" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">register</text>
+<path d="M92.0,150.0 L116.8,184.6 L141.6,229.3 L166.4,257.9 L216.0,313.1 L290.4,361.7 L389.6,400.3 L588.0,448.4 L712.0,460.3" fill="none" stroke="#c9c7bf" stroke-width="1.4" stroke-opacity="0.9" stroke-linejoin="round"/>
+<path d="M92.0,150.0 L116.8,249.1 L141.6,347.9 L166.4,378.5 L216.0,414.0 L290.4,438.5 L389.6,456.8 L588.0,476.2 L712.0,482.6" fill="none" stroke="#c9c7bf" stroke-width="1.4" stroke-opacity="0.9" stroke-linejoin="round"/>
+<path d="M92.0,150.0 L116.8,206.0 L141.6,285.4 L166.4,319.8 L216.0,362.4 L290.4,398.8 L389.6,425.5 L588.0,456.2 L712.0,465.3" fill="none" stroke="#c9c7bf" stroke-width="1.4" stroke-opacity="0.9" stroke-linejoin="round"/>
+<path d="M92.0,150.0 L116.8,212.3 L141.6,294.2 L166.4,328.6 L216.0,371.1 L290.4,407.0 L389.6,433.5 L588.0,463.8 L712.0,473.7" fill="none" stroke="#c9c7bf" stroke-width="1.4" stroke-opacity="0.9" stroke-linejoin="round"/>
+<path d="M92.0,150.0 L116.8,201.2 L141.6,263.4 L166.4,284.2 L216.0,305.8 L290.4,325.5 L389.6,337.6 L588.0,350.6 L712.0,354.0" fill="none" stroke="#c9c7bf" stroke-width="1.4" stroke-opacity="0.9" stroke-linejoin="round"/>
+<path d="M92.0,150.0 L116.8,238.2 L141.6,338.3 L166.4,378.0 L216.0,427.2 L290.4,451.5 L389.6,467.3 L588.0,485.6 L712.0,491.4" fill="none" stroke="#c9c7bf" stroke-width="1.4" stroke-opacity="0.9" stroke-linejoin="round"/>
+<path d="M92.0,150.0 L116.8,222.5 L141.6,319.5 L166.4,362.7 L216.0,408.3 L290.4,436.1 L389.6,457.0 L588.0,478.5 L712.0,484.6" fill="none" stroke="#c9c7bf" stroke-width="1.4" stroke-opacity="0.9" stroke-linejoin="round"/>
+<path d="M92.0,150.0 L116.8,204.9 L141.6,279.6 L166.4,319.0 L216.0,365.2 L290.4,394.2 L389.6,419.5 L588.0,450.1 L712.0,461.1" fill="none" stroke="#c9c7bf" stroke-width="1.4" stroke-opacity="0.9" stroke-linejoin="round"/>
+<path d="M92.0,150.0 L116.8,192.2 L141.6,251.1 L166.4,275.8 L216.0,312.5 L290.4,351.5 L389.6,386.4 L588.0,434.5 L712.0,453.2" fill="none" stroke="#c9c7bf" stroke-width="1.4" stroke-opacity="0.9" stroke-linejoin="round"/>
+<path d="M92.0,150.0 L116.8,245.5 L141.6,350.1 L166.4,391.7 L216.0,443.2 L290.4,462.6 L389.6,477.8 L588.0,491.1 L712.0,494.9" fill="none" stroke="#c9c7bf" stroke-width="1.4" stroke-opacity="0.9" stroke-linejoin="round"/>
+<path d="M92.0,150.0 L116.8,224.1 L141.6,313.0 L166.4,343.1 L216.0,380.5 L290.4,406.6 L389.6,428.9 L588.0,457.4 L712.0,468.8" fill="none" stroke="#c9c7bf" stroke-width="1.4" stroke-opacity="0.9" stroke-linejoin="round"/>
+<path d="M92.0,150.0 L116.8,228.1 L141.6,316.8 L166.4,348.5 L216.0,389.6 L290.4,419.6 L389.6,442.7 L588.0,469.0 L712.0,477.2" fill="none" stroke="#c9c7bf" stroke-width="1.4" stroke-opacity="0.9" stroke-linejoin="round"/>
+<path d="M92.0,150.0" fill="none" stroke="#c9c7bf" stroke-width="1" stroke-opacity="1.0" stroke-linejoin="round"/>
+<path d="M92.0,150.0 L116.8,231.0 L141.6,320.3 L166.4,352.4 L216.0,391.5 L290.4,419.8 L389.6,442.2 L588.0,468.6 L712.0,476.9" fill="none" stroke="#0b0b0b" stroke-width="2.6" stroke-opacity="1.0" stroke-linejoin="round"/>
+<path d="M92.0,150.0 L116.8,277.3 L141.6,391.4 L166.4,419.6 L216.0,447.5 L290.4,465.1 L389.6,475.9 L588.0,488.2 L712.0,492.4" fill="none" stroke="#b03a2e" stroke-width="2.4" stroke-opacity="1.0" stroke-linejoin="round"/>
+<path d="M92.0,150.0 L116.8,230.3 L141.6,323.2 L166.4,357.4 L216.0,397.5 L290.4,429.7 L389.6,454.4 L588.0,480.1 L712.0,488.8" fill="none" stroke="#c07a1e" stroke-width="2.4" stroke-opacity="1.0" stroke-linejoin="round"/>
+<path d="M92.0,150.0 L116.8,208.3 L141.6,285.8 L166.4,319.9 L216.0,363.1 L290.4,400.9 L389.6,432.7 L588.0,468.4 L712.0,480.7" fill="none" stroke="#4a7a3a" stroke-width="2.4" stroke-opacity="1.0" stroke-linejoin="round"/>
+<path d="M92.0,150.0 L116.8,192.9 L141.6,246.4 L166.4,270.3 L216.0,298.9 L290.4,326.6 L389.6,352.3 L588.0,390.7 L712.0,406.3" fill="none" stroke="#1b4f8a" stroke-width="2.4" stroke-opacity="1.0" stroke-linejoin="round"/>
+<line x1="715.0" y1="406.3" x2="726.0" y2="406.3" stroke="#1b4f8a" stroke-width="1"/>
+<text x="730.0" y="410.3" font-size="11.5" fill="#1b4f8a" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Real estate  29%</text>
+<line x1="715.0" y1="476.9" x2="726.0" y2="476.9" stroke="#0b0b0b" stroke-width="1"/>
+<text x="730.0" y="480.9" font-size="11.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">All companies  9%</text>
+<line x1="715.0" y1="480.7" x2="726.0" y2="492.9" stroke="#4a7a3a" stroke-width="1"/>
+<text x="730.0" y="496.9" font-size="11.5" fill="#4a7a3a" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Professional &amp; scientific  8%</text>
+<line x1="715.0" y1="488.8" x2="726.0" y2="508.9" stroke="#c07a1e" stroke-width="1"/>
+<text x="730.0" y="512.9" font-size="11.5" fill="#c07a1e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Information &amp; communication  6%</text>
+<line x1="715.0" y1="492.4" x2="726.0" y2="524.9" stroke="#b03a2e" stroke-width="1"/>
+<text x="730.0" y="528.9" font-size="11.5" fill="#b03a2e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Retail &amp; wholesale  5%</text>
+<line x1="149.1" y1="330.0" x2="149.1" y2="510.0" stroke="#0b0b0b" stroke-width="1.1" stroke-dasharray="3,3"/>
+<line x1="92" y1="330.0" x2="149.1" y2="330.0" stroke="#0b0b0b" stroke-width="1.1" stroke-dasharray="3,3"/>
+<circle cx="149.1" cy="330.0" r="4.5" fill="#0b0b0b"/>
+<text x="315.2" y="175.2" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Half of all UK companies are off the register by age</text>
+<text x="315.2" y="190.2" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">2.3. The yearly risk PEAKS in the second year rather</text>
+<text x="315.2" y="205.2" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">than the first, because a company cannot be struck</text>
+<text x="315.2" y="220.2" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">off for not filing until its first accounts are</text>
+<text x="315.2" y="235.2" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">overdue.</text>
+<line x1="28" y1="590.0" x2="992" y2="590.0" stroke="#e3e2db"/>
+<text x="28.0" y="610.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Sector changes the answer more than anything else here: 17% of retail and wholesale companies reach five years against 59% of real estate ones.</text>
+<text x="28.0" y="625.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Leaving the register is not the same as failing. Only 4.5% of departures were in liquidation or administration a year earlier; the rest were dissolved.</text>
+<text x="28.0" y="640.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Ages 0-1 disagree between the two measurement years by 6 points, so the first year is the least trustworthy part of this curve. Every other band agrees within 2.</text>
+</svg>
