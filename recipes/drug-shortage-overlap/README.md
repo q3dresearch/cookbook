@@ -160,6 +160,11 @@ about one.
 
 ## What was asked and did not survive
 
+[`artifacts/research-questions/questions.md`](artifacts/research-questions/questions.md)
+carries the full ledger: what a figure answers, what was answered *against* us and recorded
+so nobody repeats the day, what is still open and what each one is blocked on, and the order
+in which this recipe was wrong. The summary below is the part that changed the write-up.
+
 The archive holds more than the three registers, and every join it supports was tried.
 `sweep.py` re-derives each of these every run, so a failure stays a measurement.
 
