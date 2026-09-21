@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="845" viewBox="0 0 1200 845" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'><rect width="1200" height="845" fill="#fcfcfb"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">The weight at which the field switches method, and how far it has moved</text>
+<text x="28.0" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">FOR</text>
+<text x="28.0" y="77.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">anyone choosing a method for a target of known size</text>
+<text x="409.3" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">DECIDE</text>
+<text x="409.3" y="77.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">whether the field would currently crystallise it or freeze it</text>
+<text x="790.7" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">WRONG IF</text>
+<text x="790.7" y="77.0" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the 50% crossing sits in the same band in every era</text>
+<line x1="28" y1="86.5" x2="1172" y2="86.5" stroke="#e3e2db"/>
+<line x1="82.0" y1="566.0" x2="712.0" y2="566.0" stroke="#f0efe9" />
+<text x="73.0" y="569.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="400" style="font-variant-numeric: tabular-nums">0%</text>
+<line x1="82.0" y1="471.0" x2="712.0" y2="471.0" stroke="#f0efe9" />
+<text x="73.0" y="474.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="400" style="font-variant-numeric: tabular-nums">25%</text>
+<line x1="82.0" y1="376.0" x2="712.0" y2="376.0" stroke="#52514e" stroke-dasharray="4 3"/>
+<text x="73.0" y="379.0" font-size="9" fill="#52514e" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">50%</text>
+<line x1="82.0" y1="281.0" x2="712.0" y2="281.0" stroke="#f0efe9" />
+<text x="73.0" y="284.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="400" style="font-variant-numeric: tabular-nums">75%</text>
+<line x1="82.0" y1="186.0" x2="712.0" y2="186.0" stroke="#f0efe9" />
+<text x="73.0" y="189.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="400" style="font-variant-numeric: tabular-nums">100%</text>
+<text x="710.0" y="369.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">half of all structures at this weight</text>
+<text x="710.0" y="369.0" fill="#52514e" font-size="9" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">half of all structures at this weight</text>
+<text x="28.0" y="132.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">share of structures at this weight solved by cryo-EM</text>
+<line x1="110.9" y1="566.0" x2="110.9" y2="571.0" stroke="#8a8880"/>
+<text x="110.9" y="584.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">25</text>
+<line x1="200.6" y1="566.0" x2="200.6" y2="571.0" stroke="#8a8880"/>
+<text x="200.6" y="584.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">50</text>
+<line x1="290.3" y1="566.0" x2="290.3" y2="571.0" stroke="#8a8880"/>
+<text x="290.3" y="584.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">100</text>
+<line x1="380.0" y1="566.0" x2="380.0" y2="571.0" stroke="#8a8880"/>
+<text x="380.0" y="584.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">200</text>
+<line x1="498.6" y1="566.0" x2="498.6" y2="571.0" stroke="#8a8880"/>
+<text x="498.6" y="584.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">500</text>
+<line x1="588.3" y1="566.0" x2="588.3" y2="571.0" stroke="#8a8880"/>
+<text x="588.3" y="584.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">1000</text>
+<line x1="678.0" y1="566.0" x2="678.0" y2="571.0" stroke="#8a8880"/>
+<text x="678.0" y="584.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2000</text>
+<text x="28.0" y="604.0" font-size="10" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">molecular weight of the deposited structure, kilodaltons (log scale)</text>
+<path d="M110.9,565.5 L244.1,565.0 L334.8,562.6 L439.2,555.4 L543.5,520.8 L678.0,488.2" fill="none" stroke="#c3c9ce" stroke-width="2.6"/>
+<circle cx="110.9" cy="565.5" r="3.2" fill="#c3c9ce"/>
+<circle cx="244.1" cy="565.0" r="3.2" fill="#c3c9ce"/>
+<circle cx="334.8" cy="562.6" r="3.2" fill="#c3c9ce"/>
+<circle cx="439.2" cy="555.4" r="3.2" fill="#c3c9ce"/>
+<circle cx="543.5" cy="520.8" r="3.2" fill="#c3c9ce"/>
+<circle cx="678.0" cy="488.2" r="3.2" fill="#c3c9ce"/>
+<text x="686.0" y="491.2" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">2005-2011</text>
+<text x="686.0" y="491.2" fill="#c3c9ce" font-size="10.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">2005-2011</text>
+<path d="M110.9,565.2 L244.1,563.2 L334.8,557.9 L439.2,539.0 L543.5,490.5 L678.0,336.5" fill="none" stroke="#8fa6b8" stroke-width="2.6"/>
+<circle cx="110.9" cy="565.2" r="3.2" fill="#8fa6b8"/>
+<circle cx="244.1" cy="563.2" r="3.2" fill="#8fa6b8"/>
+<circle cx="334.8" cy="557.9" r="3.2" fill="#8fa6b8"/>
+<circle cx="439.2" cy="539.0" r="3.2" fill="#8fa6b8"/>
+<circle cx="543.5" cy="490.5" r="3.2" fill="#8fa6b8"/>
+<circle cx="678.0" cy="336.5" r="3.2" fill="#8fa6b8"/>
+<text x="686.0" y="339.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">2012-2016</text>
+<text x="686.0" y="339.5" fill="#8fa6b8" font-size="10.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">2012-2016</text>
+<line x1="643.5" y1="376.0" x2="643.5" y2="566.0" stroke="#8fa6b8" stroke-width="1.1" stroke-dasharray="2 3"/>
+<circle cx="643.5" cy="376.0" r="4.6" fill="#8fa6b8" stroke="#faf8f3" stroke-width="1.4"/>
+<path d="M110.9,563.1 L244.1,552.0 L334.8,494.8 L439.2,375.6 L543.5,258.2 L678.0,218.2" fill="none" stroke="#4a7fa8" stroke-width="2.6"/>
+<circle cx="110.9" cy="563.1" r="3.2" fill="#4a7fa8"/>
+<circle cx="244.1" cy="552.0" r="3.2" fill="#4a7fa8"/>
+<circle cx="334.8" cy="494.8" r="3.2" fill="#4a7fa8"/>
+<circle cx="439.2" cy="375.6" r="3.2" fill="#4a7fa8"/>
+<circle cx="543.5" cy="258.2" r="3.2" fill="#4a7fa8"/>
+<circle cx="678.0" cy="218.2" r="3.2" fill="#4a7fa8"/>
+<text x="686.0" y="221.2" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">2017-2021</text>
+<text x="686.0" y="221.2" fill="#4a7fa8" font-size="10.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">2017-2021</text>
+<line x1="438.9" y1="376.0" x2="438.9" y2="566.0" stroke="#4a7fa8" stroke-width="1.1" stroke-dasharray="2 3"/>
+<circle cx="438.9" cy="376.0" r="4.6" fill="#4a7fa8" stroke="#faf8f3" stroke-width="1.4"/>
+<path d="M110.9,550.7 L244.1,504.0 L334.8,365.1 L439.2,269.0 L543.5,215.5 L678.0,197.5" fill="none" stroke="#14425f" stroke-width="2.6"/>
+<circle cx="110.9" cy="550.7" r="3.2" fill="#14425f"/>
+<circle cx="244.1" cy="504.0" r="3.2" fill="#14425f"/>
+<circle cx="334.8" cy="365.1" r="3.2" fill="#14425f"/>
+<circle cx="439.2" cy="269.0" r="3.2" fill="#14425f"/>
+<circle cx="543.5" cy="215.5" r="3.2" fill="#14425f"/>
+<circle cx="678.0" cy="197.5" r="3.2" fill="#14425f"/>
+<text x="686.0" y="200.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">2022-2026</text>
+<text x="686.0" y="200.5" fill="#14425f" font-size="10.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">2022-2026</text>
+<line x1="327.7" y1="376.0" x2="327.7" y2="566.0" stroke="#14425f" stroke-width="1.1" stroke-dasharray="2 3"/>
+<circle cx="327.7" cy="376.0" r="4.6" fill="#14425f" stroke="#faf8f3" stroke-width="1.4"/>
+<text x="643.5" y="544.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">1,532 kDa</text>
+<text x="643.5" y="544.0" fill="#8fa6b8" font-size="10" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">1,532 kDa</text>
+<text x="438.9" y="544.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">315 kDa</text>
+<text x="438.9" y="544.0" fill="#4a7fa8" font-size="10" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">315 kDa</text>
+<text x="327.7" y="544.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">133 kDa</text>
+<text x="327.7" y="544.0" fill="#14425f" font-size="10" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">133 kDa</text>
+<text x="678.0" y="476.1" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums">in 2005–2011 it never crosses:</text>
+<text x="678.0" y="476.1" fill="#8c2318" font-size="9.5" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums">in 2005–2011 it never crosses:</text>
+<text x="678.0" y="487.1" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums">X-ray held 79.5% even above 1000 kDa</text>
+<text x="678.0" y="487.1" fill="#8c2318" font-size="9.5" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums">X-ray held 79.5% even above 1000 kDa</text>
+<text x="28.0" y="636.0" font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">the boundary moved 11-fold; the bottom end did not move at all</text>
+<text x="28.0" y="658.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">A 150 kDa complex was a crystallography target in 2015 and is a cryo-EM target now, with nothing</text>
+<text x="28.0" y="673.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">about the molecule having changed. Below 50 kDa nothing moved: X-ray is at 90.9% and cryo-EM at</text>
+<text x="28.0" y="688.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">4.0%, about where they were twenty years ago, and NMR's surviving 5.0% is entirely in that band.</text>
+<text x="28.0" y="703.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">The boundary swept down through the middle and stopped.</text>
+<text x="728.0" y="660.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">read it as: above this weight,</text>
+<text x="728.0" y="660.0" fill="#1b7f5a" font-size="10.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">read it as: above this weight,</text>
+<text x="728.0" y="675.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">the field now reaches for cryo-EM</text>
+<text x="728.0" y="675.0" fill="#1b7f5a" font-size="10.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">the field now reaches for cryo-EM</text>
+<text x="728.0" y="694.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="12" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">1530 kDa, then 315, then 133</text>
+<text x="728.0" y="694.0" fill="#1b7f5a" font-size="12" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">1530 kDa, then 315, then 133</text>
+<text x="728.0" y="710.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">across 2012–16, 2017–21, 2022–26</text>
+<text x="728.0" y="710.0" fill="#8a8880" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">across 2012–16, 2017–21, 2022–26</text>
+<line x1="28" y1="743.0" x2="1172" y2="743.0" stroke="#e3e2db"/>
+<text x="28.0" y="763.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">RCSB PDB search API, fetched 2026-09-22; deposition date and rcsb_entry_info.molecular_weight, 228,197 structures. Each point sits at its band's</text>
+<text x="28.0" y="777.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">geometric midpoint, with 0–50 placed at 25 and the 1000-and-up band at 2000 by hand; the crossings are interpolated between those positions, so they</text>
+<text x="28.0" y="791.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">are accurate to the band and not to the kilodalton. The PDB holds solved structures only: a target that resisted every method is not in it, so these</text>
+<text x="28.0" y="805.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">are shares of the attempts that worked, never success rates. The boundary's movement is not a trend to extend — see figure 7 on what extrapolating a</text>
+<text x="28.0" y="819.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">clean curve in this register cost.</text>
+</svg>

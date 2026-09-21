@@ -1,0 +1,165 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="880" viewBox="0 0 1200 880" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'><rect width="1200" height="880" fill="#fcfcfb"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">The unpublished structures are not neglect, and they are not a size effect either</text>
+<text x="28.0" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">FOR</text>
+<text x="28.0" y="77.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">anyone reading the PDB's unpublished share as a failure of the</text>
+<text x="28.0" y="90.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">literature</text>
+<text x="409.3" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">DECIDE</text>
+<text x="409.3" y="77.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">whether an unwritten structure is a gap or a deliverable</text>
+<text x="790.7" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">WRONG IF</text>
+<text x="790.7" y="77.0" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">unpublished share climbs with depositor size</text>
+<line x1="28" y1="100.0" x2="1172" y2="100.0" stroke="#e3e2db"/>
+<line x1="74.0" y1="562.0" x2="772.0" y2="562.0" stroke="#f0efe9"/>
+<text x="66.0" y="565.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">0%</text>
+<line x1="74.0" y1="467.5" x2="772.0" y2="467.5" stroke="#f0efe9"/>
+<text x="66.0" y="470.5" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">25%</text>
+<line x1="74.0" y1="373.0" x2="772.0" y2="373.0" stroke="#f0efe9"/>
+<text x="66.0" y="376.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">50%</text>
+<line x1="74.0" y1="278.5" x2="772.0" y2="278.5" stroke="#f0efe9"/>
+<text x="66.0" y="281.5" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">75%</text>
+<line x1="74.0" y1="184.0" x2="772.0" y2="184.0" stroke="#f0efe9"/>
+<text x="66.0" y="187.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">100%</text>
+<text x="28.0" y="132.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">share of this depositor's entries that were never written up</text>
+<line x1="74.0" y1="562.0" x2="74.0" y2="567.0" stroke="#8a8880"/>
+<text x="74.0" y="580.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">1,000</text>
+<line x1="219.4" y1="562.0" x2="219.4" y2="567.0" stroke="#8a8880"/>
+<text x="219.4" y="580.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">1,500</text>
+<line x1="322.6" y1="562.0" x2="322.6" y2="567.0" stroke="#8a8880"/>
+<text x="322.6" y="580.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2,000</text>
+<line x1="468.1" y1="562.0" x2="468.1" y2="567.0" stroke="#8a8880"/>
+<text x="468.1" y="580.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">3,000</text>
+<line x1="651.3" y1="562.0" x2="651.3" y2="567.0" stroke="#8a8880"/>
+<text x="651.3" y="580.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">5,000</text>
+<line x1="772.0" y1="562.0" x2="772.0" y2="567.0" stroke="#8a8880"/>
+<text x="772.0" y="580.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">7,000</text>
+<text x="28.0" y="598.0" font-size="10" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">entries this depositor's name appears on (log scale)</text>
+<line x1="74.0" y1="502.2" x2="772.0" y2="502.2" stroke="#52514e" stroke-width="1.4" stroke-dasharray="5 3"/>
+<text x="772.0" y="494.2" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">register-wide 15.8%</text>
+<text x="772.0" y="494.2" fill="#52514e" font-size="10" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">register-wide 15.8%</text>
+<circle cx="695.9" cy="377.7" r="18.4" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.3"/>
+<circle cx="695.9" cy="377.7" r="1.8" fill="#4a7fa8"/>
+<text x="670.5" y="381.2" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">von Delft</text>
+<text x="670.5" y="381.2" fill="#4a7fa8" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">von Delft</text>
+<circle cx="458.7" cy="284.7" r="16.2" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.3"/>
+<circle cx="458.7" cy="284.7" r="1.8" fill="#4a7fa8"/>
+<text x="458.7" y="262.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">Joachimiak</text>
+<text x="458.7" y="262.5" fill="#4a7fa8" font-size="9.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">Joachimiak</text>
+<circle cx="437.4" cy="282.1" r="15.8" fill="#8c2318" fill-opacity="0.22" stroke="#8c2318" stroke-width="1.3"/>
+<circle cx="437.4" cy="282.1" r="1.8" fill="#8c2318"/>
+<text x="460.2" y="285.6" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">RIKEN RSGI</text>
+<text x="460.2" y="285.6" fill="#8c2318" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">RIKEN RSGI</text>
+<circle cx="590.9" cy="385.7" r="15.5" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.3"/>
+<circle cx="590.9" cy="385.7" r="1.8" fill="#4a7fa8"/>
+<circle cx="570.5" cy="377.8" r="15.4" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.3"/>
+<circle cx="570.5" cy="377.8" r="1.8" fill="#4a7fa8"/>
+<circle cx="392.9" cy="291.8" r="14.6" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.3"/>
+<circle cx="392.9" cy="291.8" r="1.8" fill="#4a7fa8"/>
+<circle cx="318.7" cy="257.4" r="14.0" fill="#8c2318" fill-opacity="0.22" stroke="#8c2318" stroke-width="1.3"/>
+<circle cx="318.7" cy="257.4" r="1.8" fill="#8c2318"/>
+<text x="339.6" y="260.9" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">MCSG</text>
+<text x="339.6" y="260.9" fill="#8c2318" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">MCSG</text>
+<circle cx="243.7" cy="235.6" r="13.0" fill="#8c2318" fill-opacity="0.22" stroke="#8c2318" stroke-width="1.3"/>
+<circle cx="243.7" cy="235.6" r="1.8" fill="#8c2318"/>
+<text x="263.7" y="239.1" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">JCSG</text>
+<text x="263.7" y="239.1" fill="#8c2318" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">JCSG</text>
+<circle cx="430.0" cy="381.4" r="12.6" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.3"/>
+<circle cx="430.0" cy="381.4" r="1.8" fill="#4a7fa8"/>
+<circle cx="325.3" cy="320.2" r="12.6" fill="#8c2318" fill-opacity="0.22" stroke="#8c2318" stroke-width="1.3"/>
+<circle cx="325.3" cy="320.2" r="1.8" fill="#8c2318"/>
+<circle cx="402.0" cy="376.9" r="12.2" fill="#8c2318" fill-opacity="0.22" stroke="#8c2318" stroke-width="1.3"/>
+<circle cx="402.0" cy="376.9" r="1.8" fill="#8c2318"/>
+<text x="421.2" y="380.4" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">SGC</text>
+<text x="421.2" y="380.4" fill="#8c2318" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">SGC</text>
+<circle cx="377.7" cy="364.1" r="12.2" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.3"/>
+<circle cx="377.7" cy="364.1" r="1.8" fill="#4a7fa8"/>
+<circle cx="292.1" cy="317.1" r="12.1" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.3"/>
+<circle cx="292.1" cy="317.1" r="1.8" fill="#4a7fa8"/>
+<text x="273.1" y="320.6" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">Almo</text>
+<text x="273.1" y="320.6" fill="#4a7fa8" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">Almo</text>
+<circle cx="368.8" cy="367.1" r="12.0" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.3"/>
+<circle cx="368.8" cy="367.1" r="1.8" fill="#4a7fa8"/>
+<circle cx="351.4" cy="375.5" r="11.4" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.3"/>
+<circle cx="351.4" cy="375.5" r="1.8" fill="#4a7fa8"/>
+<circle cx="286.8" cy="348.1" r="11.2" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.3"/>
+<circle cx="286.8" cy="348.1" r="1.8" fill="#4a7fa8"/>
+<circle cx="467.2" cy="435.5" r="11.1" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.3"/>
+<circle cx="467.2" cy="435.5" r="1.8" fill="#4a7fa8"/>
+<circle cx="267.3" cy="343.0" r="11.0" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.3"/>
+<circle cx="267.3" cy="343.0" r="1.8" fill="#4a7fa8"/>
+<circle cx="234.9" cy="327.9" r="10.9" fill="#8c2318" fill-opacity="0.22" stroke="#8c2318" stroke-width="1.3"/>
+<circle cx="234.9" cy="327.9" r="1.8" fill="#8c2318"/>
+<circle cx="245.9" cy="339.4" r="10.8" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.3"/>
+<circle cx="245.9" cy="339.4" r="1.8" fill="#4a7fa8"/>
+<circle cx="151.2" cy="275.5" r="10.7" fill="#8c2318" fill-opacity="0.22" stroke="#8c2318" stroke-width="1.3"/>
+<circle cx="151.2" cy="275.5" r="1.8" fill="#8c2318"/>
+<text x="133.4" y="279.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">NESG</text>
+<text x="133.4" y="279.0" fill="#8c2318" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">NESG</text>
+<circle cx="248.6" cy="351.0" r="10.5" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.3"/>
+<circle cx="248.6" cy="351.0" r="1.8" fill="#4a7fa8"/>
+<circle cx="151.7" cy="289.0" r="10.5" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.3"/>
+<circle cx="151.7" cy="289.0" r="1.8" fill="#4a7fa8"/>
+<circle cx="243.3" cy="353.3" r="10.4" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.3"/>
+<circle cx="243.3" cy="353.3" r="1.8" fill="#4a7fa8"/>
+<circle cx="227.7" cy="361.8" r="10.0" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.3"/>
+<circle cx="227.7" cy="361.8" r="1.8" fill="#4a7fa8"/>
+<circle cx="233.0" cy="366.4" r="9.9" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.3"/>
+<circle cx="233.0" cy="366.4" r="1.8" fill="#4a7fa8"/>
+<circle cx="212.4" cy="359.8" r="9.8" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.3"/>
+<circle cx="212.4" cy="359.8" r="1.8" fill="#4a7fa8"/>
+<circle cx="234.9" cy="379.8" r="9.6" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.3"/>
+<circle cx="234.9" cy="379.8" r="1.8" fill="#4a7fa8"/>
+<circle cx="156.6" cy="368.0" r="8.9" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.3"/>
+<circle cx="156.6" cy="368.0" r="1.8" fill="#4a7fa8"/>
+<circle cx="262.0" cy="457.5" r="7.6" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.3"/>
+<circle cx="262.0" cy="457.5" r="1.8" fill="#4a7fa8"/>
+<circle cx="251.0" cy="455.4" r="7.5" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.3"/>
+<circle cx="251.0" cy="455.4" r="1.8" fill="#4a7fa8"/>
+<circle cx="313.7" cy="484.7" r="7.0" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.3"/>
+<circle cx="313.7" cy="484.7" r="1.8" fill="#4a7fa8"/>
+<circle cx="348.2" cy="503.4" r="6.4" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.3"/>
+<circle cx="348.2" cy="503.4" r="1.8" fill="#4a7fa8"/>
+<circle cx="171.7" cy="469.3" r="6.3" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.3"/>
+<circle cx="171.7" cy="469.3" r="1.8" fill="#4a7fa8"/>
+<circle cx="326.7" cy="518.1" r="5.4" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.3"/>
+<circle cx="326.7" cy="518.1" r="1.8" fill="#4a7fa8"/>
+<circle cx="144.4" cy="493.7" r="5.2" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.3"/>
+<circle cx="144.4" cy="493.7" r="1.8" fill="#4a7fa8"/>
+<circle cx="162.0" cy="507.6" r="4.7" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.3"/>
+<circle cx="162.0" cy="507.6" r="1.8" fill="#4a7fa8"/>
+<circle cx="230.3" cy="522.6" r="4.4" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.3"/>
+<circle cx="230.3" cy="522.6" r="1.8" fill="#4a7fa8"/>
+<circle cx="237.6" cy="545.7" r="2.9" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.3"/>
+<circle cx="237.6" cy="545.7" r="1.8" fill="#4a7fa8"/>
+<text x="247.5" y="549.2" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Dias</text>
+<text x="247.5" y="549.2" fill="#4a7fa8" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Dias</text>
+<circle cx="160.6" cy="549.5" r="2.3" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.3"/>
+<circle cx="160.6" cy="549.5" r="1.8" fill="#4a7fa8"/>
+<text x="169.8" y="553.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Weiss</text>
+<text x="169.8" y="553.0" fill="#4a7fa8" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Weiss</text>
+<circle cx="510.0" cy="152.5" r="4.6" fill="#8c2318" fill-opacity="0.22" stroke="#8c2318" stroke-width="1.3"/>
+<text x="522.0" y="156.0" font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">a consortium filing under its own name</text>
+<circle cx="510.0" cy="169.5" r="4.6" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.3"/>
+<text x="522.0" y="173.0" font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">a person</text>
+<circle cx="523.8" cy="198.0" r="7.8" fill="none" stroke="#8a8880" stroke-width="1.1"/>
+<text x="541.6" y="201.0" font-size="9" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">500 unwritten entries</text>
+<circle cx="531.6" cy="221.6" r="15.6" fill="none" stroke="#8a8880" stroke-width="1.1"/>
+<text x="557.3" y="224.6" font-size="9" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">2,000 unwritten entries</text>
+<text x="28.0" y="624.0" font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">the horizontal axis is here to rule something out</text>
+<text x="28.0" y="644.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Across these 40 depositors the correlation between log entry count and unpublished share is rho +0.16 —</text>
+<text x="28.0" y="659.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">nothing. Every consortium sits high whatever its size, and the individuals span 3.3% to 73.3% at every</text>
+<text x="28.0" y="674.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">size. The pile is not prolific depositors failing to write up; it is a specific programme. The</text>
+<text x="28.0" y="689.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">individuals sitting up among the consortia are structural genomics principal investigators, which is an</text>
+<text x="28.0" y="704.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">inference from outside this table — its falsifier is that their depositions should cluster in 2004–2011,</text>
+<text x="28.0" y="719.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">and that is not tested here.</text>
+<text x="858.0" y="626.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">rate and volume disagree</text>
+<text x="858.0" y="626.0" fill="#1b7f5a" font-size="10.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">rate and volume disagree</text>
+<text x="858.0" y="644.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">JCSG has the highest rate, 86.4%, and</text>
+<text x="858.0" y="658.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">about 1,386 unwritten entries. Von Delft</text>
+<text x="858.0" y="672.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">runs 48.7% and owns 2,760 — twice the pile</text>
+<text x="858.0" y="686.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">at half the rate.</text>
+<line x1="28" y1="780.0" x2="1172" y2="780.0" stroke="#e3e2db"/>
+<text x="28.0" y="800.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">RCSB PDB search API, fetched 2026-09-22. Depositor is `audit_author.name`, a multi-valued field: an entry carries many authors, so entries cannot be</text>
+<text x="28.0" y="814.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">summed across depositors and no “top N account for X%” is computable from it — shares within a single depositor are fine, which is why only those are</text>
+<text x="28.0" y="828.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">drawn. Names also split: `Edwards, A.` has 2,698 entries and `Edwards, A.M.` has 2,331, one person in two buckets; one name in sixty splits this way,</text>
+<text x="28.0" y="842.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">which bounds the damage but had to be measured. Only names with 800 or more entries are shown, forty of them. “Unpublished” means the primary citation</text>
+<text x="28.0" y="856.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">reads “To be published”, recorded at deposition and never revisited.</text>
+</svg>

@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'><rect width="1200" height="700" fill="#fcfcfb"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">What resolution to expect, and why the better-looking number is the one to distrust</text>
+<text x="28.0" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">FOR</text>
+<text x="28.0" y="77.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">anyone writing an expected resolution into a proposal</text>
+<text x="409.3" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">DECIDE</text>
+<text x="409.3" y="77.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">whether the median for your size and method is an expectation</text>
+<text x="790.7" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">WRONG IF</text>
+<text x="790.7" y="77.0" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">X-ray's median is flat across size the way cryo-EM's is</text>
+<line x1="28" y1="86.5" x2="1172" y2="86.5" stroke="#e3e2db"/>
+<line x1="74.0" y1="176.0" x2="688.0" y2="176.0" stroke="#f0efe9"/>
+<text x="66.0" y="179.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">1</text>
+<line x1="74.0" y1="235.0" x2="688.0" y2="235.0" stroke="#f0efe9"/>
+<text x="66.0" y="238.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">2</text>
+<line x1="74.0" y1="294.0" x2="688.0" y2="294.0" stroke="#f0efe9"/>
+<text x="66.0" y="297.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">3</text>
+<line x1="74.0" y1="353.0" x2="688.0" y2="353.0" stroke="#f0efe9"/>
+<text x="66.0" y="356.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">4</text>
+<line x1="74.0" y1="412.0" x2="688.0" y2="412.0" stroke="#f0efe9"/>
+<text x="66.0" y="415.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">5</text>
+<line x1="74.0" y1="471.0" x2="688.0" y2="471.0" stroke="#f0efe9"/>
+<text x="66.0" y="474.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">6</text>
+<line x1="74.0" y1="530.0" x2="688.0" y2="530.0" stroke="#f0efe9"/>
+<text x="66.0" y="533.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">7</text>
+<text x="28.0" y="150.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">resolution, ångström — the whole point is that lower is better</text>
+<text x="66.0" y="167.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="8.5" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums">better</text>
+<text x="66.0" y="167.0" fill="#8a8880" font-size="8.5" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums">better</text>
+<text x="66.0" y="545.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="8.5" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums">worse</text>
+<text x="66.0" y="545.0" fill="#8a8880" font-size="8.5" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums">worse</text>
+<line x1="102.1" y1="530.0" x2="102.1" y2="535.0" stroke="#8a8880"/>
+<text x="102.1" y="548.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">25</text>
+<line x1="189.6" y1="530.0" x2="189.6" y2="535.0" stroke="#8a8880"/>
+<text x="189.6" y="548.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">50</text>
+<line x1="277.0" y1="530.0" x2="277.0" y2="535.0" stroke="#8a8880"/>
+<text x="277.0" y="548.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">100</text>
+<line x1="364.5" y1="530.0" x2="364.5" y2="535.0" stroke="#8a8880"/>
+<text x="364.5" y="548.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">200</text>
+<line x1="480.0" y1="530.0" x2="480.0" y2="535.0" stroke="#8a8880"/>
+<text x="480.0" y="548.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">500</text>
+<line x1="567.5" y1="530.0" x2="567.5" y2="535.0" stroke="#8a8880"/>
+<text x="567.5" y="548.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">1,000</text>
+<line x1="654.9" y1="530.0" x2="654.9" y2="535.0" stroke="#8a8880"/>
+<text x="654.9" y="548.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2,000</text>
+<text x="28.0" y="566.0" font-size="10" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">molecular weight of the deposited structure, kilodaltons (log scale)</text>
+<polygon points="102.1,264.5 232.0,264.5 320.4,264.5 422.2,264.5 523.7,264.5 654.9,264.5 654.9,500.5 523.7,412.0 422.2,367.8 320.4,353.0 232.0,353.0 102.1,515.2" fill="#8c2318" fill-opacity="0.10"/>
+<path d="M102.1,308.8 L232.0,294.0 L320.4,294.0 L422.2,308.8 L523.7,308.8 L654.9,308.8" fill="none" stroke="#8c2318" stroke-width="2.8"/>
+<circle cx="102.1" cy="308.8" r="3.4" fill="#8c2318"/>
+<circle cx="232.0" cy="294.0" r="3.4" fill="#8c2318"/>
+<circle cx="320.4" cy="294.0" r="3.4" fill="#8c2318"/>
+<circle cx="422.2" cy="308.8" r="3.4" fill="#8c2318"/>
+<circle cx="523.7" cy="308.8" r="3.4" fill="#8c2318"/>
+<circle cx="654.9" cy="308.8" r="3.4" fill="#8c2318"/>
+<text x="96.1" y="311.8" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="11" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">cryo-EM</text>
+<text x="96.1" y="311.8" fill="#8c2318" font-size="11" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">cryo-EM</text>
+<polygon points="102.1,190.8 232.0,205.5 320.4,220.2 422.2,220.2 523.7,235.0 654.9,264.5 654.9,338.2 523.7,338.2 422.2,308.8 320.4,294.0 232.0,279.2 102.1,264.5" fill="#4a7fa8" fill-opacity="0.10"/>
+<path d="M102.1,220.2 L232.0,235.0 L320.4,249.8 L422.2,264.5 L523.7,279.2 L654.9,294.0" fill="none" stroke="#4a7fa8" stroke-width="2.8"/>
+<circle cx="102.1" cy="220.2" r="3.4" fill="#4a7fa8"/>
+<circle cx="232.0" cy="235.0" r="3.4" fill="#4a7fa8"/>
+<circle cx="320.4" cy="249.8" r="3.4" fill="#4a7fa8"/>
+<circle cx="422.2" cy="264.5" r="3.4" fill="#4a7fa8"/>
+<circle cx="523.7" cy="279.2" r="3.4" fill="#4a7fa8"/>
+<circle cx="654.9" cy="294.0" r="3.4" fill="#4a7fa8"/>
+<text x="96.1" y="223.2" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="11" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">X-ray</text>
+<text x="96.1" y="223.2" fill="#4a7fa8" font-size="11" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">X-ray</text>
+<text x="263.7" y="447.4" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">shaded band is the 10th to 90th percentile</text>
+<text x="263.7" y="447.4" fill="#8a8880" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">shaded band is the 10th to 90th percentile</text>
+<line x1="102.1" y1="220.2" x2="102.1" y2="308.8" stroke="#52514e" stroke-width="1.2" stroke-dasharray="2 2"/>
+<text x="110.1" y="267.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">1.50 Å apart</text>
+<text x="110.1" y="267.5" fill="#52514e" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">1.50 Å apart</text>
+<line x1="654.9" y1="294.0" x2="654.9" y2="308.8" stroke="#52514e" stroke-width="1.2" stroke-dasharray="2 2"/>
+<text x="662.9" y="304.4" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">0.25 Å apart</text>
+<text x="662.9" y="304.4" fill="#52514e" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">0.25 Å apart</text>
+<text x="790.0" y="150.0" font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">the trap in the top band</text>
+<text x="790.0" y="180.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Above 1000 kDa X-ray's median reads better than</text>
+<text x="790.0" y="195.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">cryo-EM's — 3.00 Å against 3.25. Read straight, that</text>
+<text x="790.0" y="210.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">says crystallise your megadalton complex.</text>
+<text x="790.0" y="242.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">X-ray</text>
+<text x="852.0" y="242.0" font-size="10.5" fill="#4a7fa8" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">3.00 Å median</text>
+<rect x="790.0" y="249.0" width="25.9" height="13" fill="#4a7fa8" fill-opacity="0.55"/>
+<text x="822.9" y="259.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">701 structures, 3.0% of the band</text>
+<text x="822.9" y="259.5" fill="#4a7fa8" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">701 structures, 3.0% of the band</text>
+<text x="790.0" y="286.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">cryo-EM</text>
+<text x="852.0" y="286.0" font-size="10.5" fill="#8c2318" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">3.25 Å median</text>
+<rect x="790.0" y="293.0" width="186.0" height="13" fill="#8c2318" fill-opacity="0.55"/>
+<text x="983.0" y="303.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">5,040 structures, 97.0% of the band</text>
+<text x="983.0" y="303.5" fill="#8c2318" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">5,040 structures, 97.0% of the band</text>
+<text x="790.0" y="336.0" font-size="11" fill="#0b0b0b" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Those 701 are not what crystallography does with a</text>
+<text x="790.0" y="351.0" font-size="11" fill="#0b0b0b" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">megadalton complex. They are the ones that</text>
+<text x="790.0" y="366.0" font-size="11" fill="#0b0b0b" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">crystallised. Nothing that failed is anywhere in the</text>
+<text x="790.0" y="381.0" font-size="11" fill="#0b0b0b" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">register, so the X-ray column is a survivors'</text>
+<text x="790.0" y="396.0" font-size="11" fill="#0b0b0b" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">average, and it reads better the harsher the filter</text>
+<text x="790.0" y="411.0" font-size="11" fill="#0b0b0b" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">behind it.</text>
+<rect x="780.0" y="412.0" width="386.0" height="86" fill="#1b7f5a" fill-opacity="0.07"/>
+<text x="790.0" y="428.0" font-size="11" fill="#1b7f5a" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">so where is the median an expectation?</text>
+<text x="790.0" y="446.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Below about 100 kDa, yes: nearly everything of that</text>
+<text x="790.0" y="460.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">size goes the X-ray route, so the sample is barely</text>
+<text x="790.0" y="474.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">filtered. Above a few hundred, no — it is the score of</text>
+<text x="790.0" y="488.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the winners, and cryo-EM's flat 3.25 Å is the more</text>
+<text x="790.0" y="502.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">honest planning number.</text>
+<line x1="28" y1="600.0" x2="1172" y2="600.0" stroke="#e3e2db"/>
+<text x="28.0" y="620.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">RCSB PDB search API, fetched 2026-09-22; rcsb_entry_info.resolution_combined against molecular_weight, 244,416 structures carrying both. Resolution is</text>
+<text x="28.0" y="634.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">histogrammed at 0.25 Å, so every median here is quantised to the bin and adjacent bands differ by one or two bins. Solution NMR is absent because it</text>
+<text x="28.0" y="648.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">has no resolution: 4 of its 14,732 entries carry the field at all, which is an annotation artefact rather than a measurement. Points sit at each</text>
+<text x="28.0" y="662.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">band's geometric midpoint, with the two open ends placed at 25 and 2000 by hand.</text>
+</svg>

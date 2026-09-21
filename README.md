@@ -26,6 +26,19 @@ Fifteen, most recent first. Each links its own write-up.
   years and half the country's remaining room belongs to two companies. Half the evidence no
   longer exists at source: the register overwrites itself and the 2021 edition returns 404, so
   both workbooks are committed under the rule's own exception.
+- **[The Protein Data Bank is a record of what people chose to solve](recipes/pdb-deposition-choices/)** —
+  nine figures on 260,089 solved protein structures, from about two hundred faceted queries. A
+  sixth cites "To be published" and it is not neglect: structural-genomics consortia run
+  74–86% against a 15.8% baseline, and depositor *size* explains nothing at rho +0.16. The
+  cleanest exponential in the register is the only forecast that is wrong — cryo-EM growth
+  fitted at **R² 0.99 over-predicts 2025 by 74%**, because the rate itself fell from +65% a
+  year to +10%; six scenarios that respect the deceleration all cross in 2026–2028. The weight
+  at which the field switches from crystallography to cryo-EM moved **1,530 → 315 → 133 kDa**
+  in ten years. Above 1,000 kDa X-ray still *reads* better, 3.00 Å against 3.25 — from 701
+  survivors against 5,040, which is the register showing its own survivorship with a count on
+  each side. A hand-declared ligand classification is confirmed by a method that never had a
+  crystallisation drop, but only once host size (rho +0.94) is conditioned on **and** the share
+  is fitted in log-odds: a linear fit predicts negative shares and manufactures a null.
 - **[What a presence-only marine register can and cannot tell you](recipes/ocean-sampling-effort/)** —
   fourteen figures on OBIS's 229 million marine records, in five parts. 27 of 27,168 grid cells
   hold a third of everything and the median cell is 45% one dataset. For plants and single

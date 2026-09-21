@@ -1,0 +1,2 @@
+# Never commit data. The pdb*.py phases refetch it and print the drift against provenance.json.
+artifacts/data/

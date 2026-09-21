@@ -42,6 +42,34 @@ records their publishers overwrite.
   three via the food-additive petition route. The animal-food side of the same inventory clears
   51% against human food's 79% with every failure mode elevated, and eight firms filing on both
   sides clear 84% human against 57% animal - the programme, not the companies.
+- [pdb-deposition-choices](recipes/pdb-deposition-choices/README.md): nine figures on the RCSB
+  PDB's 260,089 experimentally determined structures, fetched as ~200 server-side facet
+  queries with no bulk download. 15.8% cite "To be published"; structural-genomics consortia
+  run 74-86% of entries unwritten against that baseline while depositor size explains nothing
+  (rho +0.16), and rate and volume name different leaders - JCSG 86.4% and ~1,386 entries,
+  von Delft 48.7% and 2,760. The target list is an ordinary power law (R2 0.88) with the
+  SARS-CoV-2 replicase only 1.6x above the fitted line, so the head is notable for which
+  proteins are in it, not its height. AlphaFold shows no detectable effect on deposition,
+  bounded at +/-9.9% against a pre-2021 log-linear trend. Cryo-EM's growth fitted 2012-2019 is
+  +57.2%/yr at R2 0.99 and over-predicts 2025 by 74% (25,147 against 6,453) because the
+  rolling three-year rate fell +65% (2018) to +9.8% (2025); two cryo-EM models crossed with
+  three X-ray trajectories give six projections that all cross in 2026-2028, so respecting the
+  deceleration narrows the forecast rather than widening it. The method-choice boundary moved
+  from never (X-ray held 79.5% above 1000 kDa in 2005-11) to 1,532 kDa, 315, then 133 while
+  the sub-50 kDa split did not move at all, which is also why NMR was never displaced.
+  Resolution degrades with mass for X-ray (1.75 to 3.00 A) and is flat for cryo-EM (~3.25 A),
+  and X-ray leads in every band including above 1000 kDa - from 701 structures against 5,040,
+  a survivors' average that reads better the harsher the filter. A declared ADDITIVE /
+  AMBIGUOUS / BIOLOGICAL ligand grouping is testable because cryo-EM never has a
+  crystallisation drop: host mass correlates rho +0.94 with cryo-EM share and must be
+  conditioned on, after which a linear fit says no effect (+0.5 pts, mixed signs, and it
+  predicts negative shares for 8 components) while a log-odds fit says 15 of 16 additives fall
+  below prediction by a median 27.7x. Three monoculture shares faceted by year separate into
+  two that are practice (100 K +9.0 pts, single-particle +13.2) and one that is not (P 21 21
+  21, +0.5 pts across twenty years). Traps recorded include a terms facet that returns the top
+  N by count but not in count order (35 of 200), a histogram bucket read as an exact value, a
+  share quoted against an unstated denominator, and a forecast scenario asserted in prose and
+  never computed - all four corrected on the published plates rather than silently.
 - [ocean-sampling-effort](recipes/ocean-sampling-effort/README.md): one dataset, fourteen
   figures, five questions. OBIS holds 229,671,953 marine records; 27 of 27,168 grid cells hold
   31.6% and the median cell takes 45% from a single dataset. Two fields that promise and fail:

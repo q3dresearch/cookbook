@@ -1,0 +1,2 @@
+run_date,method_version,entries,unpublished_share,rho_depositor_size,rank_size_r2,rho_ligand_host_mass,additives_below,additive_median_x,temp_100K_change_pts,space_group_change_pts,cryoem_fit_r2,cryoem_overpredict_2025,crossover_earliest,crossover_latest,crossover_2022_26_kDa
+2026-09-22,1.0.0,260089,0.158,0.16,0.88,0.94,15,27.7,9.0,0.5,0.99,0.74,2026,2028,133
