@@ -1,0 +1,213 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="845" viewBox="0 0 1200 845" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'><rect width="1200" height="845" fill="#fcfcfb"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">Trials look three times faster than in 2008. They are slower.</text>
+<text x="28.0" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">FOR</text>
+<text x="28.0" y="77.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">anyone measuring whether trials have got quicker</text>
+<text x="409.3" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">DECIDE</text>
+<text x="409.3" y="77.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">whether a duration series is timing everyone or only the</text>
+<text x="409.3" y="90.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">finishers</text>
+<text x="790.7" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">WRONG IF</text>
+<text x="790.7" y="77.0" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the two panels point the same way</text>
+<line x1="28" y1="100.0" x2="1172" y2="100.0" stroke="#e3e2db"/>
+<line x1="80.0" y1="370.0" x2="544.0" y2="370.0" stroke="#f0efe9"/>
+<text x="72.0" y="373.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">0</text>
+<line x1="80.0" y1="329.0" x2="544.0" y2="329.0" stroke="#f0efe9"/>
+<text x="72.0" y="332.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">200</text>
+<line x1="80.0" y1="288.0" x2="544.0" y2="288.0" stroke="#f0efe9"/>
+<text x="72.0" y="291.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">400</text>
+<line x1="80.0" y1="247.0" x2="544.0" y2="247.0" stroke="#f0efe9"/>
+<text x="72.0" y="250.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">600</text>
+<line x1="80.0" y1="206.0" x2="544.0" y2="206.0" stroke="#f0efe9"/>
+<text x="72.0" y="209.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">800</text>
+<text x="28.0" y="158.0" font-size="11" fill="#8c2318" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">median days to primary completion — among trials that finished</text>
+<text x="131.6" y="387.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2008</text>
+<text x="234.7" y="387.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2012</text>
+<text x="337.8" y="387.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2016</text>
+<text x="440.9" y="387.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2020</text>
+<text x="544.0" y="387.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2024</text>
+<path d="M80.0,195.1 L105.8,214.0 L131.6,226.5 L157.3,220.3 L183.1,226.3 L208.9,226.5 L234.7,220.3 L260.4,226.5 L286.2,233.1 L312.0,238.6 L337.8,241.5 L363.6,244.9 L389.3,253.6 L415.1,250.9 L440.9,264.0 L466.7,274.7 L492.4,288.0 L518.2,301.1 L544.0,320.2" fill="none" stroke="#8c2318" stroke-width="2.6"/>
+<circle cx="80.0" cy="195.1" r="2.8" fill="#8c2318"/>
+<circle cx="105.8" cy="214.0" r="2.8" fill="#8c2318"/>
+<circle cx="131.6" cy="226.5" r="2.8" fill="#8c2318"/>
+<circle cx="157.3" cy="220.3" r="2.8" fill="#8c2318"/>
+<circle cx="183.1" cy="226.3" r="2.8" fill="#8c2318"/>
+<circle cx="208.9" cy="226.5" r="2.8" fill="#8c2318"/>
+<circle cx="234.7" cy="220.3" r="2.8" fill="#8c2318"/>
+<circle cx="260.4" cy="226.5" r="2.8" fill="#8c2318"/>
+<circle cx="286.2" cy="233.1" r="2.8" fill="#8c2318"/>
+<circle cx="312.0" cy="238.6" r="2.8" fill="#8c2318"/>
+<circle cx="337.8" cy="241.5" r="2.8" fill="#8c2318"/>
+<circle cx="363.6" cy="244.9" r="2.8" fill="#8c2318"/>
+<circle cx="389.3" cy="253.6" r="2.8" fill="#8c2318"/>
+<circle cx="415.1" cy="250.9" r="2.8" fill="#8c2318"/>
+<circle cx="440.9" cy="264.0" r="2.8" fill="#8c2318"/>
+<circle cx="466.7" cy="274.7" r="2.8" fill="#8c2318"/>
+<circle cx="492.4" cy="288.0" r="2.8" fill="#8c2318"/>
+<circle cx="518.2" cy="301.1" r="2.8" fill="#8c2318"/>
+<circle cx="544.0" cy="320.2" r="2.8" fill="#8c2318"/>
+<text x="88.0" y="185.1" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">853d</text>
+<text x="88.0" y="185.1" fill="#8c2318" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">853d</text>
+<text x="536.0" y="310.2" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">243d</text>
+<text x="536.0" y="310.2" fill="#8c2318" font-size="10" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">243d</text>
+<text x="260.4" y="228.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">the wrong answer, and the persuasive one</text>
+<text x="260.4" y="228.5" fill="#8c2318" font-size="10.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">the wrong answer, and the persuasive one</text>
+<text x="28.0" y="404.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">A 2024 start can only appear here if it has already finished, so recent</text>
+<text x="28.0" y="418.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">cohorts are a sample of their own fastest members. The slow half has not</text>
+<text x="28.0" y="432.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">arrived. It is a race timed only on the people who crossed the line.</text>
+<line x1="80.0" y1="700.0" x2="544.0" y2="700.0" stroke="#f0efe9"/>
+<text x="72.0" y="703.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">0%</text>
+<line x1="80.0" y1="659.4" x2="544.0" y2="659.4" stroke="#f0efe9"/>
+<text x="72.0" y="662.4" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">25%</text>
+<line x1="80.0" y1="618.8" x2="544.0" y2="618.8" stroke="#f0efe9"/>
+<text x="72.0" y="621.8" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">50%</text>
+<line x1="80.0" y1="578.2" x2="544.0" y2="578.2" stroke="#f0efe9"/>
+<text x="72.0" y="581.2" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">75%</text>
+<text x="28.0" y="516.0" font-size="11" fill="#1b7f5a" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">share of each start cohort that had finished by then — everyone in the denominator</text>
+<text x="131.6" y="717.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2008</text>
+<text x="234.7" y="717.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2012</text>
+<text x="337.8" y="717.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2016</text>
+<text x="440.9" y="717.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2020</text>
+<text x="544.0" y="717.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2024</text>
+<text x="28.0" y="734.0" font-size="10" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">year the trial started</text>
+<path d="M80.0,591.8 L105.8,579.8 L131.6,575.2 L157.3,576.6 L183.1,576.0 L208.9,576.4 L234.7,578.3 L260.4,578.4 L286.2,579.7 L312.0,581.4 L337.8,585.5 L363.6,584.8 L389.3,589.2 L415.1,593.2 L440.9,596.2 L466.7,596.3" fill="none" stroke="#14425f" stroke-width="2.4"/>
+<circle cx="80.0" cy="591.8" r="2.6" fill="#14425f"/>
+<circle cx="105.8" cy="579.8" r="2.6" fill="#14425f"/>
+<circle cx="131.6" cy="575.2" r="2.6" fill="#14425f"/>
+<circle cx="157.3" cy="576.6" r="2.6" fill="#14425f"/>
+<circle cx="183.1" cy="576.0" r="2.6" fill="#14425f"/>
+<circle cx="208.9" cy="576.4" r="2.6" fill="#14425f"/>
+<circle cx="234.7" cy="578.3" r="2.6" fill="#14425f"/>
+<circle cx="260.4" cy="578.4" r="2.6" fill="#14425f"/>
+<circle cx="286.2" cy="579.7" r="2.6" fill="#14425f"/>
+<circle cx="312.0" cy="581.4" r="2.6" fill="#14425f"/>
+<circle cx="337.8" cy="585.5" r="2.6" fill="#14425f"/>
+<circle cx="363.6" cy="584.8" r="2.6" fill="#14425f"/>
+<circle cx="389.3" cy="589.2" r="2.6" fill="#14425f"/>
+<circle cx="415.1" cy="593.2" r="2.6" fill="#14425f"/>
+<circle cx="440.9" cy="596.2" r="2.6" fill="#14425f"/>
+<circle cx="466.7" cy="596.3" r="2.6" fill="#14425f"/>
+<text x="473.7" y="599.3" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">within 5 years</text>
+<text x="473.7" y="599.3" fill="#14425f" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">within 5 years</text>
+<text x="73.0" y="594.8" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums">67%</text>
+<text x="73.0" y="594.8" fill="#14425f" font-size="9" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums">67%</text>
+<text x="473.7" y="610.3" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">64%</text>
+<text x="473.7" y="610.3" fill="#14425f" font-size="9" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">64%</text>
+<path d="M80.0,620.4 L105.8,608.0 L131.6,601.2 L157.3,604.5 L183.1,604.7 L208.9,604.3 L234.7,604.5 L260.4,605.5 L286.2,603.7 L312.0,605.4 L337.8,607.1 L363.6,605.0 L389.3,609.8 L415.1,614.8 L440.9,614.6 L466.7,612.3 L492.4,614.5 L518.2,619.8" fill="none" stroke="#1b7f5a" stroke-width="2.4"/>
+<circle cx="80.0" cy="620.4" r="2.6" fill="#1b7f5a"/>
+<circle cx="105.8" cy="608.0" r="2.6" fill="#1b7f5a"/>
+<circle cx="131.6" cy="601.2" r="2.6" fill="#1b7f5a"/>
+<circle cx="157.3" cy="604.5" r="2.6" fill="#1b7f5a"/>
+<circle cx="183.1" cy="604.7" r="2.6" fill="#1b7f5a"/>
+<circle cx="208.9" cy="604.3" r="2.6" fill="#1b7f5a"/>
+<circle cx="234.7" cy="604.5" r="2.6" fill="#1b7f5a"/>
+<circle cx="260.4" cy="605.5" r="2.6" fill="#1b7f5a"/>
+<circle cx="286.2" cy="603.7" r="2.6" fill="#1b7f5a"/>
+<circle cx="312.0" cy="605.4" r="2.6" fill="#1b7f5a"/>
+<circle cx="337.8" cy="607.1" r="2.6" fill="#1b7f5a"/>
+<circle cx="363.6" cy="605.0" r="2.6" fill="#1b7f5a"/>
+<circle cx="389.3" cy="609.8" r="2.6" fill="#1b7f5a"/>
+<circle cx="415.1" cy="614.8" r="2.6" fill="#1b7f5a"/>
+<circle cx="440.9" cy="614.6" r="2.6" fill="#1b7f5a"/>
+<circle cx="466.7" cy="612.3" r="2.6" fill="#1b7f5a"/>
+<circle cx="492.4" cy="614.5" r="2.6" fill="#1b7f5a"/>
+<circle cx="518.2" cy="619.8" r="2.6" fill="#1b7f5a"/>
+<text x="525.2" y="622.8" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">within 3 years</text>
+<text x="525.2" y="622.8" fill="#1b7f5a" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">within 3 years</text>
+<text x="73.0" y="623.4" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums">49%</text>
+<text x="73.0" y="623.4" fill="#1b7f5a" font-size="9" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums">49%</text>
+<text x="525.2" y="633.8" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">49%</text>
+<text x="525.2" y="633.8" fill="#1b7f5a" font-size="9" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">49%</text>
+<path d="M80.0,675.7 L105.8,668.9 L131.6,657.8 L157.3,658.7 L183.1,658.2 L208.9,662.3 L234.7,661.3 L260.4,660.4 L286.2,658.5 L312.0,662.0 L337.8,660.1 L363.6,658.7 L389.3,658.4 L415.1,659.2 L440.9,658.6 L466.7,657.4 L492.4,656.5 L518.2,657.1 L544.0,658.8" fill="none" stroke="#8aa2b6" stroke-width="2.4"/>
+<circle cx="80.0" cy="675.7" r="2.6" fill="#8aa2b6"/>
+<circle cx="105.8" cy="668.9" r="2.6" fill="#8aa2b6"/>
+<circle cx="131.6" cy="657.8" r="2.6" fill="#8aa2b6"/>
+<circle cx="157.3" cy="658.7" r="2.6" fill="#8aa2b6"/>
+<circle cx="183.1" cy="658.2" r="2.6" fill="#8aa2b6"/>
+<circle cx="208.9" cy="662.3" r="2.6" fill="#8aa2b6"/>
+<circle cx="234.7" cy="661.3" r="2.6" fill="#8aa2b6"/>
+<circle cx="260.4" cy="660.4" r="2.6" fill="#8aa2b6"/>
+<circle cx="286.2" cy="658.5" r="2.6" fill="#8aa2b6"/>
+<circle cx="312.0" cy="662.0" r="2.6" fill="#8aa2b6"/>
+<circle cx="337.8" cy="660.1" r="2.6" fill="#8aa2b6"/>
+<circle cx="363.6" cy="658.7" r="2.6" fill="#8aa2b6"/>
+<circle cx="389.3" cy="658.4" r="2.6" fill="#8aa2b6"/>
+<circle cx="415.1" cy="659.2" r="2.6" fill="#8aa2b6"/>
+<circle cx="440.9" cy="658.6" r="2.6" fill="#8aa2b6"/>
+<circle cx="466.7" cy="657.4" r="2.6" fill="#8aa2b6"/>
+<circle cx="492.4" cy="656.5" r="2.6" fill="#8aa2b6"/>
+<circle cx="518.2" cy="657.1" r="2.6" fill="#8aa2b6"/>
+<circle cx="544.0" cy="658.8" r="2.6" fill="#8aa2b6"/>
+<text x="551.0" y="661.8" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">within 1 year</text>
+<text x="551.0" y="661.8" fill="#8aa2b6" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">within 1 year</text>
+<text x="73.0" y="678.7" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums">15%</text>
+<text x="73.0" y="678.7" fill="#8aa2b6" font-size="9" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums">15%</text>
+<text x="551.0" y="672.8" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">25%</text>
+<text x="551.0" y="672.8" fill="#8aa2b6" font-size="9" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">25%</text>
+<text x="700.0" y="158.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">share reaching primary completion, by phase — starts 2010–2018</text>
+<text x="700.0" y="198.0" font-size="10.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">phase 1</text>
+<text x="700.0" y="211.0" font-size="9" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">24,227 trials · median 30 enrolled</text>
+<rect x="704.0" y="217.0" width="104.7" height="6.5" fill="#8aa2b6" fill-opacity="0.8"/>
+<text x="814.7" y="223.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="8.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">37%</text>
+<text x="814.7" y="223.0" fill="#8aa2b6" font-size="8.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">37%</text>
+<rect x="704.0" y="225.0" width="178.6" height="6.5" fill="#1b7f5a" fill-opacity="0.8"/>
+<text x="888.6" y="231.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="8.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">63%</text>
+<text x="888.6" y="231.0" fill="#1b7f5a" font-size="8.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">63%</text>
+<rect x="704.0" y="233.0" width="216.5" height="6.5" fill="#14425f" fill-opacity="0.8"/>
+<text x="926.5" y="239.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="8.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">77%</text>
+<text x="926.5" y="239.0" fill="#14425f" font-size="8.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">77%</text>
+<text x="700.0" y="260.0" font-size="10.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">phase 2</text>
+<text x="700.0" y="273.0" font-size="9" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">24,726 trials · median 55 enrolled</text>
+<rect x="704.0" y="279.0" width="48.3" height="6.5" fill="#8aa2b6" fill-opacity="0.8"/>
+<text x="758.3" y="285.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="8.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">17%</text>
+<text x="758.3" y="285.0" fill="#8aa2b6" font-size="8.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">17%</text>
+<rect x="704.0" y="287.0" width="147.4" height="6.5" fill="#1b7f5a" fill-opacity="0.8"/>
+<text x="857.4" y="293.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="8.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">52%</text>
+<text x="857.4" y="293.0" fill="#1b7f5a" font-size="8.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">52%</text>
+<rect x="704.0" y="295.0" width="195.9" height="6.5" fill="#14425f" fill-opacity="0.8"/>
+<text x="905.9" y="301.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="8.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">69%</text>
+<text x="905.9" y="301.0" fill="#14425f" font-size="8.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">69%</text>
+<text x="700.0" y="322.0" font-size="10.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">phase 3</text>
+<text x="700.0" y="335.0" font-size="9" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">14,678 trials · median 204 enrolled</text>
+<rect x="704.0" y="341.0" width="53.5" height="6.5" fill="#8aa2b6" fill-opacity="0.8"/>
+<text x="763.5" y="347.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="8.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">19%</text>
+<text x="763.5" y="347.0" fill="#8aa2b6" font-size="8.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">19%</text>
+<rect x="704.0" y="349.0" width="161.6" height="6.5" fill="#1b7f5a" fill-opacity="0.8"/>
+<text x="871.6" y="355.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="8.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">57%</text>
+<text x="871.6" y="355.0" fill="#1b7f5a" font-size="8.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">57%</text>
+<rect x="704.0" y="357.0" width="206.5" height="6.5" fill="#14425f" fill-opacity="0.8"/>
+<text x="916.5" y="363.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="8.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">73%</text>
+<text x="916.5" y="363.0" fill="#14425f" font-size="8.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">73%</text>
+<text x="700.0" y="384.0" font-size="10.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">phase 4</text>
+<text x="700.0" y="397.0" font-size="9" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">14,691 trials · median 76 enrolled</text>
+<rect x="704.0" y="403.0" width="60.6" height="6.5" fill="#8aa2b6" fill-opacity="0.8"/>
+<text x="770.6" y="409.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="8.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">21%</text>
+<text x="770.6" y="409.0" fill="#8aa2b6" font-size="8.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">21%</text>
+<rect x="704.0" y="411.0" width="159.9" height="6.5" fill="#1b7f5a" fill-opacity="0.8"/>
+<text x="869.9" y="417.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="8.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">57%</text>
+<text x="869.9" y="417.0" fill="#1b7f5a" font-size="8.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">57%</text>
+<rect x="704.0" y="419.0" width="196.8" height="6.5" fill="#14425f" fill-opacity="0.8"/>
+<text x="906.8" y="425.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="8.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">70%</text>
+<text x="906.8" y="425.0" fill="#14425f" font-size="8.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">70%</text>
+<text x="700.0" y="446.0" font-size="10.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">no phase recorded</text>
+<text x="700.0" y="459.0" font-size="9" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">79,242 trials · median 60 enrolled</text>
+<rect x="704.0" y="465.0" width="70.5" height="6.5" fill="#8aa2b6" fill-opacity="0.8"/>
+<text x="780.5" y="471.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="8.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">25%</text>
+<text x="780.5" y="471.0" fill="#8aa2b6" font-size="8.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">25%</text>
+<rect x="704.0" y="473.0" width="165.5" height="6.5" fill="#1b7f5a" fill-opacity="0.8"/>
+<text x="875.5" y="479.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="8.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">59%</text>
+<text x="875.5" y="479.0" fill="#1b7f5a" font-size="8.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">59%</text>
+<rect x="704.0" y="481.0" width="206.3" height="6.5" fill="#14425f" fill-opacity="0.8"/>
+<text x="916.3" y="487.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="8.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">73%</text>
+<text x="916.3" y="487.0" fill="#14425f" font-size="8.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">73%</text>
+<text x="700.0" y="510.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Phase 1 finishes fastest and phase 2 slowest, at every</text>
+<text x="700.0" y="524.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">horizon. Phase 3 runs four times larger than phase 2 by median</text>
+<text x="700.0" y="538.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">enrollment and still finishes more often — so the phase-2</text>
+<text x="700.0" y="552.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">delay is not size. Bars are 1, 3 and 5 years.</text>
+<text x="700.0" y="576.0" font-size="11.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">and trials did not get bigger</text>
+<text x="700.0" y="594.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Median actual enrollment is 57 participants in every start</text>
+<text x="700.0" y="608.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">year from 2008 to 2022, and the 90th percentile drifted down.</text>
+<text x="700.0" y="622.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Whatever is slower, it is not more participants.</text>
+<line x1="28" y1="775.0" x2="1172" y2="775.0" stroke="#e3e2db"/>
+<text x="28.0" y="793.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">ClinicalTrials.gov API v2, fetched 2026-09-22; start date from the second walk. 449,259 interventional trials with a start date. A trial counts as</text>
+<text x="28.0" y="807.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">finished only on an ACTUAL primary completion date, so an estimated one is treated as not yet finished. Cohorts are only drawn where at least 300</text>
+<text x="28.0" y="821.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">trials have had the full window to finish in. This measures duration, not difficulty: a longer trial may be a larger question or a harder population.</text>
+</svg>

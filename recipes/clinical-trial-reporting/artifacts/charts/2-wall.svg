@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="740" viewBox="0 0 1200 740" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'><rect width="1200" height="740" fill="#fcfcfb"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">The wall is older than the rule that built it, and it is one day wide</text>
+<text x="28.0" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">FOR</text>
+<text x="28.0" y="77.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">anyone deciding whether a deadline effect is real or an</text>
+<text x="28.0" y="90.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">artefact</text>
+<text x="409.3" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">DECIDE</text>
+<text x="409.3" y="77.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">whether the spike survives day-precision dates and pre-dates</text>
+<text x="409.3" y="90.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the rule</text>
+<text x="790.7" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">WRONG IF</text>
+<text x="790.7" y="77.0" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the spike softens on day-precision dates, or is absent before</text>
+<text x="790.7" y="90.5" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">2017</text>
+<line x1="28" y1="100.0" x2="1172" y2="100.0" stroke="#e3e2db"/>
+<line x1="78.0" y1="522.0" x2="662.0" y2="522.0" stroke="#f0efe9"/>
+<text x="70.0" y="525.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">0</text>
+<line x1="78.0" y1="432.9" x2="662.0" y2="432.9" stroke="#f0efe9"/>
+<text x="70.0" y="435.9" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">1%</text>
+<line x1="78.0" y1="343.7" x2="662.0" y2="343.7" stroke="#f0efe9"/>
+<text x="70.0" y="346.7" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">2%</text>
+<line x1="78.0" y1="254.6" x2="662.0" y2="254.6" stroke="#f0efe9"/>
+<text x="70.0" y="257.6" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">3%</text>
+<text x="28.0" y="158.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">of the trials still unreported, the share reporting in each 7-day window</text>
+<line x1="78.0" y1="522.0" x2="78.0" y2="527.0" stroke="#8a8880"/>
+<text x="78.0" y="540.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">280</text>
+<line x1="321.3" y1="522.0" x2="321.3" y2="527.0" stroke="#8a8880"/>
+<text x="321.3" y="540.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">350</text>
+<line x1="564.7" y1="522.0" x2="564.7" y2="527.0" stroke="#8a8880"/>
+<text x="564.7" y="540.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">420</text>
+<text x="28.0" y="558.0" font-size="10" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">days since primary completion — day-precision start dates only</text>
+<rect x="78.0" y="503.2" width="22.8" height="18.8" fill="#4a7fa8" fill-opacity="0.5"/>
+<rect x="102.3" y="505.3" width="22.8" height="16.7" fill="#4a7fa8" fill-opacity="0.5"/>
+<rect x="126.7" y="502.4" width="22.8" height="19.6" fill="#4a7fa8" fill-opacity="0.5"/>
+<rect x="151.0" y="496.3" width="22.8" height="25.7" fill="#4a7fa8" fill-opacity="0.5"/>
+<rect x="175.3" y="495.9" width="22.8" height="26.1" fill="#4a7fa8" fill-opacity="0.5"/>
+<rect x="199.7" y="491.6" width="22.8" height="30.4" fill="#4a7fa8" fill-opacity="0.5"/>
+<rect x="224.0" y="490.3" width="22.8" height="31.7" fill="#4a7fa8" fill-opacity="0.5"/>
+<rect x="248.3" y="482.4" width="22.8" height="39.6" fill="#4a7fa8" fill-opacity="0.5"/>
+<rect x="272.7" y="468.8" width="22.8" height="53.2" fill="#4a7fa8" fill-opacity="0.5"/>
+<rect x="297.0" y="447.0" width="22.8" height="75.0" fill="#4a7fa8" fill-opacity="0.5"/>
+<rect x="321.3" y="412.1" width="22.8" height="109.9" fill="#4a7fa8" fill-opacity="0.5"/>
+<rect x="345.7" y="289.7" width="22.8" height="232.3" fill="#4a7fa8" fill-opacity="0.5"/>
+<rect x="370.0" y="239.1" width="22.8" height="282.9" fill="#8c2318" fill-opacity="0.9"/>
+<rect x="394.3" y="483.9" width="22.8" height="38.1" fill="#4a7fa8" fill-opacity="0.5"/>
+<rect x="418.7" y="492.6" width="22.8" height="29.4" fill="#4a7fa8" fill-opacity="0.5"/>
+<rect x="443.0" y="491.9" width="22.8" height="30.1" fill="#4a7fa8" fill-opacity="0.5"/>
+<rect x="467.3" y="491.3" width="22.8" height="30.7" fill="#4a7fa8" fill-opacity="0.5"/>
+<rect x="491.7" y="495.0" width="22.8" height="27.0" fill="#4a7fa8" fill-opacity="0.5"/>
+<rect x="516.0" y="495.5" width="22.8" height="26.5" fill="#4a7fa8" fill-opacity="0.5"/>
+<rect x="540.3" y="495.2" width="22.8" height="26.8" fill="#4a7fa8" fill-opacity="0.5"/>
+<rect x="564.7" y="499.4" width="22.8" height="22.6" fill="#4a7fa8" fill-opacity="0.5"/>
+<rect x="589.0" y="498.0" width="22.8" height="24.0" fill="#4a7fa8" fill-opacity="0.5"/>
+<rect x="613.3" y="500.3" width="22.8" height="21.7" fill="#4a7fa8" fill-opacity="0.5"/>
+<rect x="637.7" y="499.6" width="22.8" height="22.4" fill="#4a7fa8" fill-opacity="0.5"/>
+<line x1="373.5" y1="210.0" x2="373.5" y2="522.0" stroke="#8c2318" stroke-width="1.3"/>
+<text x="360.0" y="243.1" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="12" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">3.17%</text>
+<text x="360.0" y="243.1" fill="#8c2318" font-size="12" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">3.17%</text>
+<text x="428.7" y="477.9" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">0.43% the next week</text>
+<text x="428.7" y="477.9" fill="#52514e" font-size="10.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">0.43% the next week</text>
+<text x="428.7" y="489.9" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">a 7-fold drop in seven days</text>
+<text x="428.7" y="489.9" fill="#52514e" font-size="10" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">a 7-fold drop in seven days</text>
+<text x="381.5" y="224.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">day 365</text>
+<text x="381.5" y="224.0" fill="#8c2318" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">day 365</text>
+<text x="28.0" y="576.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">At day resolution the three most common lags in the whole 330–400 day range are 364 days</text>
+<text x="28.0" y="591.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">(1,621 trials), 365 (1,420) and 363 (870). Sponsors are not filing sometime the following</text>
+<text x="28.0" y="606.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">year — they are filing against a date arithmetic gives them.</text>
+<text x="760.0" y="158.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the same spike, by when the trial finished</text>
+<text x="760.0" y="198.0" font-size="11" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">2008–2012</text>
+<text x="760.0" y="211.0" font-size="9" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">41,293 trials · baseline 0.16%</text>
+<rect x="760.0" y="217.0" width="256.1" height="13" fill="#9aa4ad" fill-opacity="0.7"/>
+<text x="1023.1" y="227.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="11.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">22.1x</text>
+<text x="1023.1" y="227.0" fill="#9aa4ad" font-size="11.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">22.1x</text>
+<text x="760.0" y="260.0" font-size="11" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">2013–2016</text>
+<text x="760.0" y="273.0" font-size="9" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">46,821 trials · baseline 0.29%</text>
+<rect x="760.0" y="279.0" width="148.8" height="13" fill="#9aa4ad" fill-opacity="0.7"/>
+<text x="915.8" y="289.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="11.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">12.8x</text>
+<text x="915.8" y="289.0" fill="#9aa4ad" font-size="11.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">12.8x</text>
+<text x="760.0" y="322.0" font-size="11" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">2017–2020</text>
+<text x="760.0" y="335.0" font-size="9" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">58,791 trials · baseline 0.24%</text>
+<rect x="760.0" y="341.0" width="256.3" height="13" fill="#1b7f5a" fill-opacity="0.7"/>
+<text x="1023.3" y="351.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="11.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">22.1x</text>
+<text x="1023.3" y="351.0" fill="#1b7f5a" font-size="11.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">22.1x</text>
+<text x="760.0" y="384.0" font-size="11" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">2021–2023</text>
+<text x="760.0" y="397.0" font-size="9" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">50,626 trials · baseline 0.23%</text>
+<rect x="760.0" y="403.0" width="292.0" height="13" fill="#1b7f5a" fill-opacity="0.7"/>
+<text x="1059.0" y="413.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="11.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">25.1x</text>
+<text x="1059.0" y="413.0" fill="#1b7f5a" font-size="11.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">25.1x</text>
+<line x1="760.0" y1="440.0" x2="1132.0" y2="440.0" stroke="#e3e2db"/>
+<text x="760.0" y="456.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">the Final Rule took effect January 2017</text>
+<text x="760.0" y="456.0" fill="#1b7f5a" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">the Final Rule took effect January 2017</text>
+<text x="760.0" y="472.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Completions from 2008–2012 already spike 22.1x over</text>
+<text x="760.0" y="486.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">their own baseline — the same multiple as 2017–2020.</text>
+<text x="760.0" y="500.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">The rule that widened the scope did not create the</text>
+<text x="760.0" y="514.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">wall and did not sharpen it. Figure 3 finds no step in</text>
+<text x="760.0" y="528.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the reporting series at that date either.</text>
+<rect x="750.0" y="530.0" width="414.0" height="80" fill="#8c2318" fill-opacity="0.07"/>
+<text x="760.0" y="546.0" font-size="11" fill="#8c2318" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">what that locates</text>
+<text x="760.0" y="563.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">A wall one day wide, present in the first measurable</text>
+<text x="760.0" y="577.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">cohort, unchanged by the rule that widened it, and</text>
+<text x="760.0" y="591.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">concentrated 82x among sponsors with regulatory staff</text>
+<text x="760.0" y="605.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">— that is not a rule persuading anyone. It is a</text>
+<text x="760.0" y="619.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">compliance function executing a date.</text>
+<line x1="28" y1="670.0" x2="1172" y2="670.0" stroke="#e3e2db"/>
+<text x="28.0" y="688.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">ClinicalTrials.gov API v2, fetched 2026-09-22. Population as figure 3. Left panel uses only the 151,345 trials whose primary completion date carries a</text>
+<text x="28.0" y="702.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">day of month, so no date is placed by hand and no round-offset artefact is possible; right panel uses the full population. Hazard is computed on</text>
+<text x="28.0" y="716.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">trials observed for the whole window and not yet reported at its start. Baseline is the mean of each era's first four 30-day windows, so each era is</text>
+<text x="28.0" y="730.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">measured against itself.</text>
+</svg>

@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="850" viewBox="0 0 1200 850" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'><rect width="1200" height="850" fill="#fcfcfb"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">Trials that stop early are reported more often than trials that finish</text>
+<text x="28.0" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">FOR</text>
+<text x="28.0" y="77.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">anyone assuming unreported trials are the failed ones</text>
+<text x="409.3" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">DECIDE</text>
+<text x="409.3" y="77.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">where in the register the missing results actually are</text>
+<text x="790.7" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">WRONG IF</text>
+<text x="790.7" y="77.0" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">terminated trials report less than completed ones, inside the</text>
+<text x="790.7" y="90.5" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">class that dominates the register</text>
+<line x1="28" y1="100.0" x2="1172" y2="100.0" stroke="#e3e2db"/>
+<line x1="264.0" y1="162.0" x2="264.0" y2="604.0" stroke="#f0efe9"/>
+<text x="264.0" y="618.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">0%</text>
+<line x1="369.3" y1="162.0" x2="369.3" y2="604.0" stroke="#f0efe9"/>
+<text x="369.3" y="618.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">25%</text>
+<line x1="474.5" y1="162.0" x2="474.5" y2="604.0" stroke="#f0efe9"/>
+<text x="474.5" y="618.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">50%</text>
+<line x1="579.8" y1="162.0" x2="579.8" y2="604.0" stroke="#f0efe9"/>
+<text x="579.8" y="618.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">75%</text>
+<text x="28.0" y="144.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">share reporting results within three years, with 95% intervals</text>
+<text x="28.0" y="636.0" font-size="10" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">completions 2012–2021, so every cell has three years of follow-up</text>
+<text x="28.0" y="186.0" font-size="11" fill="#0b0b0b" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">every class together</text>
+<line x1="28.0" y1="226.0" x2="664.0" y2="226.0" stroke="#e3e2db"/>
+<line x1="365.1" y1="198.0" x2="367.2" y2="198.0" stroke="#9aa4ad" stroke-width="1.4"/>
+<line x1="365.1" y1="194.5" x2="365.1" y2="201.5" stroke="#9aa4ad" stroke-width="1.4"/>
+<line x1="367.2" y1="194.5" x2="367.2" y2="201.5" stroke="#9aa4ad" stroke-width="1.4"/>
+<circle cx="366.2" cy="198.0" r="4.6" fill="#9aa4ad"/>
+<text x="375.2" y="201.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">24.3%</text>
+<text x="375.2" y="201.5" fill="#9aa4ad" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">24.3%</text>
+<text x="28.0" y="201.5" font-size="9.5" fill="#9aa4ad" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">completed · 111,204</text>
+<line x1="420.2" y1="213.0" x2="427.1" y2="213.0" stroke="#8c2318" stroke-width="1.4"/>
+<line x1="420.2" y1="209.5" x2="420.2" y2="216.5" stroke="#8c2318" stroke-width="1.4"/>
+<line x1="427.1" y1="209.5" x2="427.1" y2="216.5" stroke="#8c2318" stroke-width="1.4"/>
+<circle cx="423.7" cy="213.0" r="4.6" fill="#8c2318"/>
+<text x="432.7" y="216.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">37.9%</text>
+<text x="432.7" y="216.5" fill="#8c2318" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">37.9%</text>
+<text x="28.0" y="216.5" font-size="9.5" fill="#8c2318" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">terminated · 13,331</text>
+<text x="672.0" y="208.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="12" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">1.56x</text>
+<text x="672.0" y="208.0" fill="#1b7f5a" font-size="12" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">1.56x</text>
+<text x="28.0" y="260.0" font-size="11" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">university, hospital, individual</text>
+<line x1="332.0" y1="272.0" x2="334.1" y2="272.0" stroke="#9aa4ad" stroke-width="1.4"/>
+<line x1="332.0" y1="268.5" x2="332.0" y2="275.5" stroke="#9aa4ad" stroke-width="1.4"/>
+<line x1="334.1" y1="268.5" x2="334.1" y2="275.5" stroke="#9aa4ad" stroke-width="1.4"/>
+<circle cx="333.0" cy="272.0" r="4.6" fill="#9aa4ad"/>
+<text x="342.0" y="275.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">16.4%</text>
+<text x="342.0" y="275.5" fill="#9aa4ad" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">16.4%</text>
+<text x="28.0" y="275.5" font-size="9.5" fill="#9aa4ad" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">completed · 81,471</text>
+<line x1="393.2" y1="287.0" x2="401.3" y2="287.0" stroke="#8c2318" stroke-width="1.4"/>
+<line x1="393.2" y1="283.5" x2="393.2" y2="290.5" stroke="#8c2318" stroke-width="1.4"/>
+<line x1="401.3" y1="283.5" x2="401.3" y2="290.5" stroke="#8c2318" stroke-width="1.4"/>
+<circle cx="397.2" cy="287.0" r="4.6" fill="#8c2318"/>
+<text x="406.2" y="290.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">31.6%</text>
+<text x="406.2" y="290.5" fill="#8c2318" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">31.6%</text>
+<text x="28.0" y="290.5" font-size="9.5" fill="#8c2318" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">terminated · 8,925</text>
+<text x="672.0" y="282.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="12" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">1.93x</text>
+<text x="672.0" y="282.0" fill="#1b7f5a" font-size="12" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">1.93x</text>
+<text x="28.0" y="334.0" font-size="11" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">industry</text>
+<line x1="466.0" y1="346.0" x2="471.4" y2="346.0" stroke="#9aa4ad" stroke-width="1.4"/>
+<line x1="466.0" y1="342.5" x2="466.0" y2="349.5" stroke="#9aa4ad" stroke-width="1.4"/>
+<line x1="471.4" y1="342.5" x2="471.4" y2="349.5" stroke="#9aa4ad" stroke-width="1.4"/>
+<circle cx="468.7" cy="346.0" r="4.6" fill="#9aa4ad"/>
+<text x="477.7" y="349.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">48.6%</text>
+<text x="477.7" y="349.5" fill="#9aa4ad" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">48.6%</text>
+<text x="28.0" y="349.5" font-size="9.5" fill="#9aa4ad" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">completed · 24,018</text>
+<line x1="474.9" y1="361.0" x2="488.3" y2="361.0" stroke="#8c2318" stroke-width="1.4"/>
+<line x1="474.9" y1="357.5" x2="474.9" y2="364.5" stroke="#8c2318" stroke-width="1.4"/>
+<line x1="488.3" y1="357.5" x2="488.3" y2="364.5" stroke="#8c2318" stroke-width="1.4"/>
+<circle cx="481.6" cy="361.0" r="4.6" fill="#8c2318"/>
+<text x="490.6" y="364.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">51.7%</text>
+<text x="490.6" y="364.5" fill="#8c2318" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">51.7%</text>
+<text x="28.0" y="364.5" font-size="9.5" fill="#8c2318" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">terminated · 3,752</text>
+<text x="672.0" y="356.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="12" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">1.06x</text>
+<text x="672.0" y="356.0" fill="#8a8880" font-size="12" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">1.06x</text>
+<text x="28.0" y="408.0" font-size="11" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">NIH</text>
+<line x1="593.5" y1="420.0" x2="614.7" y2="420.0" stroke="#9aa4ad" stroke-width="1.4"/>
+<line x1="593.5" y1="416.5" x2="593.5" y2="423.5" stroke="#9aa4ad" stroke-width="1.4"/>
+<line x1="614.7" y1="416.5" x2="614.7" y2="423.5" stroke="#9aa4ad" stroke-width="1.4"/>
+<circle cx="604.6" cy="420.0" r="4.6" fill="#9aa4ad"/>
+<text x="613.6" y="423.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">80.9%</text>
+<text x="613.6" y="423.5" fill="#9aa4ad" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">80.9%</text>
+<text x="28.0" y="423.5" font-size="9.5" fill="#9aa4ad" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">completed · 932</text>
+<line x1="599.9" y1="435.0" x2="638.2" y2="435.0" stroke="#8c2318" stroke-width="1.4"/>
+<line x1="599.9" y1="431.5" x2="599.9" y2="438.5" stroke="#8c2318" stroke-width="1.4"/>
+<line x1="638.2" y1="431.5" x2="638.2" y2="438.5" stroke="#8c2318" stroke-width="1.4"/>
+<circle cx="621.4" cy="435.0" r="4.6" fill="#8c2318"/>
+<text x="630.4" y="438.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">84.9%</text>
+<text x="630.4" y="438.5" fill="#8c2318" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">84.9%</text>
+<text x="28.0" y="438.5" font-size="9.5" fill="#8c2318" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">terminated · 238</text>
+<text x="672.0" y="430.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="12" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">1.05x</text>
+<text x="672.0" y="430.0" fill="#8a8880" font-size="12" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">1.05x</text>
+<text x="28.0" y="482.0" font-size="11" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">other federal</text>
+<line x1="503.3" y1="494.0" x2="526.3" y2="494.0" stroke="#9aa4ad" stroke-width="1.4"/>
+<line x1="503.3" y1="490.5" x2="503.3" y2="497.5" stroke="#9aa4ad" stroke-width="1.4"/>
+<line x1="526.3" y1="490.5" x2="526.3" y2="497.5" stroke="#9aa4ad" stroke-width="1.4"/>
+<circle cx="514.9" cy="494.0" r="4.6" fill="#9aa4ad"/>
+<text x="523.9" y="497.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">59.6%</text>
+<text x="523.9" y="497.5" fill="#9aa4ad" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">59.6%</text>
+<text x="28.0" y="497.5" font-size="9.5" fill="#9aa4ad" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">completed · 1,235</text>
+<line x1="386.6" y1="509.0" x2="454.7" y2="509.0" stroke="#8c2318" stroke-width="1.4"/>
+<line x1="386.6" y1="505.5" x2="386.6" y2="512.5" stroke="#8c2318" stroke-width="1.4"/>
+<line x1="454.7" y1="505.5" x2="454.7" y2="512.5" stroke="#8c2318" stroke-width="1.4"/>
+<circle cx="419.1" cy="509.0" r="4.6" fill="#8c2318"/>
+<text x="428.1" y="512.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">36.8%</text>
+<text x="428.1" y="512.5" fill="#8c2318" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">36.8%</text>
+<text x="28.0" y="512.5" font-size="9.5" fill="#8c2318" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">terminated · 133</text>
+<text x="672.0" y="504.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="12" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">0.62x</text>
+<text x="672.0" y="504.0" fill="#8c2318" font-size="12" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">0.62x</text>
+<text x="28.0" y="556.0" font-size="11" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">other government</text>
+<line x1="278.7" y1="568.0" x2="285.1" y2="568.0" stroke="#9aa4ad" stroke-width="1.4"/>
+<line x1="278.7" y1="564.5" x2="278.7" y2="571.5" stroke="#9aa4ad" stroke-width="1.4"/>
+<line x1="285.1" y1="564.5" x2="285.1" y2="571.5" stroke="#9aa4ad" stroke-width="1.4"/>
+<circle cx="281.6" cy="568.0" r="4.6" fill="#9aa4ad"/>
+<text x="290.6" y="571.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">4.2%</text>
+<text x="290.6" y="571.5" fill="#9aa4ad" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">4.2%</text>
+<text x="28.0" y="571.5" font-size="9.5" fill="#9aa4ad" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">completed · 2,628</text>
+<line x1="266.9" y1="583.0" x2="288.5" y2="583.0" stroke="#8c2318" stroke-width="1.4"/>
+<line x1="266.9" y1="579.5" x2="266.9" y2="586.5" stroke="#8c2318" stroke-width="1.4"/>
+<line x1="288.5" y1="579.5" x2="288.5" y2="586.5" stroke="#8c2318" stroke-width="1.4"/>
+<circle cx="272.6" cy="583.0" r="4.6" fill="#8c2318"/>
+<text x="281.6" y="586.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">2.0%</text>
+<text x="281.6" y="586.5" fill="#8c2318" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">2.0%</text>
+<text x="28.0" y="586.5" font-size="9.5" fill="#8c2318" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">terminated · 147</text>
+<text x="672.0" y="578.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="12" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">0.49x</text>
+<text x="672.0" y="578.0" fill="#8c2318" font-size="12" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">0.49x</text>
+<text x="28.0" y="664.0" font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">the intuition this rules out</text>
+<text x="28.0" y="684.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">A terminated trial is the one nobody wants to write up — the drug did not work, the money</text>
+<text x="28.0" y="699.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">went, the enrolment never came. If the register's silence had a shape, that is where it</text>
+<text x="28.0" y="714.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">should be deepest. It is the other way round, and the effect is largest inside the</text>
+<text x="28.0" y="729.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">university and hospital group, which is about 70% of both arms and has the lowest reporting</text>
+<text x="28.0" y="744.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">rate of any large class.</text>
+<text x="828.0" y="666.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="11" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">what it does not claim</text>
+<text x="828.0" y="666.0" fill="#8a8880" font-size="11" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">what it does not claim</text>
+<text x="828.0" y="684.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">A mechanism. Stopping early may close a</text>
+<text x="828.0" y="698.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">project in a way finishing does not, but</text>
+<text x="828.0" y="712.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the register cannot separate that from a</text>
+<text x="828.0" y="726.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">dozen other stories. The measured fact is</text>
+<text x="828.0" y="740.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the ratio. Withdrawn studies are excluded:</text>
+<text x="828.0" y="754.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">they never enrolled anyone, so there is</text>
+<text x="828.0" y="768.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">nothing to report.</text>
+<line x1="28" y1="780.0" x2="1172" y2="780.0" stroke="#e3e2db"/>
+<text x="28.0" y="798.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">ClinicalTrials.gov API v2, fetched 2026-09-22. Population as figure 3, restricted to completions 2012–2021. Intervals are 95% Wilson, drawn because</text>
+<text x="28.0" y="812.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the cells span two orders of magnitude — the two classes that reverse the finding have 133 and 147 terminated trials and their intervals say so.</text>
+<text x="28.0" y="826.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Classes with under 120 completed or 100 terminated trials are not drawn.</text>
+</svg>

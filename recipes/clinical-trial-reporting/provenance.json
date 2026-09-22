@@ -1,0 +1,145 @@
+{
+  "method_version": "1.0.0",
+  "_method_version": "1.0.0 publishes twelve figures on one API, walked three times. Two of the three walks exist because the first one requested whole modules and then extracted only the columns its map named - study start date, intervention type, conditions and location country were downloaded and discarded. The second walk overturned the recipe's headline: what read as a compliance failure is mostly the statute's own scope. Figures are numbered in reading order, which is not the order they were built in.",
+  "retrieved": "2026-09-22",
+  "source": {
+    "publisher": "US National Library of Medicine, ClinicalTrials.gov",
+    "api": "https://clinicaltrials.gov/api/v2",
+    "api_version_at_fetch": "2.0.5",
+    "data_timestamp_at_fetch": "2026-09-21T09:00:05",
+    "auth": "none",
+    "licence": "US federal work, no copyright in the US",
+    "studies_at_fetch": 603730,
+    "note": "Live and additive; the register is updated daily. Every figure is a statement about one fetch. Walked in full three times - 604 pages each at 1,000 studies a page.",
+    "screens": {
+      "same query twice": "603,730 both times",
+      "a nonsense filter": "HTTP 400, `filter.banana` is unknown parameter",
+      "a nonsense value": "HTTP 400, naming the parameter",
+      "a nonsense page token": "HTTP 400, Incorrect pageToken format",
+      "a nonsense FIELD PATH": "SILENT - returns empty strings for every row, indistinguishable from a blank column. Both walks check every column against page one for this reason; the check caught two dead columns before 600,000 rows were written.",
+      "hasResults vs a results date": "agree exactly, zero disagreements either way",
+      "date precision": "39.3% of primary completion dates carry no day of month",
+      "version history": "/api/v2/.../history returns 404 and /api/int/.../history returns 403 - absence versus refusal. The estimate is overwritten by the actual, so date slip is not measurable from a snapshot.",
+      "connection cost": "~134s on connect, ~0.3-1s per request after. Measured through urllib, which opens a fresh connection per call, every request reads as 135s. Host-pair specific: search.rcsb.org connected in 0.3s from the same machine."
+    }
+  },
+  "cache": {
+    "note": "Not a source download. Three assembled walks, recorded so a forker can tell whether their refetch reproduced the published figures.",
+    "files": {
+      "studies.csv.gz": {
+        "sha256": "bd29e303dc1bf9a21d2cae53b67655513f797de8fdd2826a7ecffd3bc2e5633d",
+        "bytes": 26019684
+      },
+      "extra.csv.gz": {
+        "sha256": "87bb114da05f53e27ed70eb3227da3c535a3977964c99d589688ed78bd76f57b",
+        "bytes": 15155270
+      },
+      "names.csv.gz": {
+        "sha256": "8cd5f7747e73c0a201f92ff223d26f2e403d5797d3535f9c2e84a408c1989a83",
+        "bytes": 17378606
+      }
+    }
+  },
+  "headline": {
+    "shared_population": 253429,
+    "hazard_baseline_per_month": 0.0023,
+    "hazard_deadline_window": 0.0459,
+    "hazard_ratio": 20,
+    "hazard_ratio_by_sponsor": {
+      "INDUSTRY": 82,
+      "NIH": 28,
+      "FED": 24,
+      "NETWORK": 21,
+      "OTHER": 9,
+      "OTHER_GOV": 1.4
+    },
+    "day_precision_peak_week": 0.0317,
+    "day_precision_next_week": 0.0043,
+    "most_common_exact_lag_days": 364,
+    "era_spike_ratio": {
+      "2008-2012": 22.1,
+      "2013-2016": 12.8,
+      "2017-2020": 22.1,
+      "2021-2023": 25.1
+    },
+    "three_year_rate_by_completion_year": {
+      "2008": 0.205,
+      "2016": 0.257,
+      "2023": 0.245
+    },
+    "one_year_rate_by_completion_year": {
+      "2008": 0.055,
+      "2016": 0.116,
+      "2023": 0.128
+    },
+    "three_year_rate_by_sponsor": {
+      "NIH": 0.831,
+      "FED": 0.574,
+      "INDUSTRY": 0.5,
+      "NETWORK": 0.368,
+      "OTHER": 0.171,
+      "OTHER_GOV": 0.033
+    },
+    "other_share_of_window": 0.75,
+    "unknown_share_by_registration_year": {
+      "2005": 0.084,
+      "2023": 0.271,
+      "2025": 0.003,
+      "2026": 0.0
+    },
+    "retrospective_registration_band": [
+      0.181,
+      0.236
+    ],
+    "terminated_vs_completed_three_year": {
+      "all": [
+        0.243,
+        0.379
+      ],
+      "OTHER": [
+        0.164,
+        0.316
+      ]
+    },
+    "sponsor_scale_threshold": {
+      "1": 0.19,
+      "6-20": 0.176,
+      "101-500": 0.309,
+      "501+": 0.5
+    },
+    "enrollment_effect_reverses": {
+      "INDUSTRY": [
+        0.367,
+        0.686
+      ],
+      "OTHER": [
+        0.296,
+        0.161
+      ]
+    },
+    "statutory_scope_quadrant": {
+      "regulated_us": 0.671,
+      "regulated_no_us": 0.133,
+      "other_us": 0.179,
+      "other_no_us": 0.034
+    },
+    "scope_effects_independent": {
+      "us_site_among_regulated": 5.0,
+      "us_site_among_other": 5.3,
+      "regulated_with_us": 3.8,
+      "regulated_without_us": 3.9
+    },
+    "five_year_completion_by_start_year": {
+      "2008": 0.77,
+      "2021": 0.64
+    },
+    "product_key_phase_time_correlation_median": 0.092
+  },
+  "boundaries": [
+    "Not a compliance rate. IND/IDE status is never published, so a trial with no US site may still be an applicable clinical trial and is counted out of scope.",
+    "No cost, price, revenue or funding field exists anywhere in the schema.",
+    "No approval date or NDC, so time-to-market needs an external join.",
+    "The register carries one enrollment number and a type flag; the actual overwrites the estimate, so plan-versus-outcome needs version history.",
+    "No compound identifier - no NDC, UNII or ChEMBL - so a product key is a free-text name, and the largest keys are backbone agents rather than development programmes."
+  ]
+}

@@ -26,6 +26,23 @@ Fifteen, most recent first. Each links its own write-up.
   years and half the country's remaining room belongs to two companies. Half the evidence no
   longer exists at source: the register overwrites itself and the 2021 edition returns 404, so
   both workbooks are committed under the rule's own exception.
+- **[Almost every apparent behaviour in a trial register turns out to be structure](recipes/clinical-trial-reporting/)** —
+  twelve figures on ClinicalTrials.gov's 603,730 registered studies, walked in full three
+  times. FDAAA 801 requires results within 12 months of primary completion, and the register
+  obeys on exactly one day: the reporting hazard runs 0.23% a month, spikes to **4.6% in the
+  deadline month — twenty times baseline — and collapses to 1.25% the month after, never
+  recovering**. On day-precision dates it is sharper still, a 7.4-fold drop across one week,
+  with 364 days the single most common lag. But **2008–2012 completions already spike 22.1x**,
+  the same as 2017–2020, so the Final Rule neither created the wall nor sharpened it. Three-year
+  reporting has been flat near 25% for fifteen years while one-year reporting tripled — the rule
+  moved the reporters earlier and recruited nobody. **And the pooled quarter was measuring scope,
+  not apathy**: crossed with the statute's own two tests, reporting is **67.1% for a regulated
+  product with a US site against 3.4% outside both**, two independent multipliers, and inside
+  university sponsors alone the same tests give 68.8% against 5.2%. Also here: a status field
+  that is a two-year timer (UNKNOWN is 0.0% of 2026 registrations), a fifth of trials registered
+  *after* they finished which predicts non-reporting 3–5x inside every sponsor class, terminated
+  trials reported **more** than completed ones, sample size that reverses sign between industry
+  and universities, and trials that look three times faster since 2008 and are slower.
 - **[The Protein Data Bank is a record of what people chose to solve](recipes/pdb-deposition-choices/)** —
   nine figures on 260,089 solved protein structures, from about two hundred faceted queries. A
   sixth cites "To be published" and it is not neglect: structural-genomics consortia run

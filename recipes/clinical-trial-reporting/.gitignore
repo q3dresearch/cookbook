@@ -1,0 +1,2 @@
+# Never commit data. The ctg*.py walks retrieve it and print drift against provenance.json.
+artifacts/data/

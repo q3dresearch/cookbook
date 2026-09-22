@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'><rect width="1200" height="800" fill="#fcfcfb"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">The flat quarter is an average of two fields that barely overlap</text>
+<text x="28.0" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">FOR</text>
+<text x="28.0" y="77.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">anyone quoting a register-wide reporting rate</text>
+<text x="409.3" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">DECIDE</text>
+<text x="409.3" y="77.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">whether a pooled rate describes anybody in particular</text>
+<text x="790.7" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">WRONG IF</text>
+<text x="790.7" y="77.0" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the sponsor classes sit within a few points of each other</text>
+<line x1="28" y1="86.5" x2="1172" y2="86.5" stroke="#e3e2db"/>
+<line x1="78.0" y1="514.0" x2="602.0" y2="514.0" stroke="#f0efe9"/>
+<line x1="78.0" y1="514.0" x2="78.0" y2="202.0" stroke="#f0efe9"/>
+<text x="70.0" y="517.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">0%</text>
+<text x="78.0" y="532.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">0%</text>
+<line x1="78.0" y1="431.9" x2="602.0" y2="431.9" stroke="#f0efe9"/>
+<line x1="215.9" y1="514.0" x2="215.9" y2="202.0" stroke="#f0efe9"/>
+<text x="70.0" y="434.9" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">25%</text>
+<text x="215.9" y="532.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">25%</text>
+<line x1="78.0" y1="349.8" x2="602.0" y2="349.8" stroke="#f0efe9"/>
+<line x1="353.8" y1="514.0" x2="353.8" y2="202.0" stroke="#f0efe9"/>
+<text x="70.0" y="352.8" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">50%</text>
+<text x="353.8" y="532.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">50%</text>
+<line x1="78.0" y1="267.7" x2="602.0" y2="267.7" stroke="#f0efe9"/>
+<line x1="491.7" y1="514.0" x2="491.7" y2="202.0" stroke="#f0efe9"/>
+<text x="70.0" y="270.7" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">75%</text>
+<text x="491.7" y="532.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">75%</text>
+<text x="28.0" y="150.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">share reporting within three years</text>
+<text x="28.0" y="550.0" font-size="10" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">share reporting within one year — the statutory window</text>
+<path d="M78.0,514.0 L602.0,202.0" fill="none" stroke="#8a8880" stroke-width="1.1" stroke-dasharray="4 3"/>
+<text x="408.9" y="264.4" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">on this line, everyone who ever</text>
+<text x="408.9" y="264.4" fill="#8a8880" font-size="9" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">on this line, everyone who ever</text>
+<text x="408.9" y="275.4" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">reports does so within the year</text>
+<text x="408.9" y="275.4" fill="#8a8880" font-size="9" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">reports does so within the year</text>
+<circle cx="117.6" cy="457.8" r="30.0" fill="#8c2318" fill-opacity="0.20" stroke="#8c2318" stroke-width="1.5"/>
+<circle cx="117.6" cy="457.8" r="2" fill="#8c2318"/>
+<text x="154.6" y="460.8" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">university, hospital, individual</text>
+<text x="154.6" y="460.8" fill="#8c2318" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">university, hospital, individual</text>
+<text x="154.6" y="472.8" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">74,574 trials</text>
+<text x="154.6" y="472.8" fill="#8a8880" font-size="9" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">74,574 trials</text>
+<circle cx="219.6" cy="349.7" r="17.5" fill="#1b7f5a" fill-opacity="0.20" stroke="#1b7f5a" stroke-width="1.5"/>
+<circle cx="219.6" cy="349.7" r="2" fill="#1b7f5a"/>
+<text x="195.1" y="352.7" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">industry</text>
+<text x="195.1" y="352.7" fill="#1b7f5a" font-size="10" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">industry</text>
+<text x="195.1" y="364.7" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums">20,137 trials</text>
+<text x="195.1" y="364.7" fill="#8a8880" font-size="9" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums">20,137 trials</text>
+<circle cx="87.3" cy="503.0" r="8.6" fill="#8c2318" fill-opacity="0.20" stroke="#8c2318" stroke-width="1.5"/>
+<circle cx="87.3" cy="503.0" r="2" fill="#8c2318"/>
+<text x="87.3" y="524.6" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">other government</text>
+<text x="87.3" y="524.6" fill="#8c2318" font-size="10" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">other government</text>
+<text x="87.3" y="535.6" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">2,306 trials</text>
+<text x="87.3" y="535.6" fill="#8a8880" font-size="9" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">2,306 trials</text>
+<circle cx="199.7" cy="325.4" r="7.1" fill="#1b7f5a" fill-opacity="0.20" stroke="#1b7f5a" stroke-width="1.5"/>
+<circle cx="199.7" cy="325.4" r="2" fill="#1b7f5a"/>
+<text x="213.8" y="328.4" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">other federal agency</text>
+<text x="213.8" y="328.4" fill="#1b7f5a" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">other federal agency</text>
+<text x="213.8" y="340.4" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">1,038 trials</text>
+<text x="213.8" y="340.4" fill="#8a8880" font-size="9" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">1,038 trials</text>
+<circle cx="276.9" cy="241.0" r="6.7" fill="#1b7f5a" fill-opacity="0.20" stroke="#1b7f5a" stroke-width="1.5"/>
+<circle cx="276.9" cy="241.0" r="2" fill="#1b7f5a"/>
+<text x="290.7" y="244.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">NIH</text>
+<text x="290.7" y="244.0" fill="#1b7f5a" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">NIH</text>
+<text x="290.7" y="256.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">829 trials</text>
+<text x="290.7" y="256.0" fill="#8a8880" font-size="9" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">829 trials</text>
+<circle cx="168.2" cy="393.0" r="6.5" fill="#4a7fa8" fill-opacity="0.20" stroke="#4a7fa8" stroke-width="1.5"/>
+<circle cx="168.2" cy="393.0" r="2" fill="#4a7fa8"/>
+<text x="181.6" y="396.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">research network</text>
+<text x="181.6" y="396.0" fill="#4a7fa8" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">research network</text>
+<text x="181.6" y="408.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">673 trials</text>
+<text x="181.6" y="408.0" fill="#8a8880" font-size="9" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">673 trials</text>
+<circle cx="140.1" cy="433.3" r="5" fill="none" stroke="#0b0b0b" stroke-width="2"/>
+<text x="150.1" y="425.3" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">pooled 24.6%</text>
+<text x="150.1" y="425.3" fill="#0b0b0b" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">pooled 24.6%</text>
+<text x="28.0" y="572.0" font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">a twenty-five-fold range, and the pooled figure describes nobody</text>
+<text x="28.0" y="592.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">University, hospital and individual sponsors are 74,574 of 99,557 trials here — 75% —</text>
+<text x="28.0" y="607.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">so the register-wide 24.6% is mostly their rate, pulled up by a much smaller group</text>
+<text x="28.0" y="622.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">reporting three times as often. Every class sits well below the diagonal, so reporting</text>
+<text x="28.0" y="637.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">in years two and three is the norm everywhere, not the exception.</text>
+<text x="700.0" y="150.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">each class's own three-year rate, by completion year</text>
+<line x1="742.0" y1="454.0" x2="1046.0" y2="454.0" stroke="#f0efe9"/>
+<text x="735.0" y="457.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">0%</text>
+<line x1="742.0" y1="390.0" x2="1046.0" y2="390.0" stroke="#f0efe9"/>
+<text x="735.0" y="393.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">25%</text>
+<line x1="742.0" y1="326.0" x2="1046.0" y2="326.0" stroke="#f0efe9"/>
+<text x="735.0" y="329.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">50%</text>
+<line x1="742.0" y1="262.0" x2="1046.0" y2="262.0" stroke="#f0efe9"/>
+<text x="735.0" y="265.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">75%</text>
+<line x1="742.0" y1="198.0" x2="1046.0" y2="198.0" stroke="#f0efe9"/>
+<text x="735.0" y="201.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">100%</text>
+<text x="742.0" y="471.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2010</text>
+<text x="843.3" y="471.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2014</text>
+<text x="944.7" y="471.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2018</text>
+<text x="1046.0" y="471.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2022</text>
+<text x="700.0" y="488.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">year the trial's primary completion fell</text>
+<path d="M742.0,354.6 L767.3,353.1 L792.7,345.6 L818.0,344.3 L843.3,335.6 L868.7,335.5 L894.0,333.7 L919.3,326.9 L944.7,323.3 L970.0,318.9 L995.3,317.9 L1020.7,324.5 L1046.0,329.0" fill="none" stroke="#1b7f5a" stroke-width="2.4"/>
+<text x="1053.0" y="332.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">industry</text>
+<text x="1053.0" y="332.0" fill="#1b7f5a" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">industry</text>
+<path d="M742.0,416.8 L767.3,413.6 L792.7,412.8 L818.0,411.4 L843.3,406.8 L868.7,408.7 L894.0,407.5 L919.3,412.0 L944.7,411.9 L970.0,411.0 L995.3,410.8 L1020.7,408.9 L1046.0,408.0" fill="none" stroke="#8c2318" stroke-width="2.4"/>
+<text x="1053.0" y="411.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">university</text>
+<text x="1053.0" y="411.0" fill="#8c2318" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">university</text>
+<path d="M767.3,445.6 L792.7,439.8 L818.0,432.7 L843.3,445.4 L868.7,446.1 L894.0,445.5 L919.3,443.0 L944.7,445.0 L970.0,447.1 L995.3,445.8 L1020.7,445.5 L1046.0,447.6" fill="none" stroke="#8c2318" stroke-width="2.4"/>
+<text x="1053.0" y="450.6" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">other government</text>
+<text x="1053.0" y="450.6" fill="#8c2318" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">other government</text>
+<path d="M742.0,393.7 L767.3,393.3 L792.7,390.3 L818.0,389.5 L843.3,386.3 L868.7,389.1 L894.0,388.3 L919.3,392.3 L944.7,392.2 L970.0,391.9 L995.3,391.9 L1020.7,391.6 L1046.0,391.4" fill="none" stroke="#0b0b0b" stroke-width="2.6" stroke-dasharray="5 3"/>
+<text x="1053.0" y="394.4" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">pooled</text>
+<text x="1053.0" y="394.4" fill="#0b0b0b" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">pooled</text>
+<text x="700.0" y="522.0" font-size="12" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">the pooled line is flat because the flat group is most of it</text>
+<text x="700.0" y="540.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">NIH gained about 43 points and industry about 10 across these</text>
+<text x="700.0" y="554.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">cohorts, while university and hospital sponsors gained 3 and other</text>
+<text x="700.0" y="568.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">government lost ground. The dashed pooled line barely moves because</text>
+<text x="700.0" y="582.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the group that did not improve is three quarters of the register.</text>
+<text x="700.0" y="596.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Figure 3's flat series is composition, not stasis — and reading it</text>
+<text x="700.0" y="610.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">as “nothing changed” misses that the improvement is real and</text>
+<text x="700.0" y="624.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">confined.</text>
+<line x1="28" y1="716.0" x2="1172" y2="716.0" stroke="#e3e2db"/>
+<text x="28.0" y="734.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">ClinicalTrials.gov API v2, fetched 2026-09-22. Population as figure 3: interventional, ACTUAL primary completion, not phase 1; here restricted to</text>
+<text x="28.0" y="748.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">completions 2015–2021 so every class has three years of follow-up, 99,557 trials. `leadSponsorClass` names the *lead* sponsor only — a university</text>
+<text x="28.0" y="762.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">running an industry-funded trial files as OTHER — so this separates who filed, not who paid, and the industry figure is a floor. Classes with under</text>
+<text x="28.0" y="776.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">150 trials in the window are not drawn. Reporting means a results submission date exists; non-reporters stay in every denominator.</text>
+</svg>

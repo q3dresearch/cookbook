@@ -1,0 +1,2 @@
+run_date,method_version,studies,population,hazard_ratio,industry_spike,day_peak_week,era_2008_ratio,three_year_2023,other_three_year,retrospective_low,scope_reg_us,scope_other_nous,five_year_2021
+2026-09-22,1.0.0,603730,253429,20,82,0.0317,22.1,0.245,0.171,0.181,0.671,0.034,0.64

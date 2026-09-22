@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'><rect width="1200" height="820" fill="#fcfcfb"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">Bigger trials get reported. Only if industry runs them.</text>
+<text x="28.0" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">FOR</text>
+<text x="28.0" y="77.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">anyone putting trial size into a model of reporting</text>
+<text x="409.3" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">DECIDE</text>
+<text x="409.3" y="77.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">whether sample size is a property of the trial or of its</text>
+<text x="409.3" y="90.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">sponsor</text>
+<text x="790.7" y="62.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">WRONG IF</text>
+<text x="790.7" y="77.0" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the two classes bend the same way as the pooled curve</text>
+<line x1="28" y1="100.0" x2="1172" y2="100.0" stroke="#e3e2db"/>
+<line x1="78.0" y1="538.0" x2="682.0" y2="538.0" stroke="#f0efe9"/>
+<text x="70.0" y="541.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">0%</text>
+<line x1="78.0" y1="450.5" x2="682.0" y2="450.5" stroke="#f0efe9"/>
+<text x="70.0" y="453.5" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">20%</text>
+<line x1="78.0" y1="363.1" x2="682.0" y2="363.1" stroke="#f0efe9"/>
+<text x="70.0" y="366.1" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">40%</text>
+<line x1="78.0" y1="275.6" x2="682.0" y2="275.6" stroke="#f0efe9"/>
+<text x="70.0" y="278.6" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">60%</text>
+<text x="28.0" y="158.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">share reporting results within three years</text>
+<line x1="189.7" y1="538.0" x2="189.7" y2="543.0" stroke="#8a8880"/>
+<text x="189.7" y="556.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">10</text>
+<line x1="349.6" y1="538.0" x2="349.6" y2="543.0" stroke="#8a8880"/>
+<text x="349.6" y="556.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">100</text>
+<line x1="509.5" y1="538.0" x2="509.5" y2="543.0" stroke="#8a8880"/>
+<text x="509.5" y="556.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">1,000</text>
+<line x1="669.3" y1="538.0" x2="669.3" y2="543.0" stroke="#8a8880"/>
+<text x="669.3" y="556.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">10,000</text>
+<text x="28.0" y="574.0" font-size="10" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">participants enrolled (log scale)</text>
+<path d="M106.2,399.4 L226.6,432.5 L280.6,442.7 L326.8,447.0 L382.2,426.1 L437.6,392.7 L485.7,370.0 L564.2,404.2 L662.0,424.2" fill="none" stroke="#0b0b0b" stroke-width="2.8" stroke-dasharray="5 3"/>
+<circle cx="106.2" cy="399.4" r="3.4" fill="#0b0b0b"/>
+<circle cx="226.6" cy="432.5" r="3.4" fill="#0b0b0b"/>
+<circle cx="280.6" cy="442.7" r="3.4" fill="#0b0b0b"/>
+<circle cx="326.8" cy="447.0" r="3.4" fill="#0b0b0b"/>
+<circle cx="382.2" cy="426.1" r="3.4" fill="#0b0b0b"/>
+<circle cx="437.6" cy="392.7" r="3.4" fill="#0b0b0b"/>
+<circle cx="485.7" cy="370.0" r="3.4" fill="#0b0b0b"/>
+<circle cx="564.2" cy="404.2" r="3.4" fill="#0b0b0b"/>
+<circle cx="662.0" cy="424.2" r="3.4" fill="#0b0b0b"/>
+<text x="670.0" y="427.2" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">pooled — neither curve</text>
+<text x="670.0" y="427.2" fill="#0b0b0b" font-size="10.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">pooled — neither curve</text>
+<text x="670.0" y="439.2" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">26.0%</text>
+<text x="670.0" y="439.2" fill="#0b0b0b" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">26.0%</text>
+<text x="98.2" y="402.4" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums">31.7%</text>
+<text x="98.2" y="402.4" fill="#0b0b0b" font-size="9.5" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums">31.7%</text>
+<path d="M106.2,377.7 L226.6,375.4 L280.6,359.9 L326.8,342.6 L382.2,316.9 L437.6,282.8 L485.7,244.6 L564.2,237.1 L662.0,238.1" fill="none" stroke="#1b7f5a" stroke-width="2.6"/>
+<circle cx="106.2" cy="377.7" r="3.4" fill="#1b7f5a"/>
+<circle cx="226.6" cy="375.4" r="3.4" fill="#1b7f5a"/>
+<circle cx="280.6" cy="359.9" r="3.4" fill="#1b7f5a"/>
+<circle cx="326.8" cy="342.6" r="3.4" fill="#1b7f5a"/>
+<circle cx="382.2" cy="316.9" r="3.4" fill="#1b7f5a"/>
+<circle cx="437.6" cy="282.8" r="3.4" fill="#1b7f5a"/>
+<circle cx="485.7" cy="244.6" r="3.4" fill="#1b7f5a"/>
+<circle cx="564.2" cy="237.1" r="3.4" fill="#1b7f5a"/>
+<circle cx="662.0" cy="238.1" r="3.4" fill="#1b7f5a"/>
+<text x="670.0" y="241.1" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">industry</text>
+<text x="670.0" y="241.1" fill="#1b7f5a" font-size="10.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">industry</text>
+<text x="670.0" y="253.1" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">68.6%</text>
+<text x="670.0" y="253.1" fill="#1b7f5a" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">68.6%</text>
+<text x="98.2" y="380.7" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums">36.7%</text>
+<text x="98.2" y="380.7" fill="#1b7f5a" font-size="9.5" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums">36.7%</text>
+<path d="M106.2,408.3 L226.6,447.5 L280.6,462.5 L326.8,473.8 L382.2,473.3 L437.6,471.9 L485.7,471.6 L564.2,480.4 L662.0,467.5" fill="none" stroke="#4a7fa8" stroke-width="2.6"/>
+<circle cx="106.2" cy="408.3" r="3.4" fill="#4a7fa8"/>
+<circle cx="226.6" cy="447.5" r="3.4" fill="#4a7fa8"/>
+<circle cx="280.6" cy="462.5" r="3.4" fill="#4a7fa8"/>
+<circle cx="326.8" cy="473.8" r="3.4" fill="#4a7fa8"/>
+<circle cx="382.2" cy="473.3" r="3.4" fill="#4a7fa8"/>
+<circle cx="437.6" cy="471.9" r="3.4" fill="#4a7fa8"/>
+<circle cx="485.7" cy="471.6" r="3.4" fill="#4a7fa8"/>
+<circle cx="564.2" cy="480.4" r="3.4" fill="#4a7fa8"/>
+<circle cx="662.0" cy="467.5" r="3.4" fill="#4a7fa8"/>
+<text x="670.0" y="470.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">university, hospital</text>
+<text x="670.0" y="470.5" fill="#4a7fa8" font-size="10.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">university, hospital</text>
+<text x="670.0" y="482.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">16.1%</text>
+<text x="670.0" y="482.5" fill="#4a7fa8" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">16.1%</text>
+<text x="98.2" y="411.3" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums">29.6%</text>
+<text x="98.2" y="411.3" fill="#4a7fa8" font-size="9.5" text-anchor="end" font-weight="600" style="font-variant-numeric: tabular-nums">29.6%</text>
+<circle cx="78.0" cy="538.0" r="4.4" fill="none" stroke="#8c2318" stroke-width="1.8"/>
+<text x="87.0" y="530.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">2,511 trials enrolled nobody</text>
+<text x="87.0" y="530.0" fill="#8c2318" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">2,511 trials enrolled nobody</text>
+<text x="87.0" y="541.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">and none of them reported — correct, not delinquent</text>
+<text x="87.0" y="541.0" fill="#8c2318" font-size="9" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">and none of them reported — correct, not delinquent</text>
+<text x="28.0" y="626.0" font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">the pooled U is the mixing ratio, not a relationship</text>
+<text x="28.0" y="646.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Industry rises monotonically with size and universities drift the other way, so the</text>
+<text x="28.0" y="661.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">dashed pooled curve is neither. The industry share of trials climbs with enrollment and</text>
+<text x="28.0" y="676.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">industry reports three times as often, which bends the average upward at the top and</text>
+<text x="28.0" y="691.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">pulls it down in the middle. Sample size is not a property of the trial here — it is a</text>
+<text x="28.0" y="706.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">proxy for who is running it, and it reverses sign for one of the two classes once that</text>
+<text x="28.0" y="721.0" font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">is held fixed.</text>
+<text x="818.0" y="628.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="11" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">the field's own limits</text>
+<text x="818.0" y="628.0" fill="#8a8880" font-size="11" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">the field's own limits</text>
+<text x="818.0" y="646.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Enrollment spans eight orders of magnitude,</text>
+<text x="818.0" y="660.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">0 to a recorded 188,814,085, so it is logged</text>
+<text x="818.0" y="674.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">here and its top end holds values no trial</text>
+<text x="818.0" y="688.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">has. 35% of the numbers are ESTIMATED — a</text>
+<text x="818.0" y="702.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">plan, not a measurement.</text>
+<line x1="28" y1="750.0" x2="1172" y2="750.0" stroke="#e3e2db"/>
+<text x="28.0" y="768.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">ClinicalTrials.gov API v2, fetched 2026-09-22. Population as figure 3, completions 2012–2021 with an enrollment recorded — 130,335 trials. Points sit</text>
+<text x="28.0" y="782.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">at each band's midpoint on a log axis; the zero-enrollment group cannot be placed on a log scale and is drawn hollow at the left margin. Bands with</text>
+<text x="28.0" y="796.0" font-size="11" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">under 150 trials pooled, or 100 within a class, are not drawn.</text>
+</svg>
