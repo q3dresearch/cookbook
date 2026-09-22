@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="812" viewBox="0 0 1240 812" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'><rect width="1240" height="812" fill="#fcfcfb"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">Inside the competed label, the procedure actually run decides the bid count</text>
+<text x="28.0" y="60.0" font-size="12" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">The 402,070 competed-labelled FY2016 awards, split by solicitation_procedures. Width is awards; height is the share that drew a single bid.</text>
+<text x="28.0" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">FOR</text>
+<text x="28.0" y="101.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">anyone screening on the competed label, or deciding which lever</text>
+<text x="28.0" y="114.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">raises bidder counts</text>
+<text x="422.7" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">DECIDE</text>
+<text x="422.7" y="101.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">whether to read competition off the label or off the procedure</text>
+<text x="422.7" y="114.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">recorded beside it</text>
+<text x="817.3" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">WRONG IF</text>
+<text x="817.3" y="101.0" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the blocks are the same height, or the widest one is not the</text>
+<text x="817.3" y="114.5" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">tallest</text>
+<line x1="28" y1="124.0" x2="1212" y2="124.0" stroke="#e3e2db"/>
+<text x="64.0" y="168.0" font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">each procedure, sized by how much work runs through it</text>
+<text x="64.0" y="185.0" font-size="10" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">block width is awards, block height is the single-bid share, so area is single-bid awards</text>
+<line x1="58.0" y1="552.0" x2="1184.0" y2="552.0" stroke="#f0efe9"/>
+<text x="52.0" y="555.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">0%</text>
+<line x1="58.0" y1="454.9" x2="1184.0" y2="454.9" stroke="#f0efe9"/>
+<text x="52.0" y="457.9" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">20%</text>
+<line x1="58.0" y1="357.7" x2="1184.0" y2="357.7" stroke="#f0efe9"/>
+<text x="52.0" y="360.7" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">40%</text>
+<line x1="58.0" y1="260.6" x2="1184.0" y2="260.6" stroke="#f0efe9"/>
+<text x="52.0" y="263.6" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">60%</text>
+<text x="24" y="552.0" font-size="9.5" fill="#52514e" transform="rotate(-90 24 552.0)">share of the block's awards that drew a single bid</text>
+<rect x="64.0" y="261.1" width="508.5" height="290.9" fill="#8c2318" fill-opacity="0.80"/>
+<text x="319.3" y="239.1" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="11" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">order against a vehicle</text>
+<text x="319.3" y="239.1" fill="#8c2318" font-size="11" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">order against a vehicle</text>
+<text x="319.3" y="253.1" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="11" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">60% single-bid</text>
+<text x="319.3" y="253.1" fill="#8c2318" font-size="11" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">60% single-bid</text>
+<text x="319.3" y="569.0" font-size="9.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">183,272 awards</text>
+<rect x="574.5" y="358.9" width="385.6" height="193.1" fill="#c07a1e" fill-opacity="0.80"/>
+<text x="768.3" y="336.9" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="11" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">simplified acquisition</text>
+<text x="768.3" y="336.9" fill="#c07a1e" font-size="11" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">simplified acquisition</text>
+<text x="768.3" y="350.9" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="11" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">40% single-bid</text>
+<text x="768.3" y="350.9" fill="#c07a1e" font-size="11" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">40% single-bid</text>
+<text x="768.3" y="569.0" font-size="9.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">139,140 awards</text>
+<rect x="962.1" y="451.2" width="193.3" height="100.8" fill="#1b7f5a" fill-opacity="0.80"/>
+<text x="1059.7" y="429.2" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="11" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">proposal or quote solicited</text>
+<text x="1059.7" y="429.2" fill="#1b7f5a" font-size="11" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">proposal or quote solicited</text>
+<text x="1059.7" y="443.2" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="11" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">21% single-bid</text>
+<text x="1059.7" y="443.2" fill="#1b7f5a" font-size="11" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">21% single-bid</text>
+<text x="1059.7" y="569.0" font-size="9.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">70,095 awards</text>
+<rect x="1157.4" y="520.4" width="11.2" height="31.6" fill="#4a7fa8" fill-opacity="0.80"/>
+<rect x="1170.6" y="486.2" width="4.9" height="65.8" fill="#9aa4ad" fill-opacity="0.80"/>
+<rect x="1177.4" y="434.0" width="4.6" height="118.0" fill="#9aa4ad" fill-opacity="0.80"/>
+<text x="1184.0" y="218.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">sealed bid or two-step: 4,745 awards, 7% single-bid</text>
+<text x="1184.0" y="218.0" fill="#4a7fa8" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">sealed bid or two-step: 4,745 awards, 7% single-bid</text>
+<text x="1184.0" y="232.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">architect-engineer: 2,464 awards, 14% single-bid</text>
+<text x="1184.0" y="232.0" fill="#9aa4ad" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">architect-engineer: 2,464 awards, 14% single-bid</text>
+<text x="1184.0" y="246.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">other or not recorded: 2,354 awards, 24% single-bid</text>
+<text x="1184.0" y="246.0" fill="#9aa4ad" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">other or not recorded: 2,354 awards, 24% single-bid</text>
+<text x="64.0" y="588.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the widest block is also the tallest, which is the whole finding</text>
+<text x="28.0" y="618.0" font-size="12" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">and that is where figure 5's headline comes from</text>
+<text x="28.0" y="638.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Of the 206,656 awards carrying the strongest label, FULL AND OPEN COMPETITION, 75% are orders placed against a vehicle that was competed once, earlier, by someone else, and 17% carry in</text>
+<text x="28.0" y="652.5" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the same row a recorded reason why only one source could be solicited -- 98% of those drew one bid. The label is inherited from the vehicle rather than earned by the order.</text>
+<line x1="28" y1="732.0" x2="1212" y2="732.0" stroke="#e3e2db"/>
+<text x="28.0" y="750.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">USAspending API v2 bulk download, fetched 2026-09-22; FY2016, eleven civilian departments. The 402,070 awards carrying a competed label and a usable bid count, where a recorded 0 offers</text>
+<text x="28.0" y="764.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">is not a count. CAVEAT: an order under a competed vehicle was competed once, at the vehicle, so this is not a claim that the label is false. Defense (68.6% of federal contract awards) is</text>
+<text x="28.0" y="778.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">absent.</text>
+</svg>

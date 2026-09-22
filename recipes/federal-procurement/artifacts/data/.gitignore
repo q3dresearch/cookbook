@@ -1,0 +1,26 @@
+# Raw corpora refetch; the derived receipts do not, because the source moves.
+#
+# Per webprobes/doctrine/condensed-receipts.md: the zips are ~1.3 GB and USAspending
+# regenerates them on request, so they are never committed. The receipts below are the
+# evidence for the figures -- 297 KB against 1.3 GB -- and without them nothing here can
+# be checked or redrawn. Exclude the directory's contents, then name what stays, the same
+# way this repo promotes named files rather than directories.
+artifacts/data/*
+*
+!.gitignore
+!categories-fy2016.json
+!comparability.json
+!condensed-fy2015.json
+!condensed-fy2016.json
+!condensed-fy2017.json
+!farlines.json
+!geo-3yr.json
+!modauth-fy2016.json
+!offers-civilian-fy2016.json
+!schedule-civilian-fy2015.json
+!schedule-civilian-fy2016.json
+!thresholds.json
+!vehicles-fy2016.json
+# 2.0 MB, and it is the only receipt for two figures. Above the usual 512 KB bar and
+# argued for explicitly rather than let through.
+!notice-fy2016.json

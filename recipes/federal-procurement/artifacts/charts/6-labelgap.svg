@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="740" viewBox="0 0 1240 740" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'><rect width="1240" height="740" fill="#fcfcfb"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">Every department labels more work competed than draws a second bid</text>
+<text x="28.0" y="60.0" font-size="12" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">And restricting who may bid raises the number of bids in 11 of 11 departments. One mark per department; area is its awards.</text>
+<text x="28.0" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">FOR</text>
+<text x="28.0" y="101.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">anyone ranking agencies on a competition rate, or scoring a</text>
+<text x="28.0" y="114.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">set-aside on bidder turnout</text>
+<text x="422.7" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">DECIDE</text>
+<text x="422.7" y="101.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">whether the label can be corrected with a constant, and whether</text>
+<text x="422.7" y="114.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">reserving a competition shrinks the field</text>
+<text x="817.3" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">WRONG IF</text>
+<text x="817.3" y="101.0" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the departments sit on the zero-gap line, every gap is the same</text>
+<text x="817.3" y="114.5" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">width, or set-asides sit above the diagonal</text>
+<line x1="28" y1="124.0" x2="1212" y2="124.0" stroke="#e3e2db"/>
+<text x="28.0" y="164.0" font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">the label against the count, per department</text>
+<text x="28.0" y="181.0" font-size="10" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">both axes are the same scale, so a constant gap would be a 45 degree line</text>
+<line x1="152.5" y1="552.0" x2="152.5" y2="218.0" stroke="#f0efe9"/>
+<line x1="144.0" y1="543.3" x2="470.0" y2="543.3" stroke="#f0efe9"/>
+<text x="152.5" y="568.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">20%</text>
+<text x="136.0" y="546.3" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">20%</text>
+<line x1="237.1" y1="552.0" x2="237.1" y2="218.0" stroke="#f0efe9"/>
+<line x1="144.0" y1="456.6" x2="470.0" y2="456.6" stroke="#f0efe9"/>
+<text x="237.1" y="568.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">40%</text>
+<text x="136.0" y="459.6" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">40%</text>
+<line x1="321.8" y1="552.0" x2="321.8" y2="218.0" stroke="#f0efe9"/>
+<line x1="144.0" y1="369.8" x2="470.0" y2="369.8" stroke="#f0efe9"/>
+<text x="321.8" y="568.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">60%</text>
+<text x="136.0" y="372.8" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">60%</text>
+<line x1="406.5" y1="552.0" x2="406.5" y2="218.0" stroke="#f0efe9"/>
+<line x1="144.0" y1="283.1" x2="470.0" y2="283.1" stroke="#f0efe9"/>
+<text x="406.5" y="568.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">80%</text>
+<text x="136.0" y="286.1" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">80%</text>
+<text x="28.0" y="586.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">share of its awards labelled competed</text>
+<text x="50" y="552.0" font-size="9.5" fill="#52514e" transform="rotate(-90 50 552.0)">share that drew more than one offer</text>
+<path d="M144.0,552.0 L470.0,218.0" fill="none" stroke="#52514e" stroke-width="1.4" stroke-dasharray="5 3"/>
+<text x="194.8" y="482.6" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">on this line the two</text>
+<text x="194.8" y="482.6" fill="#52514e" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">on this line the two</text>
+<text x="194.8" y="494.6" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">measures would agree</text>
+<text x="194.8" y="494.6" fill="#52514e" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">measures would agree</text>
+<circle cx="349.4" cy="529.3" r="9.3" fill="#8c2318" fill-opacity="0.16" stroke="#8c2318" stroke-width="1.3"/>
+<text x="363.6" y="533.3" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Veterans Affairs</text>
+<text x="363.6" y="533.3" fill="#8c2318" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Veterans Affairs</text>
+<circle cx="400.0" cy="397.3" r="6.9" fill="#8c2318" fill-opacity="0.16" stroke="#8c2318" stroke-width="1.3"/>
+<text x="411.9" y="401.3" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Justice</text>
+<text x="411.9" y="401.3" fill="#8c2318" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Justice</text>
+<circle cx="375.8" cy="477.7" r="5.6" fill="#8c2318" fill-opacity="0.16" stroke="#8c2318" stroke-width="1.3"/>
+<text x="386.4" y="481.7" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Health &amp; Human Services</text>
+<text x="386.4" y="481.7" fill="#8c2318" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Health &amp; Human Services</text>
+<circle cx="381.2" cy="413.1" r="5.6" fill="#8c2318" fill-opacity="0.16" stroke="#8c2318" stroke-width="1.3"/>
+<text x="370.7" y="427.1" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">Homeland Security</text>
+<text x="370.7" y="427.1" fill="#8c2318" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">Homeland Security</text>
+<circle cx="391.4" cy="435.3" r="5.3" fill="#8c2318" fill-opacity="0.16" stroke="#8c2318" stroke-width="1.3"/>
+<text x="401.6" y="439.3" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Agriculture</text>
+<text x="401.6" y="439.3" fill="#8c2318" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Agriculture</text>
+<circle cx="403.1" cy="411.7" r="5.1" fill="#8c2318" fill-opacity="0.16" stroke="#8c2318" stroke-width="1.3"/>
+<text x="413.2" y="403.7" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Interior</text>
+<text x="413.2" y="403.7" fill="#8c2318" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Interior</text>
+<circle cx="376.8" cy="436.1" r="3.6" fill="#8c2318" fill-opacity="0.16" stroke="#8c2318" stroke-width="1.3"/>
+<text x="368.2" y="440.1" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">Commerce</text>
+<text x="368.2" y="440.1" fill="#8c2318" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">Commerce</text>
+<circle cx="383.6" cy="384.3" r="3.4" fill="#8c2318" fill-opacity="0.16" stroke="#8c2318" stroke-width="1.3"/>
+<text x="392.0" y="388.3" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Transportation</text>
+<text x="392.0" y="388.3" fill="#8c2318" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Transportation</text>
+<circle cx="362.4" cy="416.8" r="3.4" fill="#8c2318" fill-opacity="0.16" stroke="#8c2318" stroke-width="1.3"/>
+<text x="354.0" y="420.8" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">NASA</text>
+<text x="354.0" y="420.8" fill="#8c2318" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">NASA</text>
+<circle cx="416.9" cy="410.7" r="3.4" fill="#8c2318" fill-opacity="0.16" stroke="#8c2318" stroke-width="1.3"/>
+<text x="425.3" y="414.7" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">EPA</text>
+<text x="425.3" y="414.7" fill="#8c2318" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">EPA</text>
+<circle cx="359.9" cy="443.4" r="3.4" fill="#8c2318" fill-opacity="0.16" stroke="#8c2318" stroke-width="1.3"/>
+<text x="351.5" y="447.4" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">Energy</text>
+<text x="351.5" y="447.4" fill="#8c2318" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">Energy</text>
+<text x="152.5" y="239.7" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">all 11 below the line; the gap runs 18 to 43 points</text>
+<text x="152.5" y="239.7" fill="#8c2318" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">all 11 below the line; the gap runs 18 to 43 points</text>
+<text x="660.0" y="164.0" font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">and the reserved field draws more bidders</text>
+<text x="660.0" y="181.0" font-size="10" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">competed-labelled awards only, so sole-source set-asides are out</text>
+<line x1="788.6" y1="552.0" x2="788.6" y2="218.0" stroke="#f0efe9"/>
+<line x1="742.0" y1="504.3" x2="1068.0" y2="504.3" stroke="#f0efe9"/>
+<text x="788.6" y="568.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">20%</text>
+<text x="734.0" y="507.3" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">20%</text>
+<line x1="881.7" y1="552.0" x2="881.7" y2="218.0" stroke="#f0efe9"/>
+<line x1="742.0" y1="408.9" x2="1068.0" y2="408.9" stroke="#f0efe9"/>
+<text x="881.7" y="568.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">40%</text>
+<text x="734.0" y="411.9" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">40%</text>
+<line x1="974.9" y1="552.0" x2="974.9" y2="218.0" stroke="#f0efe9"/>
+<line x1="742.0" y1="313.4" x2="1068.0" y2="313.4" stroke="#f0efe9"/>
+<text x="974.9" y="568.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">60%</text>
+<text x="734.0" y="316.4" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">60%</text>
+<line x1="1068.0" y1="552.0" x2="1068.0" y2="218.0" stroke="#f0efe9"/>
+<line x1="742.0" y1="218.0" x2="1068.0" y2="218.0" stroke="#f0efe9"/>
+<text x="1068.0" y="568.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">80%</text>
+<text x="734.0" y="221.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">80%</text>
+<text x="660.0" y="586.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">single-bid share of its OPEN competitions</text>
+<text x="682" y="552.0" font-size="9.5" fill="#52514e" transform="rotate(-90 682 552.0)">single-bid share of its SET-ASIDE competitions</text>
+<path d="M742.0,552.0 L1068.0,218.0" fill="none" stroke="#52514e" stroke-width="1.4" stroke-dasharray="5 3"/>
+<text x="769.9" y="303.9" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">on this line a set-aside</text>
+<text x="769.9" y="303.9" fill="#52514e" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">on this line a set-aside</text>
+<text x="769.9" y="315.9" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">makes no difference</text>
+<text x="769.9" y="315.9" fill="#52514e" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">makes no difference</text>
+<circle cx="1040.4" cy="446.8" r="11.1" fill="#1b7f5a" fill-opacity="0.16" stroke="#1b7f5a" stroke-width="1.3"/>
+<text x="1056.4" y="450.8" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Veterans Affairs</text>
+<text x="1056.4" y="450.8" fill="#1b7f5a" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Veterans Affairs</text>
+<circle cx="865.5" cy="507.9" r="8.9" fill="#1b7f5a" fill-opacity="0.16" stroke="#1b7f5a" stroke-width="1.3"/>
+<text x="851.5" y="521.9" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">Justice</text>
+<text x="851.5" y="521.9" fill="#1b7f5a" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">Justice</text>
+<circle cx="959.3" cy="469.0" r="7.0" fill="#1b7f5a" fill-opacity="0.16" stroke="#1b7f5a" stroke-width="1.3"/>
+<text x="971.4" y="473.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Health &amp; Human Services</text>
+<text x="971.4" y="473.0" fill="#1b7f5a" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Health &amp; Human Services</text>
+<circle cx="873.5" cy="496.9" r="7.0" fill="#1b7f5a" fill-opacity="0.16" stroke="#1b7f5a" stroke-width="1.3"/>
+<text x="885.5" y="500.9" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Homeland Security</text>
+<text x="885.5" y="500.9" fill="#1b7f5a" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Homeland Security</text>
+<circle cx="929.7" cy="453.2" r="6.7" fill="#1b7f5a" fill-opacity="0.16" stroke="#1b7f5a" stroke-width="1.3"/>
+<text x="941.4" y="445.2" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Agriculture</text>
+<text x="941.4" y="445.2" fill="#1b7f5a" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Agriculture</text>
+<circle cx="909.6" cy="475.3" r="6.6" fill="#1b7f5a" fill-opacity="0.16" stroke="#1b7f5a" stroke-width="1.3"/>
+<text x="898.0" y="479.3" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">Interior</text>
+<text x="898.0" y="479.3" fill="#1b7f5a" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">Interior</text>
+<circle cx="921.3" cy="457.1" r="4.5" fill="#1b7f5a" fill-opacity="0.16" stroke="#1b7f5a" stroke-width="1.3"/>
+<text x="911.8" y="449.1" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">Commerce</text>
+<text x="911.8" y="449.1" fill="#1b7f5a" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">Commerce</text>
+<circle cx="811.9" cy="497.7" r="3.5" fill="#1b7f5a" fill-opacity="0.16" stroke="#1b7f5a" stroke-width="1.3"/>
+<text x="803.3" y="501.7" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">Transportation</text>
+<text x="803.3" y="501.7" fill="#1b7f5a" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">Transportation</text>
+<circle cx="884.8" cy="515.9" r="3.4" fill="#1b7f5a" fill-opacity="0.16" stroke="#1b7f5a" stroke-width="1.3"/>
+<text x="893.2" y="519.9" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">NASA</text>
+<text x="893.2" y="519.9" fill="#1b7f5a" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">NASA</text>
+<circle cx="909.8" cy="459.3" r="3.4" fill="#1b7f5a" fill-opacity="0.16" stroke="#1b7f5a" stroke-width="1.3"/>
+<text x="901.4" y="463.3" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">EPA</text>
+<text x="901.4" y="463.3" fill="#1b7f5a" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">EPA</text>
+<circle cx="952.7" cy="518.3" r="3.4" fill="#1b7f5a" fill-opacity="0.16" stroke="#1b7f5a" stroke-width="1.3"/>
+<text x="961.1" y="522.3" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Energy</text>
+<text x="961.1" y="522.3" fill="#1b7f5a" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Energy</text>
+<text x="1064.0" y="532.9" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">all 11 below it: the restricted field</text>
+<text x="1064.0" y="532.9" fill="#1b7f5a" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">all 11 below it: the restricted field</text>
+<text x="1064.0" y="545.9" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">drew more bidders, median -19.6 points</text>
+<text x="1064.0" y="545.9" fill="#1b7f5a" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">drew more bidders, median -19.6 points</text>
+<line x1="28" y1="660.0" x2="1212" y2="660.0" stroke="#e3e2db"/>
+<text x="28.0" y="678.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">USAspending API v2 bulk download, fetched 2026-09-22; FY2016, eleven civilian departments, awards carrying a usable bid count. Departments need 300 awards in each arm to be scored on the</text>
+<text x="28.0" y="692.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">right. CAVEAT: set-aside awards are smaller and smaller awards draw fewer bids, so the size confound runs against the finding rather than producing it. Defense (68.6% of federal contract</text>
+<text x="28.0" y="706.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">awards) is absent.</text>
+</svg>

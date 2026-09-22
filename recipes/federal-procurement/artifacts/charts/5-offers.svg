@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="748" viewBox="0 0 1240 748" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'><rect width="1240" height="748" fill="#fcfcfb"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">A third of awards are labelled competed and drew exactly one bid</text>
+<text x="28.0" y="60.0" font-size="12" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">The two measures of competition that sit on the same row: the procedure the officer recorded, and how many firms answered. On 550,977 FY2016 awards that record a bid count.</text>
+<text x="28.0" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">FOR</text>
+<text x="28.0" y="101.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">anyone ranking agencies on a competition rate, or screening</text>
+<text x="28.0" y="114.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">awards on the competed label</text>
+<text x="422.7" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">DECIDE</text>
+<text x="422.7" y="101.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">whether to measure competition with extent_competed or with the</text>
+<text x="422.7" y="114.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">bid count on the same row</text>
+<text x="817.3" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">WRONG IF</text>
+<text x="817.3" y="101.0" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the label splits the bid count the same way in both directions,</text>
+<text x="817.3" y="114.5" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">or one bid is rare inside the competed label</text>
+<line x1="28" y1="124.0" x2="1212" y2="124.0" stroke="#e3e2db"/>
+<text x="28.0" y="164.0" font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">the label against the count</text>
+<text x="28.0" y="181.0" font-size="10" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">block area is awards; width is how many carry each label</text>
+<rect x="64.0" y="200.0" width="394.9" height="148.4" fill="#8c2318" fill-opacity="0.80"/>
+<rect x="64.0" y="348.4" width="394.9" height="181.6" fill="#4a7fa8" fill-opacity="0.55"/>
+<text x="261.4" y="278.2" font-size="12" fill="#ffffff" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">one bid 45%</text>
+<text x="261.4" y="443.2" font-size="12" fill="#ffffff" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">more than one 55%</text>
+<text x="261.4" y="548.0" font-size="10" fill="#0b0b0b" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">labelled competed</text>
+<text x="261.4" y="562.0" font-size="9.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">73.0% of awards</text>
+<rect x="464.9" y="200.0" width="139.1" height="329.4" fill="#8c2318" fill-opacity="0.80"/>
+<rect x="464.9" y="529.4" width="139.1" height="0.6" fill="#4a7fa8" fill-opacity="0.55"/>
+<text x="534.4" y="368.7" font-size="12" fill="#ffffff" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">one bid 99.8%</text>
+<text x="534.4" y="548.0" font-size="10" fill="#0b0b0b" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">labelled NOT competed</text>
+<text x="534.4" y="562.0" font-size="9.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">26.8% of awards</text>
+<text x="64.0" y="586.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">the red block on the left is 180,868 awards, 33% of the file</text>
+<text x="64.0" y="586.0" fill="#8c2318" font-size="10.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">the red block on the left is 180,868 awards, 33% of the file</text>
+<text x="64.0" y="600.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">the label is a real signal only when it says NOT competed</text>
+<text x="64.0" y="600.0" fill="#52514e" font-size="10.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">the label is a real signal only when it says NOT competed</text>
+<text x="646.0" y="164.0" font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">and the count on its own</text>
+<text x="646.0" y="181.0" font-size="10" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">how many offers the 550,977 scored awards drew</text>
+<rect x="676.0" y="200.0" width="296.6" height="64.0" fill="#8c2318" fill-opacity="0.85"/>
+<text x="825.3" y="282.0" font-size="10" fill="#0b0b0b" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">1 offer</text>
+<text x="825.3" y="297.0" font-size="11" fill="#8c2318" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">59.7%</text>
+<rect x="974.6" y="200.0" width="46.4" height="64.0" fill="#c07a1e" fill-opacity="0.85"/>
+<text x="998.8" y="282.0" font-size="10" fill="#0b0b0b" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2</text>
+<text x="998.8" y="297.0" font-size="11" fill="#c07a1e" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">9.7%</text>
+<rect x="1022.9" y="200.0" width="103.0" height="64.0" fill="#1b7f5a" fill-opacity="0.85"/>
+<text x="1075.4" y="282.0" font-size="10" fill="#0b0b0b" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">3 to 5</text>
+<text x="1075.4" y="297.0" font-size="11" fill="#1b7f5a" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">21.0%</text>
+<rect x="1127.9" y="200.0" width="46.1" height="64.0" fill="#4a7fa8" fill-opacity="0.85"/>
+<text x="1151.9" y="282.0" font-size="10" fill="#0b0b0b" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">6 or more</text>
+<text x="1151.9" y="297.0" font-size="11" fill="#4a7fa8" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">9.6%</text>
+<text x="676.0" y="326.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">a single bid is the modal outcome of federal competition</text>
+<text x="676.0" y="326.0" fill="#52514e" font-size="10.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">a single bid is the modal outcome of federal competition</text>
+<text x="676.0" y="340.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">and 69% of awards drew two firms or fewer</text>
+<text x="676.0" y="340.0" fill="#52514e" font-size="10.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">and 69% of awards drew two firms or fewer</text>
+<text x="646.0" y="392.0" font-size="11.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">the same split counted in dollars, not awards</text>
+<rect x="676.0" y="412.0" width="153.9" height="64.0" fill="#8c2318" fill-opacity="0.80"/>
+<rect x="831.9" y="412.0" width="344.1" height="64.0" fill="#4a7fa8" fill-opacity="0.55"/>
+<text x="753.0" y="448.0" font-size="12" fill="#ffffff" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">31% of the dollars</text>
+<text x="1005.0" y="448.0" font-size="12" fill="#ffffff" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">69%</text>
+<text x="676.0" y="508.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">single-bid awards are 60% of the awards and 31% of the $122bn obligated,</text>
+<text x="676.0" y="522.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">because a single-bid award is a smaller award</text>
+<line x1="28" y1="668.0" x2="1212" y2="668.0" stroke="#e3e2db"/>
+<text x="28.0" y="686.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">USAspending API v2 bulk download, fetched 2026-09-22; FY2016, eleven civilian departments, 554,171 awards. Rates use the 550,977 with a usable bid count, where a recorded 0 offers is not</text>
+<text x="28.0" y="700.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">a count. CAVEAT: a single bid is legal and often unavoidable, and nothing here identifies an award as improperly competed. These eleven civilian departments are 8.5% of federal contract</text>
+<text x="28.0" y="714.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">awards; Defense (68.6%) is absent, so this is not federal procurement as a whole.</text>
+</svg>

@@ -1,0 +1,87 @@
+{
+  "method_version": "1.0.0",
+  "_method_version": "1.0.0 publishes twenty figures on one register, fetched year by year because the host generates each file on request and charges a ~135 second connection toll before it starts. Figures are numbered in reading order, which is not the order they were built in: four acts, from which base you count to what the register cannot tell you. The recipe's headline changed twice during construction -- the competition label turned out to be inherited from the contract vehicle rather than earned, and the variation turned out to live at the individual vehicle rather than in any category an award belongs to.",
+  "retrieved": "2026-09-23",
+  "source": {
+    "publisher": "USAspending.gov (US Department of the Treasury)",
+    "api": "https://api.usaspending.gov/api/v2/bulk_download/awards/",
+    "licence": "US Government work, public domain",
+    "no_key_required": true,
+    "note": "Bulk files are generated per request and polled. Generation, not transfer, is the cost: FY2025 took over 50 minutes of server-side work before a byte moved."
+  },
+  "population": {
+    "scope": "eleven civilian departments, prime contract awards",
+    "excluded": "Defense (68.6% of federal contract awards) and General Services (22.9%); neither is fetchable at this size, so nothing here describes federal procurement as a whole",
+    "years_on_disk": [
+      "FY2015",
+      "FY2016",
+      "FY2017",
+      "FY2025"
+    ],
+    "unit": "award, keyed on contract_award_unique_key, value = sum of federal_action_obligation with de-obligations kept"
+  },
+  "rules_that_change_every_number": {
+    "bid_count": "first non-blank number_of_offers_received; a recorded 0 is a filing artefact and not a count (1,876 awards in FY2016)",
+    "award_value": "maximum running total, never the last transaction -- the running total moves backwards on ~30% of multi-transaction awards",
+    "grouping": "group on *_code, never the printed label: FPDS relabelled mid-FY2016 and 17 of 18 authorities carry two spellings"
+  },
+  "receipts": {
+    "categories-fy2016.json": {
+      "bytes": 9081,
+      "sha256": "d694b2244e67bf2969010d28ca46fd39"
+    },
+    "comparability.json": {
+      "bytes": 1356,
+      "sha256": "05f825e478bdb62975685f3d380b6fb6"
+    },
+    "condensed-fy2015.json": {
+      "bytes": 22109,
+      "sha256": "cf9cba3bc68864bcec27e649e922eaf7"
+    },
+    "condensed-fy2016.json": {
+      "bytes": 22220,
+      "sha256": "ab4f7236155ae122dbc064cccdb63ba3"
+    },
+    "condensed-fy2017.json": {
+      "bytes": 22410,
+      "sha256": "c0bbe7911e9f4b6f899734335e6ec383"
+    },
+    "farlines.json": {
+      "bytes": 2610,
+      "sha256": "a5bf6ccc9514ce5baaf194a648a9bdeb"
+    },
+    "geo-3yr.json": {
+      "bytes": 8438,
+      "sha256": "271a6c6b3b2458e9bdece907cd62c6a9"
+    },
+    "modauth-fy2016.json": {
+      "bytes": 35882,
+      "sha256": "611239b0681acdb880d980ddd19b63a2"
+    },
+    "offers-civilian-fy2016.json": {
+      "bytes": 2283,
+      "sha256": "4fc51f4063db8003d3fca91c3f84df8a"
+    },
+    "schedule-civilian-fy2015.json": {
+      "bytes": 9457,
+      "sha256": "bef273fec8659969d1c4e9f2683cd515"
+    },
+    "schedule-civilian-fy2016.json": {
+      "bytes": 9101,
+      "sha256": "fcc6055b5a0dddde058b6e1ee3599f57"
+    },
+    "thresholds.json": {
+      "bytes": 13951,
+      "sha256": "7cc70b97a53765500af5ed20d80b8451"
+    },
+    "vehicles-fy2016.json": {
+      "bytes": 151622,
+      "sha256": "69c75828075e9126a4ae5ce126da791f"
+    }
+  },
+  "verification": {
+    "authoritative": "artifacts/scripts/verify.py -- re-folds the source zips",
+    "portable": "artifacts/scripts/verify-cached.py -- same claims from the receipts alone, runs in 0.026s and passes with no zip present",
+    "figures_redrawable_offline": "13 of 20 from the committed receipts; figures 1, 2, 3, 4 and 15 fold the zip directly and have no cache module, figure 13's receipt is 7.0 MB and figure 19's is 28 MB. All seven are named in the README and refetch with usa2.py."
+  }
+}
