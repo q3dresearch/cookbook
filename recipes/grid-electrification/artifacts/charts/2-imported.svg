@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="830" viewBox="0 0 1180 830" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'><rect width="1180" height="830" fill="#fcfcfb"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">A grid's own fuel mix is not what its customers consume</text>
+<text x="28.0" y="60.0" font-size="12" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">40 US balancing authorities in 2025. Horizontal: the carbon-free share of what each one generates. Vertical: the carbon in what its customers actually use, imports included.</text>
+<text x="28.0" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">FOR</text>
+<text x="28.0" y="101.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">anyone siting a load on a grid's published renewable share</text>
+<text x="402.7" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">DECIDE</text>
+<text x="402.7" y="101.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">whether to judge a grid by what it generates or by what it</text>
+<text x="402.7" y="114.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">delivers</text>
+<text x="777.3" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">WRONG IF</text>
+<text x="777.3" y="101.0" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the marks fall on a single downward line, or the importers</text>
+<text x="777.3" y="114.5" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">sit on it with everyone else</text>
+<line x1="28" y1="124.0" x2="1152" y2="124.0" stroke="#e3e2db"/>
+<text x="28.0" y="166.0" font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">what it generates, against what it delivers</text>
+<text x="28.0" y="183.0" font-size="10" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">area is demand; a hollow ring marks a grid that generates under 75% of what it consumes</text>
+<line x1="146.0" y1="628.0" x2="146.0" y2="222.0" stroke="#f0efe9"/>
+<text x="146.0" y="645.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">0%</text>
+<line x1="369.0" y1="628.0" x2="369.0" y2="222.0" stroke="#f0efe9"/>
+<text x="369.0" y="645.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">25%</text>
+<line x1="592.0" y1="628.0" x2="592.0" y2="222.0" stroke="#f0efe9"/>
+<text x="592.0" y="645.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">50%</text>
+<line x1="815.0" y1="628.0" x2="815.0" y2="222.0" stroke="#f0efe9"/>
+<text x="815.0" y="645.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">75%</text>
+<line x1="1038.0" y1="628.0" x2="1038.0" y2="222.0" stroke="#f0efe9"/>
+<text x="1038.0" y="645.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">100%</text>
+<line x1="146.0" y1="628.0" x2="1038.0" y2="628.0" stroke="#f0efe9"/>
+<text x="138.0" y="631.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">0</text>
+<line x1="146.0" y1="546.8" x2="1038.0" y2="546.8" stroke="#f0efe9"/>
+<text x="138.0" y="549.8" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">150</text>
+<line x1="146.0" y1="465.6" x2="1038.0" y2="465.6" stroke="#f0efe9"/>
+<text x="138.0" y="468.6" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">300</text>
+<line x1="146.0" y1="384.4" x2="1038.0" y2="384.4" stroke="#f0efe9"/>
+<text x="138.0" y="387.4" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">450</text>
+<line x1="146.0" y1="303.2" x2="1038.0" y2="303.2" stroke="#f0efe9"/>
+<text x="138.0" y="306.2" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">600</text>
+<line x1="146.0" y1="222.0" x2="1038.0" y2="222.0" stroke="#f0efe9"/>
+<text x="138.0" y="225.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">750</text>
+<text x="28.0" y="664.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">carbon-free share of the grid's OWN generation</text>
+<text x="50" y="628.0" font-size="9.5" fill="#52514e" transform="rotate(-90 50 628.0)">kg CO2 per MWh CONSUMED, imports included</text>
+<circle cx="496.4" cy="444.5" r="19.4" fill="#9aa4ad" fill-opacity="0.22" stroke="#9aa4ad" stroke-width="1.2"/>
+<text x="472.1" y="448.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">PJM</text>
+<text x="472.1" y="448.5" fill="#9aa4ad" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">PJM</text>
+<circle cx="457.6" cy="381.8" r="17.2" fill="#9aa4ad" fill-opacity="0.22" stroke="#9aa4ad" stroke-width="1.2"/>
+<text x="479.8" y="385.8" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">MISO</text>
+<text x="479.8" y="385.8" fill="#9aa4ad" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">MISO</text>
+<circle cx="556.8" cy="456.1" r="14.7" fill="#9aa4ad" fill-opacity="0.22" stroke="#9aa4ad" stroke-width="1.2"/>
+<text x="576.5" y="460.1" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">ERCO</text>
+<text x="576.5" y="460.1" fill="#9aa4ad" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">ERCO</text>
+<circle cx="554.1" cy="395.5" r="11.5" fill="#9aa4ad" fill-opacity="0.22" stroke="#9aa4ad" stroke-width="1.2"/>
+<circle cx="430.1" cy="422.7" r="10.3" fill="#9aa4ad" fill-opacity="0.22" stroke="#9aa4ad" stroke-width="1.2"/>
+<text x="445.4" y="426.7" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">SOCO</text>
+<text x="445.4" y="426.7" fill="#9aa4ad" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">SOCO</text>
+<circle cx="665.8" cy="526.6" r="10.0" fill="#9aa4ad" fill-opacity="0.22" stroke="#9aa4ad" stroke-width="1.2"/>
+<text x="680.8" y="517.6" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">CISO</text>
+<text x="680.8" y="517.6" fill="#9aa4ad" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">CISO</text>
+<circle cx="578.0" cy="449.9" r="8.7" fill="#9aa4ad" fill-opacity="0.22" stroke="#9aa4ad" stroke-width="1.2"/>
+<circle cx="544.1" cy="490.0" r="8.2" fill="#9aa4ad" fill-opacity="0.22" stroke="#9aa4ad" stroke-width="1.2"/>
+<circle cx="428.5" cy="484.7" r="8.1" fill="#9aa4ad" fill-opacity="0.22" stroke="#9aa4ad" stroke-width="1.2"/>
+<circle cx="474.6" cy="506.2" r="7.2" fill="#9aa4ad" fill-opacity="0.22" stroke="#9aa4ad" stroke-width="1.2"/>
+<circle cx="656.8" cy="466.7" r="7.0" fill="#9aa4ad" fill-opacity="0.22" stroke="#9aa4ad" stroke-width="1.2"/>
+<circle cx="641.2" cy="502.0" r="5.3" fill="#9aa4ad" fill-opacity="0.22" stroke="#9aa4ad" stroke-width="1.2"/>
+<circle cx="960.1" cy="585.0" r="5.2" fill="#9aa4ad" fill-opacity="0.22" stroke="#9aa4ad" stroke-width="1.2"/>
+<text x="970.3" y="589.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">BPAT</text>
+<text x="970.3" y="589.0" fill="#9aa4ad" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">BPAT</text>
+<circle cx="231.9" cy="406.3" r="5.1" fill="#9aa4ad" fill-opacity="0.22" stroke="#9aa4ad" stroke-width="1.2"/>
+<circle cx="469.7" cy="330.1" r="4.9" fill="#9aa4ad" fill-opacity="0.22" stroke="#9aa4ad" stroke-width="1.2"/>
+<text x="459.9" y="334.1" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">PACE</text>
+<text x="459.9" y="334.1" fill="#9aa4ad" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">PACE</text>
+<circle cx="558.9" cy="422.4" r="4.5" fill="#9aa4ad" fill-opacity="0.22" stroke="#9aa4ad" stroke-width="1.2"/>
+<circle cx="376.6" cy="463.5" r="4.2" fill="#9aa4ad" fill-opacity="0.22" stroke="#9aa4ad" stroke-width="1.2"/>
+<circle cx="399.5" cy="461.6" r="4.2" fill="none" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="2.0"/>
+<circle cx="158.2" cy="222.0" r="4.1" fill="#9aa4ad" fill-opacity="0.22" stroke="#9aa4ad" stroke-width="1.2"/>
+<text x="149.0" y="226.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">LGEE</text>
+<text x="149.0" y="226.0" fill="#9aa4ad" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">LGEE</text>
+<circle cx="678.8" cy="498.5" r="4.0" fill="#9aa4ad" fill-opacity="0.22" stroke="#9aa4ad" stroke-width="1.2"/>
+<circle cx="448.2" cy="300.6" r="3.9" fill="#9aa4ad" fill-opacity="0.22" stroke="#9aa4ad" stroke-width="1.2"/>
+<text x="457.1" y="304.6" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">WACM</text>
+<text x="457.1" y="304.6" fill="#9aa4ad" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">WACM</text>
+<circle cx="195.7" cy="321.2" r="3.5" fill="none" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="2.0"/>
+<text x="187.2" y="325.2" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">SC</text>
+<text x="187.2" y="325.2" fill="#4a7fa8" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">SC</text>
+<circle cx="504.0" cy="555.9" r="3.4" fill="none" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="2.0"/>
+<text x="495.6" y="559.9" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">PSEI</text>
+<text x="495.6" y="559.9" fill="#4a7fa8" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">PSEI</text>
+<circle cx="521.5" cy="433.1" r="3.4" fill="#9aa4ad" fill-opacity="0.22" stroke="#9aa4ad" stroke-width="1.2"/>
+<circle cx="437.9" cy="477.7" r="3.4" fill="none" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="2.0"/>
+<circle cx="353.5" cy="533.5" r="3.4" fill="none" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="2.0"/>
+<text x="345.1" y="537.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">PGE</text>
+<text x="345.1" y="537.5" fill="#4a7fa8" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">PGE</text>
+<circle cx="239.3" cy="427.0" r="3.4" fill="#9aa4ad" fill-opacity="0.22" stroke="#9aa4ad" stroke-width="1.2"/>
+<circle cx="245.1" cy="350.0" r="3.4" fill="#9aa4ad" fill-opacity="0.22" stroke="#9aa4ad" stroke-width="1.2"/>
+<text x="253.5" y="354.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">AECI</text>
+<text x="253.5" y="354.0" fill="#9aa4ad" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">AECI</text>
+<circle cx="813.6" cy="561.4" r="3.4" fill="none" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="2.0"/>
+<text x="822.0" y="552.4" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">PACW</text>
+<text x="822.0" y="552.4" fill="#4a7fa8" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">PACW</text>
+<circle cx="225.0" cy="380.5" r="3.4" fill="#9aa4ad" fill-opacity="0.22" stroke="#9aa4ad" stroke-width="1.2"/>
+<circle cx="808.6" cy="497.6" r="3.4" fill="#9aa4ad" fill-opacity="0.22" stroke="#9aa4ad" stroke-width="1.2"/>
+<circle cx="564.0" cy="527.3" r="3.4" fill="#9aa4ad" fill-opacity="0.22" stroke="#9aa4ad" stroke-width="1.2"/>
+<circle cx="786.9" cy="488.8" r="3.4" fill="#9aa4ad" fill-opacity="0.22" stroke="#9aa4ad" stroke-width="1.2"/>
+<circle cx="276.3" cy="389.0" r="3.4" fill="#9aa4ad" fill-opacity="0.22" stroke="#9aa4ad" stroke-width="1.2"/>
+<circle cx="151.5" cy="357.8" r="3.4" fill="none" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="2.0"/>
+<circle cx="665.1" cy="556.7" r="3.4" fill="none" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="2.0"/>
+<circle cx="531.5" cy="312.9" r="3.4" fill="#9aa4ad" fill-opacity="0.22" stroke="#9aa4ad" stroke-width="1.2"/>
+<text x="539.9" y="316.9" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">NWMT</text>
+<text x="539.9" y="316.9" fill="#9aa4ad" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">NWMT</text>
+<circle cx="1038.0" cy="597.4" r="3.4" fill="none" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="2.0"/>
+<text x="1046.4" y="588.4" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">SCL</text>
+<text x="1046.4" y="588.4" fill="#4a7fa8" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">SCL</text>
+<circle cx="242.5" cy="438.9" r="3.4" fill="none" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="2.0"/>
+<circle cx="632.5" cy="468.5" r="3.4" fill="#9aa4ad" fill-opacity="0.22" stroke="#9aa4ad" stroke-width="1.2"/>
+<text x="504.0" y="581.9" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">generates 40% clean, consumes at 133</text>
+<text x="504.0" y="581.9" fill="#4a7fa8" font-size="9.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">generates 40% clean, consumes at 133</text>
+<text x="531.5" y="292.9" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">generates 43% clean, consumes at 582</text>
+<text x="531.5" y="292.9" fill="#8c2318" font-size="9.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">generates 43% clean, consumes at 582</text>
+<text x="163.8" y="238.2" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">10 of 40 generate under 75% of what they consume</text>
+<text x="163.8" y="238.2" fill="#4a7fa8" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">10 of 40 generate under 75% of what they consume</text>
+<text x="163.8" y="225.2" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">for those, the horizontal axis describes a minority of their power</text>
+<text x="163.8" y="225.2" fill="#52514e" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">for those, the horizontal axis describes a minority of their power</text>
+<line x1="28" y1="750.0" x2="1152" y2="750.0" stroke="#e3e2db"/>
+<text x="28.0" y="768.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">EIA Hourly Electric Grid Monitor (EBA) bulk file, no key, fetched 2026-09-23. Consumed carbon and demand are summed over the 7,666 hours of 2025 that both series cover: CO2</text>
+<text x="28.0" y="782.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">reporting began mid-2024, and an annual ratio understates every intensity by 11% to 15%. Carbon-free counts water, sun, wind, nuclear and geothermal at generation. CAVEAT: this</text>
+<text x="28.0" y="796.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">is what the wires carried, not what anyone contracted for -- a power purchase agreement is invisible here. Under 8 TWh is not drawn.</text>
+</svg>

@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1150" height="900" viewBox="0 0 1150 900" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'><rect width="1150" height="900" fill="#fcfcfb"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">PJM's overnight trough grew twice as fast as its peak. So did California's.</text>
+<text x="28.0" y="60.0" font-size="12" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">The 17 US balancing authorities peaking above 5 GW, 2019 against 2025. Flat 24/7 load lifts the overnight trough faster than the afternoon peak, so it lands above the diagonal.</text>
+<text x="28.0" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">FOR</text>
+<text x="28.0" y="101.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">anyone using hourly demand shape to find where data centre</text>
+<text x="28.0" y="114.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">load has landed</text>
+<text x="392.7" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">DECIDE</text>
+<text x="392.7" y="101.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">whether load shape can stand in for compute siting, after</text>
+<text x="392.7" y="114.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">facility counts failed at r = +0.03</text>
+<text x="757.3" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">WRONG IF</text>
+<text x="757.3" y="101.0" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the grids with known compute separate cleanly from the</text>
+<text x="757.3" y="114.5" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">rest, or nothing without a compute story sits as high</text>
+<line x1="28" y1="124.0" x2="1122" y2="124.0" stroke="#e3e2db"/>
+<line x1="302.1" y1="742.0" x2="302.1" y2="182.0" stroke="#f0efe9"/>
+<line x1="250.0" y1="689.9" x2="810.0" y2="689.9" stroke="#f0efe9"/>
+<text x="302.1" y="759.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">-5</text>
+<text x="242.0" y="692.9" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">-5</text>
+<line x1="367.2" y1="742.0" x2="367.2" y2="182.0" stroke="#e3e2db"/>
+<line x1="250.0" y1="624.8" x2="810.0" y2="624.8" stroke="#e3e2db"/>
+<text x="367.2" y="759.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">0</text>
+<text x="242.0" y="627.8" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">0</text>
+<line x1="432.3" y1="742.0" x2="432.3" y2="182.0" stroke="#f0efe9"/>
+<line x1="250.0" y1="559.7" x2="810.0" y2="559.7" stroke="#f0efe9"/>
+<text x="432.3" y="759.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">5</text>
+<text x="242.0" y="562.7" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">5</text>
+<line x1="497.4" y1="742.0" x2="497.4" y2="182.0" stroke="#f0efe9"/>
+<line x1="250.0" y1="494.6" x2="810.0" y2="494.6" stroke="#f0efe9"/>
+<text x="497.4" y="759.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">10</text>
+<text x="242.0" y="497.6" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">10</text>
+<line x1="562.6" y1="742.0" x2="562.6" y2="182.0" stroke="#f0efe9"/>
+<line x1="250.0" y1="429.4" x2="810.0" y2="429.4" stroke="#f0efe9"/>
+<text x="562.6" y="759.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">15</text>
+<text x="242.0" y="432.4" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">15</text>
+<line x1="627.7" y1="742.0" x2="627.7" y2="182.0" stroke="#f0efe9"/>
+<line x1="250.0" y1="364.3" x2="810.0" y2="364.3" stroke="#f0efe9"/>
+<text x="627.7" y="759.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">20</text>
+<text x="242.0" y="367.3" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">20</text>
+<line x1="692.8" y1="742.0" x2="692.8" y2="182.0" stroke="#f0efe9"/>
+<line x1="250.0" y1="299.2" x2="810.0" y2="299.2" stroke="#f0efe9"/>
+<text x="692.8" y="759.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">25</text>
+<text x="242.0" y="302.2" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">25</text>
+<line x1="757.9" y1="742.0" x2="757.9" y2="182.0" stroke="#f0efe9"/>
+<line x1="250.0" y1="234.1" x2="810.0" y2="234.1" stroke="#f0efe9"/>
+<text x="757.9" y="759.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">30</text>
+<text x="242.0" y="237.1" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">30</text>
+<line x1="250.0" y1="742.0" x2="810.0" y2="182.0" stroke="#52514e" stroke-width="1.1" stroke-dasharray="5 4"/>
+<text x="692.3" y="298.7" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">trough and peak grew equally</text>
+<text x="692.3" y="298.7" fill="#52514e" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">trough and peak grew equally</text>
+<text x="250.0" y="778.0" font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the afternoon PEAK, percent change 2019 to 2025</text>
+<text x="204" y="742.0" font-size="10" fill="#52514e" transform="rotate(-90 204 742.0)">the overnight TROUGH, percent change 2019 to 2025</text>
+<circle cx="403.4" cy="546.7" r="11.8" fill="#4a7fa8" fill-opacity="0.16" stroke="#4a7fa8" stroke-width="1.5"/>
+<text x="420.2" y="550.7" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">PJM</text>
+<text x="420.2" y="550.7" fill="#4a7fa8" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">PJM</text>
+<circle cx="385.2" cy="602.8" r="10.4" fill="#4a7fa8" fill-opacity="0.16" stroke="#4a7fa8" stroke-width="1.5"/>
+<text x="369.8" y="617.8" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">MISO</text>
+<text x="369.8" y="617.8" fill="#4a7fa8" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">MISO</text>
+<circle cx="736.6" cy="227.6" r="9.2" fill="#4a7fa8" fill-opacity="0.16" stroke="#4a7fa8" stroke-width="1.5"/>
+<circle cx="736.6" cy="227.6" r="12.7" fill="none" stroke="#c07a1e" stroke-width="1.1" stroke-dasharray="2.5 2.5"/>
+<text x="750.7" y="231.6" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">ERCO</text>
+<text x="750.7" y="231.6" fill="#4a7fa8" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">ERCO</text>
+<circle cx="515.1" cy="490.0" r="7.0" fill="#9aa4ad" fill-opacity="0.16" stroke="#9aa4ad" stroke-width="1.5"/>
+<text x="527.2" y="494.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">SWPP</text>
+<text x="527.2" y="494.0" fill="#9aa4ad" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">SWPP</text>
+<circle cx="395.1" cy="664.0" r="6.5" fill="#9aa4ad" fill-opacity="0.16" stroke="#9aa4ad" stroke-width="1.5"/>
+<text x="406.6" y="668.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">SOCO</text>
+<text x="406.6" y="668.0" fill="#9aa4ad" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">SOCO</text>
+<circle cx="369.2" cy="546.6" r="6.1" fill="#4a7fa8" fill-opacity="0.16" stroke="#4a7fa8" stroke-width="1.5"/>
+<text x="358.1" y="550.6" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">CISO</text>
+<text x="358.1" y="550.6" fill="#4a7fa8" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">CISO</text>
+<circle cx="449.8" cy="560.2" r="5.5" fill="#9aa4ad" fill-opacity="0.16" stroke="#9aa4ad" stroke-width="1.5"/>
+<text x="460.3" y="564.2" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">TVA</text>
+<text x="460.3" y="564.2" fill="#9aa4ad" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">TVA</text>
+<circle cx="500.9" cy="426.3" r="5.3" fill="#4a7fa8" fill-opacity="0.16" stroke="#4a7fa8" stroke-width="1.5"/>
+<text x="490.6" y="430.3" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">FPL</text>
+<text x="490.6" y="430.3" fill="#4a7fa8" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">FPL</text>
+<circle cx="344.7" cy="626.5" r="5.1" fill="#4a7fa8" fill-opacity="0.16" stroke="#4a7fa8" stroke-width="1.5"/>
+<text x="334.6" y="630.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">NYIS</text>
+<text x="334.6" y="630.5" fill="#4a7fa8" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">NYIS</text>
+<circle cx="365.8" cy="667.0" r="4.5" fill="#9aa4ad" fill-opacity="0.16" stroke="#9aa4ad" stroke-width="1.5"/>
+<text x="375.3" y="671.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">ISNE</text>
+<text x="375.3" y="671.0" fill="#9aa4ad" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">ISNE</text>
+<circle cx="382.8" cy="621.0" r="4.4" fill="#9aa4ad" fill-opacity="0.16" stroke="#9aa4ad" stroke-width="1.5"/>
+<text x="392.2" y="634.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">DUK</text>
+<text x="392.2" y="634.0" fill="#9aa4ad" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">DUK</text>
+<circle cx="430.7" cy="519.0" r="3.6" fill="#4a7fa8" fill-opacity="0.16" stroke="#4a7fa8" stroke-width="1.5"/>
+<text x="439.3" y="510.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">FPC</text>
+<text x="439.3" y="510.0" fill="#4a7fa8" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">FPC</text>
+<circle cx="355.2" cy="656.3" r="3.6" fill="#9aa4ad" fill-opacity="0.16" stroke="#9aa4ad" stroke-width="1.5"/>
+<text x="346.6" y="669.3" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">CPLE</text>
+<text x="346.6" y="669.3" fill="#9aa4ad" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">CPLE</text>
+<circle cx="485.4" cy="452.3" r="3.6" fill="#4a7fa8" fill-opacity="0.16" stroke="#4a7fa8" stroke-width="1.5"/>
+<text x="476.8" y="456.3" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">BPAT</text>
+<text x="476.8" y="456.3" fill="#4a7fa8" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">BPAT</text>
+<circle cx="506.5" cy="511.5" r="3.6" fill="#9aa4ad" fill-opacity="0.16" stroke="#9aa4ad" stroke-width="1.5"/>
+<text x="515.1" y="502.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">PACE</text>
+<text x="515.1" y="502.5" fill="#9aa4ad" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">PACE</text>
+<circle cx="300.3" cy="708.9" r="3.6" fill="#9aa4ad" fill-opacity="0.16" stroke="#9aa4ad" stroke-width="1.5"/>
+<text x="291.7" y="712.9" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">PSCO</text>
+<text x="291.7" y="712.9" fill="#9aa4ad" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">PSCO</text>
+<circle cx="497.6" cy="473.8" r="3.6" fill="#4a7fa8" fill-opacity="0.16" stroke="#4a7fa8" stroke-width="1.5"/>
+<circle cx="497.6" cy="473.8" r="7.1" fill="none" stroke="#c07a1e" stroke-width="1.1" stroke-dasharray="2.5 2.5"/>
+<text x="506.2" y="477.8" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">LGEE</text>
+<text x="506.2" y="477.8" fill="#4a7fa8" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">LGEE</text>
+<text x="264.0" y="210.7" font-size="9.5" fill="#4a7fa8" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">PJM   +3.2 points, about 10 GW of implied flat load</text>
+<text x="264.0" y="226.3" font-size="9.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the largest implied flat load of any US grid</text>
+<text x="264.0" y="270.6" font-size="9.5" fill="#8c2318" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">CISO   +5.8 points -- a LARGER gap than PJM's</text>
+<text x="264.0" y="286.2" font-size="9.5" fill="#8c2318" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">and California's electricity consumption fell 5.9%</text>
+<text x="264.0" y="301.8" font-size="9.5" fill="#8c2318" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">rooftop solar suppresses the peak, not the trough</text>
+<text x="42.0" y="208.0" font-size="10.5" fill="#4a7fa8" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">above the line</text>
+<text x="42.0" y="223.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">9 of 17 grids. The overnight</text>
+<text x="42.0" y="235.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">trough grew faster than the</text>
+<text x="42.0" y="248.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">afternoon peak.</text>
+<text x="42.0" y="276.5" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">what puts it there</text>
+<text x="42.0" y="291.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Flat load raises both halves</text>
+<text x="42.0" y="304.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">of the day, so it moves a grid</text>
+<text x="42.0" y="316.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">right as well as up.</text>
+<text x="42.0" y="345.0" font-size="10.5" fill="#8c2318" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">what also puts it there</text>
+<text x="42.0" y="360.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Daytime demand that stops</text>
+<text x="42.0" y="372.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">being recorded. Rooftop solar</text>
+<text x="42.0" y="385.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">moves a grid straight up.</text>
+<text x="42.0" y="413.5" font-size="10.5" fill="#c07a1e" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">the dashed ring</text>
+<text x="42.0" y="428.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">A year where trough and peak</text>
+<text x="42.0" y="441.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">both rose over 10% at once. No</text>
+<text x="42.0" y="453.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">other grid lost matching load,</text>
+<text x="42.0" y="466.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">so the cause is unresolved.</text>
+<line x1="28" y1="820.0" x2="1122" y2="820.0" stroke="#e3e2db"/>
+<text x="28.0" y="838.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">EIA Hourly Electric Grid Monitor (EBA) bulk file, no key, fetched 2026-09-23. Trough and peak are the median daily minimum and maximum of LOCAL-time hourly demand; UTC</text>
+<text x="28.0" y="852.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">would split every night across two days. CAVEAT: behind-the-meter solar is absent from EBA, appearing only as demand that did not happen. EIA estimates it per STATE in the</text>
+<text x="28.0" y="866.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">ELEC file, which figure 6 uses and which is too coarse to correct a balancing authority; the two readings here are separated by shape alone.</text>
+</svg>

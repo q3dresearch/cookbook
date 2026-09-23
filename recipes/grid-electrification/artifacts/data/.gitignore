@@ -1,0 +1,25 @@
+# Raw corpora refetch; the derived receipts do not, because the source moves.
+#
+# Per webprobes/doctrine/condensed-receipts.md: the source is three EIA bulk archives and
+# one NREL CSV, 1.1 GB together and all re-fetchable by the harvesters in ../scripts, so
+# none of it is committed. The receipts below are the evidence for the figures -- 3.9 MB
+# against 1.1 GB -- and without them nothing here can be checked or redrawn. All thirteen
+# figures redraw from these with the source absent, verified by removing it.
+#
+# Exclude the directory's contents, then name what stays. A glob would silently admit
+# whatever the next fetch happens to leave here.
+*
+!.gitignore
+!eba-annual.json
+!eba-hourly.json
+!eba-skill.json
+!geo.json
+!predictors.json
+!price.json
+!seds-electrification.json
+# 776 KB. The fold of 500,544 ATB rows, and the only receipt for figures 9, 10 and 11.
+!atb-folded.json
+# 1.7 MB and above the usual bar, argued for rather than let through: it is the whole
+# PeeringDB facility directory as fetched, the only receipt for the two compute nulls in
+# figures 3 and 4, and the register is voluntary -- a refetch does not reproduce it.
+!peeringdb-fac.json

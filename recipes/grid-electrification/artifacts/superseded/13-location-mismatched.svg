@@ -1,0 +1,192 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="900" viewBox="0 0 1180 900" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'><rect width="1180" height="900" fill="#fcfcfb"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">SUPERSEDED -- The Northeast pays double and swings hardest</text>
+<text x="28.0" y="60.0" font-size="12" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">KEPT AS A NEGATIVE EXAMPLE. 49 states, price from 2022 onward against a swing from 2010 onward -- two different windows, which is invisible here and worth +0.14 of correlation.</text>
+<text x="28.0" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">FOR</text>
+<text x="28.0" y="101.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">anyone adding a regional term to a model of electricity</text>
+<text x="28.0" y="114.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">prices</text>
+<text x="402.7" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">DECIDE</text>
+<text x="402.7" y="101.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">whether location earns its parameters, for the level or for</text>
+<text x="402.7" y="114.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the swing</text>
+<text x="777.3" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">WRONG IF</text>
+<text x="777.3" y="101.0" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the regions separate on both histograms, or on neither</text>
+<line x1="28" y1="124.0" x2="1152" y2="124.0" stroke="#e3e2db"/>
+<line x1="312.2" y1="298.0" x2="312.2" y2="698.0" stroke="#f0efe9"/>
+<text x="312.2" y="715.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">10</text>
+<line x1="467.8" y1="298.0" x2="467.8" y2="698.0" stroke="#f0efe9"/>
+<text x="467.8" y="715.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">15</text>
+<line x1="623.3" y1="298.0" x2="623.3" y2="698.0" stroke="#f0efe9"/>
+<text x="623.3" y="715.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">20</text>
+<line x1="778.9" y1="298.0" x2="778.9" y2="698.0" stroke="#f0efe9"/>
+<text x="778.9" y="715.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">25</text>
+<line x1="250.0" y1="658.0" x2="810.0" y2="658.0" stroke="#f0efe9"/>
+<text x="242.0" y="661.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">0.03</text>
+<line x1="250.0" y1="538.0" x2="810.0" y2="538.0" stroke="#f0efe9"/>
+<text x="242.0" y="541.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">0.06</text>
+<line x1="250.0" y1="418.0" x2="810.0" y2="418.0" stroke="#f0efe9"/>
+<text x="242.0" y="421.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">0.09</text>
+<line x1="250.0" y1="298.0" x2="810.0" y2="298.0" stroke="#f0efe9"/>
+<text x="242.0" y="301.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">0.12</text>
+<text x="250.0" y="734.0" font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">average retail price 2022+, cents per kWh</text>
+<text x="210" y="698.0" font-size="10" fill="#52514e" transform="rotate(-90 210 698.0)">year-to-year swing in it, 2010 onward</text>
+<rect x="390.6" y="266.7" width="45.5" height="15.3" fill="#8c2318" fill-opacity="0.30" stroke="#8c2318" stroke-width="1.1" stroke-opacity="0.85"/>
+<rect x="483.9" y="266.7" width="45.5" height="15.3" fill="#8c2318" fill-opacity="0.30" stroke="#8c2318" stroke-width="1.1" stroke-opacity="0.85"/>
+<rect x="530.6" y="266.7" width="45.5" height="15.3" fill="#8c2318" fill-opacity="0.30" stroke="#8c2318" stroke-width="1.1" stroke-opacity="0.85"/>
+<rect x="577.3" y="266.7" width="45.5" height="15.3" fill="#8c2318" fill-opacity="0.30" stroke="#8c2318" stroke-width="1.1" stroke-opacity="0.85"/>
+<rect x="623.9" y="266.7" width="45.5" height="15.3" fill="#8c2318" fill-opacity="0.30" stroke="#8c2318" stroke-width="1.1" stroke-opacity="0.85"/>
+<rect x="670.6" y="266.7" width="45.5" height="15.3" fill="#8c2318" fill-opacity="0.30" stroke="#8c2318" stroke-width="1.1" stroke-opacity="0.85"/>
+<rect x="717.3" y="236.0" width="45.5" height="46.0" fill="#8c2318" fill-opacity="0.30" stroke="#8c2318" stroke-width="1.1" stroke-opacity="0.85"/>
+<rect x="250.6" y="251.3" width="45.5" height="30.7" fill="#c07a1e" fill-opacity="0.30" stroke="#c07a1e" stroke-width="1.1" stroke-opacity="0.85"/>
+<rect x="297.3" y="205.3" width="45.5" height="76.7" fill="#c07a1e" fill-opacity="0.30" stroke="#c07a1e" stroke-width="1.1" stroke-opacity="0.85"/>
+<rect x="343.9" y="190.0" width="45.5" height="92.0" fill="#c07a1e" fill-opacity="0.30" stroke="#c07a1e" stroke-width="1.1" stroke-opacity="0.85"/>
+<rect x="390.6" y="251.3" width="45.5" height="30.7" fill="#c07a1e" fill-opacity="0.30" stroke="#c07a1e" stroke-width="1.1" stroke-opacity="0.85"/>
+<rect x="437.3" y="266.7" width="45.5" height="15.3" fill="#c07a1e" fill-opacity="0.30" stroke="#c07a1e" stroke-width="1.1" stroke-opacity="0.85"/>
+<rect x="530.6" y="266.7" width="45.5" height="15.3" fill="#c07a1e" fill-opacity="0.30" stroke="#c07a1e" stroke-width="1.1" stroke-opacity="0.85"/>
+<rect x="250.6" y="251.3" width="45.5" height="30.7" fill="#4a7fa8" fill-opacity="0.30" stroke="#4a7fa8" stroke-width="1.1" stroke-opacity="0.85"/>
+<rect x="297.3" y="236.0" width="45.5" height="46.0" fill="#4a7fa8" fill-opacity="0.30" stroke="#4a7fa8" stroke-width="1.1" stroke-opacity="0.85"/>
+<rect x="343.9" y="220.7" width="45.5" height="61.3" fill="#4a7fa8" fill-opacity="0.30" stroke="#4a7fa8" stroke-width="1.1" stroke-opacity="0.85"/>
+<rect x="390.6" y="251.3" width="45.5" height="30.7" fill="#4a7fa8" fill-opacity="0.30" stroke="#4a7fa8" stroke-width="1.1" stroke-opacity="0.85"/>
+<rect x="437.3" y="266.7" width="45.5" height="15.3" fill="#4a7fa8" fill-opacity="0.30" stroke="#4a7fa8" stroke-width="1.1" stroke-opacity="0.85"/>
+<rect x="250.6" y="236.0" width="45.5" height="46.0" fill="#1b7f5a" fill-opacity="0.30" stroke="#1b7f5a" stroke-width="1.1" stroke-opacity="0.85"/>
+<rect x="297.3" y="220.7" width="45.5" height="61.3" fill="#1b7f5a" fill-opacity="0.30" stroke="#1b7f5a" stroke-width="1.1" stroke-opacity="0.85"/>
+<rect x="343.9" y="236.0" width="45.5" height="46.0" fill="#1b7f5a" fill-opacity="0.30" stroke="#1b7f5a" stroke-width="1.1" stroke-opacity="0.85"/>
+<rect x="763.9" y="266.7" width="45.5" height="15.3" fill="#1b7f5a" fill-opacity="0.30" stroke="#1b7f5a" stroke-width="1.1" stroke-opacity="0.85"/>
+<rect x="828.0" y="658.6" width="19.7" height="38.8" fill="#8c2318" fill-opacity="0.30" stroke="#8c2318" stroke-width="1.1" stroke-opacity="0.85"/>
+<rect x="828.0" y="538.6" width="39.3" height="38.8" fill="#8c2318" fill-opacity="0.30" stroke="#8c2318" stroke-width="1.1" stroke-opacity="0.85"/>
+<rect x="828.0" y="498.6" width="39.3" height="38.8" fill="#8c2318" fill-opacity="0.30" stroke="#8c2318" stroke-width="1.1" stroke-opacity="0.85"/>
+<rect x="828.0" y="458.6" width="39.3" height="38.8" fill="#8c2318" fill-opacity="0.30" stroke="#8c2318" stroke-width="1.1" stroke-opacity="0.85"/>
+<rect x="828.0" y="418.6" width="19.7" height="38.8" fill="#8c2318" fill-opacity="0.30" stroke="#8c2318" stroke-width="1.1" stroke-opacity="0.85"/>
+<rect x="828.0" y="378.6" width="19.7" height="38.8" fill="#8c2318" fill-opacity="0.30" stroke="#8c2318" stroke-width="1.1" stroke-opacity="0.85"/>
+<rect x="828.0" y="578.6" width="118.0" height="38.8" fill="#c07a1e" fill-opacity="0.30" stroke="#c07a1e" stroke-width="1.1" stroke-opacity="0.85"/>
+<rect x="828.0" y="538.6" width="59.0" height="38.8" fill="#c07a1e" fill-opacity="0.30" stroke="#c07a1e" stroke-width="1.1" stroke-opacity="0.85"/>
+<rect x="828.0" y="498.6" width="118.0" height="38.8" fill="#c07a1e" fill-opacity="0.30" stroke="#c07a1e" stroke-width="1.1" stroke-opacity="0.85"/>
+<rect x="828.0" y="458.6" width="19.7" height="38.8" fill="#c07a1e" fill-opacity="0.30" stroke="#c07a1e" stroke-width="1.1" stroke-opacity="0.85"/>
+<rect x="828.0" y="338.6" width="19.7" height="38.8" fill="#c07a1e" fill-opacity="0.30" stroke="#c07a1e" stroke-width="1.1" stroke-opacity="0.85"/>
+<rect x="828.0" y="658.6" width="78.7" height="38.8" fill="#4a7fa8" fill-opacity="0.30" stroke="#4a7fa8" stroke-width="1.1" stroke-opacity="0.85"/>
+<rect x="828.0" y="618.6" width="78.7" height="38.8" fill="#4a7fa8" fill-opacity="0.30" stroke="#4a7fa8" stroke-width="1.1" stroke-opacity="0.85"/>
+<rect x="828.0" y="578.6" width="39.3" height="38.8" fill="#4a7fa8" fill-opacity="0.30" stroke="#4a7fa8" stroke-width="1.1" stroke-opacity="0.85"/>
+<rect x="828.0" y="538.6" width="19.7" height="38.8" fill="#4a7fa8" fill-opacity="0.30" stroke="#4a7fa8" stroke-width="1.1" stroke-opacity="0.85"/>
+<rect x="828.0" y="498.6" width="19.7" height="38.8" fill="#4a7fa8" fill-opacity="0.30" stroke="#4a7fa8" stroke-width="1.1" stroke-opacity="0.85"/>
+<rect x="828.0" y="658.6" width="39.3" height="38.8" fill="#1b7f5a" fill-opacity="0.30" stroke="#1b7f5a" stroke-width="1.1" stroke-opacity="0.85"/>
+<rect x="828.0" y="618.6" width="59.0" height="38.8" fill="#1b7f5a" fill-opacity="0.30" stroke="#1b7f5a" stroke-width="1.1" stroke-opacity="0.85"/>
+<rect x="828.0" y="578.6" width="98.3" height="38.8" fill="#1b7f5a" fill-opacity="0.30" stroke="#1b7f5a" stroke-width="1.1" stroke-opacity="0.85"/>
+<rect x="828.0" y="298.6" width="19.7" height="38.8" fill="#1b7f5a" fill-opacity="0.30" stroke="#1b7f5a" stroke-width="1.1" stroke-opacity="0.85"/>
+<text x="250.0" y="168.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">how many states at each price</text>
+<text x="250.0" y="180.0" font-size="9" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">each region from the same baseline, overlaid not stacked; tallest bar = 6 states</text>
+<text x="828.0" y="278.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">and at each swing</text>
+<text x="828.0" y="290.0" font-size="9" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">longest bar = 6 states</text>
+<line x1="351.9" y1="298.0" x2="351.9" y2="698.0" stroke="#e3e2db" stroke-dasharray="3 3"/>
+<line x1="250.0" y1="584.2" x2="810.0" y2="584.2" stroke="#e3e2db" stroke-dasharray="3 3"/>
+<circle cx="373.6" cy="603.5" r="5" fill="#c07a1e" fill-opacity="0.30" stroke="#c07a1e" stroke-width="1.5"/>
+<circle cx="305.0" cy="560.8" r="5" fill="#c07a1e" fill-opacity="0.30" stroke="#c07a1e" stroke-width="1.5"/>
+<circle cx="381.8" cy="661.4" r="5" fill="#1b7f5a" fill-opacity="0.30" stroke="#1b7f5a" stroke-width="1.5"/>
+<circle cx="795.0" cy="614.1" r="5" fill="#1b7f5a" fill-opacity="0.30" stroke="#1b7f5a" stroke-width="1.5"/>
+<text x="803.0" y="618.1" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">California</text>
+<text x="803.0" y="618.1" fill="#1b7f5a" font-size="9" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">California</text>
+<circle cx="380.8" cy="639.8" r="5" fill="#1b7f5a" fill-opacity="0.30" stroke="#1b7f5a" stroke-width="1.5"/>
+<circle cx="747.2" cy="484.8" r="5" fill="#8c2318" fill-opacity="0.30" stroke="#8c2318" stroke-width="1.5"/>
+<circle cx="556.7" cy="462.6" r="5" fill="#c07a1e" fill-opacity="0.30" stroke="#c07a1e" stroke-width="1.5"/>
+<circle cx="417.0" cy="567.3" r="5" fill="#c07a1e" fill-opacity="0.30" stroke="#c07a1e" stroke-width="1.5"/>
+<circle cx="407.0" cy="532.2" r="5" fill="#c07a1e" fill-opacity="0.30" stroke="#c07a1e" stroke-width="1.5"/>
+<circle cx="362.7" cy="535.5" r="5" fill="#c07a1e" fill-opacity="0.30" stroke="#c07a1e" stroke-width="1.5"/>
+<circle cx="296.7" cy="657.8" r="5" fill="#4a7fa8" fill-opacity="0.30" stroke="#4a7fa8" stroke-width="1.5"/>
+<circle cx="290.4" cy="616.5" r="5" fill="#1b7f5a" fill-opacity="0.30" stroke="#1b7f5a" stroke-width="1.5"/>
+<circle cx="393.3" cy="501.9" r="5" fill="#4a7fa8" fill-opacity="0.30" stroke="#4a7fa8" stroke-width="1.5"/>
+<circle cx="371.5" cy="562.4" r="5" fill="#4a7fa8" fill-opacity="0.30" stroke="#4a7fa8" stroke-width="1.5"/>
+<circle cx="351.9" cy="599.0" r="5" fill="#4a7fa8" fill-opacity="0.30" stroke="#4a7fa8" stroke-width="1.5"/>
+<circle cx="324.5" cy="567.4" r="5" fill="#c07a1e" fill-opacity="0.30" stroke="#c07a1e" stroke-width="1.5"/>
+<circle cx="295.4" cy="373.7" r="5" fill="#c07a1e" fill-opacity="0.30" stroke="#c07a1e" stroke-width="1.5"/>
+<text x="303.4" y="377.7" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Louisiana</text>
+<text x="303.4" y="377.7" fill="#c07a1e" font-size="9" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Louisiana</text>
+<circle cx="741.3" cy="557.5" r="5" fill="#8c2318" fill-opacity="0.30" stroke="#8c2318" stroke-width="1.5"/>
+<text x="749.3" y="561.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Massachusetts</text>
+<text x="749.3" y="561.5" fill="#8c2318" font-size="9" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Massachusetts</text>
+<circle cx="478.3" cy="509.7" r="5" fill="#c07a1e" fill-opacity="0.30" stroke="#c07a1e" stroke-width="1.5"/>
+<circle cx="644.9" cy="415.7" r="5" fill="#8c2318" fill-opacity="0.30" stroke="#8c2318" stroke-width="1.5"/>
+<text x="652.9" y="419.7" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Maine</text>
+<text x="652.9" y="419.7" fill="#8c2318" font-size="9" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Maine</text>
+<circle cx="440.4" cy="652.0" r="5" fill="#4a7fa8" fill-opacity="0.30" stroke="#4a7fa8" stroke-width="1.5"/>
+<circle cx="385.8" cy="661.2" r="5" fill="#4a7fa8" fill-opacity="0.30" stroke="#4a7fa8" stroke-width="1.5"/>
+<circle cx="341.5" cy="652.3" r="5" fill="#4a7fa8" fill-opacity="0.30" stroke="#4a7fa8" stroke-width="1.5"/>
+<circle cx="346.4" cy="581.8" r="5" fill="#c07a1e" fill-opacity="0.30" stroke="#c07a1e" stroke-width="1.5"/>
+<circle cx="335.5" cy="598.4" r="5" fill="#1b7f5a" fill-opacity="0.30" stroke="#1b7f5a" stroke-width="1.5"/>
+<circle cx="342.7" cy="615.7" r="5" fill="#c07a1e" fill-opacity="0.30" stroke="#c07a1e" stroke-width="1.5"/>
+<circle cx="256.5" cy="631.5" r="5" fill="#4a7fa8" fill-opacity="0.30" stroke="#4a7fa8" stroke-width="1.5"/>
+<text x="264.5" y="635.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">North Dakota</text>
+<text x="264.5" y="635.5" fill="#4a7fa8" font-size="9" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">North Dakota</text>
+<circle cx="287.1" cy="669.7" r="5" fill="#4a7fa8" fill-opacity="0.30" stroke="#4a7fa8" stroke-width="1.5"/>
+<circle cx="678.3" cy="444.1" r="5" fill="#8c2318" fill-opacity="0.30" stroke="#8c2318" stroke-width="1.5"/>
+<circle cx="517.9" cy="571.7" r="5" fill="#8c2318" fill-opacity="0.30" stroke="#8c2318" stroke-width="1.5"/>
+<circle cx="294.9" cy="589.5" r="5" fill="#1b7f5a" fill-opacity="0.30" stroke="#1b7f5a" stroke-width="1.5"/>
+<circle cx="351.0" cy="335.5" r="5" fill="#1b7f5a" fill-opacity="0.30" stroke="#1b7f5a" stroke-width="1.5"/>
+<text x="359.0" y="339.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Nevada</text>
+<text x="359.0" y="339.5" fill="#1b7f5a" font-size="9" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Nevada</text>
+<circle cx="619.4" cy="523.6" r="5" fill="#8c2318" fill-opacity="0.30" stroke="#8c2318" stroke-width="1.5"/>
+<circle cx="363.8" cy="578.7" r="5" fill="#4a7fa8" fill-opacity="0.30" stroke="#4a7fa8" stroke-width="1.5"/>
+<circle cx="294.2" cy="514.1" r="5" fill="#c07a1e" fill-opacity="0.30" stroke="#c07a1e" stroke-width="1.5"/>
+<circle cx="332.2" cy="651.3" r="5" fill="#1b7f5a" fill-opacity="0.30" stroke="#1b7f5a" stroke-width="1.5"/>
+<circle cx="408.0" cy="510.1" r="5" fill="#8c2318" fill-opacity="0.30" stroke="#8c2318" stroke-width="1.5"/>
+<circle cx="721.5" cy="485.5" r="5" fill="#8c2318" fill-opacity="0.30" stroke="#8c2318" stroke-width="1.5"/>
+<circle cx="344.4" cy="613.8" r="5" fill="#c07a1e" fill-opacity="0.30" stroke="#c07a1e" stroke-width="1.5"/>
+<circle cx="341.4" cy="679.7" r="5" fill="#4a7fa8" fill-opacity="0.30" stroke="#4a7fa8" stroke-width="1.5"/>
+<text x="349.4" y="683.7" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">South Dakota</text>
+<text x="349.4" y="683.7" fill="#4a7fa8" font-size="9" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">South Dakota</text>
+<circle cx="347.0" cy="593.5" r="5" fill="#c07a1e" fill-opacity="0.30" stroke="#c07a1e" stroke-width="1.5"/>
+<circle cx="313.1" cy="530.3" r="5" fill="#c07a1e" fill-opacity="0.30" stroke="#c07a1e" stroke-width="1.5"/>
+<text x="321.1" y="534.3" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Texas</text>
+<text x="321.1" y="534.3" fill="#c07a1e" font-size="9" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Texas</text>
+<circle cx="303.0" cy="610.2" r="5" fill="#1b7f5a" fill-opacity="0.30" stroke="#1b7f5a" stroke-width="1.5"/>
+<circle cx="345.8" cy="521.9" r="5" fill="#c07a1e" fill-opacity="0.30" stroke="#c07a1e" stroke-width="1.5"/>
+<circle cx="571.6" cy="670.1" r="5" fill="#8c2318" fill-opacity="0.30" stroke="#8c2318" stroke-width="1.5"/>
+<circle cx="317.9" cy="660.2" r="5" fill="#1b7f5a" fill-opacity="0.30" stroke="#1b7f5a" stroke-width="1.5"/>
+<circle cx="399.2" cy="668.2" r="5" fill="#4a7fa8" fill-opacity="0.30" stroke="#4a7fa8" stroke-width="1.5"/>
+<circle cx="334.4" cy="584.2" r="5" fill="#c07a1e" fill-opacity="0.30" stroke="#c07a1e" stroke-width="1.5"/>
+<circle cx="281.2" cy="624.9" r="5" fill="#1b7f5a" fill-opacity="0.30" stroke="#1b7f5a" stroke-width="1.5"/>
+<circle cx="250.0" cy="756.0" r="5.5" fill="#8c2318" fill-opacity="0.35" stroke="#8c2318" stroke-width="1.6"/>
+<text x="261.0" y="760.0" font-size="10" fill="#8c2318" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Northeast  (9)</text>
+<text x="261.0" y="773.0" font-size="9" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">20.7c, swing 0.067</text>
+<circle cx="402.0" cy="756.0" r="5.5" fill="#c07a1e" fill-opacity="0.35" stroke="#c07a1e" stroke-width="1.6"/>
+<text x="413.0" y="760.0" font-size="10" fill="#c07a1e" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">South  (17)</text>
+<text x="413.0" y="773.0" font-size="9" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">11.1c, swing 0.054</text>
+<circle cx="554.0" cy="756.0" r="5.5" fill="#4a7fa8" fill-opacity="0.35" stroke="#4a7fa8" stroke-width="1.6"/>
+<text x="565.0" y="760.0" font-size="10" fill="#4a7fa8" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Midwest  (12)</text>
+<text x="565.0" y="773.0" font-size="9" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">11.5c, swing 0.031</text>
+<circle cx="706.0" cy="756.0" r="5.5" fill="#1b7f5a" fill-opacity="0.35" stroke="#1b7f5a" stroke-width="1.6"/>
+<text x="717.0" y="760.0" font-size="10" fill="#1b7f5a" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">West  (11)</text>
+<text x="717.0" y="773.0" font-size="9" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">10.6c, swing 0.040</text>
+<text x="966.0" y="254.0" font-size="10.5" fill="#4a7fa8" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">along the price axis</text>
+<text x="966.0" y="269.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">The regions occupy different</text>
+<text x="966.0" y="281.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">parts of the range. Adding</text>
+<text x="966.0" y="294.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the nine divisions to a model</text>
+<text x="966.0" y="306.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">of grid and demand features</text>
+<text x="966.0" y="319.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">moves adjusted R2 from 0.373</text>
+<text x="966.0" y="331.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">to 0.805.</text>
+<text x="966.0" y="359.0" font-size="10.5" fill="#8c2318" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">along the swing axis</text>
+<text x="966.0" y="374.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">They sit on top of each</text>
+<text x="966.0" y="386.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">other. The same addition</text>
+<text x="966.0" y="399.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">moves adjusted R2 from 0.310</text>
+<text x="966.0" y="411.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">to 0.314 -- it makes the</text>
+<text x="966.0" y="424.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">model WORSE once the</text>
+<text x="966.0" y="436.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">parameters are paid for.</text>
+<text x="966.0" y="464.0" font-size="10.5" fill="#0b0b0b" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">in the middle</text>
+<text x="966.0" y="479.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Nearly empty. Price and swing</text>
+<text x="966.0" y="491.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">correlate at r = +0.32, and</text>
+<text x="966.0" y="504.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">inside each region at +0.09,</text>
+<text x="966.0" y="516.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">+0.09, -0.06 and -0.08.</text>
+<text x="966.0" y="529.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Expensive does not mean</text>
+<text x="966.0" y="541.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">unstable.</text>
+<text x="966.0" y="569.0" font-size="10.5" fill="#1b7f5a" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">why one mark per state</text>
+<text x="966.0" y="584.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Volatility on 2011-17 against</text>
+<text x="966.0" y="596.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">2018-25 -- disjoint halves --</text>
+<text x="966.0" y="609.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">ranks the states alike, rho</text>
+<text x="966.0" y="621.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">+0.79. The ranking is</text>
+<text x="966.0" y="634.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">durable.</text>
+<text x="966.0" y="661.5" font-size="10.5" fill="#c07a1e" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">but not the level</text>
+<text x="966.0" y="676.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">The median state moved</text>
+<text x="966.0" y="689.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">0.020-0.037 a year to 2020</text>
+<text x="966.0" y="701.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">and 0.086 in 2022. This axis</text>
+<text x="966.0" y="714.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">contains a gas shock.</text>
+<line x1="28" y1="820.0" x2="1152" y2="820.0" stroke="#e3e2db"/>
+<text x="28.0" y="838.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">EIA ELEC bulk file, no key, fetched 2026-09-23; ELEC.PRICE against ELEC.GEN and ELEC.SALES, state-quarters, US census regions and divisions. BOTH axes cover 2018 to 2025; the</text>
+<text x="28.0" y="852.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">swing ranks states the same way on 2011-2017 (rho +0.62). CAVEAT: this is REGULATED RETAIL price, and 2022 was a gas shock -- the ranking on the swing axis is durable, its</text>
+<text x="28.0" y="866.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">level is not. Hawaii and Alaska are excluded.</text>
+</svg>

@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1150" height="924" viewBox="0 0 1150 924" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'><rect width="1150" height="924" fill="#fcfcfb"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">What a state burns owns the volatility of its power price. What it sells owns the level.</text>
+<text x="28.0" y="60.0" font-size="12" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">49 US states, 2010 to 2026. Each bar is the share of the model's explained variance that this one thing owns, averaged over every order the predictors could enter in.</text>
+<text x="28.0" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">FOR</text>
+<text x="28.0" y="101.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">anyone claiming a state's generation mix does or does not</text>
+<text x="28.0" y="114.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">move its power price</text>
+<text x="392.7" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">DECIDE</text>
+<text x="392.7" y="101.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">which question you are asking -- how stable the price is,</text>
+<text x="392.7" y="114.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">or how high</text>
+<text x="757.3" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">WRONG IF</text>
+<text x="757.3" y="101.0" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the same predictor owns the largest share of both</text>
+<line x1="28" y1="124.0" x2="1122" y2="124.0" stroke="#e3e2db"/>
+<rect x="359.0" y="170.0" width="14" height="12" fill="#8c2318" fill-opacity="0.34" stroke="#8c2318" stroke-width="1.5"/>
+<text x="379.0" y="180.0" font-size="10" fill="#8c2318" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">volatility of the price  (R2 = 0.42)</text>
+<rect x="647.0" y="170.0" width="14" height="12" fill="#4a7fa8" fill-opacity="0.34" stroke="#4a7fa8" stroke-width="1.5"/>
+<text x="667.0" y="180.0" font-size="10" fill="#4a7fa8" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">the level of the price  (R2 = 0.48)</text>
+<line x1="366.0" y1="230.0" x2="366.0" y2="726.0" stroke="#e3e2db" stroke-width="1.5"/>
+<text x="366.0" y="222.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">0.00</text>
+<line x1="490.3" y1="230.0" x2="490.3" y2="726.0" stroke="#f0efe9" stroke-width="1"/>
+<text x="490.3" y="222.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">0.05</text>
+<line x1="614.5" y1="230.0" x2="614.5" y2="726.0" stroke="#f0efe9" stroke-width="1"/>
+<text x="614.5" y="222.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">0.10</text>
+<line x1="738.8" y1="230.0" x2="738.8" y2="726.0" stroke="#f0efe9" stroke-width="1"/>
+<text x="738.8" y="222.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">0.15</text>
+<line x1="863.0" y1="230.0" x2="863.0" y2="726.0" stroke="#f0efe9" stroke-width="1"/>
+<text x="863.0" y="222.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">0.20</text>
+<text x="362.0" y="204.0" font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Shapley share of explained variance  -- the bars in each colour sum to that model's R2</text>
+<text x="30.0" y="264.0" font-size="10" fill="#8a8880" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">what it burns</text>
+<text x="346.0" y="264.0" font-size="11" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">gas share of generation</text>
+<rect x="366.0" y="250.0" width="305.6" height="9" fill="#8c2318" fill-opacity="0.42" stroke="#8c2318" stroke-width="1.4"/>
+<text x="972.0" y="264.0" font-size="11" fill="#8c2318" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">29%</text>
+<rect x="366.0" y="261.0" width="105.0" height="9" fill="#4a7fa8" fill-opacity="0.2" stroke="#4a7fa8" stroke-width="1"/>
+<text x="1028.0" y="264.0" font-size="11" fill="#4a7fa8" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">9%</text>
+<text x="1088.0" y="264.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">+ / +</text>
+<text x="346.0" y="326.0" font-size="11" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">coal share of generation</text>
+<rect x="366.0" y="312.0" width="244.1" height="9" fill="#8c2318" fill-opacity="0.42" stroke="#8c2318" stroke-width="1.4"/>
+<text x="972.0" y="326.0" font-size="11" fill="#8c2318" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">23%</text>
+<rect x="366.0" y="323.0" width="264.0" height="9" fill="#4a7fa8" fill-opacity="0.42" stroke="#4a7fa8" stroke-width="1.4"/>
+<text x="1028.0" y="326.0" font-size="11" fill="#4a7fa8" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">22%</text>
+<text x="1088.0" y="326.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">- / -</text>
+<text x="346.0" y="388.0" font-size="11" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">hydro share</text>
+<rect x="366.0" y="374.0" width="187.9" height="9" fill="#8c2318" fill-opacity="0.42" stroke="#8c2318" stroke-width="1.4"/>
+<text x="972.0" y="388.0" font-size="11" fill="#8c2318" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">18%</text>
+<rect x="366.0" y="385.0" width="29.5" height="9" fill="#4a7fa8" fill-opacity="0.2" stroke="#4a7fa8" stroke-width="1"/>
+<text x="1028.0" y="388.0" font-size="11" fill="#4a7fa8" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">2%</text>
+<text x="1088.0" y="388.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">- / +</text>
+<text x="346.0" y="450.0" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">wind and utility solar share</text>
+<rect x="366.0" y="436.0" width="120.5" height="9" fill="#8c2318" fill-opacity="0.2" stroke="#8c2318" stroke-width="1"/>
+<text x="972.0" y="450.0" font-size="11" fill="#8c2318" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">11%</text>
+<rect x="366.0" y="447.0" width="45.0" height="9" fill="#4a7fa8" fill-opacity="0.2" stroke="#4a7fa8" stroke-width="1"/>
+<text x="1028.0" y="450.0" font-size="11" fill="#4a7fa8" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">4%</text>
+<text x="1088.0" y="450.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">- / -</text>
+<text x="346.0" y="512.0" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">fuel-mix concentration</text>
+<rect x="366.0" y="498.0" width="70.5" height="9" fill="#8c2318" fill-opacity="0.2" stroke="#8c2318" stroke-width="1"/>
+<text x="972.0" y="512.0" font-size="11" fill="#8c2318" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">7%</text>
+<rect x="366.0" y="509.0" width="54.4" height="9" fill="#4a7fa8" fill-opacity="0.2" stroke="#4a7fa8" stroke-width="1"/>
+<text x="1028.0" y="512.0" font-size="11" fill="#4a7fa8" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">5%</text>
+<text x="1088.0" y="512.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">+ / +</text>
+<text x="346.0" y="574.0" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">nuclear share</text>
+<rect x="366.0" y="560.0" width="59.4" height="9" fill="#8c2318" fill-opacity="0.2" stroke="#8c2318" stroke-width="1"/>
+<text x="972.0" y="574.0" font-size="11" fill="#8c2318" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">6%</text>
+<rect x="366.0" y="571.0" width="34.5" height="9" fill="#4a7fa8" fill-opacity="0.2" stroke="#4a7fa8" stroke-width="1"/>
+<text x="1028.0" y="574.0" font-size="11" fill="#4a7fa8" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">3%</text>
+<text x="1088.0" y="574.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">+ / +</text>
+<text x="30.0" y="636.0" font-size="10" fill="#8a8880" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">what it sells</text>
+<text x="346.0" y="636.0" font-size="11" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">industrial share of retail sales</text>
+<rect x="366.0" y="622.0" width="46.3" height="9" fill="#8c2318" fill-opacity="0.2" stroke="#8c2318" stroke-width="1"/>
+<text x="972.0" y="636.0" font-size="11" fill="#8c2318" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">4%</text>
+<rect x="366.0" y="633.0" width="554.2" height="9" fill="#4a7fa8" fill-opacity="0.42" stroke="#4a7fa8" stroke-width="1.4"/>
+<text x="1028.0" y="636.0" font-size="11" fill="#4a7fa8" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">47%</text>
+<text x="1088.0" y="636.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">- / -</text>
+<text x="346.0" y="698.0" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">residential share of retail sales</text>
+<rect x="366.0" y="684.0" width="21.4" height="9" fill="#8c2318" fill-opacity="0.2" stroke="#8c2318" stroke-width="1"/>
+<text x="972.0" y="698.0" font-size="11" fill="#8c2318" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">2%</text>
+<rect x="366.0" y="695.0" width="100.4" height="9" fill="#4a7fa8" fill-opacity="0.2" stroke="#4a7fa8" stroke-width="1"/>
+<text x="1028.0" y="698.0" font-size="11" fill="#4a7fa8" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">8%</text>
+<text x="1088.0" y="698.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">+ / +</text>
+<text x="972.0" y="222.0" font-size="9" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">share of</text>
+<text x="1088.0" y="222.0" font-size="9" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">direction</text>
+<text x="30.0" y="758.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">the generation mix owns 94% of the volatility model; the demand mix owns 55% of the level model</text>
+<text x="30.0" y="758.0" fill="#52514e" font-size="10.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">the generation mix owns 94% of the volatility model; the demand mix owns 55% of the level model</text>
+<text x="30.0" y="773.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">a Shapley share is always positive, so the last column carries the direction: volatility first, then level</text>
+<text x="30.0" y="773.0" fill="#52514e" font-size="10.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">a Shapley share is always positive, so the last column carries the direction: volatility first, then level</text>
+<text x="30.0" y="791.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">rooftop solar is left out on purpose -- it takes 56% of the level model, and price predicts rooftop adoption (+0.69) as well as the reverse</text>
+<text x="30.0" y="791.0" fill="#c07a1e" font-size="10.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">rooftop solar is left out on purpose -- it takes 56% of the level model, and price predicts rooftop adoption (+0.69) as well as the reverse</text>
+<line x1="28" y1="844.0" x2="1122" y2="844.0" stroke="#e3e2db"/>
+<text x="28.0" y="862.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">EIA ELEC bulk file, no key, fetched 2026-09-23; ELEC.PRICE, ELEC.GEN and ELEC.SALES, state-quarters from 2010. Volatility is the standard deviation of the year-over-year</text>
+<text x="28.0" y="876.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">log change in average retail price. Shapley values are exact over all 256 subsets. CAVEAT: this is REGULATED RETAIL price -- set by a commission, lagged, and carrying</text>
+<text x="28.0" y="890.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">network charges. It is not a wholesale market price.</text>
+</svg>

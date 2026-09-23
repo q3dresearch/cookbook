@@ -1,0 +1,204 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="982" viewBox="0 0 1000 982" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'><rect width="1000" height="982" fill="#fcfcfb"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">No fossil or storage technology in the ATB has a levelised cost</text>
+<text x="28.0" y="60.0" font-size="12" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">What each of the 20 technologies actually publishes. 8 carry no levelised cost and no capacity factor, and they are exactly the dispatchable ones.</text>
+<text x="28.0" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">FOR</text>
+<text x="28.0" y="101.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">anyone comparing a renewable cost against a gas or</text>
+<text x="28.0" y="114.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">storage cost</text>
+<text x="342.7" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">DECIDE</text>
+<text x="342.7" y="101.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">whether the two sides of that comparison came from</text>
+<text x="342.7" y="114.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the same file</text>
+<text x="657.3" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">WRONG IF</text>
+<text x="657.3" y="101.0" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the missing cells are scattered, rather than</text>
+<text x="657.3" y="114.5" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">falling in one block</text>
+<line x1="28" y1="124.0" x2="972" y2="124.0" stroke="#e3e2db"/>
+<text x="275.0" y="180.0" font-size="9.5" fill="#52514e" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">overnight</text>
+<text x="275.0" y="192.0" font-size="9.5" fill="#52514e" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">capital</text>
+<text x="361.0" y="180.0" font-size="9.5" fill="#52514e" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">capital</text>
+<text x="361.0" y="192.0" font-size="9.5" fill="#52514e" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">cost</text>
+<text x="447.0" y="180.0" font-size="9.5" fill="#52514e" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">fixed</text>
+<text x="447.0" y="192.0" font-size="9.5" fill="#52514e" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">O&amp;M</text>
+<text x="533.0" y="180.0" font-size="9.5" fill="#52514e" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">variable</text>
+<text x="533.0" y="192.0" font-size="9.5" fill="#52514e" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">O&amp;M</text>
+<text x="619.0" y="180.0" font-size="9.5" fill="#52514e" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">heat</text>
+<text x="619.0" y="192.0" font-size="9.5" fill="#52514e" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">rate</text>
+<text x="705.0" y="180.0" font-size="9.5" fill="#52514e" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">capacity</text>
+<text x="705.0" y="192.0" font-size="9.5" fill="#52514e" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">factor</text>
+<text x="791.0" y="180.0" font-size="9.5" fill="#52514e" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">levelised</text>
+<text x="791.0" y="192.0" font-size="9.5" fill="#52514e" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">cost</text>
+<text x="28.0" y="226.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">fossil</text>
+<text x="218.0" y="226.0" font-size="10.5" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">Coal</text>
+<rect x="251.0" y="214.0" width="48" height="16" rx="2.5" fill="#8c2318" fill-opacity="0.24" stroke="#8c2318" stroke-width="1.1"/>
+<rect x="337.0" y="214.0" width="48" height="16" rx="2.5" fill="#8c2318" fill-opacity="0.24" stroke="#8c2318" stroke-width="1.1"/>
+<rect x="423.0" y="214.0" width="48" height="16" rx="2.5" fill="#8c2318" fill-opacity="0.24" stroke="#8c2318" stroke-width="1.1"/>
+<rect x="509.0" y="214.0" width="48" height="16" rx="2.5" fill="#8c2318" fill-opacity="0.24" stroke="#8c2318" stroke-width="1.1"/>
+<rect x="595.0" y="214.0" width="48" height="16" rx="2.5" fill="#8c2318" fill-opacity="0.24" stroke="#8c2318" stroke-width="1.1"/>
+<line x1="696.0" y1="222.0" x2="714.0" y2="222.0" stroke="#aca89a" stroke-width="1.4"/>
+<line x1="782.0" y1="222.0" x2="800.0" y2="222.0" stroke="#aca89a" stroke-width="1.4"/>
+<text x="218.0" y="256.0" font-size="10.5" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">Natural gas</text>
+<rect x="251.0" y="244.0" width="48" height="16" rx="2.5" fill="#8c2318" fill-opacity="0.24" stroke="#8c2318" stroke-width="1.1"/>
+<rect x="337.0" y="244.0" width="48" height="16" rx="2.5" fill="#8c2318" fill-opacity="0.24" stroke="#8c2318" stroke-width="1.1"/>
+<rect x="423.0" y="244.0" width="48" height="16" rx="2.5" fill="#8c2318" fill-opacity="0.24" stroke="#8c2318" stroke-width="1.1"/>
+<rect x="509.0" y="244.0" width="48" height="16" rx="2.5" fill="#8c2318" fill-opacity="0.24" stroke="#8c2318" stroke-width="1.1"/>
+<rect x="595.0" y="244.0" width="48" height="16" rx="2.5" fill="#8c2318" fill-opacity="0.24" stroke="#8c2318" stroke-width="1.1"/>
+<line x1="696.0" y1="252.0" x2="714.0" y2="252.0" stroke="#aca89a" stroke-width="1.4"/>
+<line x1="782.0" y1="252.0" x2="800.0" y2="252.0" stroke="#aca89a" stroke-width="1.4"/>
+<text x="218.0" y="286.0" font-size="10.5" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">Coal retrofit</text>
+<line x1="266.0" y1="282.0" x2="284.0" y2="282.0" stroke="#aca89a" stroke-width="1.4"/>
+<line x1="352.0" y1="282.0" x2="370.0" y2="282.0" stroke="#aca89a" stroke-width="1.4"/>
+<rect x="423.0" y="274.0" width="48" height="16" rx="2.5" fill="#8c2318" fill-opacity="0.24" stroke="#8c2318" stroke-width="1.1"/>
+<rect x="509.0" y="274.0" width="48" height="16" rx="2.5" fill="#8c2318" fill-opacity="0.24" stroke="#8c2318" stroke-width="1.1"/>
+<rect x="595.0" y="274.0" width="48" height="16" rx="2.5" fill="#8c2318" fill-opacity="0.24" stroke="#8c2318" stroke-width="1.1"/>
+<line x1="696.0" y1="282.0" x2="714.0" y2="282.0" stroke="#aca89a" stroke-width="1.4"/>
+<line x1="782.0" y1="282.0" x2="800.0" y2="282.0" stroke="#aca89a" stroke-width="1.4"/>
+<text x="218.0" y="316.0" font-size="10.5" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">Natural gas retrofit</text>
+<line x1="266.0" y1="312.0" x2="284.0" y2="312.0" stroke="#aca89a" stroke-width="1.4"/>
+<line x1="352.0" y1="312.0" x2="370.0" y2="312.0" stroke="#aca89a" stroke-width="1.4"/>
+<rect x="423.0" y="304.0" width="48" height="16" rx="2.5" fill="#8c2318" fill-opacity="0.24" stroke="#8c2318" stroke-width="1.1"/>
+<rect x="509.0" y="304.0" width="48" height="16" rx="2.5" fill="#8c2318" fill-opacity="0.24" stroke="#8c2318" stroke-width="1.1"/>
+<rect x="595.0" y="304.0" width="48" height="16" rx="2.5" fill="#8c2318" fill-opacity="0.24" stroke="#8c2318" stroke-width="1.1"/>
+<line x1="696.0" y1="312.0" x2="714.0" y2="312.0" stroke="#aca89a" stroke-width="1.4"/>
+<line x1="782.0" y1="312.0" x2="800.0" y2="312.0" stroke="#aca89a" stroke-width="1.4"/>
+<line x1="28" y1="326.0" x2="972" y2="326.0" stroke="#e3e2db"/>
+<text x="28.0" y="346.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">storage</text>
+<text x="218.0" y="346.0" font-size="10.5" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">Pumped hydro</text>
+<rect x="251.0" y="334.0" width="48" height="16" rx="2.5" fill="#8c2318" fill-opacity="0.24" stroke="#8c2318" stroke-width="1.1"/>
+<line x1="352.0" y1="342.0" x2="370.0" y2="342.0" stroke="#aca89a" stroke-width="1.4"/>
+<rect x="423.0" y="334.0" width="48" height="16" rx="2.5" fill="#8c2318" fill-opacity="0.24" stroke="#8c2318" stroke-width="1.1"/>
+<rect x="509.0" y="334.0" width="48" height="16" rx="2.5" fill="#8c2318" fill-opacity="0.24" stroke="#8c2318" stroke-width="1.1"/>
+<line x1="610.0" y1="342.0" x2="628.0" y2="342.0" stroke="#aca89a" stroke-width="1.4"/>
+<line x1="696.0" y1="342.0" x2="714.0" y2="342.0" stroke="#aca89a" stroke-width="1.4"/>
+<line x1="782.0" y1="342.0" x2="800.0" y2="342.0" stroke="#aca89a" stroke-width="1.4"/>
+<text x="218.0" y="376.0" font-size="10.5" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">Commercial battery</text>
+<rect x="251.0" y="364.0" width="48" height="16" rx="2.5" fill="#8c2318" fill-opacity="0.24" stroke="#8c2318" stroke-width="1.1"/>
+<line x1="352.0" y1="372.0" x2="370.0" y2="372.0" stroke="#aca89a" stroke-width="1.4"/>
+<rect x="423.0" y="364.0" width="48" height="16" rx="2.5" fill="#8c2318" fill-opacity="0.24" stroke="#8c2318" stroke-width="1.1"/>
+<line x1="524.0" y1="372.0" x2="542.0" y2="372.0" stroke="#aca89a" stroke-width="1.4"/>
+<line x1="610.0" y1="372.0" x2="628.0" y2="372.0" stroke="#aca89a" stroke-width="1.4"/>
+<line x1="696.0" y1="372.0" x2="714.0" y2="372.0" stroke="#aca89a" stroke-width="1.4"/>
+<line x1="782.0" y1="372.0" x2="800.0" y2="372.0" stroke="#aca89a" stroke-width="1.4"/>
+<text x="218.0" y="406.0" font-size="10.5" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">Residential battery</text>
+<rect x="251.0" y="394.0" width="48" height="16" rx="2.5" fill="#8c2318" fill-opacity="0.24" stroke="#8c2318" stroke-width="1.1"/>
+<line x1="352.0" y1="402.0" x2="370.0" y2="402.0" stroke="#aca89a" stroke-width="1.4"/>
+<rect x="423.0" y="394.0" width="48" height="16" rx="2.5" fill="#8c2318" fill-opacity="0.24" stroke="#8c2318" stroke-width="1.1"/>
+<line x1="524.0" y1="402.0" x2="542.0" y2="402.0" stroke="#aca89a" stroke-width="1.4"/>
+<line x1="610.0" y1="402.0" x2="628.0" y2="402.0" stroke="#aca89a" stroke-width="1.4"/>
+<line x1="696.0" y1="402.0" x2="714.0" y2="402.0" stroke="#aca89a" stroke-width="1.4"/>
+<line x1="782.0" y1="402.0" x2="800.0" y2="402.0" stroke="#aca89a" stroke-width="1.4"/>
+<text x="218.0" y="436.0" font-size="10.5" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">Utility battery</text>
+<rect x="251.0" y="424.0" width="48" height="16" rx="2.5" fill="#8c2318" fill-opacity="0.24" stroke="#8c2318" stroke-width="1.1"/>
+<line x1="352.0" y1="432.0" x2="370.0" y2="432.0" stroke="#aca89a" stroke-width="1.4"/>
+<rect x="423.0" y="424.0" width="48" height="16" rx="2.5" fill="#8c2318" fill-opacity="0.24" stroke="#8c2318" stroke-width="1.1"/>
+<line x1="524.0" y1="432.0" x2="542.0" y2="432.0" stroke="#aca89a" stroke-width="1.4"/>
+<line x1="610.0" y1="432.0" x2="628.0" y2="432.0" stroke="#aca89a" stroke-width="1.4"/>
+<line x1="696.0" y1="432.0" x2="714.0" y2="432.0" stroke="#aca89a" stroke-width="1.4"/>
+<line x1="782.0" y1="432.0" x2="800.0" y2="432.0" stroke="#aca89a" stroke-width="1.4"/>
+<line x1="28" y1="446.0" x2="972" y2="446.0" stroke="#e3e2db"/>
+<text x="28.0" y="466.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">all others</text>
+<text x="218.0" y="466.0" font-size="10.5" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">Biopower</text>
+<rect x="251.0" y="454.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="337.0" y="454.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="423.0" y="454.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="509.0" y="454.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="595.0" y="454.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="681.0" y="454.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="767.0" y="454.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<text x="218.0" y="496.0" font-size="10.5" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">Nuclear</text>
+<rect x="251.0" y="484.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="337.0" y="484.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="423.0" y="484.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="509.0" y="484.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="595.0" y="484.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="681.0" y="484.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="767.0" y="484.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<text x="218.0" y="526.0" font-size="10.5" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">Concentrating solar</text>
+<rect x="251.0" y="514.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="337.0" y="514.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="423.0" y="514.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="509.0" y="514.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<line x1="610.0" y1="522.0" x2="628.0" y2="522.0" stroke="#aca89a" stroke-width="1.4"/>
+<rect x="681.0" y="514.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="767.0" y="514.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<text x="218.0" y="556.0" font-size="10.5" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">Commercial solar</text>
+<rect x="251.0" y="544.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="337.0" y="544.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="423.0" y="544.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<line x1="524.0" y1="552.0" x2="542.0" y2="552.0" stroke="#aca89a" stroke-width="1.4"/>
+<line x1="610.0" y1="552.0" x2="628.0" y2="552.0" stroke="#aca89a" stroke-width="1.4"/>
+<rect x="681.0" y="544.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="767.0" y="544.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<text x="218.0" y="586.0" font-size="10.5" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">Distributed wind</text>
+<rect x="251.0" y="574.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="337.0" y="574.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="423.0" y="574.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<line x1="524.0" y1="582.0" x2="542.0" y2="582.0" stroke="#aca89a" stroke-width="1.4"/>
+<line x1="610.0" y1="582.0" x2="628.0" y2="582.0" stroke="#aca89a" stroke-width="1.4"/>
+<rect x="681.0" y="574.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="767.0" y="574.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<text x="218.0" y="616.0" font-size="10.5" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">Geothermal</text>
+<rect x="251.0" y="604.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="337.0" y="604.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="423.0" y="604.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<line x1="524.0" y1="612.0" x2="542.0" y2="612.0" stroke="#aca89a" stroke-width="1.4"/>
+<line x1="610.0" y1="612.0" x2="628.0" y2="612.0" stroke="#aca89a" stroke-width="1.4"/>
+<rect x="681.0" y="604.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="767.0" y="604.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<text x="218.0" y="646.0" font-size="10.5" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">Hydropower</text>
+<rect x="251.0" y="634.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="337.0" y="634.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="423.0" y="634.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<line x1="524.0" y1="642.0" x2="542.0" y2="642.0" stroke="#aca89a" stroke-width="1.4"/>
+<line x1="610.0" y1="642.0" x2="628.0" y2="642.0" stroke="#aca89a" stroke-width="1.4"/>
+<rect x="681.0" y="634.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="767.0" y="634.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<text x="218.0" y="676.0" font-size="10.5" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">Land-based wind</text>
+<rect x="251.0" y="664.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="337.0" y="664.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="423.0" y="664.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<line x1="524.0" y1="672.0" x2="542.0" y2="672.0" stroke="#aca89a" stroke-width="1.4"/>
+<line x1="610.0" y1="672.0" x2="628.0" y2="672.0" stroke="#aca89a" stroke-width="1.4"/>
+<rect x="681.0" y="664.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="767.0" y="664.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<text x="218.0" y="706.0" font-size="10.5" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">Offshore wind</text>
+<rect x="251.0" y="694.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="337.0" y="694.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="423.0" y="694.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<line x1="524.0" y1="702.0" x2="542.0" y2="702.0" stroke="#aca89a" stroke-width="1.4"/>
+<line x1="610.0" y1="702.0" x2="628.0" y2="702.0" stroke="#aca89a" stroke-width="1.4"/>
+<rect x="681.0" y="694.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="767.0" y="694.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<text x="218.0" y="736.0" font-size="10.5" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">Residential solar</text>
+<rect x="251.0" y="724.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="337.0" y="724.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="423.0" y="724.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<line x1="524.0" y1="732.0" x2="542.0" y2="732.0" stroke="#aca89a" stroke-width="1.4"/>
+<line x1="610.0" y1="732.0" x2="628.0" y2="732.0" stroke="#aca89a" stroke-width="1.4"/>
+<rect x="681.0" y="724.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="767.0" y="724.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<text x="218.0" y="766.0" font-size="10.5" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">Solar plus battery</text>
+<rect x="251.0" y="754.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="337.0" y="754.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="423.0" y="754.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<line x1="524.0" y1="762.0" x2="542.0" y2="762.0" stroke="#aca89a" stroke-width="1.4"/>
+<line x1="610.0" y1="762.0" x2="628.0" y2="762.0" stroke="#aca89a" stroke-width="1.4"/>
+<rect x="681.0" y="754.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="767.0" y="754.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<text x="218.0" y="796.0" font-size="10.5" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">Utility solar</text>
+<rect x="251.0" y="784.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="337.0" y="784.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="423.0" y="784.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<line x1="524.0" y1="792.0" x2="542.0" y2="792.0" stroke="#aca89a" stroke-width="1.4"/>
+<line x1="610.0" y1="792.0" x2="628.0" y2="792.0" stroke="#aca89a" stroke-width="1.4"/>
+<rect x="681.0" y="784.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<rect x="767.0" y="784.0" width="48" height="16" rx="2.5" fill="#4a7fa8" fill-opacity="0.24" stroke="#4a7fa8" stroke-width="1.1"/>
+<text x="232.0" y="838.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">a filled cell is published; a dash is not published</text>
+<text x="232.0" y="838.0" fill="#8a8880" font-size="10" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">a filled cell is published; a dash is not published</text>
+<text x="232.0" y="856.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">the two missing columns are the two that need a fuel price and a dispatch assumption</text>
+<text x="232.0" y="856.0" fill="#8c2318" font-size="10.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">the two missing columns are the two that need a fuel price and a dispatch assumption</text>
+<text x="232.0" y="871.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">so every renewables-against-gas comparison sourced to this file took the gas number from another one</text>
+<text x="232.0" y="871.0" fill="#8c2318" font-size="10.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">so every renewables-against-gas comparison sourced to this file took the gas number from another one</text>
+<line x1="28" y1="888.0" x2="972" y2="888.0" stroke="#e3e2db"/>
+<text x="28.0" y="906.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">NREL Annual Technology Baseline, 2023 vintage, ATBe.csv from the Open Energy Data Initiative lake; fetched 2026-09-23, no key. A cell is filled where</text>
+<text x="28.0" y="920.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the file contains at least one row of that parameter for that technology. CAVEAT: this shows what is published, not what could be computed -- a gas</text>
+<text x="28.0" y="934.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">levelised cost can be derived from the heat rate and O&amp;M here given a fuel price and a capacity factor, but both of those must be brought from</text>
+<text x="28.0" y="948.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">outside.</text>
+</svg>

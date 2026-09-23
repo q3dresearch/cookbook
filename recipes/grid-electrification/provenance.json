@@ -1,0 +1,145 @@
+{
+  "method_version": "1.0.0",
+  "_method_version": "1.0.0 publishes thirteen figures on four keyless US energy registers. The spine is that almost every quantity needed to plan an electrical buildout has more than one defensible value, and the choice is usually invisible. Three findings changed the recipe's own headline while it was being built: the public record cannot locate compute load at any resolution it publishes, three proxies deep; a published demand forecast is often a precise forecast of a different quantity; and no dispatchable technology in NREL's cost baseline has a levelised cost at all, which makes the standard renewables-against-gas comparison a splice.",
+  "retrieved": "2026-09-23",
+  "sources": [
+    {
+      "publisher": "US Energy Information Administration",
+      "dataset": "Hourly Electric Grid Monitor (EBA)",
+      "url": "https://www.eia.gov/opendata/bulk/EBA.zip",
+      "licence": "US Government work, public domain",
+      "no_key_required": true,
+      "bytes_on_disk": 691787776,
+      "note": "api.eia.gov returns 403 API_KEY_MISSING; the bulk endpoint does not ask for one. api.eia.gov also 301-redirects to www.eia.gov and urllib follows silently, which costs the connection toll on both hosts."
+    },
+    {
+      "publisher": "US Energy Information Administration",
+      "dataset": "Electricity (ELEC)",
+      "url": "https://www.eia.gov/opendata/bulk/ELEC.zip",
+      "licence": "US Government work, public domain",
+      "no_key_required": true,
+      "bytes_on_disk": 288358400,
+      "note": "carries retail price, generation by fuel, retail sales and a MODELLED estimate of rooftop solar (ELEC.GEN.DPV), quarterly by state from 2001."
+    },
+    {
+      "publisher": "US Energy Information Administration",
+      "dataset": "State Energy Data System (SEDS)",
+      "url": "https://www.eia.gov/opendata/bulk/SEDS.zip",
+      "licence": "US Government work, public domain",
+      "no_key_required": true,
+      "bytes_on_disk": 9542451
+    },
+    {
+      "publisher": "NREL / Open Energy Data Initiative",
+      "dataset": "Annual Technology Baseline 2023",
+      "url": "https://oedi-data-lake.s3.amazonaws.com/ATB/electricity/csv/2023/ATBe.csv",
+      "licence": "CC BY 4.0",
+      "no_key_required": true,
+      "bytes_on_disk": 88390227,
+      "note": "the 2024 path under the same prefix is a 404. robots.txt on that host is itself a 404, which is an absence of restriction rather than a grant. This host charges NO connection toll: 0.6s to first byte against 270.7s for www.eia.gov."
+    },
+    {
+      "publisher": "PeeringDB",
+      "dataset": "facilities directory",
+      "url": "https://www.peeringdb.com/api/fac",
+      "licence": "CC BY 4.0",
+      "no_key_required": false,
+      "key_env": "PEERINGDB_API_KEY",
+      "note": "the key is read from .env.local and is never printed or written to the cache. Voluntary register: nobody is obliged to file, which is most of figures 3, 4 and 8."
+    }
+  ],
+  "population": {
+    "balancing_authorities": "70 codes carry hourly demand, of which 14 are REGIONS that sum the others",
+    "states": "51 in SEDS and ELEC; Hawaii and Alaska excluded from the price models as unconnected oil-fired grids",
+    "technologies": "20 in the ATB, of which 8 publish no levelised cost and no capacity factor",
+    "unit": "balancing authority x hour for EBA; state x quarter for ELEC; state x year for SEDS"
+  },
+  "rules_that_change_every_number": {
+    "eba_regions": "CAL contains CISO, TEX contains ERCO, US48 contains everything, and nothing in the identifier says so. All 14 are excluded from every ranking; see shape.REGION.",
+    "eba_fuel_codes": "NG is TWO characters. An earlier regex of exactly three dropped natural gas from every balancing authority; the tell was ERCOT reporting 288 TWh of generation against 488 TWh of demand.",
+    "elec_fuel_codes": "AOR already contains wind, solar, geothermal and wood; TSN is SUN + DPV; SUN is SPV + STH; ALL sits in the same namespace as its own parts. Summing every code present gave a denominator ~2.3x too large, by a different factor per state. price.py declares a non-overlapping BASKET and prints basket/ALL on every run.",
+    "matched_hours": "CO2.CON covers 87.5% of 2025's hours and demand covers 100%. Dividing annual totals understates every intensity by 10.8% to 14.6%, unevenly. matched.py sums both over their intersection.",
+    "forecast_scope": "a published day-ahead forecast is not always of the demand published beside it. Every skill score is corrected by that year's median actual-over-forecast ratio, and the correction is reported as its own number.",
+    "matched_windows": "both axes of figure 13 cover 2018-2025. An earlier version took price from 2022+ and swing from 2010+ and reported r=+0.32 where the matched pair gives +0.18.",
+    "atb_is_a_model": "nobody paid ATB's prices. Within one file 2021-2023 are the vintage year's estimates and 2024-2050 are projections, with nothing in the row marking the boundary.",
+    "rooftop_is_endogenous": "rooftop PV takes 56% of the price-level model, and price predicts later rooftop adoption at +0.69. Excluded from the price models, not caveated."
+  },
+  "not_reachable": {
+    "eia_v2_api": "403 without a key",
+    "entsoe": "401",
+    "irena": "403",
+    "ercot": "403 with a ROBOTS meta to an honest bot user-agent",
+    "eia_860m_archive": "robots.txt disallows `archive` three ways (/archive/, /*archive/, /archive*/). urllib.robotparser says ALLOWED because it does not implement wildcards; the Google specification says DISALLOWED. TREATED AS DISALLOWED. The files return HTTP 200, and that is not the question.",
+    "iso_wholesale_prices": "not attempted; figure 12 and 13 use regulated retail price and say so"
+  },
+  "headline_figures_as_computed": {
+    "electrification_site_1960_2024": "6.0% to 18.0%",
+    "electrification_primary_1960_2000_2024": "16.1% to 37.3% to 34.7%",
+    "loss_per_unit_delivered_2000_2024": "2.09 to 1.42",
+    "psei_own_clean_vs_delivered_kg_per_mwh": "40% carbon-free, 133",
+    "nwmt_own_clean_vs_delivered_kg_per_mwh": "43% carbon-free, 582",
+    "grids_generating_under_75pct_of_demand": "10 of 40",
+    "peeringdb_facilities_vs_state_electricity_growth_r": "+0.03",
+    "electricity_per_head_vs_growth_pearson": "+0.64",
+    "pjm_trough_minus_peak_growth_points": "+3.2",
+    "ciso_trough_minus_peak_growth_points": "+5.8",
+    "range_of_gap_among_grids_above_20gw_points": "-5.1 to +5.8",
+    "fpc_scope_ratio_and_share_of_hours": "0.766 in 100.0% of 2025 hours",
+    "fpc_skill_raw_vs_corrected": "-0.94 to +0.73",
+    "grids_worse_than_persistence_raw_vs_corrected": "9 of 53 to 5 of 53",
+    "ciso_skill_2021_to_2025": "+0.69 to -0.18",
+    "skill_vs_difficulty_r": "-0.02",
+    "tail_ratio_p99_over_p50_range": "3.6x to 36.1x, median 5.7x",
+    "difficulty_joint_model_flatness_beta": "-0.49",
+    "difficulty_joint_model_datacentres_per_capita_beta": "-0.36",
+    "california_rooftop_share_and_outcome_spread": "14.5% for all five authorities, skill change -0.71 to -0.00",
+    "landbased_wind_lcoe_2030_spread": "3.1 to 73.0 $/MWh on 120 published values, 23.5x",
+    "utility_pv_capex_2030_class1_vs_class10": "$1,038/kW and $1,038/kW",
+    "technologies_with_no_lcoe": "8 of 20, all dispatchable",
+    "price_volatility_shapley_generation_mix_share": "94%",
+    "price_level_shapley_demand_mix_share": "55%",
+    "price_vs_swing_r_matched_window": "+0.18",
+    "volatility_split_half_rank_stability_rho": "+0.62",
+    "location_adjusted_r2_price": "0.346 to 0.803",
+    "location_adjusted_r2_swing": "0.213 to 0.182"
+  },
+  "receipts": {
+    "atb-folded.json": {
+      "bytes": 793846,
+      "sha256": "95c12904c236467c251b20edc11f2c4c6e46394c298acdff6470464018c99aa3"
+    },
+    "eba-annual.json": {
+      "bytes": 118600,
+      "sha256": "87923f32be68d08c0fb9463c1aadf0f9354421a0d1cdb330648e61fdb6767ead"
+    },
+    "eba-hourly.json": {
+      "bytes": 64081,
+      "sha256": "b2c8fd213bc503e05d345dfd8c083e9e90343a03b7dc6268fe4964e3f4cd1042"
+    },
+    "eba-skill.json": {
+      "bytes": 201150,
+      "sha256": "a28425e4557d364961fa1aebcddceb8fba25eece784b98d719c33271a1e4f720"
+    },
+    "geo.json": {
+      "bytes": 18324,
+      "sha256": "e1cf6b14f5c0e8fce263db004ad43bb33599d2a658d54a148ab596e2d3a7fdad"
+    },
+    "peeringdb-fac.json": {
+      "bytes": 1693439,
+      "sha256": "3df91e84a40820a8353cbc42e796c4c4f2cddf6b247d3e0e3c68fef1fa00e84a"
+    },
+    "predictors.json": {
+      "bytes": 21725,
+      "sha256": "6d92019e1dd139c36024026491be2cd793425768e852e7c9ef7c60df81346fb4"
+    },
+    "price.json": {
+      "bytes": 62982,
+      "sha256": "c987eeb9eed82c1f0773f15370c26755838a4bc1c3a5116c7b8f1ece0ee52022"
+    },
+    "seds-electrification.json": {
+      "bytes": 373764,
+      "sha256": "b0cffa836f80ef6958e61813d87e7e9a8f85be600aae974048b11ea19e2b4b07"
+    }
+  },
+  "receipts_note": "3.9 MB of derived caches against 1.1 GB of source. Every one of the thirteen figures redraws from these with the source absent, verified by removing it."
+}

@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="836" viewBox="0 0 1240 836" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'><rect width="1240" height="836" fill="#fcfcfb"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">US electrification tripled, then stopped in 2000</text>
+<text x="28.0" y="60.0" font-size="12" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Electricity as a share of the energy the country uses, on both defensible bases. 1960 to 2024, from EIA's State Energy Data System.</text>
+<text x="28.0" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">FOR</text>
+<text x="28.0" y="101.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">anyone sizing how much more of civilisation's energy could</text>
+<text x="28.0" y="114.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">arrive as electricity</text>
+<text x="422.7" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">DECIDE</text>
+<text x="422.7" y="101.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">whether electrification is still advancing, and on which basis</text>
+<text x="422.7" y="114.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the question was asked</text>
+<text x="817.3" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">WRONG IF</text>
+<text x="817.3" y="101.0" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the two bases move together after 2000, or the primary ratio</text>
+<text x="817.3" y="114.5" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">falls because delivered electricity fell</text>
+<line x1="28" y1="124.0" x2="1212" y2="124.0" stroke="#e3e2db"/>
+<text x="28.0" y="164.0" font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">the same quantity, two bases</text>
+<text x="28.0" y="181.0" font-size="10" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">at the meter, and including the fuel burned to deliver it</text>
+<line x1="116.0" y1="560.0" x2="602.0" y2="560.0" stroke="#f0efe9"/>
+<text x="108.0" y="563.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">0%</text>
+<line x1="116.0" y1="478.6" x2="602.0" y2="478.6" stroke="#f0efe9"/>
+<text x="108.0" y="481.6" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">10%</text>
+<line x1="116.0" y1="397.1" x2="602.0" y2="397.1" stroke="#f0efe9"/>
+<text x="108.0" y="400.1" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">20%</text>
+<line x1="116.0" y1="315.7" x2="602.0" y2="315.7" stroke="#f0efe9"/>
+<text x="108.0" y="318.7" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">30%</text>
+<line x1="116.0" y1="234.3" x2="602.0" y2="234.3" stroke="#f0efe9"/>
+<text x="108.0" y="237.3" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">40%</text>
+<text x="116.0" y="576.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">1960</text>
+<text x="267.9" y="576.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">1980</text>
+<text x="419.8" y="576.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2000</text>
+<text x="571.6" y="576.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2020</text>
+<text x="28.0" y="594.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">year</text>
+<text x="48" y="560.0" font-size="9.5" fill="#52514e" transform="rotate(-90 48 560.0)">electricity's share of the energy actually used</text>
+<line x1="419.8" y1="560.0" x2="419.8" y2="218.0" stroke="#aca89a" stroke-dasharray="3 3"/>
+<text x="424.8" y="226.1" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">2000</text>
+<text x="424.8" y="226.1" fill="#8a8880" font-size="9" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">2000</text>
+<path d="M116.0,428.7 L123.6,425.7 L131.2,423.2 L138.8,417.7 L146.4,413.6 L154.0,410.4 L161.6,404.2 L169.2,401.6 L176.8,394.8 L184.3,388.8 L191.9,381.1 L199.5,375.7 L207.1,369.2 L214.7,363.5 L222.3,358.4 L229.9,348.4 L237.5,345.4 L245.1,336.3 L252.7,334.5 L260.3,333.0 L267.9,320.6 L275.5,311.8 L283.1,309.8 L290.7,303.5 L298.2,304.5 L305.8,296.6 L313.4,296.4 L321.0,294.8 L328.6,292.2 L336.2,285.6 L343.8,279.4 L351.4,275.5 L359.0,279.6 L366.6,275.2 L374.2,274.6 L381.8,273.0 L389.4,275.1 L397.0,273.7 L404.6,261.4 L412.2,260.0 L419.8,256.0 L427.3,252.7 L434.9,252.4 L442.5,253.7 L450.1,254.7 L457.7,247.4 L465.3,247.7 L472.9,243.6 L480.5,240.8 L488.1,242.0 L495.7,240.8 L503.3,244.2 L510.9,244.6 L518.5,252.6 L526.1,254.4 L533.7,257.6 L541.2,260.6 L548.8,268.0 L556.4,271.1 L564.0,278.4 L571.6,268.8 L579.2,275.7 L586.8,276.3 L594.4,280.5 L602.0,277.6" fill="none" stroke="#8c2318" stroke-width="2.4"/>
+<text x="609.0" y="280.6" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="11" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">34.7%</text>
+<text x="609.0" y="280.6" fill="#8c2318" font-size="11" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">34.7%</text>
+<text x="389.4" y="265.1" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">including generation and grid losses</text>
+<text x="389.4" y="265.1" fill="#8c2318" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">including generation and grid losses</text>
+<path d="M116.0,511.2 L123.6,509.4 L131.2,507.8 L138.8,505.9 L146.4,504.0 L154.0,502.6 L161.6,500.7 L169.2,498.8 L176.8,496.4 L184.3,493.5 L191.9,491.2 L199.5,488.4 L207.1,485.7 L214.7,483.0 L222.3,480.8 L229.9,475.8 L237.5,475.2 L245.1,472.7 L252.7,471.4 L260.3,470.0 L267.9,464.4 L275.5,458.7 L283.1,456.8 L290.7,452.5 L298.2,451.8 L305.8,449.1 L313.4,447.4 L321.0,446.9 L328.6,446.7 L336.2,444.8 L343.8,440.7 L351.4,438.0 L359.0,440.8 L366.6,438.0 L374.2,437.5 L381.8,436.4 L389.4,437.0 L397.0,435.9 L404.6,430.1 L412.2,430.0 L419.8,428.4 L427.3,425.9 L434.9,425.0 L442.5,424.6 L450.1,425.7 L457.7,420.6 L465.3,419.3 L472.9,417.4 L480.5,414.9 L488.1,413.3 L495.7,412.4 L503.3,411.8 L510.9,410.7 L518.5,415.0 L526.1,415.5 L533.7,415.3 L541.2,415.4 L548.8,418.1 L556.4,418.9 L564.0,420.9 L571.6,411.8 L579.2,416.6 L586.8,415.0 L594.4,416.0 L602.0,413.3" fill="none" stroke="#4a7fa8" stroke-width="2.4"/>
+<text x="609.0" y="416.3" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="11" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">18.0%</text>
+<text x="609.0" y="416.3" fill="#4a7fa8" font-size="11" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">18.0%</text>
+<text x="389.4" y="427.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">as delivered to the meter</text>
+<text x="389.4" y="427.0" fill="#4a7fa8" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">as delivered to the meter</text>
+<text x="434.9" y="515.2" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">1960-2000: 6.0% to 16.2%</text>
+<text x="434.9" y="515.2" fill="#52514e" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">1960-2000: 6.0% to 16.2%</text>
+<text x="440.9" y="515.2" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">2000-2024: to 18.0%</text>
+<text x="440.9" y="515.2" fill="#52514e" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">2000-2024: to 18.0%</text>
+<text x="670.0" y="164.0" font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">and why the red line turns down</text>
+<text x="670.0" y="181.0" font-size="10" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">units of energy lost per unit of electricity actually delivered</text>
+<line x1="756.0" y1="560.0" x2="1156.0" y2="560.0" stroke="#f0efe9"/>
+<text x="748.0" y="563.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">1.2</text>
+<line x1="756.0" y1="474.5" x2="1156.0" y2="474.5" stroke="#f0efe9"/>
+<text x="748.0" y="477.5" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">1.5</text>
+<line x1="756.0" y1="389.0" x2="1156.0" y2="389.0" stroke="#f0efe9"/>
+<text x="748.0" y="392.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">1.8</text>
+<line x1="756.0" y1="303.5" x2="1156.0" y2="303.5" stroke="#f0efe9"/>
+<text x="748.0" y="306.5" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">2.1</text>
+<line x1="756.0" y1="218.0" x2="1156.0" y2="218.0" stroke="#f0efe9"/>
+<text x="748.0" y="221.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">2.4</text>
+<text x="756.0" y="576.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">1960</text>
+<text x="881.0" y="576.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">1980</text>
+<text x="1006.0" y="576.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2000</text>
+<text x="1131.0" y="576.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2020</text>
+<text x="748.0" y="594.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">year</text>
+<path d="M756.0,326.9 L762.2,336.7 L768.5,346.8 L774.8,338.2 L781.0,341.0 L787.2,341.1 L793.5,328.9 L799.8,339.3 L806.0,329.9 L812.2,334.1 L818.5,317.7 L824.8,321.6 L831.0,319.2 L837.2,318.5 L843.5,317.0 L849.8,319.5 L856.0,309.7 L862.2,287.9 L868.5,293.1 L874.8,300.7 L881.0,295.1 L887.2,307.4 L893.5,316.6 L899.8,325.0 L906.0,336.4 L912.2,322.6 L918.5,337.2 L924.8,333.2 L931.0,323.2 L937.2,307.4 L943.5,313.9 L949.8,318.4 L956.0,314.3 L962.2,316.9 L968.5,318.2 L974.8,320.2 L981.0,324.9 L987.2,326.9 L993.5,318.0 L999.8,311.6 L1006.0,305.7 L1012.2,310.5 L1018.5,316.8 L1024.8,325.5 L1031.0,321.5 L1037.2,327.8 L1043.5,338.3 L1049.8,333.5 L1056.0,339.4 L1062.2,355.9 L1068.5,357.4 L1074.8,375.2 L1081.0,384.4 L1087.2,389.3 L1093.5,393.5 L1099.8,407.6 L1106.0,419.4 L1112.2,432.1 L1118.5,439.5 L1124.8,455.8 L1131.0,473.8 L1137.2,471.9 L1143.5,483.6 L1149.8,493.6 L1156.0,498.1" fill="none" stroke="#c07a1e" stroke-width="2.4"/>
+<line x1="1006.0" y1="560.0" x2="1006.0" y2="218.0" stroke="#aca89a" stroke-dasharray="3 3"/>
+<circle cx="1006.0" cy="305.7" r="4.2" fill="#c07a1e"/>
+<text x="1014.0" y="308.7" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="11" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">2.09</text>
+<text x="1014.0" y="308.7" fill="#c07a1e" font-size="11" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">2.09</text>
+<circle cx="1156.0" cy="498.1" r="4.2" fill="#c07a1e"/>
+<text x="1148.0" y="501.1" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="11" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">1.42</text>
+<text x="1148.0" y="501.1" fill="#c07a1e" font-size="11" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">1.42</text>
+<text x="774.8" y="508.7" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">flat for forty years, then a 32% improvement</text>
+<text x="774.8" y="508.7" fill="#52514e" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">flat for forty years, then a 32% improvement</text>
+<text x="774.8" y="495.7" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">in the fuel burned per unit delivered</text>
+<text x="774.8" y="495.7" fill="#52514e" font-size="9.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">in the fuel burned per unit delivered</text>
+<text x="28.0" y="662.0" font-size="12" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">so the reversal is the generators improving, not the country un-electrifying</text>
+<text x="28.0" y="682.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">From 2000 to 2024 electricity delivered rose 16.2%, from 3,421 to 3,975 TWh. The losses attributed to delivering it fell 21.3%. The primary ratio is a fraction whose numerator contains</text>
+<text x="28.0" y="696.5" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">both, so it falls when the waste term shrinks faster than the useful term grows -- which is what an improving fleet looks like. Anyone quoting the primary basis alone would report that</text>
+<text x="28.0" y="711.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the United States is de-electrifying, and anyone quoting the meter basis alone would miss that a third of the fuel cost of electricity has disappeared.</text>
+<line x1="28" y1="756.0" x2="1212" y2="756.0" stroke="#e3e2db"/>
+<text x="28.0" y="774.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">EIA State Energy Data System, bulk endpoint, no key, fetched 2026-09-23; series ESTXB, TNTCB and LOTXB for the US roll-up, 1960 to 2024. CAVEAT: the denominator is dominated by transport</text>
+<text x="28.0" y="788.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">and industrial heat, so the ratio also moves when petrol demand moves and not only when an end use converts. This is the US only; the same ratio for other countries needs a different</text>
+<text x="28.0" y="802.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">source.</text>
+</svg>

@@ -1,0 +1,257 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="1010" viewBox="0 0 1160 1010" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'><rect width="1160" height="1010" fill="#fcfcfb"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">California's forecast has been decoupling from its own demand for four years</text>
+<text x="28.0" y="60.0" font-size="12" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">The 30 US balancing authorities above 2 GW with all seven years. Top: skill against a same-hour-last-week baseline. Bottom: what the forecast is a fraction OF.</text>
+<text x="28.0" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">FOR</text>
+<text x="28.0" y="101.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">anyone reading a grid operator's published forecast error</text>
+<text x="396.0" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">DECIDE</text>
+<text x="396.0" y="101.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">whether a bad score is a bad forecaster, a different</text>
+<text x="396.0" y="114.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">quantity, or a trend</text>
+<text x="764.0" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">WRONG IF</text>
+<text x="764.0" y="101.0" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the lines are flat and parallel, so one year would have told</text>
+<text x="764.0" y="114.5" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">you the same</text>
+<line x1="28" y1="124.0" x2="1132" y2="124.0" stroke="#e3e2db"/>
+<text x="222.0" y="170.0" font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">how far the forecast beats repeating last week</text>
+<text x="222.0" y="185.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">1.0 perfect, 0.0 no better than the naive baseline, below the rule is worse than doing nothing</text>
+<line x1="226.0" y1="200.0" x2="226.0" y2="500.0" stroke="#f0efe9"/>
+<text x="226.0" y="517.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2019</text>
+<line x1="325.0" y1="200.0" x2="325.0" y2="500.0" stroke="#f0efe9"/>
+<text x="325.0" y="517.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2020</text>
+<line x1="424.0" y1="200.0" x2="424.0" y2="500.0" stroke="#f0efe9"/>
+<text x="424.0" y="517.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2021</text>
+<line x1="523.0" y1="200.0" x2="523.0" y2="500.0" stroke="#f0efe9"/>
+<text x="523.0" y="517.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2022</text>
+<line x1="622.0" y1="200.0" x2="622.0" y2="500.0" stroke="#f0efe9"/>
+<text x="622.0" y="517.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2023</text>
+<line x1="721.0" y1="200.0" x2="721.0" y2="500.0" stroke="#f0efe9"/>
+<text x="721.0" y="517.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2024</text>
+<line x1="820.0" y1="200.0" x2="820.0" y2="500.0" stroke="#f0efe9"/>
+<text x="820.0" y="517.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2025</text>
+<line x1="226.0" y1="500.0" x2="820.0" y2="500.0" stroke="#f0efe9" stroke-width="1"/>
+<text x="218.0" y="503.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">-1.0</text>
+<line x1="226.0" y1="425.0" x2="820.0" y2="425.0" stroke="#f0efe9" stroke-width="1"/>
+<text x="218.0" y="428.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">-0.5</text>
+<line x1="226.0" y1="350.0" x2="820.0" y2="350.0" stroke="#e3e2db" stroke-width="1.5"/>
+<text x="218.0" y="353.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">0.0</text>
+<line x1="226.0" y1="275.0" x2="820.0" y2="275.0" stroke="#f0efe9" stroke-width="1"/>
+<text x="218.0" y="278.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">0.5</text>
+<line x1="226.0" y1="200.0" x2="820.0" y2="200.0" stroke="#f0efe9" stroke-width="1"/>
+<text x="218.0" y="203.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">1.0</text>
+<polyline points="226.0,241.4 325.0,242.9 424.0,236.2 523.0,231.5 622.0,237.0 721.0,232.0 820.0,212.0" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,288.3 325.0,241.9 424.0,248.1 523.0,255.6 622.0,248.9 721.0,262.1 820.0,339.2" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,215.8 325.0,255.8 424.0,240.1 523.0,266.6 622.0,233.6 721.0,232.3 820.0,238.9" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,247.1 325.0,250.2 424.0,245.4 523.0,241.9 622.0,244.4 721.0,242.1 820.0,251.6" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,271.6 325.0,247.1 424.0,246.2 523.0,271.8 622.0,313.0 721.0,327.5 820.0,377.6" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,241.0 325.0,249.2 424.0,243.2 523.0,244.2 622.0,244.8 721.0,240.3 820.0,239.5" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,234.5 325.0,240.3 424.0,237.9 523.0,239.3 622.0,236.9 721.0,237.4 820.0,229.9" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,237.2 325.0,236.1 424.0,245.9 523.0,240.3 622.0,247.5 721.0,238.1 820.0,240.3" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,273.0 325.0,272.5 424.0,269.4 523.0,271.4 622.0,262.7 721.0,274.9 820.0,338.6" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,251.5 325.0,250.2 424.0,255.8 523.0,250.7 622.0,243.6 721.0,252.0 820.0,240.7" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,258.6 325.0,254.0 424.0,256.8 523.0,249.0 622.0,256.4 721.0,259.5 820.0,249.0" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,258.6 325.0,236.6 424.0,242.9 523.0,231.7 622.0,235.0 721.0,242.8 820.0,290.5" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,239.4 325.0,233.7 424.0,230.4 523.0,233.4 622.0,233.7 721.0,235.2 820.0,228.7" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,299.5 325.0,300.5 424.0,316.1 523.0,317.8 622.0,303.0 721.0,340.4 820.0,299.7" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,259.5 325.0,231.4 424.0,215.2 523.0,248.0 622.0,243.2 721.0,233.7 820.0,231.1" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,237.5 325.0,252.6 424.0,237.4 523.0,238.6 622.0,238.0 721.0,238.7 820.0,231.3" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,264.5 325.0,256.9 424.0,259.0 523.0,270.6 622.0,255.5 721.0,285.2 820.0,300.6" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,251.1 325.0,237.7 424.0,229.7 523.0,229.6 622.0,233.0 721.0,237.6 820.0,239.6" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,286.4 325.0,286.8 424.0,307.6 523.0,300.8 622.0,302.2 721.0,293.2 820.0,288.6" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,254.5 325.0,252.9 424.0,253.0 523.0,263.2 622.0,259.1 721.0,258.1 820.0,332.6" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,244.3 325.0,245.3 424.0,239.9 523.0,231.0 622.0,227.3 721.0,223.1 820.0,230.9" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,263.7 325.0,272.8 424.0,274.9 523.0,257.9 622.0,267.6 721.0,253.2 820.0,255.3" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,256.5 325.0,257.3 424.0,254.9 523.0,250.1 622.0,286.1 721.0,278.0 820.0,288.2" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,277.5 325.0,290.9 424.0,237.1 523.0,239.6 622.0,241.9 721.0,238.7 820.0,238.5" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,256.2 325.0,258.2 424.0,254.8 523.0,259.3 622.0,247.9 721.0,243.6 820.0,245.7" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,237.8 325.0,239.0 424.0,230.8 523.0,226.4 622.0,225.7 721.0,217.4 820.0,220.6" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,264.4 325.0,251.3 424.0,248.8 523.0,242.4 622.0,257.7 721.0,239.8 820.0,291.7" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,257.9 325.0,262.0 424.0,263.3 523.0,262.6 622.0,261.9 721.0,270.5 820.0,256.9" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,230.8 325.0,236.2 424.0,217.4 523.0,229.6 622.0,233.5 721.0,251.3 820.0,225.2" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,302.0 325.0,323.7 424.0,500.0 523.0,382.7 622.0,294.8 721.0,279.7 820.0,289.3" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,256.3 325.0,250.8 424.0,246.0 523.0,248.5 622.0,246.1 721.0,243.2 820.0,247.3" fill="none" stroke="#52514e" stroke-width="2.6" stroke-dasharray="6 3"/>
+<polyline points="226.0,271.6 325.0,247.1 424.0,246.2 523.0,271.8 622.0,313.0 721.0,327.5 820.0,377.6" fill="none" stroke="#8c2318" stroke-width="2.2"/>
+<circle cx="226.0" cy="271.6" r="2.6" fill="#8c2318"/>
+<circle cx="325.0" cy="247.1" r="2.6" fill="#8c2318"/>
+<circle cx="424.0" cy="246.2" r="2.6" fill="#8c2318"/>
+<circle cx="523.0" cy="271.8" r="2.6" fill="#8c2318"/>
+<circle cx="622.0" cy="313.0" r="2.6" fill="#8c2318"/>
+<circle cx="721.0" cy="327.5" r="2.6" fill="#8c2318"/>
+<circle cx="820.0" cy="377.6" r="2.6" fill="#8c2318"/>
+<polyline points="226.0,237.8 325.0,239.0 424.0,230.8 523.0,226.4 622.0,225.7 721.0,217.4 820.0,220.6" fill="none" stroke="#1b7f5a" stroke-width="2.2"/>
+<circle cx="226.0" cy="237.8" r="2.6" fill="#1b7f5a"/>
+<circle cx="325.0" cy="239.0" r="2.6" fill="#1b7f5a"/>
+<circle cx="424.0" cy="230.8" r="2.6" fill="#1b7f5a"/>
+<circle cx="523.0" cy="226.4" r="2.6" fill="#1b7f5a"/>
+<circle cx="622.0" cy="225.7" r="2.6" fill="#1b7f5a"/>
+<circle cx="721.0" cy="217.4" r="2.6" fill="#1b7f5a"/>
+<circle cx="820.0" cy="220.6" r="2.6" fill="#1b7f5a"/>
+<polyline points="226.0,263.7 325.0,272.8 424.0,274.9 523.0,257.9 622.0,267.6 721.0,253.2 820.0,255.3" fill="none" stroke="#4a7fa8" stroke-width="2.2"/>
+<circle cx="226.0" cy="263.7" r="2.6" fill="#4a7fa8"/>
+<circle cx="325.0" cy="272.8" r="2.6" fill="#4a7fa8"/>
+<circle cx="424.0" cy="274.9" r="2.6" fill="#4a7fa8"/>
+<circle cx="523.0" cy="257.9" r="2.6" fill="#4a7fa8"/>
+<circle cx="622.0" cy="267.6" r="2.6" fill="#4a7fa8"/>
+<circle cx="721.0" cy="253.2" r="2.6" fill="#4a7fa8"/>
+<circle cx="820.0" cy="255.3" r="2.6" fill="#4a7fa8"/>
+<polyline points="226.0,237.2 325.0,236.1 424.0,245.9 523.0,240.3 622.0,247.5 721.0,238.1 820.0,240.3" fill="none" stroke="#4a7fa8" stroke-width="2.2"/>
+<circle cx="226.0" cy="237.2" r="2.6" fill="#4a7fa8"/>
+<circle cx="325.0" cy="236.1" r="2.6" fill="#4a7fa8"/>
+<circle cx="424.0" cy="245.9" r="2.6" fill="#4a7fa8"/>
+<circle cx="523.0" cy="240.3" r="2.6" fill="#4a7fa8"/>
+<circle cx="622.0" cy="247.5" r="2.6" fill="#4a7fa8"/>
+<circle cx="721.0" cy="238.1" r="2.6" fill="#4a7fa8"/>
+<circle cx="820.0" cy="240.3" r="2.6" fill="#4a7fa8"/>
+<polyline points="226.0,302.0 325.0,323.7 424.0,500.0 523.0,382.7 622.0,294.8 721.0,279.7 820.0,289.3" fill="none" stroke="#c07a1e" stroke-width="2.2"/>
+<circle cx="226.0" cy="302.0" r="2.6" fill="#c07a1e"/>
+<circle cx="325.0" cy="323.7" r="2.6" fill="#c07a1e"/>
+<circle cx="424.0" cy="500.0" r="2.6" fill="#c07a1e"/>
+<circle cx="523.0" cy="382.7" r="2.6" fill="#c07a1e"/>
+<circle cx="622.0" cy="294.8" r="2.6" fill="#c07a1e"/>
+<circle cx="721.0" cy="279.7" r="2.6" fill="#c07a1e"/>
+<circle cx="820.0" cy="289.3" r="2.6" fill="#c07a1e"/>
+<text x="829.0" y="224.6" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Southern</text>
+<text x="829.0" y="224.6" fill="#1b7f5a" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Southern</text>
+<text x="829.0" y="244.3" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">ERCOT</text>
+<text x="829.0" y="244.3" fill="#4a7fa8" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">ERCOT</text>
+<text x="829.0" y="257.3" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">median</text>
+<text x="829.0" y="257.3" fill="#52514e" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">median</text>
+<text x="829.0" y="270.3" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">PJM</text>
+<text x="829.0" y="270.3" fill="#4a7fa8" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">PJM</text>
+<text x="829.0" y="293.3" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">WACM</text>
+<text x="829.0" y="293.3" fill="#c07a1e" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">WACM</text>
+<text x="829.0" y="381.6" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">California</text>
+<text x="829.0" y="381.6" fill="#8c2318" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">California</text>
+<text x="234.0" y="343.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">no better than repeating last week</text>
+<text x="234.0" y="343.0" fill="#52514e" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">no better than repeating last week</text>
+<text x="234.0" y="492.0" font-size="9" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">below the axis: WACM in 2021 at -2.18</text>
+<text x="222.0" y="600.0" font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">what the forecast is a fraction of the demand published beside it</text>
+<text x="222.0" y="615.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">1.00 means it forecasts the same quantity; a flat line off 1.00 is a permanent mismatch, a sloping one is a divergence</text>
+<line x1="226.0" y1="630.0" x2="226.0" y2="848.0" stroke="#f0efe9"/>
+<text x="226.0" y="865.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2019</text>
+<line x1="325.0" y1="630.0" x2="325.0" y2="848.0" stroke="#f0efe9"/>
+<text x="325.0" y="865.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2020</text>
+<line x1="424.0" y1="630.0" x2="424.0" y2="848.0" stroke="#f0efe9"/>
+<text x="424.0" y="865.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2021</text>
+<line x1="523.0" y1="630.0" x2="523.0" y2="848.0" stroke="#f0efe9"/>
+<text x="523.0" y="865.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2022</text>
+<line x1="622.0" y1="630.0" x2="622.0" y2="848.0" stroke="#f0efe9"/>
+<text x="622.0" y="865.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2023</text>
+<line x1="721.0" y1="630.0" x2="721.0" y2="848.0" stroke="#f0efe9"/>
+<text x="721.0" y="865.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2024</text>
+<line x1="820.0" y1="630.0" x2="820.0" y2="848.0" stroke="#f0efe9"/>
+<text x="820.0" y="865.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2025</text>
+<line x1="226.0" y1="819.6" x2="820.0" y2="819.6" stroke="#f0efe9" stroke-width="1"/>
+<text x="218.0" y="822.6" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">0.80</text>
+<line x1="226.0" y1="772.2" x2="820.0" y2="772.2" stroke="#f0efe9" stroke-width="1"/>
+<text x="218.0" y="775.2" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">0.90</text>
+<line x1="226.0" y1="724.8" x2="820.0" y2="724.8" stroke="#e3e2db" stroke-width="1.5"/>
+<text x="218.0" y="727.8" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">1.00</text>
+<line x1="226.0" y1="677.4" x2="820.0" y2="677.4" stroke="#f0efe9" stroke-width="1"/>
+<text x="218.0" y="680.4" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">1.10</text>
+<line x1="226.0" y1="630.0" x2="820.0" y2="630.0" stroke="#f0efe9" stroke-width="1"/>
+<text x="218.0" y="633.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">1.20</text>
+<polyline points="226.0,722.4 325.0,721.0 424.0,723.0 523.0,723.3 622.0,721.4 721.0,724.6 820.0,725.6" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,714.2 325.0,713.1 424.0,718.1 523.0,718.2 622.0,729.2 721.0,730.7 820.0,764.3" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,724.8 325.0,730.1 424.0,728.4 523.0,724.5 622.0,723.0 721.0,723.9 820.0,723.7" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,724.5 325.0,724.3 424.0,722.5 523.0,722.3 622.0,724.8 721.0,725.8 820.0,723.1" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,718.2 325.0,724.4 424.0,728.7 523.0,732.6 622.0,738.2 721.0,743.4 820.0,746.7" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,720.5 325.0,720.6 424.0,720.9 523.0,721.2 622.0,717.9 721.0,721.8 820.0,718.3" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,723.0 325.0,722.4 424.0,724.4 523.0,723.7 622.0,723.2 721.0,723.8 820.0,722.6" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,724.5 325.0,724.3 424.0,725.2 523.0,724.7 622.0,723.6 721.0,723.7 820.0,720.2" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,718.0 325.0,720.2 424.0,722.7 523.0,722.5 622.0,719.3 721.0,722.1 820.0,724.9" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,828.0 325.0,828.2 424.0,831.6 523.0,833.8 622.0,832.5 721.0,836.6 820.0,835.9" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,740.7 325.0,738.0 424.0,739.7 523.0,733.4 622.0,726.0 721.0,720.1 820.0,721.9" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,707.7 325.0,707.5 424.0,716.2 523.0,717.8 622.0,714.6 721.0,720.7 820.0,723.9" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,728.5 325.0,728.3 424.0,728.8 523.0,726.9 622.0,727.1 721.0,729.9 820.0,730.1" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,753.5 325.0,755.8 424.0,776.0 523.0,768.2 622.0,738.3 721.0,728.8 820.0,768.2" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,707.3 325.0,706.9 424.0,743.9 523.0,755.4 622.0,762.5 721.0,761.9 820.0,762.0" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,709.9 325.0,712.3 424.0,717.3 523.0,712.7 622.0,711.6 721.0,713.6 820.0,715.2" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,735.5 325.0,726.8 424.0,726.4 523.0,743.6 622.0,744.4 721.0,749.1 820.0,752.9" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,737.6 325.0,734.2 424.0,736.3 523.0,735.8 622.0,734.6 721.0,736.7 820.0,735.2" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,711.9 325.0,696.5 424.0,706.8 523.0,700.4 622.0,710.5 721.0,715.5 820.0,712.3" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,716.0 325.0,717.2 424.0,715.0 523.0,708.7 622.0,711.7 721.0,712.0 820.0,707.6" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,723.9 325.0,723.6 424.0,723.0 523.0,723.0 622.0,724.8 721.0,724.5 820.0,723.8" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,729.2 325.0,730.2 424.0,730.4 523.0,731.6 622.0,730.7 721.0,732.4 820.0,732.5" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,734.4 325.0,728.1 424.0,720.0 523.0,726.5 622.0,730.8 721.0,747.8 820.0,756.2" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,646.3 325.0,675.7 424.0,723.9 523.0,723.4 622.0,714.9 721.0,712.4 820.0,719.4" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,729.4 325.0,739.7 424.0,737.9 523.0,740.3 622.0,735.7 721.0,735.4 820.0,736.3" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,739.1 325.0,739.8 424.0,736.3 523.0,729.6 622.0,729.4 721.0,730.0 820.0,729.0" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,713.4 325.0,708.1 424.0,709.8 523.0,710.1 622.0,717.2 721.0,728.4 820.0,686.9" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,723.7 325.0,716.5 424.0,718.7 523.0,715.6 622.0,718.9 721.0,721.3 820.0,717.1" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,722.5 325.0,725.0 424.0,724.1 523.0,722.1 622.0,721.5 721.0,721.4 820.0,719.7" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,725.4 325.0,731.7 424.0,763.9 523.0,751.1 622.0,792.3 721.0,801.4 820.0,799.5" fill="none" stroke="#aca89a" stroke-width="1" stroke-opacity="0.55"/>
+<polyline points="226.0,828.0 325.0,828.2 424.0,831.6 523.0,833.8 622.0,832.5 721.0,836.6 820.0,835.9" fill="none" stroke="#8c2318" stroke-width="2.2"/>
+<circle cx="226.0" cy="828.0" r="2.6" fill="#8c2318"/>
+<circle cx="325.0" cy="828.2" r="2.6" fill="#8c2318"/>
+<circle cx="424.0" cy="831.6" r="2.6" fill="#8c2318"/>
+<circle cx="523.0" cy="833.8" r="2.6" fill="#8c2318"/>
+<circle cx="622.0" cy="832.5" r="2.6" fill="#8c2318"/>
+<circle cx="721.0" cy="836.6" r="2.6" fill="#8c2318"/>
+<circle cx="820.0" cy="835.9" r="2.6" fill="#8c2318"/>
+<polyline points="226.0,725.4 325.0,731.7 424.0,763.9 523.0,751.1 622.0,792.3 721.0,801.4 820.0,799.5" fill="none" stroke="#c07a1e" stroke-width="2.2"/>
+<circle cx="226.0" cy="725.4" r="2.6" fill="#c07a1e"/>
+<circle cx="325.0" cy="731.7" r="2.6" fill="#c07a1e"/>
+<circle cx="424.0" cy="763.9" r="2.6" fill="#c07a1e"/>
+<circle cx="523.0" cy="751.1" r="2.6" fill="#c07a1e"/>
+<circle cx="622.0" cy="792.3" r="2.6" fill="#c07a1e"/>
+<circle cx="721.0" cy="801.4" r="2.6" fill="#c07a1e"/>
+<circle cx="820.0" cy="799.5" r="2.6" fill="#c07a1e"/>
+<polyline points="226.0,707.3 325.0,706.9 424.0,743.9 523.0,755.4 622.0,762.5 721.0,761.9 820.0,762.0" fill="none" stroke="#1b7f5a" stroke-width="2.2"/>
+<circle cx="226.0" cy="707.3" r="2.6" fill="#1b7f5a"/>
+<circle cx="325.0" cy="706.9" r="2.6" fill="#1b7f5a"/>
+<circle cx="424.0" cy="743.9" r="2.6" fill="#1b7f5a"/>
+<circle cx="523.0" cy="755.4" r="2.6" fill="#1b7f5a"/>
+<circle cx="622.0" cy="762.5" r="2.6" fill="#1b7f5a"/>
+<circle cx="721.0" cy="761.9" r="2.6" fill="#1b7f5a"/>
+<circle cx="820.0" cy="762.0" r="2.6" fill="#1b7f5a"/>
+<polyline points="226.0,717.6 325.0,716.8 424.0,750.5 523.0,755.6 622.0,753.1 721.0,753.7 820.0,753.7" fill="none" stroke="#1b7f5a" stroke-width="2.2"/>
+<circle cx="226.0" cy="717.6" r="2.6" fill="#1b7f5a"/>
+<circle cx="325.0" cy="716.8" r="2.6" fill="#1b7f5a"/>
+<circle cx="424.0" cy="750.5" r="2.6" fill="#1b7f5a"/>
+<circle cx="523.0" cy="755.6" r="2.6" fill="#1b7f5a"/>
+<circle cx="622.0" cy="753.1" r="2.6" fill="#1b7f5a"/>
+<circle cx="721.0" cy="753.7" r="2.6" fill="#1b7f5a"/>
+<circle cx="820.0" cy="753.7" r="2.6" fill="#1b7f5a"/>
+<polyline points="226.0,718.2 325.0,724.4 424.0,728.7 523.0,732.6 622.0,738.2 721.0,743.4 820.0,746.7" fill="none" stroke="#4a7fa8" stroke-width="2.2"/>
+<circle cx="226.0" cy="718.2" r="2.6" fill="#4a7fa8"/>
+<circle cx="325.0" cy="724.4" r="2.6" fill="#4a7fa8"/>
+<circle cx="424.0" cy="728.7" r="2.6" fill="#4a7fa8"/>
+<circle cx="523.0" cy="732.6" r="2.6" fill="#4a7fa8"/>
+<circle cx="622.0" cy="738.2" r="2.6" fill="#4a7fa8"/>
+<circle cx="721.0" cy="743.4" r="2.6" fill="#4a7fa8"/>
+<circle cx="820.0" cy="746.7" r="2.6" fill="#4a7fa8"/>
+<text x="829.0" y="750.7" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">California</text>
+<text x="829.0" y="750.7" fill="#4a7fa8" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">California</text>
+<text x="829.0" y="763.7" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">PNM</text>
+<text x="829.0" y="763.7" fill="#1b7f5a" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">PNM</text>
+<text x="829.0" y="776.7" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">LGEE</text>
+<text x="829.0" y="776.7" fill="#1b7f5a" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">LGEE</text>
+<text x="829.0" y="803.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">WACM</text>
+<text x="829.0" y="803.5" fill="#c07a1e" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">WACM</text>
+<text x="829.0" y="839.9" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Duke Energy Florida</text>
+<text x="829.0" y="839.9" fill="#8c2318" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">Duke Energy Florida</text>
+<text x="964.0" y="212.0" font-size="10.5" fill="#8c2318" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">the four-year slide</text>
+<text x="964.0" y="227.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">CISO +0.69 in 2021 to -0.18</text>
+<text x="964.0" y="239.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">in 2025, and its scope</text>
+<text x="964.0" y="252.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">ratio 1.014 to 0.954. Both</text>
+<text x="964.0" y="264.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">drifting the same way.</text>
+<text x="964.0" y="293.0" font-size="10.5" fill="#c07a1e" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">three faults, one look</text>
+<text x="964.0" y="308.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Duke Energy Florida flat at</text>
+<text x="964.0" y="320.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">0.78 for seven years. WACM</text>
+<text x="964.0" y="333.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">sliding from 1.00. LGEE and</text>
+<text x="964.0" y="345.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">PNM stepping together in</text>
+<text x="964.0" y="358.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">2021.</text>
+<text x="964.0" y="386.5" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">the field improved</text>
+<text x="964.0" y="401.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Median skill 0.625 to 0.684</text>
+<text x="964.0" y="414.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">while median difficulty</text>
+<text x="964.0" y="426.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">held between 0.088 and</text>
+<text x="964.0" y="439.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">0.102. Better forecasts,</text>
+<text x="964.0" y="451.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">not easier grids.</text>
+<text x="964.0" y="480.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">what a scatter hid</text>
+<text x="964.0" y="495.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Skill against difficulty is</text>
+<text x="964.0" y="507.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">r = -0.02 -- worth knowing,</text>
+<text x="964.0" y="520.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">not worth an axis. This one</text>
+<text x="964.0" y="532.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">spends it on time.</text>
+<line x1="28" y1="930.0" x2="1132" y2="930.0" stroke="#e3e2db"/>
+<text x="28.0" y="948.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">EIA Hourly Electric Grid Monitor (EBA) bulk file, no key, fetched 2026-09-23; EBA.{BA}-ALL.DF.H against EBA.{BA}-ALL.D.H, UTC hours both cover, scored per year. Skill is</text>
+<text x="28.0" y="962.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">corrected by each year's median actual-over-forecast ratio, which is the lower panel. CAVEAT: grids under 2 GW and the 14 EIA region aggregates are excluded; the regions are</text>
+<text x="28.0" y="976.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">sums of the authorities beside them.</text>
+</svg>

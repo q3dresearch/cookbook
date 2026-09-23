@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="880" viewBox="0 0 1160 880" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'><rect width="1160" height="880" fill="#fcfcfb"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">Southern has the best typical forecast hour in the country and a 36-fold tail</text>
+<text x="28.0" y="60.0" font-size="12" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">53 US balancing authorities, 2025. Horizontal: the median hour's absolute error. Vertical: the 99th percentile hour's. Both as a share of demand, both corrected for scope.</text>
+<text x="28.0" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">FOR</text>
+<text x="28.0" y="101.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">anyone choosing a forecast-accuracy metric, or reading one</text>
+<text x="28.0" y="114.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">someone else chose</text>
+<text x="396.0" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">DECIDE</text>
+<text x="396.0" y="101.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">whether a median error number tells you anything about the</text>
+<text x="396.0" y="114.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">bad hours</text>
+<text x="764.0" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">WRONG IF</text>
+<text x="764.0" y="101.0" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the marks fall on one straight line, so the median fixes the</text>
+<text x="764.0" y="114.5" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">tail</text>
+<line x1="28" y1="124.0" x2="1132" y2="124.0" stroke="#e3e2db"/>
+<line x1="250.0" y1="208.0" x2="250.0" y2="642.0" stroke="#f0efe9"/>
+<text x="250.0" y="659.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">0.3%</text>
+<line x1="413.2" y1="208.0" x2="413.2" y2="642.0" stroke="#f0efe9"/>
+<text x="413.2" y="659.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">1%</text>
+<line x1="562.1" y1="208.0" x2="562.1" y2="642.0" stroke="#f0efe9"/>
+<text x="562.1" y="659.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">3%</text>
+<line x1="725.3" y1="208.0" x2="725.3" y2="642.0" stroke="#f0efe9"/>
+<text x="725.3" y="659.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">10%</text>
+<line x1="819.3" y1="208.0" x2="819.3" y2="642.0" stroke="#f0efe9"/>
+<text x="819.3" y="659.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">20%</text>
+<line x1="250.0" y1="642.0" x2="844.0" y2="642.0" stroke="#f0efe9"/>
+<text x="242.0" y="645.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">3%</text>
+<line x1="250.0" y1="508.4" x2="844.0" y2="508.4" stroke="#f0efe9"/>
+<text x="242.0" y="511.4" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">10%</text>
+<line x1="250.0" y1="386.6" x2="844.0" y2="386.6" stroke="#f0efe9"/>
+<text x="242.0" y="389.6" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">30%</text>
+<line x1="250.0" y1="253.0" x2="844.0" y2="253.0" stroke="#f0efe9"/>
+<text x="242.0" y="256.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">100%</text>
+<line x1="250.0" y1="642.0" x2="844.0" y2="217.3" stroke="#52514e" stroke-width="1.1" stroke-dasharray="5 4"/>
+<text x="686.3" y="338.3" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">the median tail: p99 is 5.7x p50</text>
+<text x="686.3" y="338.3" fill="#52514e" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">the median tail: p99 is 5.7x p50</text>
+<text x="250.0" y="678.0" font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the median hour's absolute error (log scale)</text>
+<text x="208" y="642.0" font-size="10" fill="#52514e" transform="rotate(-90 208 642.0)">the 99th percentile hour's absolute error (log scale)</text>
+<circle cx="549.6" cy="503.0" r="14.7" fill="#4a7fa8" fill-opacity="0.18" stroke="#4a7fa8" stroke-width="1.5"/>
+<text x="569.3" y="507.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">PJM</text>
+<text x="569.3" y="507.0" fill="#4a7fa8" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">PJM</text>
+<circle cx="448.0" cy="567.8" r="13.1" fill="#4a7fa8" fill-opacity="0.18" stroke="#4a7fa8" stroke-width="1.5"/>
+<text x="429.9" y="571.8" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">MISO</text>
+<text x="429.9" y="571.8" fill="#4a7fa8" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">MISO</text>
+<circle cx="493.8" cy="511.6" r="11.2" fill="#4a7fa8" fill-opacity="0.18" stroke="#4a7fa8" stroke-width="1.5"/>
+<text x="510.0" y="515.6" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">ERCO</text>
+<text x="510.0" y="515.6" fill="#4a7fa8" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">ERCO</text>
+<circle cx="640.1" cy="435.9" r="8.8" fill="#4a7fa8" fill-opacity="0.18" stroke="#4a7fa8" stroke-width="1.5"/>
+<text x="626.3" y="439.9" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">SWPP</text>
+<text x="626.3" y="439.9" fill="#4a7fa8" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">SWPP</text>
+<circle cx="285.2" cy="470.7" r="7.8" fill="#8c2318" fill-opacity="0.18" stroke="#8c2318" stroke-width="1.5"/>
+<text x="298.0" y="474.7" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">SOCO</text>
+<text x="298.0" y="474.7" fill="#8c2318" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">SOCO</text>
+<circle cx="624.3" cy="395.9" r="7.6" fill="#8c2318" fill-opacity="0.18" stroke="#8c2318" stroke-width="1.5"/>
+<text x="636.9" y="399.9" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">CISO</text>
+<text x="636.9" y="399.9" fill="#8c2318" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">CISO</text>
+<circle cx="478.7" cy="520.1" r="6.6" fill="#4a7fa8" fill-opacity="0.18" stroke="#4a7fa8" stroke-width="1.5"/>
+<text x="490.3" y="511.1" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">TVA</text>
+<text x="490.3" y="511.1" fill="#4a7fa8" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">TVA</text>
+<circle cx="460.9" cy="518.4" r="6.2" fill="#8c2318" fill-opacity="0.18" stroke="#8c2318" stroke-width="1.5"/>
+<text x="449.6" y="522.4" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">NYIS</text>
+<text x="449.6" y="522.4" fill="#8c2318" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">NYIS</text>
+<circle cx="545.9" cy="500.2" r="6.1" fill="#4a7fa8" fill-opacity="0.18" stroke="#4a7fa8" stroke-width="1.5"/>
+<text x="557.1" y="504.2" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">FPL</text>
+<text x="557.1" y="504.2" fill="#4a7fa8" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">FPL</text>
+<circle cx="474.2" cy="517.1" r="5.4" fill="#8c2318" fill-opacity="0.18" stroke="#8c2318" stroke-width="1.5"/>
+<text x="463.7" y="508.1" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">ISNE</text>
+<text x="463.7" y="508.1" fill="#8c2318" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">ISNE</text>
+<circle cx="504.4" cy="507.0" r="5.3" fill="#4a7fa8" fill-opacity="0.18" stroke="#4a7fa8" stroke-width="1.5"/>
+<text x="514.7" y="511.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">DUK</text>
+<text x="514.7" y="511.0" fill="#4a7fa8" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">DUK</text>
+<circle cx="558.8" cy="435.4" r="4.0" fill="#8c2318" fill-opacity="0.18" stroke="#8c2318" stroke-width="1.5"/>
+<circle cx="477.0" cy="549.6" r="4.0" fill="#4a7fa8" fill-opacity="0.18" stroke="#4a7fa8" stroke-width="1.5"/>
+<circle cx="528.9" cy="464.7" r="3.9" fill="#8c2318" fill-opacity="0.18" stroke="#8c2318" stroke-width="1.5"/>
+<circle cx="549.2" cy="480.9" r="3.7" fill="#4a7fa8" fill-opacity="0.18" stroke="#4a7fa8" stroke-width="1.5"/>
+<circle cx="619.9" cy="452.9" r="3.4" fill="#4a7fa8" fill-opacity="0.18" stroke="#4a7fa8" stroke-width="1.5"/>
+<text x="628.3" y="456.9" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">PSCO</text>
+<text x="628.3" y="456.9" fill="#4a7fa8" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">PSCO</text>
+<circle cx="585.1" cy="434.4" r="3.4" fill="#4a7fa8" fill-opacity="0.18" stroke="#4a7fa8" stroke-width="1.5"/>
+<circle cx="686.9" cy="386.6" r="3.4" fill="#4a7fa8" fill-opacity="0.18" stroke="#4a7fa8" stroke-width="1.5"/>
+<circle cx="525.1" cy="502.5" r="3.4" fill="#4a7fa8" fill-opacity="0.18" stroke="#4a7fa8" stroke-width="1.5"/>
+<circle cx="529.0" cy="466.6" r="3.4" fill="#8c2318" fill-opacity="0.18" stroke="#8c2318" stroke-width="1.5"/>
+<circle cx="572.4" cy="463.7" r="3.4" fill="#4a7fa8" fill-opacity="0.18" stroke="#4a7fa8" stroke-width="1.5"/>
+<circle cx="539.6" cy="489.4" r="3.4" fill="#4a7fa8" fill-opacity="0.18" stroke="#4a7fa8" stroke-width="1.5"/>
+<circle cx="784.0" cy="303.7" r="3.4" fill="#4a7fa8" fill-opacity="0.18" stroke="#4a7fa8" stroke-width="1.5"/>
+<text x="792.4" y="307.7" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">PSEI</text>
+<text x="792.4" y="307.7" fill="#4a7fa8" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">PSEI</text>
+<circle cx="548.5" cy="451.8" r="3.4" fill="#8c2318" fill-opacity="0.18" stroke="#8c2318" stroke-width="1.5"/>
+<circle cx="645.5" cy="307.6" r="3.4" fill="#8c2318" fill-opacity="0.18" stroke="#8c2318" stroke-width="1.5"/>
+<circle cx="406.6" cy="551.6" r="3.4" fill="#8c2318" fill-opacity="0.18" stroke="#8c2318" stroke-width="1.5"/>
+<circle cx="439.9" cy="565.4" r="3.4" fill="#4a7fa8" fill-opacity="0.18" stroke="#4a7fa8" stroke-width="1.5"/>
+<text x="448.3" y="569.4" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">AECI</text>
+<text x="448.3" y="569.4" fill="#4a7fa8" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">AECI</text>
+<circle cx="578.0" cy="441.0" r="3.4" fill="#4a7fa8" fill-opacity="0.18" stroke="#4a7fa8" stroke-width="1.5"/>
+<circle cx="579.6" cy="311.5" r="3.4" fill="#8c2318" fill-opacity="0.18" stroke="#8c2318" stroke-width="1.5"/>
+<text x="588.0" y="315.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">PACW</text>
+<text x="588.0" y="315.5" fill="#8c2318" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">PACW</text>
+<circle cx="587.4" cy="253.0" r="3.4" fill="#8c2318" fill-opacity="0.18" stroke="#8c2318" stroke-width="1.5"/>
+<text x="579.0" y="257.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">FMPP</text>
+<text x="579.0" y="257.0" fill="#8c2318" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">FMPP</text>
+<circle cx="584.9" cy="415.9" r="3.4" fill="#8c2318" fill-opacity="0.18" stroke="#8c2318" stroke-width="1.5"/>
+<circle cx="480.8" cy="492.2" r="3.4" fill="#8c2318" fill-opacity="0.18" stroke="#8c2318" stroke-width="1.5"/>
+<circle cx="524.4" cy="488.3" r="3.4" fill="#4a7fa8" fill-opacity="0.18" stroke="#4a7fa8" stroke-width="1.5"/>
+<circle cx="490.7" cy="482.8" r="3.4" fill="#8c2318" fill-opacity="0.18" stroke="#8c2318" stroke-width="1.5"/>
+<circle cx="547.7" cy="462.0" r="3.4" fill="#4a7fa8" fill-opacity="0.18" stroke="#4a7fa8" stroke-width="1.5"/>
+<circle cx="439.0" cy="533.1" r="3.4" fill="#8c2318" fill-opacity="0.18" stroke="#8c2318" stroke-width="1.5"/>
+<circle cx="443.1" cy="496.4" r="3.4" fill="#8c2318" fill-opacity="0.18" stroke="#8c2318" stroke-width="1.5"/>
+<circle cx="541.2" cy="513.4" r="3.4" fill="#4a7fa8" fill-opacity="0.18" stroke="#4a7fa8" stroke-width="1.5"/>
+<text x="532.8" y="517.4" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">SCL</text>
+<text x="532.8" y="517.4" fill="#4a7fa8" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">SCL</text>
+<circle cx="522.5" cy="465.7" r="3.4" fill="#8c2318" fill-opacity="0.18" stroke="#8c2318" stroke-width="1.5"/>
+<circle cx="716.7" cy="321.5" r="3.4" fill="#4a7fa8" fill-opacity="0.18" stroke="#4a7fa8" stroke-width="1.5"/>
+<circle cx="470.4" cy="568.4" r="3.4" fill="#4a7fa8" fill-opacity="0.18" stroke="#4a7fa8" stroke-width="1.5"/>
+<circle cx="568.7" cy="440.6" r="3.4" fill="#8c2318" fill-opacity="0.18" stroke="#8c2318" stroke-width="1.5"/>
+<circle cx="461.6" cy="531.4" r="3.4" fill="#4a7fa8" fill-opacity="0.18" stroke="#4a7fa8" stroke-width="1.5"/>
+<circle cx="540.4" cy="411.1" r="3.4" fill="#8c2318" fill-opacity="0.18" stroke="#8c2318" stroke-width="1.5"/>
+<circle cx="542.3" cy="439.0" r="3.4" fill="#8c2318" fill-opacity="0.18" stroke="#8c2318" stroke-width="1.5"/>
+<circle cx="534.7" cy="489.2" r="3.4" fill="#4a7fa8" fill-opacity="0.18" stroke="#4a7fa8" stroke-width="1.5"/>
+<circle cx="618.3" cy="445.7" r="3.4" fill="#4a7fa8" fill-opacity="0.18" stroke="#4a7fa8" stroke-width="1.5"/>
+<circle cx="627.3" cy="375.4" r="3.4" fill="#8c2318" fill-opacity="0.18" stroke="#8c2318" stroke-width="1.5"/>
+<circle cx="631.0" cy="299.5" r="3.4" fill="#8c2318" fill-opacity="0.18" stroke="#8c2318" stroke-width="1.5"/>
+<text x="622.6" y="303.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">SEC</text>
+<text x="622.6" y="303.5" fill="#8c2318" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">SEC</text>
+<circle cx="524.7" cy="489.9" r="3.4" fill="#4a7fa8" fill-opacity="0.18" stroke="#4a7fa8" stroke-width="1.5"/>
+<circle cx="728.2" cy="234.0" r="3.4" fill="#8c2318" fill-opacity="0.18" stroke="#8c2318" stroke-width="1.5"/>
+<text x="736.6" y="238.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">WAUW</text>
+<text x="736.6" y="238.0" fill="#8c2318" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">WAUW</text>
+<circle cx="609.9" cy="376.5" r="3.4" fill="#8c2318" fill-opacity="0.18" stroke="#8c2318" stroke-width="1.5"/>
+<circle cx="844.0" cy="208.0" r="3.4" fill="#8c2318" fill-opacity="0.18" stroke="#8c2318" stroke-width="1.5"/>
+<text x="835.6" y="212.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">SPA</text>
+<text x="835.6" y="212.0" fill="#8c2318" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">SPA</text>
+<text x="262.9" y="223.9" font-size="9.5" fill="#8c2318" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">SOCO   median 0.39%, p99 14.05%   36.1x</text>
+<text x="262.9" y="240.4" font-size="9.5" fill="#8c2318" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">best typical hour of the 53, and a tail six times</text>
+<text x="262.9" y="257.5" font-size="9.5" fill="#8c2318" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">fatter than the field</text>
+<text x="262.9" y="292.6" font-size="9.5" fill="#4a7fa8" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">SWPP   median 5.33%, p99 19.22%   3.6x</text>
+<text x="262.9" y="309.7" font-size="9.5" fill="#4a7fa8" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">thirteen times the median error, and the</text>
+<text x="262.9" y="326.6" font-size="9.5" fill="#4a7fa8" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">flattest tail in the country</text>
+<text x="924.0" y="208.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">the dashed line</text>
+<text x="924.0" y="223.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Constant ratio. 26 of 53 grids</text>
+<text x="924.0" y="235.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">sit above it with a fatter tail</text>
+<text x="924.0" y="248.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">than the field median of 5.7x.</text>
+<text x="924.0" y="276.5" font-size="10.5" fill="#0b0b0b" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">why it is not one line</text>
+<text x="924.0" y="291.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">If the median error determined</text>
+<text x="924.0" y="304.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the tail, every mark would sit on</text>
+<text x="924.0" y="316.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">it. The ratio runs 3.6x to 36.1x</text>
+<text x="924.0" y="329.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">-- a ten-fold spread the median</text>
+<text x="924.0" y="341.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">cannot see.</text>
+<text x="924.0" y="370.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">the peak, separately</text>
+<text x="924.0" y="385.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">44 of 53 under-forecast the top</text>
+<text x="924.0" y="397.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">5% of hours, but 13 of 13 under 1</text>
+<text x="924.0" y="410.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">GW against 4 of 6 above 20 GW.</text>
+<text x="924.0" y="422.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">PJM is -0.46%. Mostly a</text>
+<text x="924.0" y="435.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">small-grid effect.</text>
+<line x1="28" y1="800.0" x2="1132" y2="800.0" stroke="#e3e2db"/>
+<text x="28.0" y="818.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">EIA Hourly Electric Grid Monitor (EBA) bulk file, no key, fetched 2026-09-23; EBA.{BA}-ALL.DF.H against EBA.{BA}-ALL.D.H over the 2025 hours both cover. Errors are absolute</text>
+<text x="28.0" y="832.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">and scope-corrected, so a grid forecasting a different quantity is not penalised twice. Circle area is mean demand. CAVEAT: percentile errors on grids under 1 GW are moved by</text>
+<text x="28.0" y="846.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">single hours; the 14 EIA region aggregates are excluded.</text>
+</svg>

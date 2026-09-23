@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="680" viewBox="0 0 1160 680" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'><rect width="1160" height="680" fill="#fcfcfb"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">What makes a grid hard to forecast is how flat its load is</text>
+<text x="28.0" y="60.0" font-size="12" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Each thing measured by itself, then again with all five competing to explain the same grids. Where the two disagree, the first one was standing in for another. 41 balancing authorities.</text>
+<text x="28.0" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">FOR</text>
+<text x="28.0" y="101.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">anyone modelling which grids are hard to forecast, or why</text>
+<text x="396.0" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">DECIDE</text>
+<text x="396.0" y="101.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">which variable to carry, and which one-at-a-time</text>
+<text x="396.0" y="114.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">correlations to stop quoting</text>
+<text x="764.0" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">WRONG IF</text>
+<text x="764.0" y="101.0" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the hollow and filled marks sit on top of each other, so</text>
+<text x="764.0" y="114.5" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">nothing was standing in for anything else</text>
+<line x1="28" y1="124.0" x2="1132" y2="124.0" stroke="#e3e2db"/>
+<circle cx="330.0" cy="176.0" r="4.4" fill="none" stroke="#9aa4ad" stroke-width="1.5"/>
+<text x="342.0" y="180.0" font-size="10" fill="#9aa4ad" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">if you look at this alone</text>
+<circle cx="580.0" cy="176.0" r="6" fill="#4a7fa8" fill-opacity="0.3" stroke="#4a7fa8" stroke-width="1.8"/>
+<text x="592.0" y="180.0" font-size="10" fill="#0b0b0b" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">once the other four can explain it too</text>
+<line x1="416.3" y1="232.0" x2="416.3" y2="502.0" stroke="#f0efe9" stroke-width="1"/>
+<text x="416.3" y="224.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">-0.75</text>
+<line x1="543.3" y1="232.0" x2="543.3" y2="502.0" stroke="#f0efe9" stroke-width="1"/>
+<text x="543.3" y="224.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">-0.50</text>
+<line x1="670.3" y1="232.0" x2="670.3" y2="502.0" stroke="#f0efe9" stroke-width="1"/>
+<text x="670.3" y="224.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">-0.25</text>
+<line x1="797.3" y1="232.0" x2="797.3" y2="502.0" stroke="#e3e2db" stroke-width="1.5"/>
+<text x="797.3" y="224.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">0</text>
+<line x1="924.3" y1="232.0" x2="924.3" y2="502.0" stroke="#f0efe9" stroke-width="1"/>
+<text x="924.3" y="224.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">+0.25</text>
+<text x="326.0" y="206.0" font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">how much a grid's forecast difficulty moves when this one thing does, in standard deviations</text>
+<text x="312.0" y="264.0" font-size="11" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">load flatness, overnight trough over peak</text>
+<line x1="430.8" y1="260.0" x2="548.2" y2="260.0" stroke="#aca89a" stroke-width="1.6"/>
+<circle cx="430.8" cy="260.0" r="4.4" fill="none" stroke="#9aa4ad" stroke-width="1.5"/>
+<circle cx="548.2" cy="260.0" r="6.6" fill="#4a7fa8" fill-opacity="0.30" stroke="#4a7fa8" stroke-width="1.8"/>
+<text x="992.0" y="264.0" font-size="11" fill="#4a7fa8" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">-0.49</text>
+<text x="1034.0" y="264.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">was -0.72</text>
+<text x="312.0" y="318.0" font-size="11" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">data centres per million people</text>
+<line x1="490.8" y1="314.0" x2="613.3" y2="314.0" stroke="#aca89a" stroke-width="1.6"/>
+<circle cx="490.8" cy="314.0" r="4.4" fill="none" stroke="#9aa4ad" stroke-width="1.5"/>
+<circle cx="613.3" cy="314.0" r="6.6" fill="#4a7fa8" fill-opacity="0.30" stroke="#4a7fa8" stroke-width="1.8"/>
+<text x="992.0" y="318.0" font-size="11" fill="#4a7fa8" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">-0.36</text>
+<text x="1034.0" y="318.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">was -0.60</text>
+<text x="312.0" y="372.0" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">wind and solar share of own generation</text>
+<line x1="663.9" y1="368.0" x2="726.7" y2="368.0" stroke="#aca89a" stroke-width="1.6"/>
+<circle cx="663.9" cy="368.0" r="4.4" fill="none" stroke="#9aa4ad" stroke-width="1.5"/>
+<circle cx="726.7" cy="368.0" r="6.6" fill="#9aa4ad" fill-opacity="0.30" stroke="#9aa4ad" stroke-width="1.8"/>
+<text x="992.0" y="372.0" font-size="11" fill="#9aa4ad" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">-0.14</text>
+<text x="1034.0" y="372.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">was -0.26</text>
+<text x="1100.0" y="372.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">collapses</text>
+<text x="312.0" y="426.0" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">grid size in GW</text>
+<line x1="737.7" y1="422.0" x2="821.2" y2="422.0" stroke="#aca89a" stroke-width="1.6"/>
+<circle cx="737.7" cy="422.0" r="4.4" fill="none" stroke="#9aa4ad" stroke-width="1.5"/>
+<circle cx="821.2" cy="422.0" r="6.6" fill="#9aa4ad" fill-opacity="0.30" stroke="#9aa4ad" stroke-width="1.8"/>
+<text x="992.0" y="426.0" font-size="11" fill="#9aa4ad" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">+0.05</text>
+<text x="1034.0" y="426.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">was -0.12</text>
+<text x="1100.0" y="426.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">collapses</text>
+<text x="312.0" y="480.0" font-size="11" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">seasonal amplitude (temperature proxy)</text>
+<line x1="970.0" y1="476.0" x2="859.3" y2="476.0" stroke="#aca89a" stroke-width="1.6"/>
+<circle cx="970.0" cy="476.0" r="4.4" fill="none" stroke="#9aa4ad" stroke-width="1.5"/>
+<circle cx="859.3" cy="476.0" r="6.6" fill="#9aa4ad" fill-opacity="0.30" stroke="#9aa4ad" stroke-width="1.8"/>
+<text x="992.0" y="480.0" font-size="11" fill="#9aa4ad" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">+0.12</text>
+<text x="1034.0" y="480.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">was +0.40</text>
+<text x="1100.0" y="480.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">collapses</text>
+<text x="42.0" y="532.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">the five together explain R2 = 0.65 of the spread in difficulty; without the data-centre variable, on all 53 grids,</text>
+<text x="42.0" y="532.0" fill="#52514e" font-size="10.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">the five together explain R2 = 0.65 of the spread in difficulty; without the data-centre variable, on all 53 grids,</text>
+<text x="42.0" y="547.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">flatness alone carries -0.80 and nothing else exceeds 0.09</text>
+<text x="42.0" y="547.0" fill="#52514e" font-size="10.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">flatness alone carries -0.80 and nothing else exceeds 0.09</text>
+<line x1="28" y1="600.0" x2="1132" y2="600.0" stroke="#e3e2db"/>
+<text x="28.0" y="618.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">EIA Hourly Electric Grid Monitor and PeeringDB, fetched 2026-09-23; state predictors from EIA SEDS 2023. Difficulty is the error a same-hour-last-week forecast makes, as a</text>
+<text x="28.0" y="632.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">share of mean demand, 2025. CAVEAT: the data-centre variable exists only for the 41 balancing authorities whose footprint sits inside one state, against a directory nobody is</text>
+<text x="28.0" y="646.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">obliged to file into, and only per capita -- the raw facility count correlates at -0.03. It is a lead, not a finding.</text>
+</svg>

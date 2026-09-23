@@ -1,0 +1,14 @@
+date,method_version,event
+2026-09-23,1.0.0,three EIA bulk archives fetched on one held connection; 988 MB in 405s
+2026-09-23,1.0.0,fuel-code regex of exactly three characters dropped natural gas; caught by a generation-against-demand coverage check
+2026-09-23,1.0.0,PeeringDB facility density failed its pre-registered falsifier against state electricity growth at r=+0.03
+2026-09-23,1.0.0,CO2.CON found to cover 87.5% of 2025 hours against demand's 100%; intensities refolded over matched hours
+2026-09-23,1.0.0,load shape failed as a compute proxy; PJM's signature is real and not distinctive
+2026-09-23,1.0.0,forecast IQR replaced by a skill score against persistence after a reader objected to the tail
+2026-09-23,1.0.0,NREL ATB reached with no connection toll; no dispatchable technology publishes a levelised cost
+2026-09-23,1.0.0,generation-cost merged into this recipe; the cost question serves the same objective
+2026-09-23,1.0.0,ELEC fuel codes found to overlap; denominator was ~2.3x too large by a different factor per state
+2026-09-23,1.0.0,price coefficients replaced by an exact Shapley decomposition over all 256 subsets
+2026-09-23,1.0.0,rooftop solar dropped from the price models as endogenous; price predicts adoption at +0.69
+2026-09-23,1.0.0,figure 13 axes found to use different windows; r fell from +0.32 to +0.18 on matching them
+2026-09-23,1.0.0,promoted at 13 figures

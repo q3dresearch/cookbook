@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="864" viewBox="0 0 1160 864" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'><rect width="1160" height="864" fill="#fcfcfb"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">For wind and solar, where you put it decides the cost. For nuclear, the loan does.</text>
+<text x="28.0" y="60.0" font-size="12" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Each of the four choices behind an ATB levelised cost in 2030, and how far moving that one alone shifts the median. 1.0x means the choice makes no difference.</text>
+<text x="28.0" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">FOR</text>
+<text x="28.0" y="101.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">anyone running a sensitivity analysis on generation cost, or</text>
+<text x="28.0" y="114.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">quoting one number</text>
+<text x="396.0" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">DECIDE</text>
+<text x="396.0" y="101.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">which assumption to state alongside a cost, and which to</text>
+<text x="396.0" y="114.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">vary in a test</text>
+<text x="764.0" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">WRONG IF</text>
+<text x="764.0" y="101.0" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the same dimension dominates every technology</text>
+<line x1="28" y1="124.0" x2="1132" y2="124.0" stroke="#e3e2db"/>
+<circle cx="268.0" cy="180.0" r="5" fill="#8c2318" fill-opacity="0.25" stroke="#8c2318" stroke-width="1.6"/>
+<text x="279.0" y="184.0" font-size="10" fill="#8c2318" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">where you put it</text>
+<circle cx="486.0" cy="180.0" r="5" fill="#c07a1e" fill-opacity="0.25" stroke="#c07a1e" stroke-width="1.6"/>
+<text x="497.0" y="184.0" font-size="10" fill="#c07a1e" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">whether tax credits count</text>
+<circle cx="704.0" cy="180.0" r="5" fill="#1b7f5a" fill-opacity="0.25" stroke="#1b7f5a" stroke-width="1.6"/>
+<text x="715.0" y="184.0" font-size="10" fill="#1b7f5a" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">technology optimism</text>
+<circle cx="922.0" cy="180.0" r="5" fill="#4a7fa8" fill-opacity="0.25" stroke="#4a7fa8" stroke-width="1.6"/>
+<text x="933.0" y="184.0" font-size="10" fill="#4a7fa8" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">the financing period</text>
+<line x1="276.8" y1="240.0" x2="276.8" y2="722.0" stroke="#e3e2db" stroke-width="1.4"/>
+<text x="276.8" y="232.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">1x</text>
+<line x1="374.1" y1="240.0" x2="374.1" y2="722.0" stroke="#f0efe9" stroke-width="1"/>
+<text x="374.1" y="232.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">1.25x</text>
+<line x1="453.6" y1="240.0" x2="453.6" y2="722.0" stroke="#f0efe9" stroke-width="1"/>
+<text x="453.6" y="232.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">1.5x</text>
+<line x1="579.0" y1="240.0" x2="579.0" y2="722.0" stroke="#f0efe9" stroke-width="1"/>
+<text x="579.0" y="232.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2x</text>
+<line x1="676.3" y1="240.0" x2="676.3" y2="722.0" stroke="#f0efe9" stroke-width="1"/>
+<text x="676.3" y="232.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2.5x</text>
+<line x1="755.8" y1="240.0" x2="755.8" y2="722.0" stroke="#f0efe9" stroke-width="1"/>
+<text x="755.8" y="232.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">3x</text>
+<line x1="881.3" y1="240.0" x2="881.3" y2="722.0" stroke="#f0efe9" stroke-width="1"/>
+<text x="881.3" y="232.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">4x</text>
+<line x1="978.6" y1="240.0" x2="978.6" y2="722.0" stroke="#f0efe9" stroke-width="1"/>
+<text x="978.6" y="232.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">5x</text>
+<text x="268.0" y="214.0" font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">how far this one choice alone moves the median cost (log scale)</text>
+<text x="252.0" y="266.0" font-size="11" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">Distributed wind</text>
+<line x1="268.0" y1="262.0" x2="997.9" y2="262.0" stroke="#aca89a" stroke-width="1"/>
+<circle cx="997.9" cy="262.0" r="6.6" fill="#8c2318" fill-opacity="0.34" stroke="#8c2318" stroke-width="2.0"/>
+<circle cx="385.6" cy="262.0" r="5.0" fill="#c07a1e" fill-opacity="0.18" stroke="#c07a1e" stroke-width="1.3"/>
+<circle cx="493.4" cy="262.0" r="5.0" fill="#1b7f5a" fill-opacity="0.18" stroke="#1b7f5a" stroke-width="1.3"/>
+<circle cx="357.4" cy="262.0" r="5.0" fill="#4a7fa8" fill-opacity="0.18" stroke="#4a7fa8" stroke-width="1.3"/>
+<text x="1036.0" y="266.0" font-size="11" fill="#8c2318" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">5.23x</text>
+<text x="1082.0" y="266.0" font-size="9" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">siting</text>
+<text x="252.0" y="306.0" font-size="11" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">Hydropower</text>
+<line x1="268.0" y1="302.0" x2="960.4" y2="302.0" stroke="#aca89a" stroke-width="1"/>
+<circle cx="960.4" cy="302.0" r="6.6" fill="#8c2318" fill-opacity="0.34" stroke="#8c2318" stroke-width="2.0"/>
+<circle cx="369.5" cy="302.0" r="5.0" fill="#c07a1e" fill-opacity="0.18" stroke="#c07a1e" stroke-width="1.3"/>
+<circle cx="367.3" cy="302.0" r="5.0" fill="#1b7f5a" fill-opacity="0.18" stroke="#1b7f5a" stroke-width="1.3"/>
+<circle cx="445.5" cy="302.0" r="5.0" fill="#4a7fa8" fill-opacity="0.18" stroke="#4a7fa8" stroke-width="1.3"/>
+<text x="1036.0" y="306.0" font-size="11" fill="#8c2318" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">4.80x</text>
+<text x="1082.0" y="306.0" font-size="9" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">siting</text>
+<text x="252.0" y="346.0" font-size="11" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">Land-based wind</text>
+<line x1="268.0" y1="342.0" x2="815.1" y2="342.0" stroke="#aca89a" stroke-width="1"/>
+<circle cx="815.1" cy="342.0" r="6.6" fill="#8c2318" fill-opacity="0.34" stroke="#8c2318" stroke-width="2.0"/>
+<circle cx="615.8" cy="342.0" r="5.0" fill="#c07a1e" fill-opacity="0.18" stroke="#c07a1e" stroke-width="1.3"/>
+<circle cx="427.7" cy="342.0" r="5.0" fill="#1b7f5a" fill-opacity="0.18" stroke="#1b7f5a" stroke-width="1.3"/>
+<circle cx="356.8" cy="342.0" r="5.0" fill="#4a7fa8" fill-opacity="0.18" stroke="#4a7fa8" stroke-width="1.3"/>
+<text x="1036.0" y="346.0" font-size="11" fill="#8c2318" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">3.44x</text>
+<text x="1082.0" y="346.0" font-size="9" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">siting</text>
+<text x="252.0" y="386.0" font-size="11" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">Geothermal</text>
+<line x1="268.0" y1="382.0" x2="739.0" y2="382.0" stroke="#aca89a" stroke-width="1"/>
+<circle cx="739.0" cy="382.0" r="6.6" fill="#8c2318" fill-opacity="0.34" stroke="#8c2318" stroke-width="2.0"/>
+<circle cx="373.3" cy="382.0" r="5.0" fill="#c07a1e" fill-opacity="0.18" stroke="#c07a1e" stroke-width="1.3"/>
+<circle cx="595.6" cy="382.0" r="5.0" fill="#1b7f5a" fill-opacity="0.18" stroke="#1b7f5a" stroke-width="1.3"/>
+<circle cx="344.2" cy="382.0" r="5.0" fill="#4a7fa8" fill-opacity="0.18" stroke="#4a7fa8" stroke-width="1.3"/>
+<text x="1036.0" y="386.0" font-size="11" fill="#8c2318" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">2.89x</text>
+<text x="1082.0" y="386.0" font-size="9" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">siting</text>
+<text x="252.0" y="426.0" font-size="11" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">Offshore wind</text>
+<line x1="268.0" y1="422.0" x2="618.3" y2="422.0" stroke="#aca89a" stroke-width="1"/>
+<circle cx="618.3" cy="422.0" r="6.6" fill="#8c2318" fill-opacity="0.34" stroke="#8c2318" stroke-width="2.0"/>
+<circle cx="363.0" cy="422.0" r="5.0" fill="#c07a1e" fill-opacity="0.18" stroke="#c07a1e" stroke-width="1.3"/>
+<circle cx="451.1" cy="422.0" r="5.0" fill="#1b7f5a" fill-opacity="0.18" stroke="#1b7f5a" stroke-width="1.3"/>
+<circle cx="342.4" cy="422.0" r="5.0" fill="#4a7fa8" fill-opacity="0.18" stroke="#4a7fa8" stroke-width="1.3"/>
+<text x="1036.0" y="426.0" font-size="11" fill="#8c2318" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">2.19x</text>
+<text x="1082.0" y="426.0" font-size="9" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">siting</text>
+<text x="252.0" y="466.0" font-size="11" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">Utility solar</text>
+<line x1="268.0" y1="462.0" x2="539.0" y2="462.0" stroke="#aca89a" stroke-width="1"/>
+<circle cx="539.0" cy="462.0" r="6.6" fill="#8c2318" fill-opacity="0.34" stroke="#8c2318" stroke-width="2.0"/>
+<circle cx="504.7" cy="462.0" r="5.0" fill="#c07a1e" fill-opacity="0.18" stroke="#c07a1e" stroke-width="1.3"/>
+<circle cx="485.0" cy="462.0" r="5.0" fill="#1b7f5a" fill-opacity="0.18" stroke="#1b7f5a" stroke-width="1.3"/>
+<circle cx="362.5" cy="462.0" r="5.0" fill="#4a7fa8" fill-opacity="0.18" stroke="#4a7fa8" stroke-width="1.3"/>
+<text x="1036.0" y="466.0" font-size="11" fill="#8c2318" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">1.82x</text>
+<text x="1082.0" y="466.0" font-size="9" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">siting</text>
+<text x="252.0" y="506.0" font-size="11" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">Concentrating solar</text>
+<line x1="268.0" y1="502.0" x2="513.0" y2="502.0" stroke="#aca89a" stroke-width="1"/>
+<circle cx="385.3" cy="502.0" r="5.0" fill="#8c2318" fill-opacity="0.18" stroke="#8c2318" stroke-width="1.3"/>
+<circle cx="387.0" cy="502.0" r="5.0" fill="#c07a1e" fill-opacity="0.18" stroke="#c07a1e" stroke-width="1.3"/>
+<circle cx="513.0" cy="502.0" r="6.6" fill="#1b7f5a" fill-opacity="0.34" stroke="#1b7f5a" stroke-width="2.0"/>
+<circle cx="354.9" cy="502.0" r="5.0" fill="#4a7fa8" fill-opacity="0.18" stroke="#4a7fa8" stroke-width="1.3"/>
+<text x="1036.0" y="506.0" font-size="11" fill="#1b7f5a" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">1.72x</text>
+<text x="1082.0" y="506.0" font-size="9" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">optimism</text>
+<text x="252.0" y="546.0" font-size="11" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">Commercial solar</text>
+<line x1="268.0" y1="542.0" x2="469.4" y2="542.0" stroke="#aca89a" stroke-width="1"/>
+<circle cx="469.4" cy="542.0" r="6.6" fill="#8c2318" fill-opacity="0.34" stroke="#8c2318" stroke-width="2.0"/>
+<circle cx="382.0" cy="542.0" r="5.0" fill="#c07a1e" fill-opacity="0.18" stroke="#c07a1e" stroke-width="1.3"/>
+<circle cx="439.4" cy="542.0" r="5.0" fill="#1b7f5a" fill-opacity="0.18" stroke="#1b7f5a" stroke-width="1.3"/>
+<circle cx="363.6" cy="542.0" r="5.0" fill="#4a7fa8" fill-opacity="0.18" stroke="#4a7fa8" stroke-width="1.3"/>
+<text x="1036.0" y="546.0" font-size="11" fill="#8c2318" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">1.56x</text>
+<text x="1082.0" y="546.0" font-size="9" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">siting</text>
+<text x="252.0" y="586.0" font-size="11" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">Residential solar</text>
+<line x1="268.0" y1="582.0" x2="465.9" y2="582.0" stroke="#aca89a" stroke-width="1"/>
+<circle cx="465.9" cy="582.0" r="6.6" fill="#8c2318" fill-opacity="0.34" stroke="#8c2318" stroke-width="2.0"/>
+<circle cx="387.0" cy="582.0" r="5.0" fill="#c07a1e" fill-opacity="0.18" stroke="#c07a1e" stroke-width="1.3"/>
+<circle cx="425.4" cy="582.0" r="5.0" fill="#1b7f5a" fill-opacity="0.18" stroke="#1b7f5a" stroke-width="1.3"/>
+<circle cx="358.5" cy="582.0" r="5.0" fill="#4a7fa8" fill-opacity="0.18" stroke="#4a7fa8" stroke-width="1.3"/>
+<text x="1036.0" y="586.0" font-size="11" fill="#8c2318" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">1.54x</text>
+<text x="1082.0" y="586.0" font-size="9" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">siting</text>
+<text x="252.0" y="626.0" font-size="11" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">Utility solar plus battery</text>
+<line x1="268.0" y1="622.0" x2="457.6" y2="622.0" stroke="#aca89a" stroke-width="1"/>
+<circle cx="444.3" cy="622.0" r="5.0" fill="#8c2318" fill-opacity="0.18" stroke="#8c2318" stroke-width="1.3"/>
+<circle cx="357.5" cy="622.0" r="5.0" fill="#c07a1e" fill-opacity="0.18" stroke="#c07a1e" stroke-width="1.3"/>
+<circle cx="457.6" cy="622.0" r="6.6" fill="#1b7f5a" fill-opacity="0.34" stroke="#1b7f5a" stroke-width="2.0"/>
+<circle cx="336.6" cy="622.0" r="5.0" fill="#4a7fa8" fill-opacity="0.18" stroke="#4a7fa8" stroke-width="1.3"/>
+<text x="1036.0" y="626.0" font-size="11" fill="#1b7f5a" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">1.51x</text>
+<text x="1082.0" y="626.0" font-size="9" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">optimism</text>
+<text x="252.0" y="666.0" font-size="11" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">Nuclear</text>
+<line x1="268.0" y1="662.0" x2="396.8" y2="662.0" stroke="#aca89a" stroke-width="1"/>
+<circle cx="283.9" cy="662.0" r="5.0" fill="#8c2318" fill-opacity="0.18" stroke="#8c2318" stroke-width="1.3"/>
+<circle cx="366.4" cy="662.0" r="5.0" fill="#c07a1e" fill-opacity="0.18" stroke="#c07a1e" stroke-width="1.3"/>
+<circle cx="314.1" cy="662.0" r="5.0" fill="#1b7f5a" fill-opacity="0.18" stroke="#1b7f5a" stroke-width="1.3"/>
+<circle cx="396.8" cy="662.0" r="6.6" fill="#4a7fa8" fill-opacity="0.34" stroke="#4a7fa8" stroke-width="2.0"/>
+<text x="1036.0" y="666.0" font-size="11" fill="#4a7fa8" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">1.32x</text>
+<text x="1082.0" y="666.0" font-size="9" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">period</text>
+<text x="252.0" y="706.0" font-size="11" fill="#0b0b0b" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">Biopower</text>
+<line x1="268.0" y1="702.0" x2="325.8" y2="702.0" stroke="#aca89a" stroke-width="1"/>
+<circle cx="314.0" cy="702.0" r="5.0" fill="#c07a1e" fill-opacity="0.18" stroke="#c07a1e" stroke-width="1.3"/>
+<circle cx="276.8" cy="702.0" r="5.0" fill="#1b7f5a" fill-opacity="0.18" stroke="#1b7f5a" stroke-width="1.3"/>
+<circle cx="325.8" cy="702.0" r="6.6" fill="#4a7fa8" fill-opacity="0.34" stroke="#4a7fa8" stroke-width="2.0"/>
+<text x="1036.0" y="706.0" font-size="11" fill="#4a7fa8" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">1.12x</text>
+<text x="1082.0" y="706.0" font-size="9" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">period</text>
+<text x="268.0" y="750.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">utility solar capital cost in 2030 is $1,038 per kW in resource class 1 and $1,038 in class 10</text>
+<text x="268.0" y="750.0" fill="#52514e" font-size="10.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">utility solar capital cost in 2030 is $1,038 per kW in resource class 1 and $1,038 in class 10</text>
+<text x="268.0" y="765.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">location does not change what you pay to build; it changes what comes out, and reaches the cost through the capacity factor</text>
+<text x="268.0" y="765.0" fill="#52514e" font-size="10.5" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">location does not change what you pay to build; it changes what comes out, and reaches the cost through the capacity factor</text>
+<line x1="28" y1="784.0" x2="1132" y2="784.0" stroke="#e3e2db"/>
+<text x="28.0" y="802.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">NREL Annual Technology Baseline, 2023 vintage, ATBe.csv from the Open Energy Data Initiative lake; fetched 2026-09-23, no key. Each multiplier is the ratio of the highest to</text>
+<text x="28.0" y="816.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the lowest median across that dimension's levels, with the other three dimensions left as published. CAVEAT: ATB is a model output and 2030 is a projection; the tax-credit</text>
+<text x="28.0" y="830.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">multiplier reflects policy as assumed in the 2023 vintage and is the least durable number here.</text>
+</svg>
