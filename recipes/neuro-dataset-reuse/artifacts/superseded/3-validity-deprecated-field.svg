@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="860" viewBox="0 0 1180 860" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'><rect width="1180" height="860" fill="#fcfcfb"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">BIDS errors fell from 62% of datasets to nearly none, and then the checking stopped</text>
+<text x="28.0" y="60.0" font-size="12" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">1,891 OpenNeuro datasets by publication year. One line is how many were checked. The other is how many of the checked ones failed. They move opposite ways.</text>
+<text x="28.0" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">FOR</text>
+<text x="28.0" y="101.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">anyone treating a public archive's validator status as</text>
+<text x="28.0" y="114.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">evidence the data is usable, or a repository deciding what to</text>
+<text x="28.0" y="128.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">re-run</text>
+<text x="402.7" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">DECIDE</text>
+<text x="402.7" y="101.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">whether the recent half of this archive can be audited at all</text>
+<text x="777.3" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">WRONG IF</text>
+<text x="777.3" y="101.0" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">coverage holds up in recent years, so the falling error rate</text>
+<text x="777.3" y="114.5" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">means what it appears to</text>
+<line x1="28" y1="137.5" x2="1152" y2="137.5" stroke="#e3e2db"/>
+<line x1="250.0" y1="191.5" x2="250.0" y2="685.5" stroke="#f0efe9"/>
+<text x="250.0" y="702.5" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2016</text>
+<text x="250.0" y="716.5" font-size="8.5" fill="#aca89a" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">21</text>
+<line x1="312.0" y1="191.5" x2="312.0" y2="685.5" stroke="#f0efe9"/>
+<text x="312.0" y="702.5" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2017</text>
+<text x="312.0" y="716.5" font-size="8.5" fill="#aca89a" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">35</text>
+<line x1="374.0" y1="191.5" x2="374.0" y2="685.5" stroke="#f0efe9"/>
+<text x="374.0" y="702.5" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2018</text>
+<text x="374.0" y="716.5" font-size="8.5" fill="#aca89a" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">107</text>
+<line x1="436.0" y1="191.5" x2="436.0" y2="685.5" stroke="#f0efe9"/>
+<text x="436.0" y="702.5" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2019</text>
+<text x="436.0" y="716.5" font-size="8.5" fill="#aca89a" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">104</text>
+<line x1="498.0" y1="191.5" x2="498.0" y2="685.5" stroke="#f0efe9"/>
+<text x="498.0" y="702.5" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2020</text>
+<text x="498.0" y="716.5" font-size="8.5" fill="#aca89a" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">194</text>
+<line x1="560.0" y1="191.5" x2="560.0" y2="685.5" stroke="#f0efe9"/>
+<text x="560.0" y="702.5" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2021</text>
+<text x="560.0" y="716.5" font-size="8.5" fill="#aca89a" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">157</text>
+<line x1="622.0" y1="191.5" x2="622.0" y2="685.5" stroke="#f0efe9"/>
+<text x="622.0" y="702.5" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2022</text>
+<text x="622.0" y="716.5" font-size="8.5" fill="#aca89a" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">143</text>
+<line x1="684.0" y1="191.5" x2="684.0" y2="685.5" stroke="#f0efe9"/>
+<text x="684.0" y="702.5" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2023</text>
+<text x="684.0" y="716.5" font-size="8.5" fill="#aca89a" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">211</text>
+<line x1="746.0" y1="191.5" x2="746.0" y2="685.5" stroke="#f0efe9"/>
+<text x="746.0" y="702.5" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2024</text>
+<text x="746.0" y="716.5" font-size="8.5" fill="#aca89a" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">265</text>
+<line x1="808.0" y1="191.5" x2="808.0" y2="685.5" stroke="#f0efe9"/>
+<text x="808.0" y="702.5" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2025</text>
+<text x="808.0" y="716.5" font-size="8.5" fill="#aca89a" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">318</text>
+<line x1="870.0" y1="191.5" x2="870.0" y2="685.5" stroke="#f0efe9"/>
+<text x="870.0" y="702.5" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2026</text>
+<text x="870.0" y="716.5" font-size="8.5" fill="#aca89a" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">336</text>
+<line x1="250.0" y1="685.5" x2="870.0" y2="685.5" stroke="#f0efe9"/>
+<text x="242.0" y="688.5" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">0%</text>
+<line x1="250.0" y1="562.0" x2="870.0" y2="562.0" stroke="#f0efe9"/>
+<text x="242.0" y="565.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">25%</text>
+<line x1="250.0" y1="438.5" x2="870.0" y2="438.5" stroke="#f0efe9"/>
+<text x="242.0" y="441.5" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">50%</text>
+<line x1="250.0" y1="315.0" x2="870.0" y2="315.0" stroke="#f0efe9"/>
+<text x="242.0" y="318.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">75%</text>
+<line x1="250.0" y1="191.5" x2="870.0" y2="191.5" stroke="#f0efe9"/>
+<text x="242.0" y="194.5" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">100%</text>
+<text x="250.0" y="731.5" font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">publication year, with the number of deposits beneath</text>
+<polyline points="250.0,191.5 312.0,205.6 374.0,205.4 436.0,215.2 498.0,209.3 560.0,248.1 622.0,260.6 684.0,285.1 746.0,372.3 808.0,652.9 870.0,678.1" fill="none" stroke="#4a7fa8" stroke-width="2.6"/>
+<circle cx="250.0" cy="191.5" r="3.4" fill="#4a7fa8"/>
+<circle cx="312.0" cy="205.6" r="3.4" fill="#4a7fa8"/>
+<circle cx="374.0" cy="205.4" r="3.4" fill="#4a7fa8"/>
+<circle cx="436.0" cy="215.2" r="3.4" fill="#4a7fa8"/>
+<circle cx="498.0" cy="209.3" r="3.4" fill="#4a7fa8"/>
+<circle cx="560.0" cy="248.1" r="3.4" fill="#4a7fa8"/>
+<circle cx="622.0" cy="260.6" r="3.4" fill="#4a7fa8"/>
+<circle cx="684.0" cy="285.1" r="3.4" fill="#4a7fa8"/>
+<circle cx="746.0" cy="372.3" r="3.4" fill="#4a7fa8"/>
+<circle cx="808.0" cy="652.9" r="3.4" fill="#4a7fa8"/>
+<circle cx="870.0" cy="678.1" r="3.4" fill="#4a7fa8"/>
+<text x="567.0" y="235.1" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">had their validation result published</text>
+<text x="567.0" y="235.1" fill="#4a7fa8" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">had their validation result published</text>
+<polyline points="250.0,379.7 312.0,380.4 374.0,391.0 436.0,510.9 498.0,598.3 560.0,664.2 622.0,685.5 684.0,682.6 746.0,667.9 808.0,685.5" fill="none" stroke="#8c2318" stroke-width="2.6"/>
+<circle cx="250.0" cy="379.7" r="3.4" fill="#8c2318"/>
+<circle cx="312.0" cy="380.4" r="3.4" fill="#8c2318"/>
+<circle cx="374.0" cy="391.0" r="3.4" fill="#8c2318"/>
+<circle cx="436.0" cy="510.9" r="3.4" fill="#8c2318"/>
+<circle cx="498.0" cy="598.3" r="3.4" fill="#8c2318"/>
+<circle cx="560.0" cy="664.2" r="3.4" fill="#8c2318"/>
+<circle cx="622.0" cy="685.5" r="3.4" fill="#8c2318"/>
+<circle cx="684.0" cy="682.6" r="3.4" fill="#8c2318"/>
+<circle cx="746.0" cy="667.9" r="3.4" fill="#8c2318"/>
+<circle cx="808.0" cy="685.5" r="3.4" fill="#8c2318"/>
+<text x="443.0" y="530.9" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">of those checked, carried at least one error</text>
+<text x="443.0" y="530.9" fill="#8c2318" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">of those checked, carried at least one error</text>
+<rect x="794.0" y="191.5" width="90.0" height="494.0" fill="#c07a1e" fill-opacity="0.07" stroke="#c07a1e" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="800.0" y="183.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">21 and 5 datasets checked out of 318 and 336</text>
+<text x="800.0" y="183.5" fill="#c07a1e" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">21 and 5 datasets checked out of 318 and 336</text>
+<text x="940.0" y="185.5" font-size="10.5" fill="#8c2318" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">if you are picking a dataset</text>
+<text x="940.0" y="200.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">From 2025 the archive gives you</text>
+<text x="940.0" y="213.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">no quality signal at all. A</text>
+<text x="940.0" y="225.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">recent dataset with no error</text>
+<text x="940.0" y="238.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">count has not passed -- it has</text>
+<text x="940.0" y="250.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">not been checked. Budget for</text>
+<text x="940.0" y="263.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">running the validator yourself</text>
+<text x="940.0" y="275.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">before you build on it.</text>
+<text x="940.0" y="304.0" font-size="10.5" fill="#4a7fa8" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">if you are running the repository</text>
+<text x="940.0" y="319.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">The backlog is 819 datasets and</text>
+<text x="940.0" y="331.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">it is almost entirely recent, so</text>
+<text x="940.0" y="344.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">it is a re-run job and not a</text>
+<text x="940.0" y="356.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">data-quality job. Clearing it is</text>
+<text x="940.0" y="369.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the only thing that makes the</text>
+<text x="940.0" y="381.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">last two years auditable.</text>
+<text x="940.0" y="410.0" font-size="10.5" fill="#c07a1e" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">if you are citing a breakage rate</text>
+<text x="940.0" y="425.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">"17% of public datasets carry</text>
+<text x="940.0" y="437.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">errors" is true only of deposits</text>
+<text x="940.0" y="450.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">made before 2021, because those</text>
+<text x="940.0" y="462.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">are the ones that were checked.</text>
+<text x="940.0" y="475.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Quoting it as a current figure</text>
+<text x="940.0" y="487.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">inverts what this plate says.</text>
+<text x="940.0" y="516.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">when this plate fails you</text>
+<text x="940.0" y="531.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">It cannot tell an unrun</text>
+<text x="940.0" y="543.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">validator from an unrecorded</text>
+<text x="940.0" y="556.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">result, and those imply opposite</text>
+<text x="940.0" y="568.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">repair work. If OpenNeuro's</text>
+<text x="940.0" y="581.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">changelog says the field moved,</text>
+<text x="940.0" y="593.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the blue line is a schema change</text>
+<text x="940.0" y="606.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">and the backlog is not real.</text>
+<text x="940.0" y="634.5" font-size="10.5" fill="#9aa4ad" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">the correlation is not an argument</text>
+<text x="940.0" y="649.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Checked datasets with errors get</text>
+<text x="940.0" y="662.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">8.8 downloads a year against</text>
+<text x="940.0" y="674.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">13.5 for clean ones. Errors and</text>
+<text x="940.0" y="687.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">age move together on this very</text>
+<text x="940.0" y="699.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">plate, so do not read it as a</text>
+<text x="940.0" y="712.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">penalty for being broken.</text>
+<line x1="28" y1="780.0" x2="1152" y2="780.0" stroke="#e3e2db"/>
+<text x="28.0" y="798.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">OpenNeuro GraphQL API, no key, fetched 2026-09-24; latestSnapshot.issuesStatus, which reports error and warning counts from the BIDS validator. A year's error rate is drawn</text>
+<text x="28.0" y="812.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">only where at least 8 of its deposits were checked. CAVEAT: an absent validation result means the field is empty, not that the dataset failed -- and nothing here</text>
+<text x="28.0" y="826.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">distinguishes a validator that was not run from one whose result was not attached.</text>
+</svg>

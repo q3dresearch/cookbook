@@ -1,0 +1,116 @@
+{
+  "method_version": "2.5.0",
+  "_method_version": "2.5.0 graduates thirteen figures on OpenNeuro, joined to NIH RePORTER. The spine is that what a dataset IS decides its reuse, not how much was spent on it or how much of it there is -- and that none of it forecasts, because reuse is a lottery (Gini 0.761) whose winners are canonical rather than large. The most actionable line is the cheapest: a resting-state run doubles reuse in both modalities that can be tested. The most consequential is demographic: 18-25 year olds are 4.4x their population share among 52,970 scanned people while over-65s are 0.4x. Five of the recipe's own claims were falsified during construction and all five are kept, with the plate that was wrong twice in artifacts/superseded/.",
+  "retrieved": "2026-09-24",
+  "sources": [
+    {
+      "publisher": "OpenNeuro / Stanford Center for Reproducible Neuroscience",
+      "dataset": "OpenNeuro GraphQL API",
+      "url": "https://openneuro.org/crn/graphql",
+      "licence": "datasets carry their own licences, predominantly CC0; the catalogue metadata is public",
+      "no_key_required": true,
+      "robots": "https://openneuro.org/robots.txt is 23 bytes: User-agent: * / Allow: /",
+      "bytes_on_disk": 5271574,
+      "connection_toll_seconds": 0.4,
+      "note": "The API reports 1,897 datasets and returns 1,891. Six come back as null nodes through four retries and are recorded as missing rather than rounded away; the population everywhere in this recipe is 1,891. Paged at 100. Null edges and null nodes are distinct failure modes and both are tolerated. primaryModality holds a BIDS suffix rather than a modality on 93 rows (t1w, bold, dwi), so modality is rebuilt from the modalities list with iEEG resolved before EEG."
+    },
+    {
+      "publisher": "US National Institutes of Health",
+      "dataset": "NIH RePORTER API v2",
+      "url": "https://api.reporter.nih.gov/v2/projects/search",
+      "licence": "US Government work, public domain",
+      "no_key_required": true,
+      "robots": "api.reporter.nih.gov/robots.txt returns HTTP 404 -- there is no robots file on the API host. reporter.nih.gov/robots.txt returns HTTP 200 with 3,339 bytes of the single-page app's HTML shell, which is a soft 404: a robots parser reads an HTML document as an empty ruleset, which is indistinguishable from full permission. Neither host publishes rules; that is recorded as an absence, not read as a grant.",
+      "bytes_on_disk": 209289,
+      "connection_toll_seconds": 271.0,
+      "note": "Queried by core project number in batches of 40. 443 of 1,891 datasets name a grant; 143 carry a parseable NIH core project number; 89 resolve to a single-project research grant. Three datasets spell the activity code with a letter O (RO1 for R01) and the parser rewrites it. Awards are summed across all fiscal years of a project."
+    },
+    {
+      "publisher": "OpenNeuro / Stanford Center for Reproducible Neuroscience",
+      "dataset": "OpenNeuro GraphQL API - live validation fields",
+      "url": "https://openneuro.org/crn/graphql",
+      "licence": "public catalogue metadata",
+      "no_key_required": true,
+      "robots": "openneuro.org/robots.txt is User-agent: * / Allow: /",
+      "bytes_on_disk": 439465,
+      "connection_toll_seconds": 0.4,
+      "note": "Fetched SEPARATELY and additively into data/validation.json rather than by re-running the main fetch, because re-fetching would move every download count and silently change all seven plates. Carries latestSnapshot.validation, summary.validatorMetadata, deprecated, holdDeletion and related. 1,893 rows, 6 null nodes, 6 node errors. The first run of this fetcher stopped at 1,100 and reported success -- one dataset's latestSnapshot 404s server-side and the loop broke on any GraphQL error; GraphQL returns partial data alongside errors, so it now uses what came back and counts the bad nodes."
+    },
+    {
+      "publisher": "OpenNeuro / Stanford Center for Reproducible Neuroscience",
+      "dataset": "OpenNeuro GraphQL API - subject-level demographics",
+      "url": "https://openneuro.org/crn/graphql",
+      "licence": "public catalogue metadata",
+      "no_key_required": true,
+      "robots": "Allow: /",
+      "connection_toll_seconds": 0.4,
+      "bytes_on_disk": 4585263,
+      "note": "latestSnapshot.summary.subjectMetadata, never requested until 2026-09-24. 101,536 subject records across 1,411 of 1,893 datasets. Fetched additively into its own file so no existing plate's numbers move."
+    }
+  ],
+  "derived": [
+    {
+      "file": "artifacts/data/folded.json",
+      "from": "artifacts/data/datasets.json",
+      "bytes": 1076961,
+      "note": "Every dataset reduced to what a depositor knows on the day they publish, plus the outcomes. Downloads are cumulative and therefore a stock, so every rate is downloads per year since publication. The two consent fields are carried as three-valued: a null is an unanswered question and never a no."
+    },
+    {
+      "file": "artifacts/data/openalex.json",
+      "from": "OpenAlex works filtered to source S7407052830 (OpenNeuro), 2026-09-24",
+      "bytes": 16717,
+      "note": "EVIDENCE OF A FAILED JOIN, NOT A CITATION TABLE. Kept because the negative needs a receipt. The source record claims 5,756 works; every filter form returns ~990; and ds000030, confirmed in that source with 32 citations, is absent from the 990 while the whole file totals 28. Do not use these counts for anything."
+    }
+  ],
+  "excluded": [
+    {
+      "what": "multi-project NIH activity codes -- CTSAs (UL1), program projects (P01, P50), centres and core facilities",
+      "why": "A first pass summing every activity code a dataset named reached $1,017.7m, including a $112m award to an entire Clinical and Translational Science Institute. Attributing a building to a dataset is not a loose upper bound, it is the wrong object. Restricted to single-project grants the total is $246.7m."
+    },
+    {
+      "what": "dataset size and file count as predictors of downloads",
+      "why": "Neither predicts reuse (+0.04 and +0.02 on downloads per year), and they correlate with each other at r = +0.74, so reporting both would have been one signal counted twice. A U-shape found in four size bins is absent in deciles: the quadratic term moves R2 from 0.0014 to 0.0067."
+    },
+    {
+      "what": "the age filter on the consent figure",
+      "why": "An earlier measurement applied the recipe's one-year minimum age, which drops 2025-26 deposits and gave 6 problem datasets out of 771. The consent question applies on the day a dataset is published, so no age filter belongs on it. The full population gives 8 out of 795."
+    },
+    {
+      "what": "cost per subject as a predictor of reuse",
+      "why": "It correlates at -0.36 and reads as 'expensive data is underused'. Fitting the two sides free gives subjects +0.31 and award -0.19, so the ratio was carrying its denominator: anything with Y underneath correlates negatively with whatever Y correlates positively with. iEEG looks dear per subject because it has a median of 4 subjects against 34 elsewhere."
+    },
+    {
+      "what": "datasets leaving tasksCompleted empty (202 of them) from the paradigm comparison",
+      "why": "A blank is a missing answer, not a claim that no paradigm ran. Their median of 16.7 downloads a year sits between the two groups being compared and pooling them either way would blur both."
+    },
+    {
+      "what": "citation counts as an outcome variable, via OpenAlex",
+      "why": "Screened properly and abandoned. Per-DOI lookup resolves 95% of datasets flat across download quintiles but returns a median of 0, because the recorded DOI names one dataset VERSION while citations accrue across versions. Aggregating the whole source instead gives 26% coverage and 28 citations, which contradicts a single verified record holding 32. The instrument is internally inconsistent; downloads therefore remain unvalidated as a measure of use and that caveat stands on all seven figures."
+    },
+    {
+      "what": "latestSnapshot.issuesStatus, and every claim built on it",
+      "why": "Deprecated. Populated on 1,072 of 1,893; where both fields exist they disagree on whether errors are present for 450 of them, and the live field finds errors the deprecated one missed in 431. Warning counts are not comparable at all -- ds000001 reads 3,950 against 4."
+    },
+    {
+      "what": "any BIDS compliance trend across years",
+      "why": "The instrument changed. Within one year the validator versions disagree by an order of magnitude -- 2024 gives v1 54% and v2 18% on the same year's deposits -- and v2's share of runs went 36% to 99% between 2023 and 2026. Held at v1 the rate rose from 54% to 70%. 803 datasets carry no version stamp, so the pre-2023 era cannot be split at all."
+    },
+    {
+      "what": "the numeric sex codes (1, 0, 2, -1) on 3,980 subject records",
+      "why": "The convention is per-dataset and is not recorded anywhere in the data, so 1 could mean either sex. They are counted as unclassifiable rather than guessed. A further 44,309 records have the field blank, which is a separate problem from being unreadable and is reported separately."
+    },
+    {
+      "what": "Dataset.derivatives as a reuse signal",
+      "why": "Returns an empty list for all 1,899 datasets, including the most-downloaded, largest and most-cited. The type is DatasetDerivatives (dataladUrl/local/name/s3Url), a mirror record rather than a derived output. Two of my own counting attempts disagreed at 30.4% and 0.0% before a raw dump settled it."
+    }
+  ],
+  "verification": [
+    "plateaudit.py clean on 4 figures",
+    "determinism.py: every figure byte-identical across two separate processes",
+    "figure 2's stage counts are computed by costjoin.funnel() rather than typed, after a hardcoded 89 in a footnote drifted from a plotted 86 and nothing caught it",
+    "every model reported is scored by seeded ten-fold cross-validation beside its in-sample R2; the gap is drawn rather than described",
+    "every cell median on the paradigm plate is rechecked after dropping that cell's two most-downloaded datasets, because the archive is Gini 0.761 and a median can stand on one famous record: 2.28x and 2.06x become 2.28x and 2.05x",
+    "the age distribution is rechecked after removing the five largest datasets (12% of all people): median 24 to 23 and the 18-30 share rises to 55.9%, so the skew is not an artifact of a few big cohorts",
+    "OFFLINE REBUILD 2026-09-25: all thirteen figures rebuild byte-identically with demographics.json and folded.json removed, which is what the data/.gitignore allow-list publishes. folded.json is a regenerable cache, not a receipt."
+  ]
+}

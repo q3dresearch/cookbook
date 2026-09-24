@@ -1,0 +1,182 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="900" viewBox="0 0 1180 900" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'><rect width="1180" height="900" fill="#fcfcfb"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">Reuse does not track spending: across a thousand-fold spread in cost per download, the award explains none of it</text>
+<text x="28.0" y="60.0" font-size="12" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">89 datasets naming an NIH project number that resolves to a single-project research grant. Median award $3.1m, median 43 downloads, median $57,010 each. 3 zeros sit in the gutter.</text>
+<text x="28.0" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">FOR</text>
+<text x="28.0" y="101.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">a programme officer asking what a data-sharing mandate</text>
+<text x="28.0" y="114.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">returns, or a PI deciding how much to spend collecting</text>
+<text x="28.0" y="128.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">something they intend to share</text>
+<text x="402.7" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">DECIDE</text>
+<text x="402.7" y="101.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">whether a dataset's cost per download says anything about the</text>
+<text x="402.7" y="114.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">money that made it</text>
+<text x="777.3" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">WRONG IF</text>
+<text x="777.3" y="101.0" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the cloud tilts up the page, so bigger grants do buy more</text>
+<text x="777.3" y="114.5" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">reuse</text>
+<line x1="28" y1="137.5" x2="1152" y2="137.5" stroke="#e3e2db"/>
+<line x1="288.2" y1="225.5" x2="288.2" y2="675.5" stroke="#f0efe9"/>
+<text x="288.2" y="692.5" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">$200k</text>
+<line x1="501.9" y1="225.5" x2="501.9" y2="675.5" stroke="#f0efe9"/>
+<text x="501.9" y="692.5" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">$1m</text>
+<line x1="715.6" y1="225.5" x2="715.6" y2="675.5" stroke="#f0efe9"/>
+<text x="715.6" y="692.5" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">$5m</text>
+<line x1="861.4" y1="225.5" x2="861.4" y2="675.5" stroke="#f0efe9"/>
+<text x="861.4" y="692.5" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">$15m</text>
+<line x1="250.0" y1="655.9" x2="870.0" y2="655.9" stroke="#f0efe9"/>
+<text x="242.0" y="658.9" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">1</text>
+<line x1="250.0" y1="529.2" x2="870.0" y2="529.2" stroke="#f0efe9"/>
+<text x="242.0" y="532.2" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">10</text>
+<line x1="250.0" y1="402.6" x2="870.0" y2="402.6" stroke="#f0efe9"/>
+<text x="242.0" y="405.6" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">100</text>
+<line x1="250.0" y1="275.9" x2="870.0" y2="275.9" stroke="#f0efe9"/>
+<text x="242.0" y="278.9" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">1,000</text>
+<line x1="250.1" y1="380.2" x2="869.9" y2="225.5" stroke="#aca89a" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="544.2" y="253.4" font-size="8.5" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">$1k per download</text>
+<line x1="250.0" y1="506.9" x2="870.0" y2="250.0" stroke="#aca89a" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="849.9" y="253.4" font-size="8.5" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">$10k per download</text>
+<line x1="250.0" y1="633.6" x2="870.0" y2="376.7" stroke="#aca89a" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="864.6" y="374.0" font-size="8.5" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">$100k per download</text>
+<line x1="250.1" y1="675.5" x2="869.9" y2="503.4" stroke="#aca89a" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="864.6" y="500.6" font-size="8.5" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">$1m per download</text>
+<text x="258.0" y="232.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">each dashed line is one constant cost per download</text>
+<text x="258.0" y="232.5" fill="#8a8880" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">each dashed line is one constant cost per download</text>
+<text x="258.0" y="246.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">further down and right = more money per download</text>
+<text x="258.0" y="246.5" fill="#8a8880" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">further down and right = more money per download</text>
+<line x1="250.0" y1="712.5" x2="870.0" y2="712.5" stroke="#8c2318" stroke-width="1" stroke-dasharray="4 4" stroke-opacity="0.55"/>
+<circle cx="684.0" cy="731.5" r="3.5" fill="#8c2318" fill-opacity="0.22" stroke="#8c2318" stroke-width="1.4"/>
+<circle cx="576.2" cy="731.5" r="6.8" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="484.3" cy="731.5" r="7.0" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<text x="242.0" y="735.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">downloaded 0 times</text>
+<text x="242.0" y="735.5" fill="#8c2318" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">downloaded 0 times</text>
+<text x="706.0" y="735.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">$6.6m awarded, never taken</text>
+<text x="706.0" y="735.5" fill="#8c2318" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">$6.6m awarded, never taken</text>
+<text x="250.0" y="767.5" font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">total NIH award to the grant named by the dataset  (log scale)</text>
+<text x="206" y="675.5" font-size="10" fill="#52514e" transform="rotate(-90 206 675.5)">downloads to date (log scale)</text>
+<circle cx="870.0" cy="409.6" r="12.3" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="836.8" cy="470.7" r="3.4" fill="#8c2318" fill-opacity="0.22" stroke="#8c2318" stroke-width="1.4"/>
+<circle cx="803.5" cy="617.8" r="11.6" fill="#9aa4ad" fill-opacity="0.22" stroke="#9aa4ad" stroke-width="1.4"/>
+<circle cx="795.7" cy="341.2" r="11.3" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="785.7" cy="548.8" r="6.0" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="782.9" cy="357.0" r="4.0" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="767.4" cy="617.8" r="7.5" fill="#8c2318" fill-opacity="0.22" stroke="#8c2318" stroke-width="1.4"/>
+<circle cx="765.3" cy="524.0" r="5.5" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="758.6" cy="529.2" r="3.4" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="751.6" cy="510.7" r="3.4" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="745.5" cy="453.0" r="3.4" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="734.3" cy="293.7" r="5.8" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="731.7" cy="382.1" r="4.5" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="731.5" cy="428.0" r="5.2" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="728.5" cy="449.0" r="3.4" fill="#9aa4ad" fill-opacity="0.22" stroke="#9aa4ad" stroke-width="1.4"/>
+<circle cx="726.7" cy="347.5" r="8.7" fill="#8c2318" fill-opacity="0.22" stroke="#8c2318" stroke-width="1.4"/>
+<circle cx="722.3" cy="503.4" r="3.4" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="722.3" cy="449.0" r="4.8" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="716.1" cy="409.0" r="3.4" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="709.6" cy="279.4" r="14.0" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="702.1" cy="579.6" r="3.4" fill="#9aa4ad" fill-opacity="0.22" stroke="#9aa4ad" stroke-width="1.4"/>
+<circle cx="702.1" cy="541.5" r="9.7" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="700.3" cy="393.5" r="4.4" fill="#8c2318" fill-opacity="0.22" stroke="#8c2318" stroke-width="1.4"/>
+<circle cx="697.9" cy="435.4" r="3.4" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="697.9" cy="351.9" r="3.4" fill="#c07a1e" fill-opacity="0.22" stroke="#c07a1e" stroke-width="1.4"/>
+<circle cx="697.9" cy="455.8" r="3.4" fill="#c07a1e" fill-opacity="0.22" stroke="#c07a1e" stroke-width="1.4"/>
+<circle cx="687.9" cy="548.8" r="3.4" fill="#c07a1e" fill-opacity="0.22" stroke="#c07a1e" stroke-width="1.4"/>
+<circle cx="687.6" cy="350.2" r="4.6" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="685.8" cy="431.6" r="14.0" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="685.8" cy="412.8" r="9.9" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="684.9" cy="468.8" r="9.4" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="684.0" cy="428.0" r="4.9" fill="#8c2318" fill-opacity="0.22" stroke="#8c2318" stroke-width="1.4"/>
+<circle cx="681.9" cy="491.1" r="4.0" fill="#8c2318" fill-opacity="0.22" stroke="#8c2318" stroke-width="1.4"/>
+<circle cx="670.5" cy="367.5" r="10.9" fill="#8c2318" fill-opacity="0.22" stroke="#8c2318" stroke-width="1.4"/>
+<circle cx="670.5" cy="409.6" r="10.6" fill="#8c2318" fill-opacity="0.22" stroke="#8c2318" stroke-width="1.4"/>
+<circle cx="670.5" cy="376.4" r="10.9" fill="#8c2318" fill-opacity="0.22" stroke="#8c2318" stroke-width="1.4"/>
+<circle cx="667.0" cy="428.9" r="8.5" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="654.9" cy="467.0" r="3.5" fill="#8c2318" fill-opacity="0.22" stroke="#8c2318" stroke-width="1.4"/>
+<circle cx="654.9" cy="579.6" r="4.5" fill="#8c2318" fill-opacity="0.22" stroke="#8c2318" stroke-width="1.4"/>
+<circle cx="654.9" cy="470.7" r="4.0" fill="#8c2318" fill-opacity="0.22" stroke="#8c2318" stroke-width="1.4"/>
+<circle cx="654.0" cy="524.0" r="5.4" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="651.5" cy="363.6" r="7.0" fill="#1b7f5a" fill-opacity="0.22" stroke="#1b7f5a" stroke-width="1.4"/>
+<circle cx="650.4" cy="382.5" r="7.0" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="650.4" cy="472.6" r="7.9" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="647.1" cy="481.1" r="4.7" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="645.3" cy="463.5" r="3.4" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="645.0" cy="429.8" r="3.4" fill="#c07a1e" fill-opacity="0.22" stroke="#c07a1e" stroke-width="1.4"/>
+<circle cx="637.4" cy="431.6" r="4.4" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="636.2" cy="403.1" r="6.2" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="632.7" cy="535.0" r="5.2" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="621.7" cy="519.2" r="3.4" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="608.6" cy="478.8" r="6.9" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="608.6" cy="579.6" r="6.3" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="607.7" cy="458.8" r="4.4" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="602.4" cy="449.0" r="3.4" fill="#1b7f5a" fill-opacity="0.22" stroke="#1b7f5a" stroke-width="1.4"/>
+<circle cx="602.4" cy="500.0" r="3.4" fill="#1b7f5a" fill-opacity="0.22" stroke="#1b7f5a" stroke-width="1.4"/>
+<circle cx="602.0" cy="296.5" r="12.0" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="598.0" cy="478.8" r="7.6" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="588.2" cy="548.8" r="3.4" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="586.2" cy="567.3" r="3.4" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="582.5" cy="423.8" r="4.5" fill="#8c2318" fill-opacity="0.22" stroke="#8c2318" stroke-width="1.4"/>
+<circle cx="582.5" cy="460.3" r="6.4" fill="#8c2318" fill-opacity="0.22" stroke="#8c2318" stroke-width="1.4"/>
+<circle cx="582.5" cy="386.1" r="6.6" fill="#8c2318" fill-opacity="0.22" stroke="#8c2318" stroke-width="1.4"/>
+<circle cx="582.5" cy="426.3" r="6.6" fill="#8c2318" fill-opacity="0.22" stroke="#8c2318" stroke-width="1.4"/>
+<circle cx="582.4" cy="400.4" r="3.4" fill="#c07a1e" fill-opacity="0.22" stroke="#c07a1e" stroke-width="1.4"/>
+<circle cx="582.4" cy="357.2" r="7.7" fill="#c07a1e" fill-opacity="0.22" stroke="#c07a1e" stroke-width="1.4"/>
+<circle cx="582.4" cy="451.6" r="3.4" fill="#c07a1e" fill-opacity="0.22" stroke="#c07a1e" stroke-width="1.4"/>
+<circle cx="582.4" cy="470.7" r="3.4" fill="#c07a1e" fill-opacity="0.22" stroke="#c07a1e" stroke-width="1.4"/>
+<circle cx="582.4" cy="493.9" r="3.4" fill="#c07a1e" fill-opacity="0.22" stroke="#c07a1e" stroke-width="1.4"/>
+<circle cx="582.4" cy="567.3" r="3.4" fill="#c07a1e" fill-opacity="0.22" stroke="#c07a1e" stroke-width="1.4"/>
+<circle cx="574.5" cy="430.7" r="6.8" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="574.5" cy="468.8" r="6.5" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="570.3" cy="424.6" r="3.4" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="569.1" cy="433.5" r="5.2" fill="#8c2318" fill-opacity="0.22" stroke="#8c2318" stroke-width="1.4"/>
+<circle cx="552.9" cy="506.9" r="5.2" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="547.2" cy="386.9" r="9.6" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="497.6" cy="451.6" r="3.4" fill="#9aa4ad" fill-opacity="0.22" stroke="#9aa4ad" stroke-width="1.4"/>
+<circle cx="463.0" cy="453.0" r="3.5" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="431.8" cy="361.7" r="4.4" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="397.8" cy="514.8" r="4.6" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="396.1" cy="423.0" r="3.9" fill="#8c2318" fill-opacity="0.22" stroke="#8c2318" stroke-width="1.4"/>
+<circle cx="390.7" cy="262.7" r="8.0" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="306.0" cy="374.4" r="6.9" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="265.9" cy="417.7" r="3.4" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="265.9" cy="438.5" r="3.4" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<circle cx="250.5" cy="396.8" r="6.7" fill="#4a7fa8" fill-opacity="0.22" stroke="#4a7fa8" stroke-width="1.4"/>
+<text x="400.7" y="266.7" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">ds002424  $340 a download</text>
+<text x="400.7" y="266.7" fill="#1b7f5a" font-size="9.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">ds002424  $340 a download</text>
+<text x="791.5" y="621.8" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">ds007584  $4.8m a download</text>
+<text x="791.5" y="621.8" fill="#8c2318" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">ds007584  $4.8m a download</text>
+<text x="266.6" y="593.6" font-size="9.5" fill="#0b0b0b" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">median $57,010 per download</text>
+<text x="266.6" y="612.5" font-size="9.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">p10 $6,535   p90 $564,619   -- a thousand-fold spread on similar money</text>
+<text x="266.6" y="631.8" font-size="9.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">median $92,431 per subject scanned</text>
+<text x="940.0" y="225.5" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">an upper bound, always</text>
+<text x="940.0" y="240.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">An R01 funds staff, analysis,</text>
+<text x="940.0" y="253.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">papers and students; the dataset</text>
+<text x="940.0" y="265.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">is one output, so every mark is</text>
+<text x="940.0" y="278.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">overstated by the same kind of</text>
+<text x="940.0" y="290.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">amount. Downloads are cumulative</text>
+<text x="940.0" y="303.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">and ages differ, which the</text>
+<text x="940.0" y="315.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">diagonals do not know about.</text>
+<text x="940.0" y="344.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">colour</text>
+<text x="940.0" y="359.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">EEG red, MRI blue, iEEG amber.</text>
+<text x="940.0" y="371.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Circle area is subjects scanned.</text>
+<text x="940.0" y="400.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">read the diagonals, not the cloud</text>
+<text x="940.0" y="415.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Each dashed line is a fixed cost</text>
+<text x="940.0" y="427.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">per download. The marks cross</text>
+<text x="940.0" y="440.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">all four, so there is no going</text>
+<text x="940.0" y="452.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">rate to budget against and an</text>
+<text x="940.0" y="465.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">average would be meaningless.</text>
+<text x="940.0" y="493.5" font-size="10.5" fill="#c07a1e" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">so which axis makes a dataset expensive</text>
+<text x="940.0" y="508.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Two thirds of it is the vertical</text>
+<text x="940.0" y="521.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">one. The spread splits 31% award</text>
+<text x="940.0" y="533.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">and 69% downloads, and the two</text>
+<text x="940.0" y="546.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">are uncorrelated at r = -0.15. A</text>
+<text x="940.0" y="558.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">dataset is not dear per download</text>
+<text x="940.0" y="571.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">because it cost a lot -- it is</text>
+<text x="940.0" y="583.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">dear because nobody took it.</text>
+<text x="940.0" y="612.0" font-size="10.5" fill="#8c2318" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">and you cannot pick the winners</text>
+<text x="940.0" y="627.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Plate 6 scores every observable</text>
+<text x="940.0" y="639.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">predictor of reuse out of sample</text>
+<text x="940.0" y="652.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">and the ceiling is 0.107. Do not</text>
+<text x="940.0" y="664.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">read this plate as a ranking a</text>
+<text x="940.0" y="677.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">funder could have applied in</text>
+<text x="940.0" y="689.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">advance.</text>
+<line x1="28" y1="820.0" x2="1152" y2="820.0" stroke="#e3e2db"/>
+<text x="28.0" y="838.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">OpenNeuro GraphQL and NIH RePORTER v2, both keyless, fetched 2026-09-24. 443 of 1,891 datasets name a grant; 143 carry a parseable NIH core project number; 89 resolve to a</text>
+<text x="28.0" y="852.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">single-project research grant, 86 of them with at least one download. CAVEAT: the award funds a project, not a dataset, so every figure here is an upper bound -- and three</text>
+<text x="28.0" y="866.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">datasets spell the activity code with a letter O, which the parser rewrites.</text>
+</svg>

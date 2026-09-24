@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="880" viewBox="0 0 1180 880" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'><rect width="1180" height="880" fill="#fcfcfb"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">The archive's BIDS error rate did not fall — the validator changed</text>
+<text x="28.0" y="60.0" font-size="12" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">1,132 datasets published 2023-2026, from the live validation field. The pooled line is the one anyone would draw. The two it sits between are what actually happened.</text>
+<text x="28.0" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">FOR</text>
+<text x="28.0" y="101.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">anyone about to report that a data standard is being adopted,</text>
+<text x="28.0" y="114.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">or to compare validator output across years</text>
+<text x="402.7" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">DECIDE</text>
+<text x="402.7" y="101.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">whether this archive can support a compliance trend at all</text>
+<text x="777.3" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">WRONG IF</text>
+<text x="777.3" y="101.0" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the two version lines converge, or holding the validator</text>
+<text x="777.3" y="114.5" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">fixed still shows the rate falling</text>
+<line x1="28" y1="124.0" x2="1152" y2="124.0" stroke="#e3e2db"/>
+<line x1="258.0" y1="628.0" x2="838.0" y2="628.0" stroke="#f0efe9"/>
+<text x="250.0" y="631.0" font-size="9.5" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">0%</text>
+<line x1="258.0" y1="520.5" x2="838.0" y2="520.5" stroke="#f0efe9"/>
+<text x="250.0" y="523.5" font-size="9.5" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">25%</text>
+<line x1="258.0" y1="413.0" x2="838.0" y2="413.0" stroke="#f0efe9"/>
+<text x="250.0" y="416.0" font-size="9.5" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">50%</text>
+<line x1="258.0" y1="305.5" x2="838.0" y2="305.5" stroke="#f0efe9"/>
+<text x="250.0" y="308.5" font-size="9.5" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">75%</text>
+<line x1="258.0" y1="198.0" x2="838.0" y2="198.0" stroke="#f0efe9"/>
+<text x="250.0" y="201.0" font-size="9.5" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">100%</text>
+<text x="268.0" y="662.0" font-size="10.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2023</text>
+<text x="268.0" y="676.0" font-size="8.5" fill="#aca89a" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">211 deposits</text>
+<text x="454.7" y="662.0" font-size="10.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2024</text>
+<text x="454.7" y="676.0" font-size="8.5" fill="#aca89a" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">265 deposits</text>
+<text x="641.3" y="662.0" font-size="10.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2025</text>
+<text x="641.3" y="676.0" font-size="8.5" fill="#aca89a" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">318 deposits</text>
+<text x="828.0" y="662.0" font-size="10.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2026</text>
+<text x="828.0" y="676.0" font-size="8.5" fill="#aca89a" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">338 deposits</text>
+<text x="250.0" y="182.0" font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">share of that year's datasets whose validator reported at least one error</text>
+<polyline points="268.0,388.4 454.7,393.9 641.3,327.0" fill="none" stroke="#8c2318" stroke-width="2.8"/>
+<circle cx="268.0" cy="388.4" r="4.2" fill="#8c2318"/>
+<text x="268.0" y="377.4" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">56%</text>
+<text x="268.0" y="377.4" fill="#8c2318" font-size="10" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">56%</text>
+<text x="268.0" y="405.4" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="8.5" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">n=70</text>
+<text x="268.0" y="405.4" fill="#8a8880" font-size="8.5" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">n=70</text>
+<circle cx="454.7" cy="393.9" r="4.2" fill="#8c2318"/>
+<text x="454.7" y="382.9" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">54%</text>
+<text x="454.7" y="382.9" fill="#8c2318" font-size="10" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">54%</text>
+<text x="454.7" y="410.9" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="8.5" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">n=158</text>
+<text x="454.7" y="410.9" fill="#8a8880" font-size="8.5" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">n=158</text>
+<circle cx="641.3" cy="327.0" r="4.2" fill="#8c2318"/>
+<text x="641.3" y="316.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">70%</text>
+<text x="641.3" y="316.0" fill="#8c2318" font-size="10" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">70%</text>
+<text x="641.3" y="344.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="8.5" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">n=20</text>
+<text x="641.3" y="344.0" fill="#8a8880" font-size="8.5" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">n=20</text>
+<text x="254.0" y="392.4" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">checked by validator v1</text>
+<text x="254.0" y="392.4" fill="#8c2318" font-size="10.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">checked by validator v1</text>
+<polyline points="268.0,572.9 454.7,552.6 641.3,623.6 828.0,622.7" fill="none" stroke="#1b7f5a" stroke-width="2.8"/>
+<circle cx="268.0" cy="572.9" r="4.2" fill="#1b7f5a"/>
+<text x="268.0" y="561.9" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">13%</text>
+<text x="268.0" y="561.9" fill="#1b7f5a" font-size="10" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">13%</text>
+<text x="268.0" y="589.9" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="8.5" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">n=39</text>
+<text x="268.0" y="589.9" fill="#8a8880" font-size="8.5" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">n=39</text>
+<circle cx="454.7" cy="552.6" r="4.2" fill="#1b7f5a"/>
+<text x="454.7" y="541.6" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">18%</text>
+<text x="454.7" y="541.6" fill="#1b7f5a" font-size="10" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">18%</text>
+<text x="454.7" y="569.6" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="8.5" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">n=97</text>
+<text x="454.7" y="569.6" fill="#8a8880" font-size="8.5" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">n=97</text>
+<circle cx="641.3" cy="623.6" r="4.2" fill="#1b7f5a"/>
+<text x="641.3" y="612.6" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">1%</text>
+<text x="641.3" y="612.6" fill="#1b7f5a" font-size="10" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">1%</text>
+<text x="641.3" y="640.6" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="8.5" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">n=291</text>
+<text x="641.3" y="640.6" fill="#8a8880" font-size="8.5" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">n=291</text>
+<circle cx="828.0" cy="622.7" r="4.2" fill="#1b7f5a"/>
+<text x="828.0" y="611.7" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">1%</text>
+<text x="828.0" y="611.7" fill="#1b7f5a" font-size="10" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">1%</text>
+<text x="828.0" y="639.7" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="8.5" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">n=326</text>
+<text x="828.0" y="639.7" fill="#8a8880" font-size="8.5" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">n=326</text>
+<text x="254.0" y="576.9" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">checked by v2 or later</text>
+<text x="254.0" y="576.9" fill="#1b7f5a" font-size="10.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">checked by v2 or later</text>
+<polyline points="268.0,436.4 454.7,452.8 641.3,602.3 828.0,616.6" fill="none" stroke="#0b0b0b" stroke-width="2.2" stroke-dasharray="6 4"/>
+<circle cx="268.0" cy="436.4" r="3.6" fill="none" stroke="#0b0b0b" stroke-width="1.8"/>
+<circle cx="454.7" cy="452.8" r="3.6" fill="none" stroke="#0b0b0b" stroke-width="1.8"/>
+<circle cx="641.3" cy="602.3" r="3.6" fill="none" stroke="#0b0b0b" stroke-width="1.8"/>
+<circle cx="828.0" cy="616.6" r="3.6" fill="none" stroke="#0b0b0b" stroke-width="1.8"/>
+<text x="282.0" y="414.4" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">pooled — the line anyone would have drawn</text>
+<text x="282.0" y="414.4" fill="#0b0b0b" font-size="10.5" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">pooled — the line anyone would have drawn</text>
+<text x="282.0" y="428.4" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">45%</text>
+<text x="282.0" y="428.4" fill="#0b0b0b" font-size="10" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">45%</text>
+<text x="816.0" y="608.6" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">3%</text>
+<text x="816.0" y="608.6" fill="#0b0b0b" font-size="10" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">3%</text>
+<text x="250.0" y="694.0" font-size="10" fill="#52514e" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">share of that year's stamped runs done by v2 or later — this is what moved</text>
+<rect x="213.4" y="704.0" width="109.2" height="34" fill="#f0efe9"/>
+<rect x="213.4" y="704.0" width="39.1" height="34" fill="#1b7f5a" fill-opacity="0.5"/>
+<text x="268.0" y="726.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="12" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">36%</text>
+<text x="268.0" y="726.0" fill="#1b7f5a" font-size="12" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">36%</text>
+<rect x="400.1" y="704.0" width="109.2" height="34" fill="#f0efe9"/>
+<rect x="400.1" y="704.0" width="41.5" height="34" fill="#1b7f5a" fill-opacity="0.5"/>
+<text x="454.7" y="726.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="12" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">38%</text>
+<text x="454.7" y="726.0" fill="#1b7f5a" font-size="12" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">38%</text>
+<rect x="586.7" y="704.0" width="109.2" height="34" fill="#f0efe9"/>
+<rect x="586.7" y="704.0" width="102.2" height="34" fill="#1b7f5a" fill-opacity="0.5"/>
+<text x="641.3" y="726.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="12" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">94%</text>
+<text x="641.3" y="726.0" fill="#1b7f5a" font-size="12" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">94%</text>
+<rect x="773.4" y="704.0" width="109.2" height="34" fill="#f0efe9"/>
+<rect x="773.4" y="704.0" width="108.2" height="34" fill="#1b7f5a" fill-opacity="0.5"/>
+<text x="828.0" y="726.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="12" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">99%</text>
+<text x="828.0" y="726.0" fill="#1b7f5a" font-size="12" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">99%</text>
+<text x="880.0" y="188.0" font-size="10.5" fill="#8c2318" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">if you are about to report adoption</text>
+<text x="880.0" y="203.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Do not use this field across</text>
+<text x="880.0" y="215.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">years. An error is a</text>
+<text x="880.0" y="228.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">different object in the two</text>
+<text x="880.0" y="240.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">versions: v1 flags 55% of</text>
+<text x="880.0" y="253.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">datasets, v2 5%.</text>
+<text x="880.0" y="279.5" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">the control</text>
+<text x="880.0" y="294.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Hold the validator at v1 and</text>
+<text x="880.0" y="307.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">move the year instead: 2024</text>
+<text x="880.0" y="319.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">54%, 2025 70%. The rate rose.</text>
+<text x="880.0" y="346.0" font-size="10.5" fill="#c07a1e" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">v2 reclassifies, it does not miss</text>
+<text x="880.0" y="361.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Median warnings 3,523 against</text>
+<text x="880.0" y="373.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">v1's 2,851.</text>
+<text x="880.0" y="400.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">what is still unknown</text>
+<text x="880.0" y="415.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Whether compliance improved.</text>
+<text x="880.0" y="427.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">803 datasets carry no version</text>
+<text x="880.0" y="440.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">stamp. This plate replaces</text>
+<text x="880.0" y="452.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">one built on a deprecated</text>
+<text x="880.0" y="465.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">field -- see superseded/.</text>
+<line x1="28" y1="800.0" x2="1152" y2="800.0" stroke="#e3e2db"/>
+<text x="28.0" y="818.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">OpenNeuro GraphQL API, no key, fetched 2026-09-24; latestSnapshot.validation and summary.validatorMetadata. Drawn from 2023 because fewer than a fifth of earlier datasets</text>
+<text x="28.0" y="832.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">carry a version stamp at all. A version line is plotted only where that cell holds at least 15 datasets. CAVEAT: v3 is grouped with v2, which its rate supports; and the 803</text>
+<text x="28.0" y="846.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">unstamped datasets are excluded from the split rather than assigned to v1.</text>
+</svg>

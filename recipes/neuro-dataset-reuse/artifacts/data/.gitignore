@@ -1,0 +1,32 @@
+# Exclude everything, then name what stays. A glob would silently admit whatever the next
+# fetch leaves here -- per webprobes/doctrine/condensed-receipts.md, which was written after
+# 165 of 168 published figures turned out to be unredrawable.
+#
+# Verified 2026-09-25: all thirteen figures rebuild BYTE-IDENTICALLY with everything below
+# the allow-list removed. folded.json is absent deliberately -- fold.py regenerates it from
+# datasets.json, so it is a cache and not a receipt.
+*
+!.gitignore
+
+# 5.1 MB, the whole archive's metadata and the receipt for twelve of the thirteen figures.
+# Argued for rather than let through, on the same ground as grid-electrification's
+# peeringdb-fac.json: OpenNeuro's download and view counts move every day, so a refetch does
+# not reproduce what was published. Without this nothing here can be checked.
+!datasets.json
+
+# 231 KB. Condensed from 4.4 MB of per-subject records: plate 12 needs counts per dataset,
+# never identities. The raw file stays in larder and is not published.
+!demographics-fold.json
+
+# 432 KB. The live validator field, fetched separately so the main fetch did not have to be
+# re-run and move every download count. The only receipt for plates 3 and 13.
+!validation.json
+
+# 208 KB. NIH RePORTER awards for the 89 datasets that resolve to a single-project grant.
+!grants.json
+
+# 20 KB. NOT a citation table -- the receipt for a documented FAILURE. OpenAlex's own source
+# record claims 5,756 works, every filter returns ~990, and a verified member holding 32
+# citations is absent from the 990 while the whole file totals 28. Kept because a negative
+# needs evidence too. See provenance.json.
+!openalex.json

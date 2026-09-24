@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="710" viewBox="0 0 1180 710" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'><rect width="1180" height="710" fill="#fcfcfb"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">The field fixed sex balance and left age alone</text>
+<text x="28.0" y="60.0" font-size="12" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">716 OpenNeuro datasets with at least 10 classifiable subjects. One bar is a 2.5-point slice of female share. Compare plate 11, where 18-25s are 4.4x their population share.</text>
+<text x="28.0" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">FOR</text>
+<text x="28.0" y="101.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">anyone auditing a pooled corpus for representativeness, or</text>
+<text x="28.0" y="114.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">deciding which demographic gap is worth funding next</text>
+<text x="402.7" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">DECIDE</text>
+<text x="402.7" y="101.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">whether neuroimaging's demographic problem is general or</text>
+<text x="402.7" y="114.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">specific to age</text>
+<text x="777.3" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">WRONG IF</text>
+<text x="777.3" y="101.0" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">this distribution is as skewed as the age one, in which case</text>
+<text x="777.3" y="114.5" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the field is careless about demographics generally</text>
+<line x1="28" y1="124.0" x2="1152" y2="124.0" stroke="#e3e2db"/>
+<line x1="250.0" y1="194.0" x2="250.0" y2="480.0" stroke="#f0efe9" stroke-width="1"/>
+<text x="250.0" y="498.0" font-size="9.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">0%</text>
+<line x1="400.0" y1="194.0" x2="400.0" y2="480.0" stroke="#f0efe9" stroke-width="1"/>
+<text x="400.0" y="498.0" font-size="9.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">25%</text>
+<line x1="460.0" y1="194.0" x2="460.0" y2="480.0" stroke="#f0efe9" stroke-width="1"/>
+<text x="460.0" y="498.0" font-size="9.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">35%</text>
+<line x1="550.0" y1="194.0" x2="550.0" y2="480.0" stroke="#52514e" stroke-width="1.4"/>
+<text x="550.0" y="498.0" font-size="9.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">50%</text>
+<line x1="640.0" y1="194.0" x2="640.0" y2="480.0" stroke="#f0efe9" stroke-width="1"/>
+<text x="640.0" y="498.0" font-size="9.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">65%</text>
+<line x1="700.0" y1="194.0" x2="700.0" y2="480.0" stroke="#f0efe9" stroke-width="1"/>
+<text x="700.0" y="498.0" font-size="9.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">75%</text>
+<line x1="850.0" y1="194.0" x2="850.0" y2="480.0" stroke="#f0efe9" stroke-width="1"/>
+<text x="850.0" y="498.0" font-size="9.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">100%</text>
+<line x1="250.0" y1="416.4" x2="850.0" y2="416.4" stroke="#f0efe9"/>
+<text x="242.0" y="419.4" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">20</text>
+<line x1="250.0" y1="352.9" x2="850.0" y2="352.9" stroke="#f0efe9"/>
+<text x="242.0" y="355.9" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">40</text>
+<line x1="250.0" y1="289.3" x2="850.0" y2="289.3" stroke="#f0efe9"/>
+<text x="242.0" y="292.3" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">60</text>
+<line x1="250.0" y1="225.8" x2="850.0" y2="225.8" stroke="#f0efe9"/>
+<text x="242.0" y="228.8" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">80</text>
+<text x="250.0" y="516.0" font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">share of that dataset's subjects recorded as female</text>
+<text x="242.0" y="180.0" font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">datasets</text>
+<rect x="460.0" y="194.0" width="180.0" height="286.0" fill="#1b7f5a" fill-opacity="0.06"/>
+<rect x="250.0" y="416.4" width="14.0" height="63.6" fill="#c07a1e" fill-opacity="0.65"/>
+<rect x="280.0" y="473.6" width="14.0" height="6.4" fill="#c07a1e" fill-opacity="0.65"/>
+<rect x="325.0" y="476.8" width="14.0" height="3.2" fill="#c07a1e" fill-opacity="0.65"/>
+<rect x="340.0" y="473.6" width="14.0" height="6.4" fill="#c07a1e" fill-opacity="0.65"/>
+<rect x="355.0" y="473.6" width="14.0" height="6.4" fill="#c07a1e" fill-opacity="0.65"/>
+<rect x="370.0" y="460.9" width="14.0" height="19.1" fill="#c07a1e" fill-opacity="0.65"/>
+<rect x="385.0" y="473.6" width="14.0" height="6.4" fill="#c07a1e" fill-opacity="0.65"/>
+<rect x="400.0" y="448.2" width="14.0" height="31.8" fill="#c07a1e" fill-opacity="0.65"/>
+<rect x="415.0" y="454.6" width="14.0" height="25.4" fill="#c07a1e" fill-opacity="0.65"/>
+<rect x="430.0" y="467.3" width="14.0" height="12.7" fill="#c07a1e" fill-opacity="0.65"/>
+<rect x="445.0" y="413.3" width="14.0" height="66.7" fill="#c07a1e" fill-opacity="0.65"/>
+<rect x="460.0" y="413.3" width="14.0" height="66.7" fill="#1b7f5a" fill-opacity="0.65"/>
+<rect x="475.0" y="429.2" width="14.0" height="50.8" fill="#1b7f5a" fill-opacity="0.65"/>
+<rect x="490.0" y="397.4" width="14.0" height="82.6" fill="#1b7f5a" fill-opacity="0.65"/>
+<rect x="505.0" y="391.0" width="14.0" height="89.0" fill="#1b7f5a" fill-opacity="0.65"/>
+<rect x="520.0" y="365.6" width="14.0" height="114.4" fill="#1b7f5a" fill-opacity="0.65"/>
+<rect x="535.0" y="368.8" width="14.0" height="111.2" fill="#1b7f5a" fill-opacity="0.65"/>
+<rect x="550.0" y="194.0" width="14.0" height="286.0" fill="#1b7f5a" fill-opacity="0.65"/>
+<rect x="565.0" y="314.8" width="14.0" height="165.2" fill="#1b7f5a" fill-opacity="0.65"/>
+<rect x="580.0" y="308.4" width="14.0" height="171.6" fill="#1b7f5a" fill-opacity="0.65"/>
+<rect x="595.0" y="289.3" width="14.0" height="190.7" fill="#1b7f5a" fill-opacity="0.65"/>
+<rect x="610.0" y="356.1" width="14.0" height="123.9" fill="#1b7f5a" fill-opacity="0.65"/>
+<rect x="625.0" y="391.0" width="14.0" height="89.0" fill="#1b7f5a" fill-opacity="0.65"/>
+<rect x="640.0" y="359.2" width="14.0" height="120.8" fill="#c07a1e" fill-opacity="0.65"/>
+<rect x="655.0" y="394.2" width="14.0" height="85.8" fill="#c07a1e" fill-opacity="0.65"/>
+<rect x="670.0" y="441.9" width="14.0" height="38.1" fill="#c07a1e" fill-opacity="0.65"/>
+<rect x="685.0" y="432.3" width="14.0" height="47.7" fill="#c07a1e" fill-opacity="0.65"/>
+<rect x="700.0" y="426.0" width="14.0" height="54.0" fill="#c07a1e" fill-opacity="0.65"/>
+<rect x="715.0" y="454.6" width="14.0" height="25.4" fill="#c07a1e" fill-opacity="0.65"/>
+<rect x="730.0" y="457.8" width="14.0" height="22.2" fill="#c07a1e" fill-opacity="0.65"/>
+<rect x="745.0" y="470.5" width="14.0" height="9.5" fill="#c07a1e" fill-opacity="0.65"/>
+<rect x="760.0" y="460.9" width="14.0" height="19.1" fill="#c07a1e" fill-opacity="0.65"/>
+<rect x="775.0" y="473.6" width="14.0" height="6.4" fill="#c07a1e" fill-opacity="0.65"/>
+<rect x="790.0" y="473.6" width="14.0" height="6.4" fill="#c07a1e" fill-opacity="0.65"/>
+<rect x="805.0" y="476.8" width="14.0" height="3.2" fill="#c07a1e" fill-opacity="0.65"/>
+<rect x="850.0" y="432.3" width="14.0" height="47.7" fill="#c07a1e" fill-opacity="0.65"/>
+<text x="550.0" y="164.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="12" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">median 54% female</text>
+<text x="550.0" y="164.0" fill="#0b0b0b" font-size="12" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">median 54% female</text>
+<text x="550.0" y="210.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="10.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">68% of datasets sit between 35% and 65%</text>
+<text x="550.0" y="210.0" fill="#1b7f5a" font-size="10.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">68% of datasets sit between 35% and 65%</text>
+<text x="242.0" y="542.0" font-size="10.5" fill="#0b0b0b" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">and what the sex field actually contains, across 101,536 subject records</text>
+<rect x="250.0" y="554.0" width="298.0" height="30" fill="#1b7f5a" fill-opacity="0.5" stroke="#1b7f5a"/>
+<text x="399.0" y="575.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="13" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">50%</text>
+<text x="399.0" y="575.0" fill="#1b7f5a" font-size="13" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">50%</text>
+<text x="399.0" y="600.0" font-size="9.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">usable</text>
+<rect x="548.0" y="554.0" width="261.8" height="30" fill="#8c2318" fill-opacity="0.5" stroke="#8c2318"/>
+<text x="679.0" y="575.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="13" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">44%</text>
+<text x="679.0" y="575.0" fill="#8c2318" font-size="13" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">44%</text>
+<text x="679.0" y="600.0" font-size="9.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">blank</text>
+<rect x="809.9" y="554.0" width="23.5" height="30" fill="#c07a1e" fill-opacity="0.5" stroke="#c07a1e"/>
+<rect x="833.4" y="554.0" width="13.8" height="30" fill="#9aa4ad" fill-opacity="0.5" stroke="#9aa4ad"/>
+<rect x="847.2" y="554.0" width="2.8" height="30" fill="#9aa4ad" fill-opacity="0.5" stroke="#9aa4ad"/>
+<text x="892.0" y="178.0" font-size="10.5" fill="#0b0b0b" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">one critique answered, one not</text>
+<text x="892.0" y="193.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Median 54% female here,</text>
+<text x="892.0" y="205.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">against 18-25s at 4.4x their</text>
+<text x="892.0" y="218.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">population share on plate 11.</text>
+<text x="892.0" y="230.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">The same community did one and</text>
+<text x="892.0" y="243.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">not the other.</text>
+<text x="892.0" y="269.5" font-size="10.5" fill="#1b7f5a" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">it is not an averaging artifact</text>
+<text x="892.0" y="284.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">The median WITHIN a dataset is</text>
+<text x="892.0" y="297.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">54%, not just the pool. It</text>
+<text x="892.0" y="309.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">holds in every modality, from</text>
+<text x="892.0" y="322.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">iEEG at 49% to MRI at 55%.</text>
+<text x="892.0" y="348.5" font-size="10.5" fill="#c07a1e" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">a third are still outside the band</text>
+<text x="892.0" y="363.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">32% sit beyond 35-65, which is</text>
+<text x="892.0" y="376.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">not automatically a fault — a</text>
+<text x="892.0" y="388.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">study of pregnancy has a</text>
+<text x="892.0" y="401.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">reason.</text>
+<text x="892.0" y="427.5" font-size="10.5" fill="#8c2318" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">the gap is blank, not wrong</text>
+<text x="892.0" y="442.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">44,309 records have no sex at</text>
+<text x="892.0" y="455.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">all. A further 3,980 are bare</text>
+<text x="892.0" y="467.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">numbers whose meaning lives in</text>
+<text x="892.0" y="480.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">a per-dataset convention that</text>
+<text x="892.0" y="492.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">is not in the record.</text>
+<line x1="28" y1="630.0" x2="1152" y2="630.0" stroke="#e3e2db"/>
+<text x="28.0" y="648.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">OpenNeuro GraphQL API, no key, fetched 2026-09-24; latestSnapshot.summary.subjectMetadata.sex, a field never requested until now. Classifiable means f/female/m/male in any</text>
+<text x="28.0" y="662.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">case; 192 distinct raw values appear in total. Datasets need at least 10 classifiable subjects to be drawn. CAVEAT: recorded sex, not gender, and a participant in two</text>
+<text x="28.0" y="676.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">datasets is counted twice.</text>
+</svg>

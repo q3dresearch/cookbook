@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="780" viewBox="0 0 1180 780" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'><rect width="1180" height="780" fill="#fcfcfb"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">Nothing you can see at deposit forecasts reuse, so cost per download cannot be a funding test</text>
+<text x="28.0" y="60.0" font-size="12" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Each row is a set of things a depositor knows on the day they publish. The hollow mark is how well it fits its own data; the solid mark is how well it predicts data held out. The gap is the answer.</text>
+<text x="28.0" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">FOR</text>
+<text x="28.0" y="101.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">a programme officer asked to screen proposals on expected</text>
+<text x="28.0" y="114.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">reuse, or anyone about to rank datasets by cost per download</text>
+<text x="402.7" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">DECIDE</text>
+<text x="402.7" y="101.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">whether the expensive-per-download dataset can be identified</text>
+<text x="402.7" y="114.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">in advance</text>
+<text x="777.3" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">WRONG IF</text>
+<text x="777.3" y="101.0" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">a held-out score rises above about 0.15, or the hollow and</text>
+<text x="777.3" y="114.5" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">solid marks sit on top of each other</text>
+<line x1="28" y1="124.0" x2="1152" y2="124.0" stroke="#e3e2db"/>
+<line x1="396.7" y1="184.0" x2="396.7" y2="492.0" stroke="#f0efe9" stroke-width="1"/>
+<text x="396.7" y="176.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">-0.1</text>
+<line x1="520.4" y1="184.0" x2="520.4" y2="492.0" stroke="#52514e" stroke-width="1.4"/>
+<text x="520.4" y="176.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">0</text>
+<line x1="644.1" y1="184.0" x2="644.1" y2="492.0" stroke="#f0efe9" stroke-width="1"/>
+<text x="644.1" y="176.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">+0.1</text>
+<line x1="767.8" y1="184.0" x2="767.8" y2="492.0" stroke="#f0efe9" stroke-width="1"/>
+<text x="767.8" y="176.0" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">+0.2</text>
+<text x="520.4" y="510.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">predicts nothing</text>
+<text x="520.4" y="510.0" fill="#52514e" font-size="9.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">predicts nothing</text>
+<text x="842.0" y="160.0" font-size="10" fill="#52514e" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">share of the variation in reuse explained  (R2)</text>
+<text x="34.0" y="202.0" font-size="10" fill="#0b0b0b" text-anchor="start" font-weight="700" letter-spacing="0.08em" style="font-variant-numeric: tabular-nums">FUNDED DATASETS   n = 86</text>
+<text x="356.0" y="232.0" font-size="10.5" fill="#52514e" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">the size of the grant</text>
+<line x1="547.6" y1="228.0" x2="502.4" y2="228.0" stroke="#8c2318" stroke-width="2" stroke-opacity="0.45"/>
+<circle cx="547.6" cy="228.0" r="5" fill="none" stroke="#8c2318" stroke-width="1.6"/>
+<circle cx="502.4" cy="228.0" r="5" fill="#8c2318"/>
+<text x="491.4" y="232.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">-0.015</text>
+<text x="491.4" y="232.0" fill="#8c2318" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">-0.015</text>
+<text x="356.0" y="262.0" font-size="10.5" fill="#52514e" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">what kind of data it is</text>
+<line x1="543.8" y1="258.0" x2="432.8" y2="258.0" stroke="#8c2318" stroke-width="2" stroke-opacity="0.45"/>
+<circle cx="543.8" cy="258.0" r="5" fill="none" stroke="#8c2318" stroke-width="1.6"/>
+<circle cx="432.8" cy="258.0" r="5" fill="#8c2318"/>
+<text x="421.8" y="262.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">-0.071</text>
+<text x="421.8" y="262.0" fill="#8c2318" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">-0.071</text>
+<text x="356.0" y="292.0" font-size="10.5" fill="#52514e" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">how much data there is</text>
+<line x1="666.9" y1="288.0" x2="591.2" y2="288.0" stroke="#c07a1e" stroke-width="2" stroke-opacity="0.45"/>
+<circle cx="666.9" cy="288.0" r="5" fill="none" stroke="#c07a1e" stroke-width="1.6"/>
+<circle cx="591.2" cy="288.0" r="5" fill="#c07a1e"/>
+<text x="580.2" y="292.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">+0.057</text>
+<text x="580.2" y="292.0" fill="#c07a1e" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">+0.057</text>
+<text x="356.0" y="322.0" font-size="10.5" fill="#52514e" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">whether a paper is attached</text>
+<line x1="520.8" y1="318.0" x2="448.2" y2="318.0" stroke="#8c2318" stroke-width="2" stroke-opacity="0.45"/>
+<circle cx="520.8" cy="318.0" r="5" fill="none" stroke="#8c2318" stroke-width="1.6"/>
+<circle cx="448.2" cy="318.0" r="5" fill="#8c2318"/>
+<text x="437.2" y="322.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">-0.058</text>
+<text x="437.2" y="322.0" fill="#8c2318" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">-0.058</text>
+<text x="356.0" y="352.0" font-size="10.5" fill="#52514e" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">everything observable</text>
+<line x1="759.7" y1="348.0" x2="435.3" y2="348.0" stroke="#8c2318" stroke-width="2" stroke-opacity="0.45"/>
+<circle cx="759.7" cy="348.0" r="5" fill="none" stroke="#8c2318" stroke-width="1.6"/>
+<circle cx="435.3" cy="348.0" r="5" fill="#8c2318"/>
+<text x="424.3" y="352.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">-0.069</text>
+<text x="424.3" y="352.0" fill="#8c2318" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">-0.069</text>
+<text x="34.0" y="382.0" font-size="10" fill="#0b0b0b" text-anchor="start" font-weight="700" letter-spacing="0.08em" style="font-variant-numeric: tabular-nums">THE WHOLE ARCHIVE   n = 1429</text>
+<text x="356.0" y="412.0" font-size="10.5" fill="#52514e" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">what kind of data it is</text>
+<line x1="605.3" y1="408.0" x2="598.0" y2="408.0" stroke="#c07a1e" stroke-width="2" stroke-opacity="0.45"/>
+<circle cx="605.3" cy="408.0" r="5" fill="none" stroke="#c07a1e" stroke-width="1.6"/>
+<circle cx="598.0" cy="408.0" r="5" fill="#c07a1e"/>
+<text x="587.0" y="412.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">+0.063</text>
+<text x="587.0" y="412.0" fill="#c07a1e" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">+0.063</text>
+<text x="356.0" y="442.0" font-size="10.5" fill="#52514e" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">how much data there is</text>
+<line x1="583.4" y1="438.0" x2="579.9" y2="438.0" stroke="#c07a1e" stroke-width="2" stroke-opacity="0.45"/>
+<circle cx="583.4" cy="438.0" r="5" fill="none" stroke="#c07a1e" stroke-width="1.6"/>
+<circle cx="579.9" cy="438.0" r="5" fill="#c07a1e"/>
+<text x="568.9" y="442.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">+0.048</text>
+<text x="568.9" y="442.0" fill="#c07a1e" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">+0.048</text>
+<text x="356.0" y="472.0" font-size="10.5" fill="#52514e" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">everything observable</text>
+<line x1="666.8" y1="468.0" x2="652.7" y2="468.0" stroke="#1b7f5a" stroke-width="2" stroke-opacity="0.45"/>
+<circle cx="666.8" cy="468.0" r="5" fill="none" stroke="#1b7f5a" stroke-width="1.6"/>
+<circle cx="652.7" cy="468.0" r="5" fill="#1b7f5a"/>
+<text x="641.7" y="472.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">+0.107</text>
+<text x="641.7" y="472.0" fill="#1b7f5a" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">+0.107</text>
+<text x="769.7" y="322.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">fitted to its own data</text>
+<text x="769.7" y="322.0" fill="#8a8880" font-size="9" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">fitted to its own data</text>
+<line x1="34" y1="530.0" x2="880.0" y2="530.0" stroke="#e3e2db"/>
+<text x="34.0" y="548.0" font-size="11" fill="#0b0b0b" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">so what is knowable on the day the money is committed</text>
+<rect x="34.0" y="560.0" width="263.7" height="30" fill="#1b7f5a" fill-opacity="0.5" stroke="#1b7f5a" stroke-width="1"/>
+<text x="165.8" y="580.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="12" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">31%</text>
+<text x="165.8" y="580.0" fill="#1b7f5a" font-size="12" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">31%</text>
+<text x="165.8" y="606.0" font-size="9.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">the award, known exactly</text>
+<rect x="297.7" y="560.0" width="61.7" height="30" fill="#c07a1e" fill-opacity="0.5" stroke="#c07a1e" stroke-width="1"/>
+<text x="328.5" y="580.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="12" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">7%</text>
+<text x="328.5" y="580.0" fill="#c07a1e" font-size="12" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">7%</text>
+<text x="328.5" y="606.0" font-size="9.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">forecastable reuse</text>
+<rect x="359.3" y="560.0" width="514.7" height="30" fill="#8c2318" fill-opacity="0.5" stroke="#8c2318" stroke-width="1"/>
+<text x="616.7" y="580.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="12" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">61%</text>
+<text x="616.7" y="580.0" fill="#8c2318" font-size="12" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">61%</text>
+<text x="616.7" y="606.0" font-size="9.5" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">a coin flip</text>
+<text x="912.0" y="168.0" font-size="10.5" fill="#8c2318" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">if you are told to fund on expected reuse</text>
+<text x="912.0" y="183.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">You cannot. At the decision, 61%</text>
+<text x="912.0" y="195.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">of the eventual cost per</text>
+<text x="912.0" y="208.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">download is undetermined by</text>
+<text x="912.0" y="220.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">anything on the application. The</text>
+<text x="912.0" y="233.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">$340 dataset and the $4.85m one</text>
+<text x="912.0" y="245.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">look the same.</text>
+<text x="912.0" y="272.0" font-size="10.5" fill="#c07a1e" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">if you are tempted by an in-sample fit</text>
+<text x="912.0" y="287.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Every hollow mark is a model</text>
+<text x="912.0" y="299.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">flattering itself. On 86 rows,</text>
+<text x="912.0" y="312.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">'everything observable' explains</text>
+<text x="912.0" y="324.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">19% of its own data and less</text>
+<text x="912.0" y="337.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">than nothing of anyone else's.</text>
+<text x="912.0" y="363.5" font-size="10.5" fill="#9aa4ad" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">what the money actually buys</text>
+<text x="912.0" y="378.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Not reuse. Award against</text>
+<text x="912.0" y="391.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">downloads is r = -0.15, t =</text>
+<text x="912.0" y="403.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">-1.40. A bigger grant does not</text>
+<text x="912.0" y="416.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">produce a more-taken dataset.</text>
+<text x="912.0" y="442.5" font-size="10.5" fill="#4a7fa8" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">the one lever, and it is not financial</text>
+<text x="912.0" y="457.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Holding subject count fixed,</text>
+<text x="912.0" y="470.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">every modality beats MRI -- PET</text>
+<text x="912.0" y="482.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">by 2.53x -- and MRI is 66% of</text>
+<text x="912.0" y="495.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the archive. Scale is not a</text>
+<text x="912.0" y="507.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">lever: doubling a cohort returns</text>
+<text x="912.0" y="520.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">16%.</text>
+<text x="912.0" y="546.5" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">what would change this</text>
+<text x="912.0" y="561.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">A predictor nobody has tried:</text>
+<text x="912.0" y="574.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the task or paradigm. It is the</text>
+<text x="912.0" y="586.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">field most likely to carry</text>
+<text x="912.0" y="599.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">demand and OpenNeuro does not</text>
+<text x="912.0" y="611.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">record it in countable form.</text>
+<line x1="28" y1="700.0" x2="1152" y2="700.0" stroke="#e3e2db"/>
+<text x="28.0" y="718.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">OpenNeuro GraphQL and NIH RePORTER v2, both keyless, fetched 2026-09-24. Target is log10 downloads per year since publication, which removes the age confound in a cumulative</text>
+<text x="28.0" y="732.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">count. Held-out R2 from ten-fold cross-validation, seeded. The variance split is exact in log units because award and downloads are uncorrelated. CAVEAT: a download is not a</text>
+<text x="28.0" y="746.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">citation, and 'everything observable' is only everything OpenNeuro records.</text>
+</svg>

@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="780" viewBox="0 0 1180 780" font-family='system-ui, -apple-system, "Segoe UI", sans-serif'><rect width="1180" height="780" fill="#fcfcfb"/>
+<text x="28.0" y="40.0" font-size="19" fill="#0b0b0b" text-anchor="start" font-weight="600" style="font-variant-numeric: tabular-nums">Two kinds of effort after the data is collected, and neither one pays</text>
+<text x="28.0" y="60.0" font-size="12" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Left: how long a dataset sat in draft, against how often it is taken. Right: how many times it was revised, against whether it passes the validator. Effort rises to the right in both.</text>
+<text x="28.0" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">FOR</text>
+<text x="28.0" y="101.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">a depositor deciding whether to polish before publishing or</text>
+<text x="28.0" y="114.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">to keep revising after, and a repository deciding what to</text>
+<text x="28.0" y="128.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">nudge people towards</text>
+<text x="402.7" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">DECIDE</text>
+<text x="402.7" y="101.0" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">whether either kind of post-collection effort improves the</text>
+<text x="402.7" y="114.5" font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">outcome it is spent on</text>
+<text x="777.3" y="86.0" font-size="8.5" fill="#8a8880" text-anchor="start" font-weight="700" letter-spacing="0.9" style="font-variant-numeric: tabular-nums">WRONG IF</text>
+<text x="777.3" y="101.0" font-size="11.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">either fit is significant in the direction the effort intends</text>
+<line x1="28" y1="137.5" x2="1152" y2="137.5" stroke="#e3e2db"/>
+<line x1="236.0" y1="551.5" x2="628.0" y2="551.5" stroke="#f0efe9"/>
+<text x="230.0" y="554.5" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">0.0</text>
+<line x1="236.0" y1="469.0" x2="628.0" y2="469.0" stroke="#f0efe9"/>
+<text x="230.0" y="472.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">6.5</text>
+<line x1="236.0" y1="386.5" x2="628.0" y2="386.5" stroke="#f0efe9"/>
+<text x="230.0" y="389.5" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">13.0</text>
+<line x1="236.0" y1="304.0" x2="628.0" y2="304.0" stroke="#f0efe9"/>
+<text x="230.0" y="307.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">19.5</text>
+<line x1="236.0" y1="221.5" x2="628.0" y2="221.5" stroke="#f0efe9"/>
+<text x="230.0" y="224.5" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">26.0</text>
+<text x="230.0" y="205.5" font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">median downloads a year</text>
+<circle cx="248.0" cy="326.9" r="5" fill="#4a7fa8" fill-opacity="0.5" stroke="#4a7fa8" stroke-width="1.6"/>
+<text x="248.0" y="314.9" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">17.7</text>
+<text x="248.0" y="314.9" fill="#4a7fa8" font-size="9.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">17.7</text>
+<text x="248.0" y="569.5" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">0</text>
+<text x="248.0" y="582.5" font-size="8" fill="#aca89a" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">n=666</text>
+<circle cx="309.3" cy="287.5" r="5" fill="#4a7fa8" fill-opacity="0.5" stroke="#4a7fa8" stroke-width="1.6"/>
+<text x="309.3" y="275.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">20.8</text>
+<text x="309.3" y="275.5" fill="#4a7fa8" font-size="9.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">20.8</text>
+<text x="309.3" y="569.5" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">1-3</text>
+<text x="309.3" y="582.5" font-size="8" fill="#aca89a" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">n=381</text>
+<circle cx="370.7" cy="289.2" r="5" fill="#4a7fa8" fill-opacity="0.5" stroke="#4a7fa8" stroke-width="1.6"/>
+<text x="370.7" y="277.2" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">20.6</text>
+<text x="370.7" y="277.2" fill="#4a7fa8" font-size="9.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">20.6</text>
+<text x="370.7" y="569.5" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">4-14</text>
+<text x="370.7" y="582.5" font-size="8" fill="#aca89a" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">n=228</text>
+<circle cx="432.0" cy="343.4" r="5" fill="#4a7fa8" fill-opacity="0.5" stroke="#4a7fa8" stroke-width="1.6"/>
+<text x="432.0" y="331.4" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">16.4</text>
+<text x="432.0" y="331.4" fill="#4a7fa8" font-size="9.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">16.4</text>
+<text x="432.0" y="569.5" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">15-60</text>
+<text x="432.0" y="582.5" font-size="8" fill="#aca89a" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">n=203</text>
+<circle cx="493.3" cy="376.4" r="5" fill="#4a7fa8" fill-opacity="0.5" stroke="#4a7fa8" stroke-width="1.6"/>
+<text x="493.3" y="364.4" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">13.8</text>
+<text x="493.3" y="364.4" fill="#4a7fa8" font-size="9.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">13.8</text>
+<text x="493.3" y="569.5" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">61-180</text>
+<text x="493.3" y="582.5" font-size="8" fill="#aca89a" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">n=159</text>
+<circle cx="554.7" cy="379.0" r="5" fill="#4a7fa8" fill-opacity="0.5" stroke="#4a7fa8" stroke-width="1.6"/>
+<text x="554.7" y="367.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">13.6</text>
+<text x="554.7" y="367.0" fill="#4a7fa8" font-size="9.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">13.6</text>
+<text x="554.7" y="569.5" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">181-365</text>
+<text x="554.7" y="582.5" font-size="8" fill="#aca89a" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">n=89</text>
+<circle cx="616.0" cy="447.8" r="5" fill="#4a7fa8" fill-opacity="0.5" stroke="#4a7fa8" stroke-width="1.6"/>
+<text x="616.0" y="435.8" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">8.2</text>
+<text x="616.0" y="435.8" fill="#4a7fa8" font-size="9.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">8.2</text>
+<text x="616.0" y="569.5" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">365+</text>
+<text x="616.0" y="582.5" font-size="8" fill="#aca89a" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">n=77</text>
+<polyline points="248.0,326.9 309.3,287.5 370.7,289.2 432.0,343.4 493.3,376.4 554.7,379.0 616.0,447.8" fill="none" stroke="#4a7fa8" stroke-width="1.6" stroke-opacity="0.45"/>
+<text x="248.0" y="601.5" font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">days the dataset sat in draft</text>
+<text x="616.0" y="601.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">more time spent, to the right</text>
+<text x="616.0" y="601.5" fill="#8a8880" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">more time spent, to the right</text>
+<text x="432.0" y="183.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="11" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">slope -0.077   t = -4.54   SIGNIFICANT, and negative</text>
+<text x="432.0" y="183.5" fill="#8c2318" font-size="11" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">slope -0.077   t = -4.54   SIGNIFICANT, and negative</text>
+<line x1="696.0" y1="551.5" x2="1088.0" y2="551.5" stroke="#f0efe9"/>
+<text x="690.0" y="554.5" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">0%</text>
+<line x1="696.0" y1="469.0" x2="1088.0" y2="469.0" stroke="#f0efe9"/>
+<text x="690.0" y="472.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">15%</text>
+<line x1="696.0" y1="386.5" x2="1088.0" y2="386.5" stroke="#f0efe9"/>
+<text x="690.0" y="389.5" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">30%</text>
+<line x1="696.0" y1="304.0" x2="1088.0" y2="304.0" stroke="#f0efe9"/>
+<text x="690.0" y="307.0" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">45%</text>
+<line x1="696.0" y1="221.5" x2="1088.0" y2="221.5" stroke="#f0efe9"/>
+<text x="690.0" y="224.5" font-size="9" fill="#8a8880" text-anchor="end" font-weight="normal" style="font-variant-numeric: tabular-nums">61%</text>
+<text x="690.0" y="205.5" font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">share carrying a validator error</text>
+<circle cx="708.0" cy="385.3" r="5" fill="#c07a1e" fill-opacity="0.5" stroke="#c07a1e" stroke-width="1.6"/>
+<text x="708.0" y="373.3" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">31%</text>
+<text x="708.0" y="373.3" fill="#c07a1e" font-size="9.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">31%</text>
+<text x="708.0" y="569.5" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">1</text>
+<text x="708.0" y="582.5" font-size="8" fill="#aca89a" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">n=688</text>
+<circle cx="754.0" cy="373.9" r="5" fill="#c07a1e" fill-opacity="0.5" stroke="#c07a1e" stroke-width="1.6"/>
+<text x="754.0" y="361.9" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">33%</text>
+<text x="754.0" y="361.9" fill="#c07a1e" font-size="9.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">33%</text>
+<text x="754.0" y="569.5" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">2</text>
+<text x="754.0" y="582.5" font-size="8" fill="#aca89a" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">n=515</text>
+<circle cx="800.0" cy="325.9" r="5" fill="#c07a1e" fill-opacity="0.5" stroke="#c07a1e" stroke-width="1.6"/>
+<text x="800.0" y="313.9" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">41%</text>
+<text x="800.0" y="313.9" fill="#c07a1e" font-size="9.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">41%</text>
+<text x="800.0" y="569.5" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">3</text>
+<text x="800.0" y="582.5" font-size="8" fill="#aca89a" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">n=251</text>
+<circle cx="846.0" cy="358.3" r="5" fill="#c07a1e" fill-opacity="0.5" stroke="#c07a1e" stroke-width="1.6"/>
+<text x="846.0" y="346.3" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">35%</text>
+<text x="846.0" y="346.3" fill="#c07a1e" font-size="9.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">35%</text>
+<text x="846.0" y="569.5" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">4</text>
+<text x="846.0" y="582.5" font-size="8" fill="#aca89a" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">n=155</text>
+<circle cx="892.0" cy="346.6" r="5" fill="#c07a1e" fill-opacity="0.5" stroke="#c07a1e" stroke-width="1.6"/>
+<text x="892.0" y="334.6" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">38%</text>
+<text x="892.0" y="334.6" fill="#c07a1e" font-size="9.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">38%</text>
+<text x="892.0" y="569.5" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">5</text>
+<text x="892.0" y="582.5" font-size="8" fill="#aca89a" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">n=93</text>
+<circle cx="938.0" cy="381.3" r="5" fill="#c07a1e" fill-opacity="0.5" stroke="#c07a1e" stroke-width="1.6"/>
+<text x="938.0" y="369.3" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">31%</text>
+<text x="938.0" y="369.3" fill="#c07a1e" font-size="9.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">31%</text>
+<text x="938.0" y="569.5" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">6</text>
+<text x="938.0" y="582.5" font-size="8" fill="#aca89a" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">n=64</text>
+<circle cx="984.0" cy="287.5" r="5" fill="#c07a1e" fill-opacity="0.5" stroke="#c07a1e" stroke-width="1.6"/>
+<text x="984.0" y="275.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">48%</text>
+<text x="984.0" y="275.5" fill="#c07a1e" font-size="9.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">48%</text>
+<text x="984.0" y="569.5" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">7</text>
+<text x="984.0" y="582.5" font-size="8" fill="#aca89a" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">n=33</text>
+<circle cx="1030.0" cy="370.0" r="5" fill="#c07a1e" fill-opacity="0.5" stroke="#c07a1e" stroke-width="1.6"/>
+<text x="1030.0" y="358.0" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">33%</text>
+<text x="1030.0" y="358.0" fill="#c07a1e" font-size="9.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">33%</text>
+<text x="1030.0" y="569.5" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">8</text>
+<text x="1030.0" y="582.5" font-size="8" fill="#aca89a" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">n=27</text>
+<circle cx="1076.0" cy="473.7" r="5" fill="#c07a1e" fill-opacity="0.5" stroke="#c07a1e" stroke-width="1.6"/>
+<text x="1076.0" y="461.7" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">14%</text>
+<text x="1076.0" y="461.7" fill="#c07a1e" font-size="9.5" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">14%</text>
+<text x="1076.0" y="569.5" font-size="9" fill="#8a8880" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">11+</text>
+<text x="1076.0" y="582.5" font-size="8" fill="#aca89a" text-anchor="middle" font-weight="normal" style="font-variant-numeric: tabular-nums">n=35</text>
+<polyline points="708.0,385.3 754.0,373.9 800.0,325.9 846.0,358.3 892.0,346.6 938.0,381.3 984.0,287.5 1030.0,370.0 1076.0,473.7" fill="none" stroke="#c07a1e" stroke-width="1.6" stroke-opacity="0.45"/>
+<text x="708.0" y="601.5" font-size="10" fill="#52514e" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">number of published snapshots</text>
+<text x="1076.0" y="601.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">more revision, to the right</text>
+<text x="1076.0" y="601.5" fill="#8a8880" font-size="9.5" text-anchor="end" font-weight="700" style="font-variant-numeric: tabular-nums">more revision, to the right</text>
+<text x="892.0" y="183.5" fill="none" stroke="#fcfcfb" stroke-width="3.4" stroke-linejoin="round" font-size="11" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">slope +0.028   t = +0.77   flat</text>
+<text x="892.0" y="183.5" fill="#52514e" font-size="11" text-anchor="middle" font-weight="700" style="font-variant-numeric: tabular-nums">slope +0.028   t = +0.77   flat</text>
+<text x="34.0" y="227.5" font-size="10.5" fill="#8c2318" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">polishing before you publish</text>
+<text x="34.0" y="242.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">A hundredfold longer draft</text>
+<text x="34.0" y="255.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">predicts about 30% fewer</text>
+<text x="34.0" y="267.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">downloads. Whatever the</text>
+<text x="34.0" y="280.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">wait is for, reuse is not</text>
+<text x="34.0" y="292.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">it.</text>
+<text x="34.0" y="319.0" font-size="10.5" fill="#c07a1e" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">revising after you publish</text>
+<text x="34.0" y="334.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">The error rate does not</text>
+<text x="34.0" y="346.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">move. Eight rounds leave a</text>
+<text x="34.0" y="359.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">dataset as likely to fail</text>
+<text x="34.0" y="371.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">as never touching it.</text>
+<text x="34.0" y="398.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">neither is causal</text>
+<text x="34.0" y="413.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">A languishing draft may</text>
+<text x="34.0" y="425.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">mean an author who had</text>
+<text x="34.0" y="438.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">already moved on. A</text>
+<text x="34.0" y="450.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">much-revised dataset may</text>
+<text x="34.0" y="463.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">have been messy to start</text>
+<text x="34.0" y="475.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">with.</text>
+<text x="34.0" y="502.0" font-size="10.5" fill="#52514e" text-anchor="start" font-weight="700" style="font-variant-numeric: tabular-nums">but the advice survives either way</text>
+<text x="34.0" y="517.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">Neither effort predicts</text>
+<text x="34.0" y="529.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">the outcome it is spent</text>
+<text x="34.0" y="542.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">on, which is enough to</text>
+<text x="34.0" y="554.5" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">stop recommending it as a</text>
+<text x="34.0" y="567.0" font-size="9.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">lever.</text>
+<line x1="28" y1="700.0" x2="1152" y2="700.0" stroke="#e3e2db"/>
+<text x="28.0" y="718.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">OpenNeuro GraphQL API, no key, fetched 2026-09-24; dataset.created, dataset.publishDate, snapshot count and latestSnapshot.validation. Points are exact snapshot counts on the</text>
+<text x="28.0" y="732.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">right and draft-day bands on the left; both fits are on the continuous variable, so no bin choice carries either result. CAVEAT: observational, and the direction of causation</text>
+<text x="28.0" y="746.0" font-size="10.5" fill="#8a8880" text-anchor="start" font-weight="normal" style="font-variant-numeric: tabular-nums">is arguable in both panels.</text>
+</svg>
