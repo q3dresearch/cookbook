@@ -1,0 +1,2 @@
+run_date,method_version,note
+2026-10-26,1.0.0,"First publication. Pre-publication fix: the cache-write premium was being charged with caching off, moving the uncached 30-turn Sonnet loop from $21.74 to $17.44 and the append saving from 85% to 81.5%. At 1M the provider floor ($3.92) sits above the $3.02 list price; 77% of a knowledge deliverable's bill is failure cleanup."

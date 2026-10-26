@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="600" viewBox="0 0 980 600" role="img" aria-label="At 1M context the GPU floor crosses the list price">
+<title>At 1M context the GPU floor crosses the list price</title>
+<desc>Log-log chart of server GPU cost per request against context length for 70B GQA, hybrid-attention 70B and 671B MLA, against a flat $3 per million list price. At 1M the GQA floor is $3.92 against $3.02 list, while hybrid is $1.16.</desc>
+<rect width="980" height="600" fill="#fcfcfb"/>
+<text x="36.0" y="44.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="21" fill="#0b0b0b" text-anchor="start" font-weight="600">At 1M context the GPU floor crosses the list price</text>
+<text x="36.0" y="69.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="13.5" fill="#52514e" text-anchor="start" font-weight="normal">One request, 1,000 output tokens, batch 64 (compute only). Long-context serving is compute-bound, so the floor rises faster than a per-token quote.</text>
+<text x="36.0" y="89.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal">Model: llm_econ.py · H100 at $2.50/hr, 8x H100 at $20/hr · MFU 0.50, MBU 0.75 · floor only</text>
+<line x1="36.0" y1="144.0" x2="54.0" y2="144.0" stroke="#2a78d6" stroke-width="2"/>
+<text x="60.0" y="148.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="start" font-weight="normal">70B GQA</text>
+<line x1="128.8" y1="144.0" x2="146.8" y2="144.0" stroke="#eb6834" stroke-width="2"/>
+<text x="152.8" y="148.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="start" font-weight="normal">70B GQA, hybrid attention</text>
+<line x1="336.8" y1="144.0" x2="354.8" y2="144.0" stroke="#1baf7a" stroke-width="2"/>
+<text x="360.8" y="148.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="start" font-weight="normal">671B MLA (40B active)</text>
+<line x1="519.2" y1="144.0" x2="537.2" y2="144.0" stroke="#52514e" stroke-width="2"/>
+<text x="543.2" y="148.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="start" font-weight="normal">Claude Sonnet 4.6 list price</text>
+<line x1="96.0" y1="405.4" x2="700.0" y2="405.4" stroke="#e1e0d9" stroke-width="1"/>
+<text x="86.0" y="409.4" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="end" font-weight="normal" font-variant-numeric="tabular-nums">$0.01</text>
+<line x1="96.0" y1="327.8" x2="700.0" y2="327.8" stroke="#e1e0d9" stroke-width="1"/>
+<text x="86.0" y="331.8" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="end" font-weight="normal" font-variant-numeric="tabular-nums">$0.1</text>
+<line x1="96.0" y1="250.1" x2="700.0" y2="250.1" stroke="#e1e0d9" stroke-width="1"/>
+<text x="86.0" y="254.1" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="end" font-weight="normal" font-variant-numeric="tabular-nums">$1</text>
+<line x1="96.0" y1="172.5" x2="700.0" y2="172.5" stroke="#e1e0d9" stroke-width="1"/>
+<text x="86.0" y="176.5" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="end" font-weight="normal" font-variant-numeric="tabular-nums">$10</text>
+<line x1="96.0" y1="446.0" x2="700.0" y2="446.0" stroke="#c3c2b7" stroke-width="1"/>
+<line x1="96.0" y1="446.0" x2="96.0" y2="450.0" stroke="#c3c2b7" stroke-width="1"/>
+<text x="96.0" y="468.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" font-variant-numeric="tabular-nums">10K</text>
+<line x1="240.1" y1="446.0" x2="240.1" y2="450.0" stroke="#c3c2b7" stroke-width="1"/>
+<text x="240.1" y="468.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" font-variant-numeric="tabular-nums">30K</text>
+<line x1="398.0" y1="446.0" x2="398.0" y2="450.0" stroke="#c3c2b7" stroke-width="1"/>
+<text x="398.0" y="468.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" font-variant-numeric="tabular-nums">100K</text>
+<line x1="542.1" y1="446.0" x2="542.1" y2="450.0" stroke="#c3c2b7" stroke-width="1"/>
+<text x="542.1" y="468.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" font-variant-numeric="tabular-nums">300K</text>
+<line x1="700.0" y1="446.0" x2="700.0" y2="450.0" stroke="#c3c2b7" stroke-width="1"/>
+<text x="700.0" y="468.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" font-variant-numeric="tabular-nums">1M</text>
+<text x="398.0" y="494.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#898781" text-anchor="middle" font-weight="normal">context tokens (log)</text>
+<path d="M96.0,445.0 L307.1,379.5 M307.1,379.5 L488.9,305.1 M488.9,305.1 L609.1,248.8 M609.1,248.8 L700.0,204.1" fill="none" stroke="#2a78d6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M96.0,446.0 L307.1,392.4 M307.1,392.4 L488.9,333.1 M488.9,333.1 L609.1,285.4 M609.1,285.4 L700.0,245.1" fill="none" stroke="#eb6834" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M96.0,431.0 L307.1,377.3 M307.1,377.3 L488.9,296.6 M488.9,296.6 L609.1,237.1 M609.1,237.1 L700.0,191.2" fill="none" stroke="#1baf7a" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M96.0,354.7 L307.1,310.9 M307.1,310.9 L488.9,266.5 M488.9,266.5 L609.1,236.1 M609.1,236.1 L700.0,212.9" fill="none" stroke="#52514e" stroke-width="2" stroke-dasharray="5 4" stroke-linecap="round"/>
+<circle cx="700.0" cy="191.2" r="6.5" fill="#fcfcfb" fill-opacity="1.0" stroke="none" stroke-width="1"/><circle cx="700.0" cy="191.2" r="4.5" fill="#1baf7a" fill-opacity="1.0" stroke="none" stroke-width="1"/>
+<text x="716.0" y="181.2" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="start" font-weight="normal">$5.74  671B MLA</text>
+<line x1="704.0" y1="191.2" x2="712.0" y2="191.2" stroke="#1baf7a" stroke-width="1"/>
+<circle cx="700.0" cy="204.1" r="6.5" fill="#fcfcfb" fill-opacity="1.0" stroke="none" stroke-width="1"/><circle cx="700.0" cy="204.1" r="4.5" fill="#2a78d6" fill-opacity="1.0" stroke="none" stroke-width="1"/>
+<text x="716.0" y="208.1" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="start" font-weight="normal">$3.92  70B GQA</text>
+<line x1="704.0" y1="204.1" x2="712.0" y2="204.1" stroke="#2a78d6" stroke-width="1"/>
+<circle cx="700.0" cy="212.9" r="6.5" fill="#fcfcfb" fill-opacity="1.0" stroke="none" stroke-width="1"/><circle cx="700.0" cy="212.9" r="4.5" fill="#52514e" fill-opacity="1.0" stroke="none" stroke-width="1"/>
+<text x="716.0" y="234.9" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="start" font-weight="normal">$3.02  list price</text>
+<line x1="704.0" y1="212.9" x2="712.0" y2="212.9" stroke="#52514e" stroke-width="1"/>
+<circle cx="700.0" cy="245.1" r="6.5" fill="#fcfcfb" fill-opacity="1.0" stroke="none" stroke-width="1"/><circle cx="700.0" cy="245.1" r="4.5" fill="#eb6834" fill-opacity="1.0" stroke="none" stroke-width="1"/>
+<text x="716.0" y="247.1" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="start" font-weight="normal">$1.16  hybrid</text>
+<line x1="704.0" y1="245.1" x2="712.0" y2="245.1" stroke="#eb6834" stroke-width="1"/>
+<line x1="700.0" y1="180.0" x2="700.0" y2="446.0" stroke="#c3c2b7" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="421.9" y="214.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#52514e" text-anchor="start" font-weight="600">At 1M the 70B floor is $3.92</text>
+<text x="421.9" y="231.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal">against a $3.02 list price. Hybrid:</text>
+<text x="421.9" y="247.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal">$1.16, still above water.</text>
+<text x="36.0" y="548.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal">Hybrid attention (one full layer in four) cuts the 1M floor 3.4x. A cache hit removes prefill but not the KV reads during decode.</text>
+<text x="36.0" y="566.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal">Compute floor only: at 1M the 70B GQA KV is 164 GB per sequence, beyond one 80 GB H100. Not a deployable configuration.</text>
+</svg>

@@ -1,0 +1,134 @@
+{
+  "method_version": "1.0.0",
+  "retrieved": "2026-10-26",
+  "citation_required": "Source: llm-unit-economics, q3dresearch cookbook (2026).",
+  "licence": "CC BY 4.0 (text and figures); MIT (code)",
+  "corpus": "none — the model is the artifact; no data files are fetched or committed",
+  "sources": {
+    "pricing": {
+      "note": "Vendor list prices, early 2026, in USD per million tokens.",
+      "models": {
+        "Claude Sonnet 4.6": "in 3.00, out 15.00, cached read 0.30, flat across the 1M window",
+        "Claude Sonnet 4.5": "in 3.00, out 15.00, cached read 0.30, tiered at 200K: 2x input, 1.5x output on the whole request",
+        "Gemini 3.1 Pro": "in 2.00, out 12.00, cached read 0.20, tiered at 200K: 2x input, 1.5x output on the whole request; cache storage 4.50 per 1M cached tokens per hour",
+        "DeepSeek V4 Flash": "in 0.09, out 0.50, cached read 0.02",
+        "GPT-5.5": "in 5.00, out 30.00, cached read 0.50, batch discount 50%"
+      },
+      "note_on_tiers": "The tier multiplier is applied to the whole request above the threshold, as the published sheets read. It is a simplification of contract pricing, not a quote."
+    },
+    "hardware": {
+      "note": "Single-instance GPU rental floors, not a provider P&L.",
+      "instances": {
+        "1x H100": "990 TFLOP/s dense, 3.35 TB/s HBM, 80 GB, $2.50/hr",
+        "8x H100": "7.92 PFLOP/s dense, 26.8 TB/s HBM, 640 GB, $20.00/hr"
+      },
+      "assumptions": "MFU 0.50, MBU 0.75, fp8 weights and KV. No power, idle capacity, networking, quantization or margin."
+    },
+    "cache_priors": {
+      "note": "Session-level cache-hit rates for coding agents, April 2026.",
+      "sources": [
+        "Requesty coding-agent telemetry",
+        "GitHub Copilot production study, arXiv 2608.00101"
+      ],
+      "values": {
+        "Claude Code": 0.919,
+        "OpenCode": 0.890,
+        "Aider": 0.840,
+        "Zed": 0.801,
+        "Roo Code": 0.736,
+        "Forge": 0.639,
+        "Cline": 0.614,
+        "Copilot (turn boundary)": 0.550,
+        "Kilo Code": 0.455,
+        "Copilot (model switch)": 0.080
+      }
+    },
+    "task_profiles": {
+      "note": "Six task profiles, seeded from external anchors. p(success), remediation, human hours and value are assumptions.",
+      "anchors": [
+        "Vantage: a 50-turn coding session is about 1M input / 40K output; session success ~90%, turn-boundary ~55%.",
+        "OpenAI GDPval, arXiv 2510.04374: about $400 and 7–9 expert hours per knowledge deliverable.",
+        "Playcode: identical SVG tasks where one model emitted 8.8x the output of another.",
+        "Practitioner chat profile: roughly 4–5 output tokens per input token."
+      ]
+    },
+    "context_shares": {
+      "note": "Background only; not recomputed by this recipe. OpenRouter rankings-daily context buckets, Apr–Sep 2026.",
+      "values": {
+        "100K-1M share of tokens": 0.498,
+        "above 1M share of tokens": 0.0007,
+        "monthly 100K-1M volume growth": "31.5T (Apr) to 338.1T (Sep), 10.7x"
+      }
+    },
+    "references": {
+      "Epoch AI, Erdil, Inference economics of language models": "https://arxiv.org/abs/2506.04645",
+      "OpenAI GDPval": "https://arxiv.org/abs/2510.04374",
+      "GitHub Copilot cache study": "https://arxiv.org/abs/2608.00101",
+      "Bai et al., agentic token consumption": "https://arxiv.org/abs/2604.22750",
+      "Anthropic Economic Index": "https://www.anthropic.com/research/economic-index",
+      "OpenRouter datasets": "https://openrouter.ai/docs/api-reference/datasets",
+      "Artificial Analysis": "https://artificialanalysis.ai"
+    }
+  },
+  "headline": {
+    "session_cost_none": 17.4375,
+    "session_cost_fixed": 16.8171,
+    "session_cost_append": 3.2314,
+    "append_saving_pct": 81.5,
+    "fixed_saving_pct": 3.6,
+    "context_200k_flat": 0.675,
+    "context_1m_flat": 3.075,
+    "context_ratio_flat": 4.6,
+    "context_200k_tiered": 0.46,
+    "context_1m_tiered": 4.09,
+    "context_ratio_tiered": 8.9,
+    "server_floor_1m_gqa": 3.92,
+    "server_floor_1m_hybrid": 1.161,
+    "server_floor_1m_mla": 5.743,
+    "list_price_1m": 3.015,
+    "knowledge_failure_share": 0.771,
+    "knowledge_cost_solved": 7.79,
+    "knowledge_cost_per_hour": 1.04,
+    "replacement_range_low": 0.74,
+    "replacement_range_high": 1.45,
+    "tornado_code_token_swing": 6.18,
+    "tornado_code_p_success_swing": 1.3,
+    "tornado_knowledge_remediation_swing": 12.27,
+    "tornado_knowledge_token_swing": 4.71,
+    "cache_prior_min": 0.08,
+    "cache_prior_max": 0.919,
+    "cache_cold_cost": 21.7406,
+    "cache_ttl_multiple": 6.7,
+    "cache_hit70_cost": 8.7842,
+    "cache_hit70_multiple": 2.7,
+    "cache_break_even_hit": 0.233,
+    "server_floor_1m_gqa_shortfall": 0.905,
+    "server_hybrid_multiple": 3.4,
+    "knowledge_vs_deepseek_multiple": 1.28,
+    "mc_p90_multiple_low": 2.4,
+    "mc_p90_multiple_high": 2.9
+  },
+  "computed_by": {
+    "context-cliff.svg": "chart-context-cliff.py",
+    "caching-modes.svg": "chart-caching-modes.py",
+    "cache-fragility.svg": "chart-cache-fragility.py",
+    "cache-priors.svg": "chart-cache-priors.py",
+    "server-floor.svg": "chart-server-floor.py",
+    "workload-shape.svg": "chart-workload-shape.py",
+    "failure-share.svg": "chart-failure-share.py",
+    "replacement-index.svg": "chart-replacement-index.py",
+    "uncertainty.svg": "chart-uncertainty.py",
+    "tornado.svg": "chart-tornado.py"
+  },
+  "corrections": [
+    "Pre-publication: the first draft applied the 25% cache-write premium to the no-cache case. That reported $21.74 uncached and an 85% append saving. The corrected no-cache bill is $17.44 and the saving is 81.5%. The $21.74 cold-cache figure is unchanged: a configured cache that has expired does re-write every turn."
+  ],
+  "caveats": [
+    "Every dollar is modelled, not measured. The measured inputs are external priors; the outputs are arithmetic on them. No invoice was reconciled.",
+    "The server numbers are single-request GPU-rental floors. They exclude power, idle capacity, networking, quantization, real batching and margin. At 1M the 70B GQA KV does not fit the device, so the floor is compute-only.",
+    "The cache model is one policy, not a provider's implementation: append-only, 5-minute TTL, 1.25x write premium, partial hits as a fraction of the prefix, storage fees only where the published sheet has one.",
+    "The task layer is six profiles. p(success), remediation, human hours and value are assumptions. The replacement index excludes review, verification and integration, and the Monte Carlo dispersion is assumed rather than measured.",
+    "The prices are early-2026 list prices. They move. The method is the durable part; the dollar figures are a snapshot.",
+    "This is not a forecast of provider profitability, and not a claim that AI replaces a worker."
+  ]
+}

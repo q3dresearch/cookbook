@@ -12,8 +12,16 @@ built on those and on sources that keep their own history.
 
 ## Recipes
 
-Fifteen, most recent first. Each links its own write-up.
+Sixteen, most recent first. Each links its own write-up.
 
+- **[A 30-turn agent loop costs $3.23, not $17.44](recipes/llm-unit-economics/)** —
+  a stdlib model of a long-context agent from both sides. Caching the grown
+  history cuts the loop 82%; expire the 5-minute cache and the bill is $21.74,
+  and real hit rates run 8–92%, not 100%. A 200K→1M prompt is 4.6× flat and
+  8.9× tiered; at 1M the provider's GPU floor ($3.92) crosses the $3.02 list
+  price, while hybrid attention puts it at $1.16. On the task layer, 77% of a
+  knowledge deliverable's bill is failure cleanup, so reliability beats token
+  price.
 - **[The register publishes its survivors and drops its dead. That is measurable anyway.](recipes/uk-company-survival/)** —
   Companies House never populates its dissolution column and every status it carries is one a
   live company holds, so the file cannot measure survival directly. Three dated snapshots that

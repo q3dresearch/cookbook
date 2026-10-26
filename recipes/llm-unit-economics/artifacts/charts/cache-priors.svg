@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="610" viewBox="0 0 980 610" role="img" aria-label="Real cache-hit rates are 8% to 92%, not 100%">
+<title>Real cache-hit rates are 8% to 92%, not 100%</title>
+<desc>Horizontal bars of session-level cache hit rate for ten coding agents and conditions, from Claude Code at 91.9% to Copilot on a model switch at 8%, against a 100% reference line.</desc>
+<rect width="980" height="610" fill="#fcfcfb"/>
+<text x="36.0" y="44.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="21" fill="#0b0b0b" text-anchor="start" font-weight="600">Real cache-hit rates are 8% to 92%, not 100%</text>
+<text x="36.0" y="69.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="13.5" fill="#52514e" text-anchor="start" font-weight="normal">Session-level cache hit rate by coding agent, production telemetry. The 100% line is the assumption this model started with.</text>
+<text x="36.0" y="89.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal">Sources: Requesty coding-agent telemetry, GitHub Copilot production study · Apr 2026 · shares are fractions of the cacheable prefix</text>
+<line x1="220.0" y1="158.0" x2="220.0" y2="542.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="220.0" y="562.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" font-variant-numeric="tabular-nums">0%</text>
+<line x1="339.0" y1="158.0" x2="339.0" y2="542.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="339.0" y="562.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" font-variant-numeric="tabular-nums">25%</text>
+<line x1="458.1" y1="158.0" x2="458.1" y2="542.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="458.1" y="562.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" font-variant-numeric="tabular-nums">50%</text>
+<line x1="577.1" y1="158.0" x2="577.1" y2="542.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="577.1" y="562.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" font-variant-numeric="tabular-nums">75%</text>
+<line x1="696.2" y1="158.0" x2="696.2" y2="542.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="696.2" y="562.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" font-variant-numeric="tabular-nums">100%</text>
+<text x="36.0" y="182.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="500">Claude Code</text>
+<path d="M220.0,169.0 h433.6 q4.0,0 4.0,4.0 v10.0 q0,4.0 -4.0,4.0 h-433.6 z" fill="#2a78d6" fill-opacity="1.0"/>
+<text x="667.6" y="182.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" font-variant-numeric="tabular-nums">91.9%</text>
+<text x="36.0" y="220.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="500">OpenCode</text>
+<path d="M220.0,207.0 h419.8 q4.0,0 4.0,4.0 v10.0 q0,4.0 -4.0,4.0 h-419.8 z" fill="#2a78d6" fill-opacity="1.0"/>
+<text x="653.8" y="220.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" font-variant-numeric="tabular-nums">89.0%</text>
+<text x="36.0" y="258.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="500">Aider</text>
+<path d="M220.0,245.0 h396.0 q4.0,0 4.0,4.0 v10.0 q0,4.0 -4.0,4.0 h-396.0 z" fill="#2a78d6" fill-opacity="1.0"/>
+<text x="630.0" y="258.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" font-variant-numeric="tabular-nums">84.0%</text>
+<text x="36.0" y="296.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="500">Zed</text>
+<path d="M220.0,283.0 h377.4 q4.0,0 4.0,4.0 v10.0 q0,4.0 -4.0,4.0 h-377.4 z" fill="#2a78d6" fill-opacity="1.0"/>
+<text x="611.4" y="296.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" font-variant-numeric="tabular-nums">80.1%</text>
+<text x="36.0" y="334.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="500">Roo Code</text>
+<path d="M220.0,321.0 h346.5 q4.0,0 4.0,4.0 v10.0 q0,4.0 -4.0,4.0 h-346.5 z" fill="#2a78d6" fill-opacity="1.0"/>
+<text x="580.5" y="334.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" font-variant-numeric="tabular-nums">73.6%</text>
+<text x="36.0" y="372.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="500">Forge</text>
+<path d="M220.0,359.0 h300.3 q4.0,0 4.0,4.0 v10.0 q0,4.0 -4.0,4.0 h-300.3 z" fill="#2a78d6" fill-opacity="1.0"/>
+<text x="534.3" y="372.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" font-variant-numeric="tabular-nums">63.9%</text>
+<text x="36.0" y="410.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="500">Cline</text>
+<path d="M220.0,397.0 h288.4 q4.0,0 4.0,4.0 v10.0 q0,4.0 -4.0,4.0 h-288.4 z" fill="#2a78d6" fill-opacity="1.0"/>
+<text x="522.4" y="410.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" font-variant-numeric="tabular-nums">61.4%</text>
+<text x="36.0" y="448.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="500">Copilot (turn boundary)</text>
+<path d="M220.0,435.0 h257.9 q4.0,0 4.0,4.0 v10.0 q0,4.0 -4.0,4.0 h-257.9 z" fill="#2a78d6" fill-opacity="1.0"/>
+<text x="491.9" y="448.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" font-variant-numeric="tabular-nums">55.0%</text>
+<text x="36.0" y="486.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="500">Kilo Code</text>
+<path d="M220.0,473.0 h212.7 q4.0,0 4.0,4.0 v10.0 q0,4.0 -4.0,4.0 h-212.7 z" fill="#2a78d6" fill-opacity="1.0"/>
+<text x="446.7" y="486.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" font-variant-numeric="tabular-nums">45.5%</text>
+<text x="36.0" y="524.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="500">Copilot (model switch)</text>
+<path d="M220.0,511.0 h34.1 q4.0,0 4.0,4.0 v10.0 q0,4.0 -4.0,4.0 h-34.1 z" fill="#e34948" fill-opacity="1.0"/>
+<text x="268.1" y="524.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" font-variant-numeric="tabular-nums">8.0%</text>
+<line x1="696.2" y1="144.0" x2="696.2" y2="542.0" stroke="#52514e" stroke-width="1" stroke-dasharray="5 4"/>
+<text x="688.2" y="138.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#52514e" text-anchor="end" font-weight="600">100%: the old assumption</text>
+<text x="36.0" y="578.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal">A model switch drops the hit rate to 8%: the prefix is still there, but it belongs to a different model. The cheap-token plan has to survive that.</text>
+</svg>

@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="590" viewBox="0 0 980 590" role="img" aria-label="Code and RAG are input-heavy; SVG is output-heavy">
+<title>Code and RAG are input-heavy; SVG is output-heavy</title>
+<desc>Dumbbell chart of input and output tokens per task on a log scale. RAG is 83:1 input-heavy, agentic code 55:1, knowledge work 23:1, chat 7.5:1, CAD 3:1 and SVG 1:6 output-heavy.</desc>
+<rect width="980" height="590" fill="#fcfcfb"/>
+<text x="36.0" y="44.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="21" fill="#0b0b0b" text-anchor="start" font-weight="600">Code and RAG are input-heavy; SVG is output-heavy</text>
+<text x="36.0" y="69.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="13.5" fill="#52514e" text-anchor="start" font-weight="normal">Tokens per task on a log scale. The ratio decides which lever exists: a cache can only help the side that is re-sent.</text>
+<text x="36.0" y="89.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal">Model: llm_econ.py task profiles, seeded from Vantage, GDPval and Playcode · 2026</text>
+<circle cx="41.0" cy="108.0" r="5.0" fill="#2a78d6" fill-opacity="1.0" stroke="none" stroke-width="1"/>
+<text x="60.0" y="112.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="start" font-weight="normal">input tokens</text>
+<circle cx="165.8" cy="108.0" r="5.0" fill="#eb6834" fill-opacity="1.0" stroke="none" stroke-width="1"/>
+<text x="184.8" y="112.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="start" font-weight="normal">output tokens</text>
+<line x1="288.2" y1="150.0" x2="288.2" y2="462.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="288.2" y="484.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" font-variant-numeric="tabular-nums">1K</text>
+<line x1="415.3" y1="150.0" x2="415.3" y2="462.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="415.3" y="484.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" font-variant-numeric="tabular-nums">10K</text>
+<line x1="542.3" y1="150.0" x2="542.3" y2="462.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="542.3" y="484.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" font-variant-numeric="tabular-nums">100K</text>
+<line x1="669.4" y1="150.0" x2="669.4" y2="462.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="669.4" y="484.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" font-variant-numeric="tabular-nums">1M</text>
+<text x="490.0" y="508.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#898781" text-anchor="middle" font-weight="normal">tokens per task (log)</text>
+<text x="36.0" y="172.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="500">RAG / doc summarization</text>
+<text x="36.0" y="190.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal">knowledge</text>
+<line x1="298.3" y1="168.0" x2="542.3" y2="168.0" stroke="#e1e0d9" stroke-width="1"/>
+<circle cx="542.3" cy="168.0" r="7.5" fill="#fcfcfb" fill-opacity="1.0" stroke="none" stroke-width="1"/><circle cx="542.3" cy="168.0" r="5.5" fill="#2a78d6" fill-opacity="1.0" stroke="none" stroke-width="1"/>
+<circle cx="298.3" cy="168.0" r="7.5" fill="#fcfcfb" fill-opacity="1.0" stroke="none" stroke-width="1"/><circle cx="298.3" cy="168.0" r="5.5" fill="#eb6834" fill-opacity="1.0" stroke="none" stroke-width="1"/>
+<text x="746.0" y="172.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#0b0b0b" text-anchor="start" font-weight="600" font-variant-numeric="tabular-nums">83:1</text>
+<text x="542.3" y="154.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#2a78d6" text-anchor="middle" font-weight="normal" font-variant-numeric="tabular-nums">100K</text>
+<text x="298.3" y="154.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#eb6834" text-anchor="middle" font-weight="normal" font-variant-numeric="tabular-nums">1.2K</text>
+<text x="36.0" y="224.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="500">agentic code task</text>
+<text x="36.0" y="242.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal">code</text>
+<line x1="465.8" y1="220.0" x2="687.2" y2="220.0" stroke="#e1e0d9" stroke-width="1"/>
+<circle cx="687.2" cy="220.0" r="7.5" fill="#fcfcfb" fill-opacity="1.0" stroke="none" stroke-width="1"/><circle cx="687.2" cy="220.0" r="5.5" fill="#2a78d6" fill-opacity="1.0" stroke="none" stroke-width="1"/>
+<circle cx="465.8" cy="220.0" r="7.5" fill="#fcfcfb" fill-opacity="1.0" stroke="none" stroke-width="1"/><circle cx="465.8" cy="220.0" r="5.5" fill="#eb6834" fill-opacity="1.0" stroke="none" stroke-width="1"/>
+<text x="746.0" y="224.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#0b0b0b" text-anchor="start" font-weight="600" font-variant-numeric="tabular-nums">55:1</text>
+<text x="36.0" y="276.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="500">knowledge deliverable</text>
+<text x="36.0" y="294.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal">knowledge</text>
+<line x1="447.7" y1="272.0" x2="620.3" y2="272.0" stroke="#e1e0d9" stroke-width="1"/>
+<circle cx="620.3" cy="272.0" r="7.5" fill="#fcfcfb" fill-opacity="1.0" stroke="none" stroke-width="1"/><circle cx="620.3" cy="272.0" r="5.5" fill="#2a78d6" fill-opacity="1.0" stroke="none" stroke-width="1"/>
+<circle cx="447.7" cy="272.0" r="7.5" fill="#fcfcfb" fill-opacity="1.0" stroke="none" stroke-width="1"/><circle cx="447.7" cy="272.0" r="5.5" fill="#eb6834" fill-opacity="1.0" stroke="none" stroke-width="1"/>
+<text x="746.0" y="276.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#0b0b0b" text-anchor="start" font-weight="600" font-variant-numeric="tabular-nums">23:1</text>
+<text x="36.0" y="328.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="500">chat / QA</text>
+<text x="36.0" y="346.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal">chat</text>
+<line x1="336.5" y1="324.0" x2="447.7" y2="324.0" stroke="#e1e0d9" stroke-width="1"/>
+<circle cx="447.7" cy="324.0" r="7.5" fill="#fcfcfb" fill-opacity="1.0" stroke="none" stroke-width="1"/><circle cx="447.7" cy="324.0" r="5.5" fill="#2a78d6" fill-opacity="1.0" stroke="none" stroke-width="1"/>
+<circle cx="336.5" cy="324.0" r="7.5" fill="#fcfcfb" fill-opacity="1.0" stroke="none" stroke-width="1"/><circle cx="336.5" cy="324.0" r="5.5" fill="#eb6834" fill-opacity="1.0" stroke="none" stroke-width="1"/>
+<text x="746.0" y="328.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#0b0b0b" text-anchor="start" font-weight="600" font-variant-numeric="tabular-nums">7.5:1</text>
+<text x="36.0" y="380.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="500">CAD / 3D script</text>
+<text x="36.0" y="398.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal">engineering</text>
+<line x1="387.1" y1="376.0" x2="447.7" y2="376.0" stroke="#e1e0d9" stroke-width="1"/>
+<circle cx="447.7" cy="376.0" r="7.5" fill="#fcfcfb" fill-opacity="1.0" stroke="none" stroke-width="1"/><circle cx="447.7" cy="376.0" r="5.5" fill="#2a78d6" fill-opacity="1.0" stroke="none" stroke-width="1"/>
+<circle cx="387.1" cy="376.0" r="7.5" fill="#fcfcfb" fill-opacity="1.0" stroke="none" stroke-width="1"/><circle cx="387.1" cy="376.0" r="5.5" fill="#eb6834" fill-opacity="1.0" stroke="none" stroke-width="1"/>
+<text x="746.0" y="380.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#0b0b0b" text-anchor="start" font-weight="600" font-variant-numeric="tabular-nums">3.0:1</text>
+<text x="36.0" y="432.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="500">SVG / vector art</text>
+<text x="36.0" y="450.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal">creative</text>
+<line x1="288.2" y1="428.0" x2="387.1" y2="428.0" stroke="#e1e0d9" stroke-width="1"/>
+<circle cx="288.2" cy="428.0" r="7.5" fill="#fcfcfb" fill-opacity="1.0" stroke="none" stroke-width="1"/><circle cx="288.2" cy="428.0" r="5.5" fill="#2a78d6" fill-opacity="1.0" stroke="none" stroke-width="1"/>
+<circle cx="387.1" cy="428.0" r="7.5" fill="#fcfcfb" fill-opacity="1.0" stroke="none" stroke-width="1"/><circle cx="387.1" cy="428.0" r="5.5" fill="#eb6834" fill-opacity="1.0" stroke="none" stroke-width="1"/>
+<text x="746.0" y="432.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#0b0b0b" text-anchor="start" font-weight="600" font-variant-numeric="tabular-nums">1:6.0</text>
+<text x="288.2" y="414.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#2a78d6" text-anchor="middle" font-weight="normal" font-variant-numeric="tabular-nums">1K</text>
+<text x="387.1" y="414.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#eb6834" text-anchor="middle" font-weight="normal" font-variant-numeric="tabular-nums">6K</text>
+<text x="36.0" y="552.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal">A cache is a prefix lever, so it helps the left-hand workloads. For SVG the bill is generation, and no amount of prefix reuse changes it.</text>
+</svg>

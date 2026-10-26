@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="580" viewBox="0 0 980 580" role="img" aria-label="A replaced human-hour costs $0.74 to $1.45, not $70">
+<title>A replaced human-hour costs $0.74 to $1.45, not $70</title>
+<desc>Dot plot on a log scale of AI dollars per human-hour equivalent for six task types against a $70 loaded human hourly rate. Agentic code is $0.74 (95x cheaper), CAD $1.45 (48x cheaper).</desc>
+<rect width="980" height="580" fill="#fcfcfb"/>
+<text x="36.0" y="44.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="21" fill="#0b0b0b" text-anchor="start" font-weight="600">A replaced human-hour costs $0.74 to $1.45, not $70</text>
+<text x="36.0" y="69.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="13.5" fill="#52514e" text-anchor="start" font-weight="normal">AI dollars per human-hour equivalent, Claude Sonnet 4.6. Before review, verification, integration and the failures the model already prices.</text>
+<text x="36.0" y="89.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal">Model: llm_econ.py task profiles · loaded human rate $70/hr · ratios are human cost divided by AI cost</text>
+<line x1="292.0" y1="154.0" x2="292.0" y2="478.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="292.0" y="498.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" font-variant-numeric="tabular-nums">$1</text>
+<line x1="497.8" y1="154.0" x2="497.8" y2="478.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="497.8" y="498.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" font-variant-numeric="tabular-nums">$10</text>
+<line x1="703.7" y1="154.0" x2="703.7" y2="478.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="703.7" y="498.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" font-variant-numeric="tabular-nums">$100</text>
+<text x="475.0" y="522.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#898781" text-anchor="middle" font-weight="normal">$ per human-hour equivalent (log)</text>
+<line x1="671.8" y1="146.0" x2="671.8" y2="478.0" stroke="#52514e" stroke-width="1" stroke-dasharray="5 4"/>
+<text x="663.8" y="140.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#52514e" text-anchor="end" font-weight="600">$70 human loaded rate</text>
+<text x="36.0" y="176.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="500">agentic code task</text>
+<text x="36.0" y="194.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal">4 human hr</text>
+<circle cx="264.6" cy="172.0" r="8.0" fill="#fcfcfb" fill-opacity="1.0" stroke="none" stroke-width="1"/><circle cx="264.6" cy="172.0" r="6.0" fill="#2a78d6" fill-opacity="1.0" stroke="none" stroke-width="1"/>
+<text x="736.0" y="176.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#0b0b0b" text-anchor="start" font-weight="600" font-variant-numeric="tabular-nums">95x cheaper</text>
+<text x="736.0" y="194.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" font-variant-numeric="tabular-nums">$0.74</text>
+<text x="36.0" y="230.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="500">knowledge deliverable</text>
+<text x="36.0" y="248.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal">7.5 human hr</text>
+<circle cx="295.3" cy="226.0" r="8.0" fill="#fcfcfb" fill-opacity="1.0" stroke="none" stroke-width="1"/><circle cx="295.3" cy="226.0" r="6.0" fill="#2a78d6" fill-opacity="1.0" stroke="none" stroke-width="1"/>
+<text x="736.0" y="230.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#0b0b0b" text-anchor="start" font-weight="600" font-variant-numeric="tabular-nums">67x cheaper</text>
+<text x="736.0" y="248.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" font-variant-numeric="tabular-nums">$1.04</text>
+<text x="36.0" y="284.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="500">chat / QA</text>
+<text x="36.0" y="302.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal">0.1 human hr</text>
+<circle cx="311.9" cy="280.0" r="8.0" fill="#fcfcfb" fill-opacity="1.0" stroke="none" stroke-width="1"/><circle cx="311.9" cy="280.0" r="6.0" fill="#2a78d6" fill-opacity="1.0" stroke="none" stroke-width="1"/>
+<text x="736.0" y="284.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#0b0b0b" text-anchor="start" font-weight="600" font-variant-numeric="tabular-nums">56x cheaper</text>
+<text x="736.0" y="302.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" font-variant-numeric="tabular-nums">$1.25</text>
+<text x="36.0" y="338.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="500">RAG / doc summarization</text>
+<text x="36.0" y="356.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal">0.5 human hr</text>
+<circle cx="317.3" cy="334.0" r="8.0" fill="#fcfcfb" fill-opacity="1.0" stroke="none" stroke-width="1"/><circle cx="317.3" cy="334.0" r="6.0" fill="#2a78d6" fill-opacity="1.0" stroke="none" stroke-width="1"/>
+<text x="736.0" y="338.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#0b0b0b" text-anchor="start" font-weight="600" font-variant-numeric="tabular-nums">53x cheaper</text>
+<text x="736.0" y="356.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" font-variant-numeric="tabular-nums">$1.33</text>
+<text x="36.0" y="392.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="500">SVG / vector art</text>
+<text x="36.0" y="410.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal">0.5 human hr</text>
+<circle cx="320.4" cy="388.0" r="8.0" fill="#fcfcfb" fill-opacity="1.0" stroke="none" stroke-width="1"/><circle cx="320.4" cy="388.0" r="6.0" fill="#2a78d6" fill-opacity="1.0" stroke="none" stroke-width="1"/>
+<text x="736.0" y="392.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#0b0b0b" text-anchor="start" font-weight="600" font-variant-numeric="tabular-nums">51x cheaper</text>
+<text x="736.0" y="410.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" font-variant-numeric="tabular-nums">$1.38</text>
+<text x="36.0" y="446.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12.5" fill="#0b0b0b" text-anchor="start" font-weight="500">CAD / 3D script</text>
+<text x="36.0" y="464.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal">1.5 human hr</text>
+<circle cx="325.3" cy="442.0" r="8.0" fill="#fcfcfb" fill-opacity="1.0" stroke="none" stroke-width="1"/><circle cx="325.3" cy="442.0" r="6.0" fill="#2a78d6" fill-opacity="1.0" stroke="none" stroke-width="1"/>
+<text x="736.0" y="446.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#0b0b0b" text-anchor="start" font-weight="600" font-variant-numeric="tabular-nums">48x cheaper</text>
+<text x="736.0" y="464.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="start" font-weight="normal" font-variant-numeric="tabular-nums">$1.45</text>
+<text x="36.0" y="542.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal">The weakest case is the highest-value one: knowledge deliverables carry a 60% success rate, so failure cleanup eats the margin. Treat this as the</text>
+<text x="36.0" y="558.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal">ceiling of the saving, not the saving.</text>
+</svg>

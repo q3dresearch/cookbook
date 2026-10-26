@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="540" viewBox="0 0 980 540" role="img" aria-label="The cache is either warm or it is not">
+<title>The cache is either warm or it is not</title>
+<desc>Two panels. Left: session cost against seconds between turns for three models, with a cliff at the 300-second TTL. Right: session cost against cache hit rate, showing that a 70% hit rate costs 2.7x the fully-warm bill.</desc>
+<rect width="980" height="540" fill="#fcfcfb"/>
+<text x="36.0" y="44.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="21" fill="#0b0b0b" text-anchor="start" font-weight="600">The cache is either warm or it is not</text>
+<text x="36.0" y="69.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="13.5" fill="#52514e" text-anchor="start" font-weight="normal">Left: idle time between turns against session cost. Right: the fraction of the prefix that hits. One is a cliff; the other is a slow leak.</text>
+<text x="36.0" y="89.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal">Model: llm_econ.py · 30-turn agent loop, append caching · Claude Sonnet 4.6, Gemini 3.1 Pro, DeepSeek V4 Flash</text>
+<line x1="36.0" y1="112.0" x2="54.0" y2="112.0" stroke="#1baf7a" stroke-width="2"/>
+<text x="60.0" y="116.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="start" font-weight="normal">DeepSeek V4 Flash</text>
+<line x1="192.8" y1="112.0" x2="210.8" y2="112.0" stroke="#eb6834" stroke-width="2"/>
+<text x="216.8" y="116.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="start" font-weight="normal">Gemini 3.1 Pro</text>
+<line x1="330.4" y1="112.0" x2="348.4" y2="112.0" stroke="#2a78d6" stroke-width="2"/>
+<text x="354.4" y="116.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="start" font-weight="normal">Claude Sonnet 4.6</text>
+<text x="96.0" y="148.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="13.5" fill="#0b0b0b" text-anchor="start" font-weight="600">Idle time between turns</text>
+<text x="96.0" y="168.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal">5-minute TTL, marked</text>
+<line x1="96.0" y1="440.0" x2="456.0" y2="440.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="86.0" y="444.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="end" font-weight="normal" font-variant-numeric="tabular-nums">$0.10</text>
+<line x1="96.0" y1="347.4" x2="456.0" y2="347.4" stroke="#e1e0d9" stroke-width="1"/>
+<text x="86.0" y="351.4" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="end" font-weight="normal" font-variant-numeric="tabular-nums">$1</text>
+<line x1="96.0" y1="254.7" x2="456.0" y2="254.7" stroke="#e1e0d9" stroke-width="1"/>
+<text x="86.0" y="258.7" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="end" font-weight="normal" font-variant-numeric="tabular-nums">$10</text>
+<line x1="96.0" y1="190.0" x2="456.0" y2="190.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="86.0" y="194.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="end" font-weight="normal" font-variant-numeric="tabular-nums">$50</text>
+<line x1="96.0" y1="440.0" x2="456.0" y2="440.0" stroke="#c3c2b7" stroke-width="1"/>
+<line x1="368.1" y1="190.0" x2="368.1" y2="440.0" stroke="#c3c2b7" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="360.1" y="202.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="end" font-weight="normal">TTL expires</text>
+<text x="360.1" y="218.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="end" font-weight="normal">every turn is cold</text>
+<text x="96.0" y="460.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" font-variant-numeric="tabular-nums">10s</text>
+<text x="239.3" y="460.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" font-variant-numeric="tabular-nums">1m</text>
+<text x="368.1" y="460.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" font-variant-numeric="tabular-nums">5m</text>
+<text x="456.0" y="460.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" font-variant-numeric="tabular-nums">15m</text>
+<text x="276.0" y="482.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal">seconds between turns (log)</text>
+<path d="M96.0,421.9 L151.5,421.9 M151.5,421.9 L183.9,421.9 M183.9,421.9 L239.3,421.9 M239.3,421.9 L294.8,421.9 M294.8,421.9 L327.2,421.9 M327.2,421.9 L350.3,421.9 M350.3,421.9 L368.1,421.9 M368.1,421.9 L382.7,364.5 M382.7,364.5 L395.0,364.5 M395.0,364.5 L423.6,364.5 M423.6,364.5 L456.0,364.5" fill="none" stroke="#1baf7a" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M96.0,296.8 L151.5,296.0 M151.5,296.0 L183.9,295.2 M183.9,295.2 L239.3,292.9 M239.3,292.9 L294.8,288.6 M294.8,288.6 L327.2,284.8 M327.2,284.8 L350.3,281.3 M350.3,281.3 L368.1,278.1 M368.1,278.1 L382.7,214.3 M382.7,214.3 L395.0,213.7 M395.0,213.7 L423.6,211.8 M423.6,211.8 L456.0,209.0" fill="none" stroke="#eb6834" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M96.0,300.2 L151.5,300.2 M151.5,300.2 L183.9,300.2 M183.9,300.2 L239.3,300.2 M239.3,300.2 L294.8,300.2 M294.8,300.2 L327.2,300.2 M327.2,300.2 L350.3,300.2 M350.3,300.2 L368.1,300.2 M368.1,300.2 L382.7,223.5 M382.7,223.5 L395.0,223.5 M395.0,223.5 L423.6,223.5 M423.6,223.5 L456.0,223.5" fill="none" stroke="#2a78d6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="104.0" y="184.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal">$/session</text>
+<circle cx="368.1" cy="223.5" r="6.5" fill="#fcfcfb" fill-opacity="1.0" stroke="none" stroke-width="1"/><circle cx="368.1" cy="223.5" r="4.5" fill="#2a78d6" fill-opacity="1.0" stroke="none" stroke-width="1"/>
+<text x="380.1" y="213.5" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="12" fill="#2a78d6" text-anchor="start" font-weight="600">6.7x</text>
+<text x="560.0" y="148.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="13.5" fill="#0b0b0b" text-anchor="start" font-weight="600">Share of the prefix that hits</text>
+<text x="560.0" y="168.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal">100% is the assumption, not the telemetry</text>
+<line x1="560.0" y1="440.0" x2="920.0" y2="440.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="550.0" y="444.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="end" font-weight="normal" font-variant-numeric="tabular-nums">$0.10</text>
+<line x1="560.0" y1="347.4" x2="920.0" y2="347.4" stroke="#e1e0d9" stroke-width="1"/>
+<text x="550.0" y="351.4" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="end" font-weight="normal" font-variant-numeric="tabular-nums">$1</text>
+<line x1="560.0" y1="254.7" x2="920.0" y2="254.7" stroke="#e1e0d9" stroke-width="1"/>
+<text x="550.0" y="258.7" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="end" font-weight="normal" font-variant-numeric="tabular-nums">$10</text>
+<line x1="560.0" y1="190.0" x2="920.0" y2="190.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="550.0" y="194.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="end" font-weight="normal" font-variant-numeric="tabular-nums">$50</text>
+<line x1="560.0" y1="440.0" x2="920.0" y2="440.0" stroke="#c3c2b7" stroke-width="1"/>
+<text x="560.0" y="460.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" font-variant-numeric="tabular-nums">0%</text>
+<text x="650.0" y="460.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" font-variant-numeric="tabular-nums">25%</text>
+<text x="740.0" y="460.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" font-variant-numeric="tabular-nums">50%</text>
+<text x="830.0" y="460.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" font-variant-numeric="tabular-nums">75%</text>
+<text x="920.0" y="460.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" font-variant-numeric="tabular-nums">100%</text>
+<text x="740.0" y="482.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal">cache hit rate</text>
+<path d="M560.0,364.5 L578.0,366.1 M578.0,366.1 L596.0,367.7 M596.0,367.7 L614.0,369.4 M614.0,369.4 L632.0,371.2 M632.0,371.2 L650.0,373.0 M650.0,373.0 L668.0,374.9 M668.0,374.9 L686.0,377.0 M686.0,377.0 L704.0,379.1 M704.0,379.1 L722.0,381.4 M722.0,381.4 L740.0,383.8 M740.0,383.8 L758.0,386.3 M758.0,386.3 L776.0,389.0 M776.0,389.0 L794.0,391.9 M794.0,391.9 L812.0,395.1 M812.0,395.1 L830.0,398.5 M830.0,398.5 L848.0,402.2 M848.0,402.2 L866.0,406.3 M866.0,406.3 L884.0,410.9 M884.0,410.9 L902.0,416.0 M902.0,416.0 L920.0,421.9" fill="none" stroke="#1baf7a" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M560.0,217.6 L578.0,219.3 M578.0,219.3 L596.0,221.1 M596.0,221.1 L614.0,223.0 M614.0,223.0 L632.0,225.0 M632.0,225.0 L650.0,227.1 M650.0,227.1 L668.0,229.4 M668.0,229.4 L686.0,231.7 M686.0,231.7 L704.0,234.2 M704.0,234.2 L722.0,236.9 M722.0,236.9 L740.0,239.7 M740.0,239.7 L758.0,242.8 M758.0,242.8 L776.0,246.1 M776.0,246.1 L794.0,249.7 M794.0,249.7 L812.0,253.7 M812.0,253.7 L830.0,258.1 M830.0,258.1 L848.0,263.0 M848.0,263.0 L866.0,268.7 M866.0,268.7 L884.0,275.3 M884.0,275.3 L902.0,283.1 M902.0,283.1 L920.0,292.9" fill="none" stroke="#eb6834" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M560.0,223.5 L578.0,225.3 M578.0,225.3 L596.0,227.1 M596.0,227.1 L614.0,229.0 M614.0,229.0 L632.0,231.0 M632.0,231.0 L650.0,233.1 M650.0,233.1 L668.0,235.4 M668.0,235.4 L686.0,237.7 M686.0,237.7 L704.0,240.3 M704.0,240.3 L722.0,242.9 M722.0,242.9 L740.0,245.8 M740.0,245.8 L758.0,248.9 M758.0,248.9 L776.0,252.3 M776.0,252.3 L794.0,255.9 M794.0,255.9 L812.0,260.0 M812.0,260.0 L830.0,264.4 M830.0,264.4 L848.0,269.5 M848.0,269.5 L866.0,275.2 M866.0,275.2 L884.0,282.0 M884.0,282.0 L902.0,290.1 M902.0,290.1 L920.0,300.2" fill="none" stroke="#2a78d6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="812.0" y1="190.0" x2="812.0" y2="440.0" stroke="#c3c2b7" stroke-width="1" stroke-dasharray="4 4"/>
+<circle cx="812.0" cy="260.0" r="6.5" fill="#fcfcfb" fill-opacity="1.0" stroke="none" stroke-width="1"/><circle cx="812.0" cy="260.0" r="4.5" fill="#2a78d6" fill-opacity="1.0" stroke="none" stroke-width="1"/>
+<text x="802.0" y="280.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#2a78d6" text-anchor="end" font-weight="600">70% hit: $8.78</text>
+<text x="802.0" y="296.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="end" font-weight="normal">100% hit: $3.23</text>
+<text x="36.0" y="506.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal">Production cache-hit rates run from 8% to 92% (Requesty, GitHub Copilot); the dotted line at 100% is nobody's measurement.</text>
+</svg>

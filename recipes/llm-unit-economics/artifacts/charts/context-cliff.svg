@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="560" viewBox="0 0 980 560" role="img" aria-label="The 200K cliff is a step, not a slope">
+<title>The 200K cliff is a step, not a slope</title>
+<desc>Cost of one request with a 5,000-token output against prompt length for Claude Sonnet 4.6, Gemini 3.1 Pro and DeepSeek V4 Flash. The tiered Gemini line steps at 200K and rises 8.9x to 1M, against 4.6x for the flat model.</desc>
+<rect width="980" height="560" fill="#fcfcfb"/>
+<text x="36.0" y="44.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="21" fill="#0b0b0b" text-anchor="start" font-weight="600">The 200K cliff is a step, not a slope</text>
+<text x="36.0" y="69.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="13.5" fill="#52514e" text-anchor="start" font-weight="normal">One request with 5,000 output tokens. The tiered prompt is re-priced in full above the line, so 200K to 1M costs 8.9x against 4.6x flat.</text>
+<text x="36.0" y="89.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal">Model: llm_econ.py · list prices, early 2026 · tier multiplier applies to the whole request</text>
+<line x1="36.0" y1="108.0" x2="54.0" y2="108.0" stroke="#2a78d6" stroke-width="2"/>
+<text x="60.0" y="112.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="start" font-weight="normal">Claude Sonnet 4.6 (flat)</text>
+<line x1="237.6" y1="108.0" x2="255.6" y2="108.0" stroke="#eb6834" stroke-width="2"/>
+<text x="261.6" y="112.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="start" font-weight="normal">Gemini 3.1 Pro (tiered at 200K)</text>
+<line x1="484.0" y1="108.0" x2="502.0" y2="108.0" stroke="#1baf7a" stroke-width="2"/>
+<text x="508.0" y="112.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="start" font-weight="normal">DeepSeek V4 Flash (flat)</text>
+<line x1="96.0" y1="430.0" x2="700.0" y2="430.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="86.0" y="434.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="end" font-weight="normal" font-variant-numeric="tabular-nums">$0</text>
+<line x1="96.0" y1="366.1" x2="700.0" y2="366.1" stroke="#e1e0d9" stroke-width="1"/>
+<text x="86.0" y="370.1" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="end" font-weight="normal" font-variant-numeric="tabular-nums">$1</text>
+<line x1="96.0" y1="302.2" x2="700.0" y2="302.2" stroke="#e1e0d9" stroke-width="1"/>
+<text x="86.0" y="306.2" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="end" font-weight="normal" font-variant-numeric="tabular-nums">$2</text>
+<line x1="96.0" y1="238.3" x2="700.0" y2="238.3" stroke="#e1e0d9" stroke-width="1"/>
+<text x="86.0" y="242.3" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="end" font-weight="normal" font-variant-numeric="tabular-nums">$3</text>
+<line x1="96.0" y1="174.3" x2="700.0" y2="174.3" stroke="#e1e0d9" stroke-width="1"/>
+<text x="86.0" y="178.3" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="end" font-weight="normal" font-variant-numeric="tabular-nums">$4</text>
+<line x1="96.0" y1="430.0" x2="700.0" y2="430.0" stroke="#c3c2b7" stroke-width="1"/>
+<line x1="488.9" y1="136.0" x2="488.9" y2="430.0" stroke="#c3c2b7" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="480.9" y="150.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#52514e" text-anchor="end" font-weight="normal">200K tier boundary</text>
+<text x="480.9" y="166.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="end" font-weight="normal">above it the whole prompt re-prices</text>
+<line x1="96.0" y1="430.0" x2="96.0" y2="434.0" stroke="#c3c2b7" stroke-width="1"/>
+<text x="96.0" y="452.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" font-variant-numeric="tabular-nums">10K</text>
+<line x1="307.1" y1="430.0" x2="307.1" y2="434.0" stroke="#c3c2b7" stroke-width="1"/>
+<text x="307.1" y="452.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" font-variant-numeric="tabular-nums">50K</text>
+<line x1="398.0" y1="430.0" x2="398.0" y2="434.0" stroke="#c3c2b7" stroke-width="1"/>
+<text x="398.0" y="452.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" font-variant-numeric="tabular-nums">100K</text>
+<line x1="518.2" y1="430.0" x2="518.2" y2="434.0" stroke="#c3c2b7" stroke-width="1"/>
+<text x="518.2" y="452.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" font-variant-numeric="tabular-nums">250K</text>
+<line x1="609.1" y1="430.0" x2="609.1" y2="434.0" stroke="#c3c2b7" stroke-width="1"/>
+<text x="609.1" y="452.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" font-variant-numeric="tabular-nums">500K</text>
+<line x1="700.0" y1="430.0" x2="700.0" y2="434.0" stroke="#c3c2b7" stroke-width="1"/>
+<text x="700.0" y="452.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-weight="normal" font-variant-numeric="tabular-nums">1M</text>
+<text x="398.0" y="478.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#898781" text-anchor="middle" font-weight="normal">prompt tokens</text>
+<path d="M96.0,423.3 L216.2,420.4 M216.2,420.4 L307.1,415.6 M307.1,415.6 L398.0,406.0 M398.0,406.0 L451.2,396.4 M451.2,396.4 L488.9,386.9 M488.9,386.9 L518.2,377.3 M518.2,377.3 L609.1,329.3 M609.1,329.3 L700.0,233.5" fill="none" stroke="#2a78d6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="488.9" cy="386.9" r="6.5" fill="#fcfcfb" fill-opacity="1.0" stroke="none" stroke-width="1"/><circle cx="488.9" cy="386.9" r="4.5" fill="#2a78d6" fill-opacity="1.0" stroke="none" stroke-width="1"/>
+<circle cx="700.0" cy="233.5" r="6.5" fill="#fcfcfb" fill-opacity="1.0" stroke="none" stroke-width="1"/><circle cx="700.0" cy="233.5" r="4.5" fill="#2a78d6" fill-opacity="1.0" stroke="none" stroke-width="1"/>
+<text x="716.0" y="237.5" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="start" font-weight="normal">Claude Sonnet 4.6 (flat)</text>
+<text x="716.0" y="253.5" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" font-variant-numeric="tabular-nums">$3.08</text>
+<path d="M96.0,424.9 L216.2,423.0 M216.2,423.0 L307.1,419.8 M307.1,419.8 L398.0,413.4 M398.0,413.4 L451.2,407.0 M451.2,407.0 L488.9,400.6 M488.9,400.6 L518.2,360.3 M518.2,360.3 L609.1,296.4 M609.1,296.4 L700.0,168.6" fill="none" stroke="#eb6834" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="488.9" cy="400.6" r="6.5" fill="#fcfcfb" fill-opacity="1.0" stroke="none" stroke-width="1"/><circle cx="488.9" cy="400.6" r="4.5" fill="#eb6834" fill-opacity="1.0" stroke="none" stroke-width="1"/>
+<circle cx="700.0" cy="168.6" r="6.5" fill="#fcfcfb" fill-opacity="1.0" stroke="none" stroke-width="1"/><circle cx="700.0" cy="168.6" r="4.5" fill="#eb6834" fill-opacity="1.0" stroke="none" stroke-width="1"/>
+<text x="716.0" y="172.6" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="start" font-weight="normal">Gemini 3.1 Pro (tiered at 200K)</text>
+<text x="716.0" y="188.6" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" font-variant-numeric="tabular-nums">$4.09</text>
+<path d="M96.0,429.8 L216.2,429.7 M216.2,429.7 L307.1,429.6 M307.1,429.6 L398.0,429.3 M398.0,429.3 L451.2,429.0 M451.2,429.0 L488.9,428.7 M488.9,428.7 L518.2,428.4 M518.2,428.4 L609.1,427.0 M609.1,427.0 L700.0,424.1" fill="none" stroke="#1baf7a" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="488.9" cy="428.7" r="6.5" fill="#fcfcfb" fill-opacity="1.0" stroke="none" stroke-width="1"/><circle cx="488.9" cy="428.7" r="4.5" fill="#1baf7a" fill-opacity="1.0" stroke="none" stroke-width="1"/>
+<circle cx="700.0" cy="424.1" r="6.5" fill="#fcfcfb" fill-opacity="1.0" stroke="none" stroke-width="1"/><circle cx="700.0" cy="424.1" r="4.5" fill="#1baf7a" fill-opacity="1.0" stroke="none" stroke-width="1"/>
+<text x="716.0" y="428.1" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#0b0b0b" text-anchor="start" font-weight="normal">DeepSeek V4 Flash (flat)</text>
+<text x="716.0" y="444.1" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11.5" fill="#52514e" text-anchor="start" font-weight="normal" font-variant-numeric="tabular-nums">$0.092</text>
+<text x="110.0" y="188.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal">200K to 1M</text>
+<text x="110.0" y="206.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="13" fill="#2a78d6" text-anchor="start" font-weight="600">4.6x flat</text>
+<text x="216.0" y="206.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="13" fill="#eb6834" text-anchor="start" font-weight="600">8.9x tiered</text>
+<text x="36.0" y="520.0" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' font-size="11" fill="#898781" text-anchor="start" font-weight="normal">A flat quote hides this. Tiered billing is not a surcharge on the excess: crossing the line reprices every token already sent.</text>
+</svg>
